@@ -1,0 +1,183 @@
+name: deploy release and notes / change logs
+
+on:
+  push:
+    branches:
+      - main
+    tags:
+      - 'v*'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.11]
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          fetch-tags: true
+
+      - name: set tag name
+        id: set_tag
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ "${GITHUB_EVENT_NAME}" == "workflow_dispatch" ]]; then
+            # For manual testing, use a default tag or allow input
+            echo "tag_name=test-release-$(date +%Y%m%d%H%M%S)" >> "$GITHUB_OUTPUT"
+          elif [[ "${GITHUB_REF:-}" == refs/tags/* ]]; then
+            # For tag pushes, use the actual tag name
+            echo "tag_name=${GITHUB_REF_NAME}" >> "$GITHUB_OUTPUT"
+          else
+            # For branch pushes, generate a version tag automatically
+            # Get the latest tag and increment version
+            latest_tag=$(git describe --tags --match 'v*' --abbrev=0 2>/dev/null || echo "v0.0.0")
+
+            # Extract version components
+            if [[ "$latest_tag" =~ ^v([0-9]+)\.([0-9]+)\.([0-9]+)$ ]]; then
+              major=${BASH_REMATCH[1]}
+              minor=${BASH_REMATCH[2]}
+              patch=${BASH_REMATCH[3]}
+
+              # Increment patch version
+              new_patch=$((patch + 1))
+              new_tag="v${major}.${minor}.${new_patch}"
+            else
+              # Fallback if version format is not recognized
+              new_tag="v1.0.0"
+            fi
+
+            echo "tag_name=${new_tag}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: create and push tag
+        if: github.event_name == 'push' && !contains(github.ref, 'refs/tags/')
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          # Only create tag for branch pushes, not for existing tag pushes
+          if [[ "${GITHUB_REF:-}" != refs/tags/* ]]; then
+            tag_name="${{ steps.set_tag.outputs.tag_name }}"
+
+            # Configure git user for tag creation
+            git config user.name "GitHub Actions"
+            git config user.email "actions@github.com"
+
+            # Create annotated tag
+            git tag -a "$tag_name" -m "Automated release $tag_name"
+
+            # Push tag to repository
+            git push origin "$tag_name"
+          fi
+
+      # DO MY BUILD HERE
+      # IN CASE OF FAILURE, THE STEP BELOW WILL NOT RUN.
+
+      - name: validate release token
+        env:
+          release_token: ${{ secrets.RELEASE_TOKEN }}
+        run: |
+          if [ -z "$release_token" ]; then
+            echo "RELEASE_TOKEN secret is not set. Create a classic PAT with repo scope and add it as a GitHub Actions secret named RELEASE_TOKEN."
+            exit 1
+          fi
+
+      - name: generate release notes
+        id: release_notes
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          current_tag="${{ steps.set_tag.outputs.tag_name }}"
+
+          previous_tag=$(git describe --tags --abbrev=0 --match 'v*' "${current_tag}^" 2>/dev/null || true)
+
+          if [ -z "$previous_tag" ]; then
+            range=""
+          else
+            range="${previous_tag}..${current_tag}"
+          fi
+
+          tmp_body_file="release_body.md"
+
+          cat > "$tmp_body_file" << 'EOF'
+          ## Apoie o projeto!
+
+          <p align="center">
+          
+          ![APOIE O PROJETO!](https://i.pinimg.com/736x/c3/2f/7f/c32f7f205519e96b5e9c4b18362ddddb.jpg)
+          
+          <p/>
+
+          Se você achar o projeto útil, você pode me apoiar via pix: pix@yuricunha.com ou via QR Code:
+
+          <p align="center">
+          
+          ![APOIE O PROJETO!](https://i.imgur.com/jx1MAIO.png)
+          
+          <p/>
+
+          Essa é uma ótima maneira de me mostrar que você deseja que eu continue desenvolvendo e trabalhando neste projeto por muitos anos - ou enquanto o jogo for atualizado.
+
+          Cuide-se! 🍻
+          EOF
+
+          echo "" >> "$tmp_body_file"
+
+          if [ -z "$previous_tag" ]; then
+            echo "## Commits" >> "$tmp_body_file"
+          else
+            echo "## Commits desde ${previous_tag}" >> "$tmp_body_file"
+          fi
+
+          if [ -z "$range" ]; then
+            log_lines=$(git log --format='%H%x09%s')
+          else
+            log_lines=$(git log --format='%H%x09%s' "$range")
+          fi
+
+          if [ -z "$log_lines" ]; then
+            echo "- (nenhum commit encontrado)" >> "$tmp_body_file"
+          else
+            while IFS=$'\t' read -r sha subject; do
+              short_sha=$(echo "$sha" | cut -c1-7)
+              url="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/commit/${sha}"
+              echo "- ${subject} ([${short_sha}](${url}))" >> "$tmp_body_file"
+            done <<< "$log_lines"
+          fi
+
+          echo "body_file=${tmp_body_file}" >> "$GITHUB_OUTPUT"
+
+      - name: create github release
+        env:
+          GH_TOKEN: ${{ secrets.RELEASE_TOKEN }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          current_tag="${{ steps.set_tag.outputs.tag_name }}"
+          title="Release ${current_tag}"
+
+          shopt -s nullglob
+          assets=( *.zip *.7zip *.7z )
+
+          if gh release view "$current_tag" >/dev/null 2>&1; then
+            gh release edit "$current_tag" --title "$title" --notes-file "${{ steps.release_notes.outputs.body_file }}"
+            if [ ${#assets[@]} -gt 0 ]; then
+              gh release upload "$current_tag" "${assets[@]}" --clobber
+            fi
+          else
+            if [ ${#assets[@]} -gt 0 ]; then
+              gh release create "$current_tag" "${assets[@]}" --title "$title" --notes-file "${{ steps.release_notes.outputs.body_file }}"
+            else
+              gh release create "$current_tag" --title "$title" --notes-file "${{ steps.release_notes.outputs.body_file }}"
+            fi
+          fi
