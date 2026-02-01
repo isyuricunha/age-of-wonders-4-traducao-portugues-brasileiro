@@ -2,6 +2,9 @@
 
 ## Introdução
 
+**Participe da comunidade no Discord:** https://discord.com/invite/aYbWBr4
+
+
 Este repositório contém uma tradução completa para português brasileiro do jogo Age of Wonders 4. Se você quer apenas instalar e jogar com a tradução pronta, siga as instruções abaixo. Se você é do tipo que gosta de fuçar e quer traduzir por conta própria, há uma seção separada no final explicando como usar o script `mo_convert.py` para facilitar o processo.
 
 Este guia é feito para novatos em computadores, então vamos passo a passo, devagar e explicando tudo direitinho.
