@@ -73,7 +73,7 @@ def main() -> int:
     parser.add_argument(
         "--pt",
         type=Path,
-        default=Path("PTBR") / "PTBR.translated.po",
+        default=Path("PTBR") / "PTBR.po",
         help="Path to PTBR.po (default: PTBR/PTBR.po)",
     )
     parser.add_argument(
