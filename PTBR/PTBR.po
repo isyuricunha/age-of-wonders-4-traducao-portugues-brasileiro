@@ -53594,13 +53594,13 @@ msgid "DLC@RISEFROMRUIN@ESSENCE@ANCIENT_MANUSCRIPTS@GOLD@NAME"
 msgstr "Manuscritos Antigos (Ouro)"
 
 msgid "DLC@RISEFROMRUIN@ESSENCE@ANCIENT_MANUSCRIPTS@SILVER@NAME"
-msgstr "Ancient Manuscripts (Silver)"
+msgstr "Manuscritos Antigos (Silver)"
 
 msgid "DLC@RISEFROMRUIN@ESSENCE@BASERESOURCE@FOOD@DESCRIPTION"
 msgstr "Esta cidade ganha:[bulletlist][bullet/]+{IncomeBonus} {GLOBAL.FoodConcept.Hyperlink}[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@ESSENCE@BASERESOURCE@FOOD@NAME"
-msgstr "Essence of Food"
+msgstr "Essência de Comida"
 
 msgid "DLC@RISEFROMRUIN@ESSENCE@BASERESOURCE@GOLD@DESCRIPTION"
 msgstr "Esta cidade ganha:[bulletlist][bullet/]+{IncomeBonus} {GLOBAL.GoldConcept.Hyperlink}[/bulletlist]"
@@ -53786,19 +53786,19 @@ msgid "DLC@RISEFROMRUIN@EXPLORATIONSITES_STRATEGIC@ANCIENT_WONDERS@FORSAKEN_TEMP
 msgstr "Altar dos Desamparados"
 
 msgid "DLC@RISEFROMRUIN@EXPLORATIONSITES_STRATEGIC@ANCIENT_WONDERS@FORSAKEN_TEMPLE@NAME_OVERRIDE@DEAD_GOD_2"
-msgstr "Eternal's End"
+msgstr "Fim do Eterno"
 
 msgid "DLC@RISEFROMRUIN@EXPLORATIONSITES_STRATEGIC@ANCIENT_WONDERS@FORSAKEN_TEMPLE@NAME_OVERRIDE@DEAD_GOD_3"
-msgstr "Sepulchred Sanctum"
+msgstr "Santário Sepultado"
 
 msgid "DLC@RISEFROMRUIN@EXPLORATIONSITES_STRATEGIC@ANCIENT_WONDERS@FORSAKEN_TEMPLE@NAME_OVERRIDE@MAGE_COUCIL_1"
-msgstr "Sealed Archive"
+msgstr "Arquivo Selado"
 
 msgid "DLC@RISEFROMRUIN@EXPLORATIONSITES_STRATEGIC@ANCIENT_WONDERS@FORSAKEN_TEMPLE@NAME_OVERRIDE@MAGE_COUCIL_2"
-msgstr "Mausoleum of Mages"
+msgstr "Mausoléu dos Magos"
 
 msgid "DLC@RISEFROMRUIN@EXPLORATIONSITES_STRATEGIC@ANCIENT_WONDERS@FORSAKEN_TEMPLE@NAME_OVERRIDE@MAGE_COUCIL_3"
-msgstr "Lathspell Library"
+msgstr "Biblioteca Lathspell"
 
 msgid "DLC@RISEFROMRUIN@EXPLORATIONSITES_STRATEGIC@ANCIENT_WONDERS@WITHERED_TREE@DESCRIPTION"
 msgstr "[bulletlist][bullet/]+{amount} {GLOBAL.FoodConcept.Hyperlink} e +{amount} {GLOBAL.StructureProductionConcept.Hyperlink} por {GLOBAL.ProvinceConcept.Hyperlink} com {GLOBAL.SandConcept.Hyperlink} ou {GLOBAL.AstralBarrensConcept.Hyperlink} na {GLOBAL.CityConcept.Hyperlink} {GLOBAL.DomainConcept.Hyperlink}.[bullet/]Adiciona a unidade {GLOBAL.UNITS.CARRION_BIRD.Hyperlink} ao {GLOBAL.RequestMilitaryAidConcept.Hyperlink}.[bullet/]Desbloqueia a ação Restaurar que transforma esta {GLOBAL.AncientWonderConcept.Hyperlink} em uma {GLOBAL.STRUCTURES.WORLD_TREE.Hyperlink}.[/bulletlist]"
@@ -53807,25 +53807,25 @@ msgid "DLC@RISEFROMRUIN@EXPLORATIONSITES_STRATEGIC@ANCIENT_WONDERS@WITHERED_TREE
 msgstr "Apenas esta carcaça de madeira permanece de uma poderosa {GLOBAL.STRUCTURES.WORLD_TREE.Hyperlink}, que são testamentos da resiliência descontrolada da vida. Suas raízes já cresceram fundas e longe, seus galhos altos e longos; nutrindo, curando e protegendo tudo que vive e cresce entre eles. Portanto, a morte de uma Árvore do Mundo, que apenas uma força devastadora poderia causar, é uma afronta à própria vida."
 
 msgid "DLC@RISEFROMRUIN@EXPLORATIONSITES_STRATEGIC@ANCIENT_WONDERS@WITHERED_TREE@NAME"
-msgstr "Withered Tree"
+msgstr "Árvore Murcha"
 
 msgid "DLC@RISEFROMRUIN@EXPLORATIONSITES_STRATEGIC@ANCIENT_WONDERS@WITHERED_TREE@NAME_OVERRIDE@FRACTURED_1"
-msgstr "Splinterwood Trunk"
+msgstr "Tronco de Madeira Estilhaçada"
 
 msgid "DLC@RISEFROMRUIN@EXPLORATIONSITES_STRATEGIC@ANCIENT_WONDERS@WITHERED_TREE@NAME_OVERRIDE@FRACTURED_2"
-msgstr "Shattered Snag"
+msgstr "Toco Esfacelado"
 
 msgid "DLC@RISEFROMRUIN@EXPLORATIONSITES_STRATEGIC@ANCIENT_WONDERS@WITHERED_TREE@NAME_OVERRIDE@FRACTURED_3"
-msgstr "Witherbough Bole"
+msgstr "Tronco de Galho Murcho"
 
 msgid "DLC@RISEFROMRUIN@EXPLORATIONSITES_STRATEGIC@ANCIENT_WONDERS@WITHERED_TREE@NAME_OVERRIDE@SANDWORM_1"
-msgstr "Wormwood Hollow"
+msgstr "Oco de Losna"
 
 msgid "DLC@RISEFROMRUIN@EXPLORATIONSITES_STRATEGIC@ANCIENT_WONDERS@WITHERED_TREE@NAME_OVERRIDE@SANDWORM_2"
-msgstr "Ravaged Rampike"
+msgstr "Rampike Devastado"
 
 msgid "DLC@RISEFROMRUIN@EXPLORATIONSITES_STRATEGIC@ANCIENT_WONDERS@WITHERED_TREE@NAME_OVERRIDE@SANDWORM_3"
-msgstr "Dour Deadwood"
+msgstr "Madeira Morta Sombria"
 
 msgid "DLC@RISEFROMRUIN@EXPLORATIONSITES_STRATEGIC@ANCIENT_WONDER_SETTINGS@RESTORE_OPERATION@DESCRIPTION"
 msgstr "Restaure a {GLOBAL.AncientWonderConcept.Hyperlink} para sua versão original, substitui esta maravilha antiga por uma {wonderhyperlink}."
@@ -53951,16 +53951,16 @@ msgid "DLC@RISEFROMRUIN@INTERFACE@AGGRESSIVE_EXPANSION@DESCRIPTION"
 msgstr "Aggressive Expansion recompensa a {GLOBAL.ProvinceAnnexationConcept.Hyperlink} de províncias pertencentes a outras facções.[br/][br/]Anexando uma província hostil a uma cidade concede uma recompensa única de {GLOBAL.StructureProductionConcept.Hyperlink}, {GLOBAL.UnitProductionConcept.Hyperlink} e {GLOBAL.GoldConcept.Hyperlink}.[br/][br/]Essas recompensas escalam com a população da cidade de onde a província foi tomada."
 
 msgid "DLC@RISEFROMRUIN@INTERFACE@AGGRESSIVE_EXPANSION@HYPERLINK"
-msgstr "[hyperlink,GLOBAL.AggressiveExpansionConcept]Aggressive Expansion[/hyperlink]"
+msgstr "[hyperlink,GLOBAL.AggressiveExpansionConcept]Expansão Agressiva[/hyperlink]"
 
 msgid "DLC@RISEFROMRUIN@INTERFACE@AGGRESSIVE_EXPANSION@NAME"
-msgstr "Aggressive Expansion"
+msgstr "Expansão Agressiva"
 
 msgid "DLC@RISEFROMRUIN@INTERFACE@CUSTOMIZATION_LEADER@PUPILSIZE"
-msgstr "Pupil Size"
+msgstr "Tamanho da Pupila"
 
 msgid "DLC@RISEFROMRUIN@INTERFACE@FRACTURE"
-msgstr "Fracture"
+msgstr "Fratura"
 
 msgid "DLC@RISEFROMRUIN@INTERFACE@FRACTURE@DESCRIPTION"
 msgstr "Fracturas são rasgos no tecido da magia e da realidade.[br/][br/]Mover uma unidade [unit/] disparará um Evento relacionado a ela."
@@ -53969,7 +53969,7 @@ msgid "DLC@RISEFROMRUIN@INTERFACE@FRACTURE@ERROR"
 msgstr "ERRO - FAVOR VERIFICAR COM PABLO"
 
 msgid "DLC@RISEFROMRUIN@INTERFACE@FRACTURED_BOLT@NAME"
-msgstr "Fractured Bolts"
+msgstr "Parafusos Fraturados"
 
 msgid "DLC@RISEFROMRUIN@INTERFACE@NOMAD_ESSENCES@DESCRIPTION"
 msgstr "Essências são objetos mágicos vinculados a uma cidade, concedendo renda e outros bônus. Elas são obtidas por {GLOBAL.OverharvestingConcept.Hyperlink} <<m:{GLOBAL.NodeConcept.Hyperlink}>> com uma Cidade Nômade.[br/][bulletlist][bullet/]O tipo de renda que uma essência fornece depende do nó de onde ela vem.[bullet/]Essências de <<m:{GLOBAL.MagicMaterialConcept.Hyperlink}>> concedem esse material ao dono da cidade.[bullet/]Se uma cidade carregando essências de {GLOBAL.MagicMaterialConcept.Hyperlink} for arrasada, esses <<m:{GLOBAL.MagicMaterialConcept.Hyperlink}>> aparecerão como nós nas proximidades.[/bulletlist][br/][br/]Nômades da tradição Scavenger também obtêm Essências únicas com {GLOBAL.WonderScavengingConcept.Hyperlink}."
@@ -54029,7 +54029,7 @@ msgid "DLC@RISEFROMRUIN@LORDS@HERO_CITYNAME@HAR'ACRAN"
 msgstr "Mirage^N"
 
 msgid "DLC@RISEFROMRUIN@LORDS@HERO_CITYNAME@KE-NAN"
-msgstr "New Dawn^N"
+msgstr "Novo Amanhecer^N"
 
 msgid "DLC@RISEFROMRUIN@LORDS@HERO_CITYNAME@YLAC"
 msgstr "Banishbay^N"
@@ -54041,16 +54041,16 @@ msgid "DLC@RISEFROMRUIN@LORDS@HERO_CITYNAME_2@KE-NAN"
 msgstr "Brokenbrand^N"
 
 msgid "DLC@RISEFROMRUIN@LORDS@HERO_CITYNAME_2@YLAC"
-msgstr "Fractured Ark^N"
+msgstr "Arca Fracturada^N"
 
 msgid "DLC@RISEFROMRUIN@LORDS@HERO_CITYNAME_3@HAR'ACRAN"
 msgstr "Duneport^N"
 
 msgid "DLC@RISEFROMRUIN@LORDS@HERO_CITYNAME_3@KE-NAN"
-msgstr "Mended Sail^N"
+msgstr "Vela Remendada^N"
 
 msgid "DLC@RISEFROMRUIN@LORDS@HERO_CITYNAME_3@YLAC"
-msgstr "Lost Relic^N"
+msgstr "Relíquia Perdida^N"
 
 msgid "DLC@RISEFROMRUIN@LORDS@HERO_FIRSTNAME@HAR'ACRAN"
 msgstr "Har'Acran^F"
@@ -54065,31 +54065,31 @@ msgid "DLC@RISEFROMRUIN@LORDS@HERO_HAR'ACRAN@BIO"
 msgstr "As areias não se arrependem — elas se banquetam. Har'Acran aprendeu essa lição jovem, quando sua tribo foi saqueada. Os próprios saqueadores que massacraram seu povo a acolheram e criaram. Eles lhe ensinaram a sobreviver, a mover-se entre as dunas e a cavalgar sobre os escorpiões. Mas nunca demonstraram um pingo de remorso.[br/][br/]Com o tempo, Har'Acran ascendeu para se tornar a Rainha das Dunas, líder dos Perseguidores das Areias. E ela passou a entender os saqueadores: sua tribo não morreu por causa do ataque, mas porque não conseguiram se defender. No deserto, só há recursos suficientes para aqueles que podem tomá-los."
 
 msgid "DLC@RISEFROMRUIN@LORDS@HERO_LASTNAME@YLAC"
-msgstr "The Exiled^z"
+msgstr "Os Exilados^z"
 
 msgid "DLC@RISEFROMRUIN@LORDS@HERO_RACENAME@HAR'ACRAN"
-msgstr "Sand Stalkers"
+msgstr "Perseguidores das Areias"
 
 msgid "DLC@RISEFROMRUIN@LORDS@HERO_RACENAME@KE-NAN"
-msgstr "Freefolk of Kesh"
+msgstr "Livres de Kesh"
 
 msgid "DLC@RISEFROMRUIN@LORDS@HERO_RACENAME@YLAC"
-msgstr "Cursed Wanderers"
+msgstr "Vagabundos Amaldiçoados"
 
 msgid "DLC@RISEFROMRUIN@LORDS@HERO_TITLE@HAR'ACRAN"
-msgstr "Queen of the Dunes"
+msgstr "Rainha das Dunas"
 
 msgid "DLC@RISEFROMRUIN@LORDS@HERO_TITLE@HAR'ACRAN@GENDER"
 msgstr "^f"
 
 msgid "DLC@RISEFROMRUIN@LORDS@HERO_TITLE@KE-NAN"
-msgstr "Shatterer of Shackles"
+msgstr "Esmagador de Grilhetas"
 
 msgid "DLC@RISEFROMRUIN@LORDS@HERO_TITLE@KE-NAN@GENDER"
 msgstr "^m"
 
 msgid "DLC@RISEFROMRUIN@LORDS@HERO_TITLE@YLAC"
-msgstr "Lost Seeker"
+msgstr "Buscador Perdido"
 
 msgid "DLC@RISEFROMRUIN@LORDS@HERO_TITLE@YLAC@GENDER"
 msgstr "^m"
@@ -54107,7 +54107,7 @@ msgid "DLC@RISEFROMRUIN@META_EMPIRE@ASCENSION_TRAIT@EXTENDED_COMMAND_UNIT@HERO_T
 msgstr "Ascensão: Unidade de Comando Estendido"
 
 msgid "DLC@RISEFROMRUIN@META_EMPIRE@ASCENSION_TRAIT@EXTENDED_COMMAND_UNIT@HERO_TRAIT_PROP_NAME"
-msgstr "Extended Command Unit"
+msgstr "Unidade de Comando Avançada"
 
 msgid "DLC@RISEFROMRUIN@META_EMPIRE@ASCENSION_TRAIT@SCOURING_SANDSTORM@HERO_TRAIT_ABILITY_DESCRIPTION"
 msgstr "Em um raio de {SCOURING_SANDSTORM_UNIT_TARGETER_CIRCLE>AREA>Radius} hexágonos:[bulletlist][bullet/]Unidades sofrem dano.[bullet/]Coloque uma {GLOBAL.SandstormConcept.Hyperlink} por {SCOURING_SANDSTORM_POSITION_EFFECT_PLACE_MARKER>Duration} turnos.[/bulletlist]"
@@ -54128,19 +54128,19 @@ msgid "DLC@RISEFROMRUIN@META_EMPIRE@ASCENSION_TRAIT@WARLORD_COMMANDS@HERO_TRAIT_
 msgstr "Ascensão: Comandos do Senhor da Guerra"
 
 msgid "DLC@RISEFROMRUIN@META_EMPIRE@ASCENSION_TRAIT@WARLORD_COMMANDS@HERO_TRAIT_PROP_NAME"
-msgstr "Warlord Commands"
+msgstr "Comandos do Senhor da Guerra"
 
 msgid "DLC@RISEFROMRUIN@META_EMPIRE@REALM_CRISIS@NAME_01"
 msgstr "Scars of Turag"
 
 msgid "DLC@RISEFROMRUIN@META_EMPIRE@REALM_CRISIS@NAME_02"
-msgstr "Whitering Wastes"
+msgstr "Terras Devastadas"
 
 msgid "DLC@RISEFROMRUIN@META_EMPIRE@REALM_CRISIS@NAME_03"
 msgstr "The Irradiated Plateau"
 
 msgid "DLC@RISEFROMRUIN@META_EMPIRE@REALM_CRISIS@NAME_04"
-msgstr "Wanderer's Grave"
+msgstr "Túmulo do Viajante"
 
 msgid "DLC@RISEFROMRUIN@META_EMPIRE@REALM_CRISIS@SUBTITLE"
 msgstr "Este reino guarda segredos dos ventos rugidores {GLOBAL.FracturingWindsConcept.Hyperlink}. Você descobrirá a verdade antes que <<m:{GLOBAL.CataclysmConcept.Hyperlink}>> arruíne o reino além de qualquer salvação?"
@@ -54782,7 +54782,7 @@ msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1341@BUTTON_4"
 msgstr "Fuja do Cabal da Magia e ressele o {EventStructure}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1341@TITLE"
-msgstr "Cabal of Casting"
+msgstr "Cábalo da Conjuração"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1342@BODY_FOOTER"
 msgstr "Um grande {EnemyUnit} irrompe do chão, ameaçando {EventHero.FirstName}. <<p:EventHero>> ficará e lutará, ou fugirá para salvar <<o:EventHero>> vida?"
@@ -54818,7 +54818,7 @@ msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1342@BUTTON_4"
 msgstr "Afastar-se da {EventStructure} infestada."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1342@TITLE"
-msgstr "Wormed Wood"
+msgstr "Madeira Verminosa"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1343@BODY_FOOTER"
 msgstr "A {EventStructure} desabará em breve, permitindo que {EventHero.FirstName} tenha apenas momentos para extrair um último segredo do Cabal of Casting."
@@ -56186,7 +56186,7 @@ msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@UNIT@ABILITY02@PROP_DESCRIPTION"
 msgstr "Unidade ganha {GLOBAL.PROPERTIES.SAND_SHIFT.Hyperlink} quando em terreno de {GLOBAL.SandConcept.Hyperlink}."
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@UNIT@NAME"
-msgstr "Sand Scorpion^n"
+msgstr "Escorpião de Areia^n"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARBAND@ABILITY01@DESCRIPTION"
 msgstr "Unidade inimiga alvo e todas as unidades desse tipo ganham:[bulletlist][bullet/]{amount} {GLOBAL.PROPERTIES.SUNDERED_DEFENSE.Hyperlink} por {SUNDERED_DEFENSE_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]{amount} {GLOBAL.PROPERTIES.SUNDERED_RESISTANCE.Hyperlink} por {SUNDERED_RESISTANCE_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist]"
@@ -56309,19 +56309,19 @@ msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY07@DESCRIPTION"
 msgstr "Em um cone de {INFERNAL_RAY_POSITION_TARGETER>AREA>Length} hexágonos:[bulletlist][bullet/]Unidades sofrem dano.[bullet/]Unidades ganham {amount} {GLOBAL.PROPERTIES.BURNING.Hyperlink} por {BURNING_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]Hexágonos são colocados {GLOBAL.OnFireConcept.Hyperlink}[/bulletlist][br/]Causa dano dobrado a obstáculos."
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY07@NAME"
-msgstr "Infernal Ray"
+msgstr "Raio Infernal"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY08@DESCRIPTION"
 msgstr "Mova para o hexágono alvo. Então todos os inimigos adjacentes ganham {GLOBAL.PROPERTIES.BURNING.Hyperlink} por {BURNING_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>."
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY08@NAME"
-msgstr "Fiery Shift"
+msgstr "Deslocamento Ígneo"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY09@DESCRIPTION"
 msgstr "Unidades de Tier I, Tier II e Tier III no exército têm:[bulletlist][bullet/]+{FIELD_TACTICS_DEFENSE>DEF_MOD>Armor} {GLOBAL.DefenseConcept.Hyperlink}[bullet/]+{FIELD_TACTICS_DEFENSE>DEF_MOD>Resistance} {GLOBAL.ResistanceConcept.Hyperlink}[/bulletlist][br/]Não se acumulam."
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY09@NAME"
-msgstr "Field Tactics"
+msgstr "Táticas de Campo"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY09@PROP_DESCRIPTION"
 msgstr "Unidade tem:[bulletlist][bullet/]+{FIELD_TACTICS_DEFENSE>DEF_MOD>Armor} {GLOBAL.DefenseConcept.Hyperlink}[bullet/]+{FIELD_TACTICS_DEFENSE>DEF_MOD>Resistance} {GLOBAL.ResistanceConcept.Hyperlink}[/bulletlist]"
@@ -56330,19 +56330,19 @@ msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SKILL01@DESCRIPTION"
 msgstr "Uma poderosa {GLOBAL.PROPERTIES.MYTHIC_UNIT.Hyperlink}, uma mestra do combate corpo a corpo que comanda outras em combate."
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SKILL01@NAME"
-msgstr "Warlord"
+msgstr "Senhor da Guerra"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SKILL02@DESCRIPTION"
 msgstr "Invocar um {GLOBAL.UNITS.WAR_GOLEM.Hyperlink}, uma arma de cerco infernal especializada em destruir fortificações inimigas."
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SKILL02@NAME"
-msgstr "Summon War Golem"
+msgstr "Invocar Golem de Guerra"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SKILL03@DESCRIPTION"
 msgstr "Unidades encantadas ganham:[bulletlist][bullet/]+{RELENTLESS_MIGHT_RETALIATION_INCREASE>NumTriggersToAdd} {GLOBAL.RetaliationConcept.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.INFERNAL_MIGHT.Hyperlink} quando ataca.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SKILL03@NAME"
-msgstr "Relentless Might"
+msgstr "Força Implacável"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SKILL03@PROPERTY_DESCRIPTION"
 msgstr "Unidade tem:[bulletlist][bullet/]+{RELENTLESS_MIGHT_RETALIATION_INCREASE>NumTriggersToAdd} {GLOBAL.RetaliationConcept.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.INFERNAL_MIGHT.Hyperlink} quando ataca.[/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
@@ -56351,19 +56351,19 @@ msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SKILL04@DESCRIPTION"
 msgstr "[bulletlist][bullet/]Todas as unidades amigáveis ganham {GLOBAL.PROPERTIES.SIEGE_BREAKER.Hyperlink} durante cerco.[bullet/]Durante a batalha:[bulletlist][bullet/]Todas as unidades amigáveis ganham +{amount}% de chance de {GLOBAL.CriticalHitConcept.Hyperlink} na batalha.[bullet/]Hexágonos aleatórios são colocados {GLOBAL.OnFireConcept.Hyperlink}.[/bulletlist][bullet/]Se vitorioso, Saquear e Migrar esta cidade requer {amount2} menos <<m:{GLOBAL.TurnConcept}>>.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SKILL04@NAME"
-msgstr "Conqueror's Edict"
+msgstr "Edito do Conquistador"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SKILL05@DESCRIPTION"
 msgstr "Todas as unidades amigáveis em um raio de {MIGHT_OF_THE_BATTLEFIELD_UNIT_TARGETER_ALL_LOW_TIER>AREA>Radius} hexágonos ganham:[bulletlist][bullet/]{GLOBAL.PROPERTIES.INFERNAL_MIGHT.Hyperlink} por {INFERNAL_BLAZE_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]{MIGHT_OF_THE_BATTLEFIELD_MORALE>Morale Change Absolute} {GLOBAL.UnitMoraleConcept.Hyperlink}.[/bulletlist][br/]Dobrado para unidades de Tier I, Tier II e Tier III."
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SKILL05@NAME"
-msgstr "Might of the Battlefield"
+msgstr "Poder do Campo de Batalha"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SKILL06@DESCRIPTION"
 msgstr "[bulletlist][bullet/]+{amount1} {GLOBAL.UnitProductionConcept.Hyperlink}[bullet/]+{amount2} {GLOBAL.GoldConcept.Hyperlink}[bullet/]+{amount3} {GLOBAL.CityStabilityConcept.Hyperlink}[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SKILL06@NAME"
-msgstr "Gladiatorial Pit"
+msgstr "Fossa Gladiatorial"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SPI@DESCRIPTION"
 msgstr "[bulletlist][bullet/]+{amount1} {GLOBAL.UnitProductionConcept.Hyperlink} de renda.[bullet/]Por tipo de Minério disponível {GLOBAL.MagicMaterialConcept.Hyperlink} disponível para seu império, ganhe:[bulletlist][bullet/]+{amount2} {GLOBAL.GoldConcept.Hyperlink}.[bullet/]+{amount3} {GLOBAL.UnitProductionConcept.Hyperlink}[/bulletlist][bullet/]Conta como uma {GLOBAL.MineConcept.Hyperlink}.[/bulletlist]"
