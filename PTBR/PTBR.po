@@ -53144,10 +53144,10 @@ msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@MARKER@LOOT@DESCRIPTION"
 msgstr "Pode ser recolhido por qualquer unidade com a propriedade {GLOBAL.PROPERTIES.SCAVENGER.Hyperlink} movendo-se para este hexágono.[br/]Ao recolher, a unidade:[bulletlist][bullet/]Ganha {GLOBAL.PROPERTIES.LOOTED_POWER.Hyperlink}.[bullet/]Cura +{HealBonus} {GLOBAL.HitPointConcept.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@MARKER@LOOT@HYPERLINK"
-msgstr "[hyperlink,GLOBAL.ScavengerLootConcept]Butim[/hyperlink]"
+msgstr "[hyperlink,GLOBAL.ScavengerLootConcept]Saquear[/hyperlink]"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@MARKER@LOOT@NAME"
-msgstr "Butim"
+msgstr "Saquear"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@NOMAD@BIO"
 msgstr "Eles tendem a vagar, seja para conquistar terras além do horizonte ou para extrair essências potentes de fontes mágicas."
@@ -53252,7 +53252,7 @@ msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@NAME"
 msgstr "Tradição"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@SCAVENGERS@DESCRIPTION"
-msgstr "A sobrevivência é medida pelo que pode ser recuperado do mundo arruinado, seu povo sabe disso bem:[bulletlist][bullet/]Use {GLOBAL.WonderScavengingConcept.Hyperlink} para extrair <<m:{GLOBAL.EssenceConcept.Hyperlink}>> único de <<m:{GLOBAL.AncientWonderConcept.Hyperlink}>>, fortalecendo ainda mais suas cidades à medida que coletam Essência.[bullet/]Em combate, pegue o butim de unidades derrotadas para se curar e obter {GLOBAL.PROPERTIES.LOOTED_POWER.Hyperlink}.[/bulletlist]"
+msgstr "A sobrevivência é medida pelo que pode ser recuperado do mundo arruinado, seu povo sabe disso bem:[bulletlist][bullet/]Use {GLOBAL.WonderScavengingConcept.Hyperlink} para extrair <<m:{GLOBAL.EssenceConcept.Hyperlink}>> único de <<m:{GLOBAL.AncientWonderConcept.Hyperlink}>>, fortalecendo ainda mais suas cidades à medida que coletam Essência.[bullet/]Em combate, pegue o saque de unidades derrotadas para se curar e obter {GLOBAL.PROPERTIES.LOOTED_POWER.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@SCAVENGERS@FPG_DESCRIPTION"
 msgstr "[bulletlist][bullet/]Cidades móveis que favorecem assentamentos perto de Maravilhas Antigas para extrair sua Essência.[bullet/]Fortalecidos ao pegar o butim deixado por unidades abatidas em combate.[/bulletlist]"
@@ -53357,7 +53357,7 @@ msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@UNIT_PROPERTY@DISTRIBUTE_LOOT@DESCRIPTION"
 msgstr "Unidade aliada alvo:[bulletlist][bullet/]ganha {GLOBAL.PROPERTIES.LOOTED_POWER.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@UNIT_PROPERTY@DISTRIBUTE_LOOT@NAME"
-msgstr "Distribuir Butim"
+msgstr "Distribuir Saque"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@UNIT_PROPERTY@DISTRIBUTING_WIND@DESCRIPTION"
 msgstr "Remova o marcador alvo {GLOBAL.ScavengerLootConcept.Hyperlink} para conceder a uma unidade aliada dentro de {DISTRIBUTING_WIND_UNIT_TARGET>MaxDistance} hexágonos:[bulletlist][bullet/]{GLOBAL.PROPERTIES.LOOTED_POWER.Hyperlink}[bullet/]{HealAmount} {GLOBAL.TemporaryHitPointConcept.Hyperlink}[/bulletlist]"
@@ -117374,7 +117374,7 @@ msgid "STORY_EVENT@1122_95@BODY_HEADER"
 msgstr "\"{PlayerLeader.TitleName}!\" Seu [hyperlink,GLOBAL.HeroConcept]<<EventHero{hero/heroine}>>[/hyperlink] {EventHero.Name} se ajoelha diante de você, angustiado. \"Meu pequeno <<EventUnit{brother/sister}>>! <<Cp:EventUnit>> saiu em busca de pedras preciosas, mas nunca voltou!\""
 
 msgid "STORY_EVENT@1122_95@BODY_LORE"
-msgstr "\"<<Cp:EventUnit>> migrou para {EventCity} quando você me recrutou. <<Cp:EventUnit>> tem prospectado pedras e metais preciosos desde que <<p:EventUnit>> era um pequeno <<EventUnit{boy/girl}>>, carregando uma vara de rabdomancia enorme. Recentemente, um {EventStructure} distante chamou a atenção <<o:EventUnit>>. Normalmente, meu <<EventUnit{brother/sister}>> retorna com um bom butim em três dias. Hoje é o oitavo dia desde que <<p:EventUnit>> partiu.\" <<G:eyes^n,EventHero>> ficam enevoados."
+msgstr "\"<<Cp:EventUnit>> migrou para {EventCity} quando você me recrutou. <<Cp:EventUnit>> tem prospectado pedras e metais preciosos desde que <<p:EventUnit>> era um pequeno <<EventUnit{boy/girl}>>, carregando uma vara de rabdomancia enorme. Recentemente, um {EventStructure} distante chamou a atenção <<o:EventUnit>>. Normalmente, meu <<EventUnit{brother/sister}>> retorna com um bom saque em três dias. Hoje é o oitavo dia desde que <<p:EventUnit>> partiu.\" <<G:eyes^n,EventHero>> ficam enevoados."
 
 msgid "STORY_EVENT@1122_95@BUTTON_0"
 msgstr "\"Vou procurar seu <<EventUnit{brother/sister}>>, {EventHero.FirstName}. Tenho certeza de que <<p:EventUnit>> está bem.\""
