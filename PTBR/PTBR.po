@@ -56168,7 +56168,7 @@ msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@TOME@LORE_DESCRIPTION"
 msgstr "\"A maioria chama o deserto de lugar perigoso, uma armadilha mortal sem água, comida ou abrigo. Nós chamamos de lar. Somos a miragem no calor, somos os saqueadores no vento. Nosso aço fere com veneno, parente do escorpião. Somos os que invocam a tempestade de areia. Somos os Sand Stalkers.\""
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@TOME@NAME"
-msgstr "Tomé dos Sand Stalkers"
+msgstr "Tomo dos Sand Stalkers"
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@UNIT@ABILITY01@DESCRIPTION"
 msgstr "Unidade inimiga alvo:[bulletlist][bullet/]Sofre dano.[bullet/]Ganha {amount1} {GLOBAL.PROPERTIES.WEAKENED.Hyperlink} por {WEAKENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]Ganha {amount2} {GLOBAL.PROPERTIES.POISONED.Hyperlink} por {POISONED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist][br/]Entra em {GLOBAL.DefenseModeConcept.Hyperlink}."
@@ -56246,7 +56246,7 @@ msgid "DLC@RISEFROMRUIN@TOME_WARBAND@TOME@LORE_DESCRIPTION"
 msgstr "\"A magia é volúvel; você só pode confiar em sua força. Aqui você aprende a segurar uma arma antes dos sete anos, pois aos sete você fica de guarda. Você transforma exercícios de guerra em seus jogos; suas diversões são caçar sua própria comida e vencer lutas em poços. Nosso tenente diz que nunca conheceremos a paz, pois fomos criados para a guerra.\""
 
 msgid "DLC@RISEFROMRUIN@TOME_WARBAND@TOME@NAME"
-msgstr "Tomé da Banda de Guerra"
+msgstr "Tomo da Banda de Guerra"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARBAND@UNIT@NAME"
 msgstr "Tenente^m"
@@ -56378,7 +56378,7 @@ msgid "DLC@RISEFROMRUIN@TOME_WARLORD@TOME@LORE_DESCRIPTION"
 msgstr "\"Muito mudou desde que primeiro escrevi sobre os Senhores da Guerra durante a Terceira Era. Eles continuam sendo formidáveis guerreiros e táticos, dando ordens enquanto o aço se choca, treinando os melhores nas Arenas de Gladiadores. Mas hoje, há aqueles que se destacam, aqueles que os empregam e Golems de Guerra monstros para sitiar impérios inteiros. Eles se tornaram os verdadeiros Soberanos da Guerra.\""
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@TOME@NAME"
-msgstr "Tomé do Senhor da Guerra"
+msgstr "Tomo do Senhor da Guerra"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@UNIT02@NAME"
 msgstr "Golem de Guerra^n"
@@ -82530,7 +82530,7 @@ msgid "INTERFACE@ISO3166@SS"
 msgstr "Sudão do Sul"
 
 msgid "INTERFACE@ISO3166@ST"
-msgstr "São Tomé e Príncipe"
+msgstr "São Tomo e Príncipe"
 
 msgid "INTERFACE@ISO3166@SV"
 msgstr "El Salvador"
