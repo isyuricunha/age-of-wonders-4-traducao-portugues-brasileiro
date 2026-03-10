@@ -53144,10 +53144,10 @@ msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@MARKER@LOOT@DESCRIPTION"
 msgstr "Pode ser recolhido por qualquer unidade com a propriedade {GLOBAL.PROPERTIES.SCAVENGER.Hyperlink} movendo-se para este hexágono.[br/]Ao recolher, a unidade:[bulletlist][bullet/]Ganha {GLOBAL.PROPERTIES.LOOTED_POWER.Hyperlink}.[bullet/]Cura +{HealBonus} {GLOBAL.HitPointConcept.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@MARKER@LOOT@HYPERLINK"
-msgstr "[hyperlink,GLOBAL.ScavengerLootConcept]Butim[/hyperlink]"
+msgstr "[hyperlink,GLOBAL.ScavengerLootConcept]Saquear[/hyperlink]"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@MARKER@LOOT@NAME"
-msgstr "Butim"
+msgstr "Saquear"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@NOMAD@BIO"
 msgstr "Eles tendem a vagar, seja para conquistar terras além do horizonte ou para extrair essências potentes de fontes mágicas."
@@ -53252,10 +53252,10 @@ msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@NAME"
 msgstr "Tradição"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@SCAVENGERS@DESCRIPTION"
-msgstr "A sobrevivência é medida pelo que pode ser recuperado do mundo arruinado, seu povo sabe disso bem:[bulletlist][bullet/]Use {GLOBAL.WonderScavengingConcept.Hyperlink} para extrair <<m:{GLOBAL.EssenceConcept.Hyperlink}>> único de <<m:{GLOBAL.AncientWonderConcept.Hyperlink}>>, fortalecendo ainda mais suas cidades à medida que coletam Essência.[bullet/]Em combate, pegue o butim de unidades derrotadas para se curar e obter {GLOBAL.PROPERTIES.LOOTED_POWER.Hyperlink}.[/bulletlist]"
+msgstr "A sobrevivência é medida pelo que pode ser recuperado do mundo arruinado, seu povo sabe disso bem:[bulletlist][bullet/]Use {GLOBAL.WonderScavengingConcept.Hyperlink} para extrair <<m:{GLOBAL.EssenceConcept.Hyperlink}>> único de <<m:{GLOBAL.AncientWonderConcept.Hyperlink}>>, fortalecendo ainda mais suas cidades à medida que coletam Essência.[bullet/]Em combate, pegue o saque de unidades derrotadas para se curar e obter {GLOBAL.PROPERTIES.LOOTED_POWER.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@SCAVENGERS@FPG_DESCRIPTION"
-msgstr "[bulletlist][bullet/]Cidades móveis que favorecem assentamentos perto de Maravilhas Antigas para extrair sua Essência.[bullet/]Fortalecidos ao pegar o butim deixado por unidades abatidas em combate.[/bulletlist]"
+msgstr "[bulletlist][bullet/]Cidades móveis que favorecem assentamentos perto de Maravilhas Antigas para extrair sua Essência.[bullet/]Fortalecidos ao pegar o saque deixado por unidades abatidas em combate.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@SCAVENGERS@LORENAME"
 msgstr "Catadores^n"
@@ -53357,7 +53357,7 @@ msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@UNIT_PROPERTY@DISTRIBUTE_LOOT@DESCRIPTION"
 msgstr "Unidade aliada alvo:[bulletlist][bullet/]ganha {GLOBAL.PROPERTIES.LOOTED_POWER.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@UNIT_PROPERTY@DISTRIBUTE_LOOT@NAME"
-msgstr "Distribuir Butim"
+msgstr "Distribuir Saque"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@UNIT_PROPERTY@DISTRIBUTING_WIND@DESCRIPTION"
 msgstr "Remova o marcador alvo {GLOBAL.ScavengerLootConcept.Hyperlink} para conceder a uma unidade aliada dentro de {DISTRIBUTING_WIND_UNIT_TARGET>MaxDistance} hexágonos:[bulletlist][bullet/]{GLOBAL.PROPERTIES.LOOTED_POWER.Hyperlink}[bullet/]{HealAmount} {GLOBAL.TemporaryHitPointConcept.Hyperlink}[/bulletlist]"
@@ -55556,10 +55556,10 @@ msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1431@BODY_LORE"
 msgstr "Não demora muito para o prisioneiro falar: \"O que você teria feito, {PlayerLeader}? Se suas pastagens, seu gado e seus parentes fossem envenenados pelos Desfeitos? O que você teria feito se visse seus filhos morrerem de sede ou loucura? Talvez devêssemos ser julgados por nossas ações—mas você não é quem deve passar esse julgamento.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1431@BUTTON_0"
-msgstr "Poupe a vida de <<o:{EventUnit}>> em troca de parte do butim de <<o:{EventUnit}>>. [gold/]"
+msgstr "Poupe a vida de <<o:{EventUnit}>> em troca de parte do saque de <<o:{EventUnit}>>. [gold/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1431@BUTTON_1"
-msgstr "Execute <<P:{EventUnit}>> [evilact/] por todo o butim de <<o:{EventUnit}>>. [gold/] [item/]"
+msgstr "Execute <<P:{EventUnit}>> [evilact/] por todo o saque de <<o:{EventUnit}>>. [gold/] [item/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1431@BUTTON_2"
 msgstr "\"Se são pastagens verdes [food/] que você busca, encontrará sob meu governo.\" [unit/]"
@@ -67438,10 +67438,10 @@ msgid "DLC@WAYSOFWAR@STORY_EVENT@1194_1283@BODY_HEADER@HERO_IS_PLAYERLE"
 msgstr "Ao entrar no(a) {EventStructure}, ele(a) parece comum, mas não demora para encontrar uma parede simples marcada com um símbolo."
 
 msgid "DLC@WAYSOFWAR@STORY_EVENT@1194_1283@BODY_LORE"
-msgstr "{EventHero.FirstName} reconhece o símbolo como um conjunto de dados. Porém, atrás da porta, há apenas um beco sem saída, com uma frase entalhada na parede: \"Cuidado com a tumba dos ladrões sem nome;[br/]Pois negaram até à morte o que lhe era devido;[br/]Que se engasguem com a poeira de seu butim;[br/]E que o descanso da morte sempre os iluda.\""
+msgstr "{EventHero.FirstName} reconhece o símbolo como um conjunto de dados. Porém, atrás da porta, há apenas um beco sem saída, com uma frase entalhada na parede: \"Cuidado com a tumba dos ladrões sem nome;[br/]Pois negaram até à morte o que lhe era devido;[br/]Que se engasguem com a poeira de seu saque;[br/]E que o descanso da morte sempre os iluda.\""
 
 msgid "DLC@WAYSOFWAR@STORY_EVENT@1194_1283@BODY_LORE@HERO_IS_PLAYERLE"
-msgstr "Você reconhece o símbolo como um conjunto de dados. Porém, atrás da porta, há apenas um beco sem saída, com uma frase entalhada na parede: \"Cuidado com a tumba dos ladrões sem nome;[br/]Pois negaram até à morte o que lhe era devido;[br/]Que se engasguem com a poeira de seu butim;[br/]E que o descanso da morte sempre os iluda.\""
+msgstr "Você reconhece o símbolo como um conjunto de dados. Porém, atrás da porta, há apenas um beco sem saída, com uma frase entalhada na parede: \"Cuidado com a tumba dos ladrões sem nome;[br/]Pois negaram até à morte o que lhe era devido;[br/]Que se engasguem com a poeira de seu saque;[br/]E que o descanso da morte sempre os iluda.\""
 
 msgid "DLC@WAYSOFWAR@STORY_EVENT@1194_1283@BUTTON_0"
 msgstr "\"Derrubem a muralha, subjugaremos qualquer resistência!\""
@@ -117374,7 +117374,7 @@ msgid "STORY_EVENT@1122_95@BODY_HEADER"
 msgstr "\"{PlayerLeader.TitleName}!\" Seu [hyperlink,GLOBAL.HeroConcept]<<EventHero{hero/heroine}>>[/hyperlink] {EventHero.Name} se ajoelha diante de você, angustiado. \"Meu pequeno <<EventUnit{brother/sister}>>! <<Cp:EventUnit>> saiu em busca de pedras preciosas, mas nunca voltou!\""
 
 msgid "STORY_EVENT@1122_95@BODY_LORE"
-msgstr "\"<<Cp:EventUnit>> migrou para {EventCity} quando você me recrutou. <<Cp:EventUnit>> tem prospectado pedras e metais preciosos desde que <<p:EventUnit>> era um pequeno <<EventUnit{boy/girl}>>, carregando uma vara de rabdomancia enorme. Recentemente, um {EventStructure} distante chamou a atenção <<o:EventUnit>>. Normalmente, meu <<EventUnit{brother/sister}>> retorna com um bom butim em três dias. Hoje é o oitavo dia desde que <<p:EventUnit>> partiu.\" <<G:eyes^n,EventHero>> ficam enevoados."
+msgstr "\"<<Cp:EventUnit>> migrou para {EventCity} quando você me recrutou. <<Cp:EventUnit>> tem prospectado pedras e metais preciosos desde que <<p:EventUnit>> era um pequeno <<EventUnit{boy/girl}>>, carregando uma vara de rabdomancia enorme. Recentemente, um {EventStructure} distante chamou a atenção <<o:EventUnit>>. Normalmente, meu <<EventUnit{brother/sister}>> retorna com um bom saque em três dias. Hoje é o oitavo dia desde que <<p:EventUnit>> partiu.\" <<G:eyes^n,EventHero>> ficam enevoados."
 
 msgid "STORY_EVENT@1122_95@BUTTON_0"
 msgstr "\"Vou procurar seu <<EventUnit{brother/sister}>>, {EventHero.FirstName}. Tenho certeza de que <<p:EventUnit>> está bem.\""
