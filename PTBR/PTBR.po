@@ -52298,22 +52298,22 @@ msgid "DLC@RISEFROMRUIN@CITYUPGRADES_STRATEGIC@NOMAD_CITY_PROVINCE_BASE_4@NAME"
 msgstr "Prefeitura IV: Ponte do Pínnaculo"
 
 msgid "DLC@RISEFROMRUIN@CITYUPGRADES_STRATEGIC@PROVINCE_IMPROVEMENT@SCAVENGING_CAMP@DESCRIPTION"
-msgstr "[bulletlist][bullet/]+{GoldIncome} {GLOBAL.GoldConcept.Hyperlink}.[bullet/]+{BonusPerNode} {GLOBAL.GoldConcept.Hyperlink} for this and each adjacent province containing a {GLOBAL.NodeConcept.Hyperlink}.[bullet/]Counts as a {GLOBAL.MineConcept.Hyperlink}.[/bulletlist]"
+msgstr "[bulletlist][bullet/]+{GoldIncome} {GLOBAL.GoldConcept.Hyperlink}.[bullet/]+{BonusPerNode} {GLOBAL.GoldConcept.Hyperlink} para esta e cada província adjacente contendo um {GLOBAL.NodeConcept.Hyperlink}.[bullet/]Conta como uma {GLOBAL.MineConcept.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@CITYUPGRADES_STRATEGIC@PROVINCE_IMPROVEMENT@SCAVENGING_CAMP@NAME"
 msgstr "[mine/] Acampamento de Catação"
 
 msgid "DLC@RISEFROMRUIN@CITYUPGRADES_STRATEGIC@PROVINCE_IMPROVEMENT@WARCAMP@DESCRIPTION"
-msgstr "[bulletlist][bullet/]+{UnitProdbonus} {GLOBAL.UnitProductionConcept.Hyperlink}.[bullet/]{GLOBAL.PillagingConcept.Hyperlink} adjacent provinces takes -{DurationReduction} <<m:{GLOBAL.TurnConcept.Hyperlink}>>.[bullet/]Friendly units in this and adjacent provinces gain +{amount} {GLOBAL.HitPointConcept.Hyperlink} regeneration per {GLOBAL.WorldMapConcept.Hyperlink} {GLOBAL.TurnConcept}.[bullet/]Counts as a {GLOBAL.ForesterConcept.Hyperlink}.[/bulletlist]"
+msgstr "[bulletlist][bullet/]+{UnitProdbonus} {GLOBAL.UnitProductionConcept.Hyperlink}.[bullet/]{GLOBAL.PillagingConcept.Hyperlink} províncias adjacentes leva -{DurationReduction} <<m:{GLOBAL.TurnConcept.Hyperlink}>>.[bullet/]Unidades amigáveis nesta e em províncias adjacentes ganham +{amount} {GLOBAL.HitPointConcept.Hyperlink} de regeneração por {GLOBAL.WorldMapConcept.Hyperlink} {GLOBAL.TurnConcept}.[bullet/]Conta como um {GLOBAL.ForesterConcept.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@CITYUPGRADES_STRATEGIC@PROVINCE_IMPROVEMENT@WARCAMP@DISPLAY"
-msgstr "Friendly units in this and adjacent provinces [hyperlink,GLOBAL.WorldMapRegeneration]regenerate[/hyperlink] +{RegenBonus} <<m:{GLOBAL.HitPointConcept.Hyperlink}>> per {GLOBAL.TurnConcept.Hyperlink}."
+msgstr "Unidades amigáveis nesta e em províncias adjacentes [hyperlink,GLOBAL.WorldMapRegeneration]regeneram[/hyperlink] +{RegenBonus} <<m:{GLOBAL.HitPointConcept.Hyperlink}>> por {GLOBAL.TurnConcept.Hyperlink}."
 
 msgid "DLC@RISEFROMRUIN@CITYUPGRADES_STRATEGIC@PROVINCE_IMPROVEMENT@WARCAMP@NAME"
 msgstr "[forester/] Acampamento de Guerra"
 
 msgid "DLC@RISEFROMRUIN@CITYUPGRADES_STRATEGIC@RAIDER_TENTS@DESCRIPTION"
-msgstr "[bulletlist][bullet/]+{BaseFoodIncome} {GLOBAL.FoodConcept.Hyperlink}[/bulletlist][br/]While this city shares a border with another Empire or Free City:[bulletlist][bullet/]+{GoldIncome} {GLOBAL.GoldConcept.Hyperlink}[bullet/]+{FoodIncome} {GLOBAL.FoodConcept.Hyperlink}[/bulletlist]"
+msgstr "[bulletlist][bullet/]+{BaseFoodIncome} {GLOBAL.FoodConcept.Hyperlink}[/bulletlist][br/]Enquanto esta cidade faz fronteira com outro Império ou Cidade Livre:[bulletlist][bullet/]+{GoldIncome} {GLOBAL.GoldConcept.Hyperlink}[bullet/]+{FoodIncome} {GLOBAL.FoodConcept.Hyperlink}[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@CITYUPGRADES_STRATEGIC@RAIDER_TENTS@INCOME_NAME"
 msgstr "Tendas de Saqueadores - Adjacente a domínio inimigo"
@@ -52328,19 +52328,19 @@ msgid "DLC@RISEFROMRUIN@CITYUPGRADES_STRATEGIC@SALVAGE_SHOP@NAME"
 msgstr "Loja de Sucata"
 
 msgid "DLC@RISEFROMRUIN@CITYUPGRADES_STRATEGIC@SCAVENGER_VAULT@COMBAT_PROPERTY_DESCRIPTION"
-msgstr "At the start of combat, {AmountTargets} friendly units gain {GLOBAL.PROPERTIES.LOOTED_POWER.Hyperlink}."
+msgstr "No início do combate, {AmountTargets} unidades amigáveis ganham {GLOBAL.PROPERTIES.LOOTED_POWER.Hyperlink}."
 
 msgid "DLC@RISEFROMRUIN@CITYUPGRADES_STRATEGIC@SCAVENGER_VAULT@DESCRIPTION"
-msgstr "[bulletlist][bullet/]+{ProductionIncome} {GLOBAL.StructureProductionConcept.Hyperlink}[bullet/]At the start of combat in this Domain, {AmountTargets} friendly units gain {GLOBAL.PROPERTIES.LOOTED_POWER.Hyperlink}[/bulletlist]"
+msgstr "[bulletlist][bullet/]+{ProductionIncome} {GLOBAL.StructureProductionConcept.Hyperlink}[bullet/]No início do combate neste Domínio, {AmountTargets} unidades amigáveis ganham {GLOBAL.PROPERTIES.LOOTED_POWER.Hyperlink}[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@CITYUPGRADES_STRATEGIC@SCAVENGER_VAULT@NAME"
 msgstr "Cofre de Catação"
 
 msgid "DLC@RISEFROMRUIN@CITYUPGRADES_STRATEGIC@SENTRY_NESTS@DESCRIPTION"
-msgstr "[bulletlist][bullet/]Grants {number} <<m:{GLOBAL.UNITS.STRIDER.Hyperlink}>> on the defender's side when fighting a defensive {GLOBAL.SiegeConcept.Hyperlink}.[/bulletlist]"
+msgstr "[bulletlist][bullet/]Concede {number} <<m:{GLOBAL.UNITS.STRIDER.Hyperlink}>> no lado do defensor ao lutar em um {GLOBAL.SiegeConcept.Hyperlink} defensivo.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@CITYUPGRADES_STRATEGIC@SENTRY_NESTS@EFFECT"
-msgstr "Grants {number} <<m:{GLOBAL.UNITS.STRIDER.Hyperlink}>> on the defender's side when fighting a defensive {GLOBAL.SiegeConcept.Hyperlink}."
+msgstr "Concede {number} <<m:{GLOBAL.UNITS.STRIDER.Hyperlink}>> no lado do defensor ao lutar em um {GLOBAL.SiegeConcept.Hyperlink} defensivo."
 
 msgid "DLC@RISEFROMRUIN@CITYUPGRADES_STRATEGIC@SENTRY_NESTS@NAME"
 msgstr "Ninhos de Sentinela"
@@ -52349,46 +52349,46 @@ msgid "DLC@RISEFROMRUIN@CITYUPGRADES_STRATEGIC@TROPHY_STORES@DESCRIPTION"
 msgstr "[bulletlist][bullet/]+{BaseFoodIncome} {GLOBAL.FoodConcept.Hyperlink}[/bulletlist][br/]Enquanto esta cidade compartilha uma fronteira com outro Império ou Cidade Livre:[bulletlist][bullet/]+{GoldIncome} {GLOBAL.GoldConcept.Hyperlink}[bullet/]+{FoodIncome} {GLOBAL.FoodConcept.Hyperlink}[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@CITYUPGRADES_STRATEGIC@TROPHY_STORES@NAME"
-msgstr "Trophy Stores"
+msgstr "Armazéns de Troféus"
 
 msgid "DLC@RISEFROMRUIN@COMBATPROPERTIES_TACTICAL@COMBAT_CASTERS@DESCRIPTION"
 msgstr "Todas as unidades defensivas têm {GLOBAL.PROPERTIES.MELEE_MAGE.Hyperlink} até o final da batalha."
 
 msgid "DLC@RISEFROMRUIN@COMBATPROPERTIES_TACTICAL@COMBAT_CASTERS@NAME"
-msgstr "Melee Mage Defenders"
+msgstr "Defensores Mágicos Corpo a Corpo"
 
 msgid "DLC@RISEFROMRUIN@COMBATPROPERTIES_TACTICAL@DELAYED_WORM@NAME"
-msgstr "Delayed Tremors"
+msgstr "Tremores Atrasados"
 
 msgid "DLC@RISEFROMRUIN@COMBATPROPERTIES_TACTICAL@ELEMENTAL_FRAGILITY@DESCRIPTION"
 msgstr "A primeira vez que cada unidade defensiva {GLOBAL.PROPERTIES.ELEMENTAL.Hyperlink} {GLOBAL.UnitConcept.Hyperlink} cai abaixo de {percent} de seus <<m:{GLOBAL.HitPointConcept.Hyperlink}>>:[bulletlist][bullet/]A Unidade se teletransporta até {hex} hexes longe dos atacantes.[bullet/]A Unidade se transforma em uma Unidade Elemental aleatória.[bullet/]A Unidade sofre {stack} {GLOBAL.PROPERTIES.SUNDERED_DEFENSE.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@COMBATPROPERTIES_TACTICAL@ELEMENTAL_FRAGILITY@NAME"
-msgstr "Elemental Fragility"
+msgstr "Fragilidade Elemental"
 
 msgid "DLC@RISEFROMRUIN@COMBATPROPERTIES_TACTICAL@ELEMENTAL_MAYHEM@DESCRIPTION"
 msgstr "A primeira vez que cada unidade defensiva {GLOBAL.PROPERTIES.ELEMENTAL.Hyperlink} {GLOBAL.UnitConcept.Hyperlink} cai abaixo de {percent} de seus <<m:{GLOBAL.HitPointConcept.Hyperlink}>>:[bulletlist][bullet/]A Unidade se teletransporta até {hex} hexes longe dos atacantes.[bullet/]A Unidade se transforma em uma Unidade Elemental de Nível 1 aleatória.[bullet/]A Unidade é curada em {hp} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@COMBATPROPERTIES_TACTICAL@ELEMENTAL_MAYHEM@NAME"
-msgstr "Elemental Mayhem"
+msgstr "Caos Elemental"
 
 msgid "DLC@RISEFROMRUIN@COMBATPROPERTIES_TACTICAL@FADING_SOULS@DESCRIPTION"
 msgstr "A cada {turn} <<m:{GLOBAL.TurnConcept.Hyperlink}>>, todos os corpos das unidades defensivas <<m:{GLOBAL.UnitConcept.Hyperlink}>> são ressuscitados como um {GLOBAL.UNITS.PHANTASM_WARRIOR_UNIT.Hyperlink} que morre após {turn} [turn/] Turnos."
 
 msgid "DLC@RISEFROMRUIN@COMBATPROPERTIES_TACTICAL@FADING_SOULS@NAME"
-msgstr "Fading Souls"
+msgstr "Almas Desvanecentes"
 
 msgid "DLC@RISEFROMRUIN@COMBATPROPERTIES_TACTICAL@FRACTURING_DRAGON@DESCRIPTION"
 msgstr "O {GLOBAL.UNITS.FRACTURED_DRAGON.Hyperlink} defensor deixa para trás Fraturas de Mana em cada hex alvo de seus ataques. Fraturas de Mana têm {GLOBAL.DrainingConcept.Hyperlink} e se espalham para um hex adjacente toda vez que uma Magia é lançada."
 
 msgid "DLC@RISEFROMRUIN@COMBATPROPERTIES_TACTICAL@FRACTURING_DRAGON@NAME"
-msgstr "Fracturing Wake"
+msgstr "Rastro de Fratura"
 
 msgid "DLC@RISEFROMRUIN@COMBATPROPERTIES_TACTICAL@FRIENDLY_FIRE_WORM@DESCRIPTION"
 msgstr "A cada {turn} <<m:{GLOBAL.TurnConcept.Hyperlink}>>, um raio de {radius} hexes próximo a uma unidade defensiva fica marcado por tremores.[bulletlist][bullet/]Todas as unidades atacantes <<m:{GLOBAL.UnitConcept.Hyperlink}>> sem {GLOBAL.PROPERTIES.FLYING_MOVEMENT.Hyperlink}, {GLOBAL.PROPERTIES.FLOATING_MOVEMENT.Hyperlink} ou {GLOBAL.PROPERTIES.SAND_WALK.Hyperlink} no raio sofrem {GLOBAL.PROPERTIES.SLOWED.Hyperlink} por {turn2} [turn/] Turno.[bullet/]No final do próximo Turno, todas as Unidades ainda dentro do raio são mortas.[bulletlist][bullet/]Unidades mortas dessa forma ignoram {GLOBAL.PROPERTIES.RESURGENCE.Hyperlink} e {GLOBAL.PROPERTIES.STEADFAST.Hyperlink} e não deixam um corpo para trás.[bullet/]O Líder da Expedição ainda é revivido com {hp} {GLOBAL.HitPointConcept.Hyperlink} se seu lado for vitorioso na batalha.[/bulletlist][/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@COMBATPROPERTIES_TACTICAL@FRIENDLY_FIRE_WORM@NAME"
-msgstr "Agitated Tremors"
+msgstr "Tremores Agitados"
 
 msgid "DLC@RISEFROMRUIN@COMBATPROPERTIES_TACTICAL@GIANT_WORM@DESCRIPTION"
 msgstr "A cada {turn} <<m:{GLOBAL.TurnConcept.Hyperlink}>>, um raio de {radius} hexes próximo a uma unidade atacante fica marcado por tremores.[bulletlist][bullet/]Todas as unidades atacantes <<m:{GLOBAL.UnitConcept.Hyperlink}>> sem {GLOBAL.PROPERTIES.FLYING_MOVEMENT.Hyperlink}, {GLOBAL.PROPERTIES.FLOATING_MOVEMENT.Hyperlink} ou {GLOBAL.PROPERTIES.SAND_WALK.Hyperlink} no raio sofrem {GLOBAL.PROPERTIES.SLOWED.Hyperlink} por {turn2} [turn/] Turno.[bullet/]No final do próximo [turn/] Turno, todas as Unidades ainda dentro do raio são mortas.[bulletlist][bullet/]Unidades mortas dessa forma ignoram {GLOBAL.PROPERTIES.RESURGENCE.Hyperlink} e {GLOBAL.PROPERTIES.STEADFAST.Hyperlink} e não deixam um corpo para trás.[bullet/]O Líder da Expedição ainda é revivido com {hp} {GLOBAL.HitPointConcept.Hyperlink} se seu lado for vitorioso na batalha.[/bulletlist][/bulletlist]"
@@ -52397,13 +52397,13 @@ msgid "DLC@RISEFROMRUIN@COMBATPROPERTIES_TACTICAL@GIANT_WORM@DESCRIPTION_TSR"
 msgstr "A cada {turn} <<m:{GLOBAL.TurnConcept.Hyperlink}>>, um raio de {radius} hexes próximo a uma unidade atacante fica marcado por tremores.[bulletlist][bullet/]Todas as unidades atacantes <<m:{GLOBAL.UnitConcept.Hyperlink}>> sem {GLOBAL.PROPERTIES.FLYING_MOVEMENT.Hyperlink}, {GLOBAL.PROPERTIES.FLOATING_MOVEMENT.Hyperlink} ou {GLOBAL.PROPERTIES.SAND_WALK.Hyperlink} no raio sofrem {GLOBAL.PROPERTIES.SLOWED.Hyperlink} por {turn2} [turn/] Turno.[bullet/]No final do próximo [turn/] Turno, todas as Unidades ainda dentro do raio são mortas.[bulletlist][bullet/]Unidades mortas dessa forma ignoram {GLOBAL.PROPERTIES.RESURGENCE.Hyperlink} e {GLOBAL.PROPERTIES.STEADFAST.Hyperlink} e não deixam um corpo para trás.[/bulletlist][/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@COMBATPROPERTIES_TACTICAL@GIANT_WORM@NAME"
-msgstr "Gargantuan Tremors"
+msgstr "Tremores Gigantescos"
 
 msgid "DLC@RISEFROMRUIN@COMBATPROPERTIES_TACTICAL@MOVING_SANDSTORMS@DESCRIPTION"
 msgstr "A cada {turns} <<m:{GLOBAL.TurnConcept.Hyperlink}>>, várias tempestades de areia com raio de {hex} hexes são geradas em locais aleatórios.[bulletlist][bullet/]<<m:{GLOBAL.UnitConcept.Hyperlink}>> sem {GLOBAL.PROPERTIES.SAND_WALK.Hyperlink} sofrem {GLOBAL.PROPERTIES.SLOWED.Hyperlink} e têm {chance} de sofrer {GLOBAL.PROPERTIES.BLINDED.Hyperlink} por {turn} [turn/] Turno ao passar ou terminar seu Turno em uma Tempestade de Areia.[bullet/]Tempestades de Areia duram {turns} [turn/] Turnos.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@COMBATPROPERTIES_TACTICAL@MOVING_SANDSTORMS@NAME"
-msgstr "Creeping Sandstorms"
+msgstr "Tempestades de Areia Rastejantes"
 
 msgid "DLC@RISEFROMRUIN@COMBATPROPERTIES_TACTICAL@REJUVINATING_SOULS@DESCRIPTION"
 msgstr "A cada {turn} <<m:{GLOBAL.TurnConcept.Hyperlink}>>, todos os cadáveres das unidades defensivas <<m:{GLOBAL.UnitConcept.Hyperlink}>> são ressuscitados como um {GLOBAL.UNITS.PHANTASM_WARRIOR_UNIT.Hyperlink}. Quando isso acontece, todas as unidades atacantes dentro de um raio de {radius}-hex do cadáver são curadas em {heal} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>."
