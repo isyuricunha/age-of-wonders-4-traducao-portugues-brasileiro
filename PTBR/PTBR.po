@@ -56606,364 +56606,364 @@ msgid "DLC@RISEFROMRUIN@TSR_PH@EVENT_TOOLTIP@EVOKER_INTERROGATED"
 msgstr "Você interroga o {EventStackLeader}."
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@EVENT_TOOLTIP@GOLEM_FIGHT"
-msgstr "Enter combat with the {EventAnimal} and <<o:EventAnimal>> wasteland creatures. If you defeat them, you salvage the <<m:{EventStackLeader}>>."
+msgstr "Entre em combate com o {EventAnimal} e as <<o:EventAnimal>> criaturas do deserto. Se derrotá-los, você recupera o <<m:{EventStackLeader}>>."
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@EVENT_TOOLTIP@GOLEM_REPAIRED"
-msgstr "You salvage the <<m:{EventStackLeader}>>."
+msgstr "Você recupera o <<m:{EventStackLeader}>>."
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@EVENT_TOOLTIP@HOST_FIGHT"
-msgstr "Enter combat with the {EventStackLeader} and <<o:EventStackLeader>> ghostly host. If you defeat them, you rally the host."
+msgstr "Entre em combate com o {EventStackLeader} e o <<o:EventStackLeader>> exército fantasmagórico. Se derrotá-los, você reúne o exército."
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@EVENT_TOOLTIP@MORALE_RAISED"
-msgstr "You rally the ghostly host."
+msgstr "Você reúne o exército fantasmagórico."
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@EVOKER_EVENT@ASTAL_CHECK@FAILURE"
-msgstr "The Astral pull barely reaches a stalemate with mana flowing in neither direction."
+msgstr "A atração Astral mal atinge um impasse com o mana fluindo em nenhuma direção."
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@EVOKER_EVENT@ASTAL_CHECK@HEADER"
-msgstr "Attempt to drain the {EventStackLeader}, amplifying <<o:EventStackLeader>> thirst for mana:"
+msgstr "Tente drenar o {EventStackLeader}, amplificando a <<o:EventStackLeader>> sede por mana:"
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@EVOKER_EVENT@ASTAL_CHECK@SUCCESS"
-msgstr "Tormented, the {EventStackLeader} reveals everything <<p:EventStackLeader>> knows."
+msgstr "Atormentado, o {EventStackLeader} revela tudo o que <<p:EventStackLeader>> sabe."
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@GOLEM_EVENT@CHAOS_CHECK@FAILURE"
-msgstr "The <<m:{EventStackLeader}>> merely spark."
+msgstr "Os <<m:{EventStackLeader}>> apenas faíscam."
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@GOLEM_EVENT@CHAOS_CHECK@HEADER"
-msgstr "Attempt to set the hot cores of the <<m:{EventStackLeader}>> in motion:"
+msgstr "Tente colocar os núcleos quentes dos <<m:{EventStackLeader}>> em movimento:"
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@GOLEM_EVENT@CHAOS_CHECK@SUCCESS"
-msgstr "The wasteland creatures burn to ashes."
+msgstr "As criaturas do deserto queimam até as cinzas."
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@GOLEM_EVENT@NATURE_CHECK@FAILURE"
-msgstr "The {EventAnimal} defends the <<m:EventStackLeader>> all the more ferociously."
+msgstr "O {EventAnimal} defende o <<m:EventStackLeader>> com ainda mais ferocidade."
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@GOLEM_EVENT@NATURE_CHECK@HEADER"
-msgstr "Attempt to tame the alpha {EventAnimal}:"
+msgstr "Tente domar o {EventAnimal} alfa:"
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@GOLEM_EVENT@NATURE_CHECK@SUCCESS"
-msgstr "The {EventAnimal} accepts you as <<o:EventAnimal>> <<PlayerLeader{Sire/Matriarch}>>."
+msgstr "O {EventAnimal} aceita você como <<o:EventAnimal>> <<PlayerLeader{Sire/Matriarch}>>."
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@HEADER_VICTORY"
-msgstr "You have relieved the host of the {TSR_WARLORD} from their eternal duty."
+msgstr "Você libertou o exército do {TSR_WARLORD} do seu dever eterno."
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@HEADER_VICTORY_OTHER"
-msgstr "{TSR_WINNING_PLAYER} has relieved the host of the {TSR_WARLORD} from their eternal duty!"
+msgstr "{TSR_WINNING_PLAYER} libertou o exército do {TSR_WARLORD} do seu dever eterno!"
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@HOST_EVENT@SHADOW_CHECK@FAILURE"
-msgstr "With growing dismay, the {EventStackLeader} resists your grasp."
+msgstr "Com crescente desalento, o {EventStackLeader} resiste ao seu controle."
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@HOST_EVENT@SHADOW_CHECK@HEADER"
-msgstr "Attempt to bind the spirit of the {EventStackLeader} to your dark will:"
+msgstr "Tente vincular o espírito do {EventStackLeader} à sua vontade sombria:"
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@HOST_EVENT@SHADOW_CHECK@SUCCESS"
-msgstr "The {EventStackLeader} becomes enthralled."
+msgstr "O {EventStackLeader} fica encantado."
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@NOTIFICATION@FINAL_OTHER_PLAYER@DESCRIPTION"
-msgstr "{TSR_WINNING_PLAYER} has vanquished the {TSR_WARLORD} and relieved <<o:TSR_WARLORD>> ghostly host from their eternal duty. <<Cp:TSR_WINNING_PLAYER>> has claimed the {TSR_RELIC} {GLOBAL.ArtifactConcept.Hyperlink} for their empire!"
+msgstr "{TSR_WINNING_PLAYER} derrotou o {TSR_WARLORD} e libertou o <<o:TSR_WARLORD>> exército fantasmagórico do seu dever eterno. <<Cp:TSR_WINNING_PLAYER>> reivindicou o {TSR_RELIC} {GLOBAL.ArtifactConcept.Hyperlink} para seu império!"
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@NOTIFICATION@FINAL_OTHER_PLAYER@HEADER"
-msgstr "Phantom Hills: Completed by {TSR_WINNING_PLAYER}!"
+msgstr "Colinas Fantasmas: Concluído por {TSR_WINNING_PLAYER}!"
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@NOTIFICATION@WARLORD_MAD@DESCRIPTION"
-msgstr "{TSR_WINNING_PLAYER} has enabled the {TSR_WARLORD} to march on {TSR_CITY_NAME}. However, searching the ruins completely maddened the {TSR_WARLORD}, branding {TSR_WINNING_PLAYER} and any other {GLOBAL.GodirLoreConcept.Hyperlink} as {GLOBAL.UnmakersLoreConcept.Hyperlink}. <<Co:TSR_WARLORD>> deranged spirit must be put to rest."
+msgstr "{TSR_WINNING_PLAYER} permitiu que o {TSR_WARLORD} marchasse sobre {TSR_CITY_NAME}. No entanto, explorar as ruínas enlouqueceu completamente o {TSR_WARLORD}, marcando {TSR_WINNING_PLAYER} e qualquer outro {GLOBAL.GodirLoreConcept.Hyperlink} como {GLOBAL.UnmakersLoreConcept.Hyperlink}. O espírito perturbado de <<Co:TSR_WARLORD>> deve ser posto em descanso."
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@NOTIFICATION@WARLORD_MAD@HEADER"
-msgstr "Phantom Hills: Host of the {TSR_WARLORD} Unleashed"
+msgstr "Colinas Fantasmagóricas: Horda do {TSR_WARLORD} Liberada"
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@OBJECTIVE_01"
-msgstr "{TSR_TROOPS_MOTIVATED}/1 Ghostly Host Rallied"
+msgstr "{TSR_TROOPS_MOTIVATED}/1 Horda Fantasmagórica Reunida"
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@OBJECTIVE_02"
-msgstr "{TSR_SIEGECRAFT_REPAIRED}/1 Siegecraft Unit Salvaged"
+msgstr "{TSR_SIEGECRAFT_REPAIRED}/1 Unidade de Cerco Recuperada"
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@OBJECTIVE_03"
-msgstr "{TSR_SPY_INTERROGATED}/1 Unmaker Spy Interrogated"
+msgstr "{TSR_SPY_INTERROGATED}/1 Espião Desfazedor Interrogado"
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@OBJECTIVE_FINAL"
-msgstr "{TSR_WARLORD_SLAIN}/1 {TSR_WARLORD} Defeated"
+msgstr "{TSR_WARLORD_SLAIN}/1 {TSR_WARLORD} Derrotado"
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@WARLORD_RACE@BIO"
-msgstr "The Forlorn Host wanders the Phantom Hills as hapless ghosts. They are bound to an ancient purpose, dating back to the wars before {GLOBAL.TheFracturingLoreConcept.Hyperlink}, which can no longer be fulfilled."
+msgstr "A Horda Desolada vagueia pelas Colinas Fantasmagóricas como fantasmas desamparados. Eles estão ligados a um propósito antigo, que remonta às guerras antes de {GLOBAL.TheFracturingLoreConcept.Hyperlink}, que não pode mais ser cumprido."
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@WARLORD_RACE@NAME"
-msgstr "Forlorn Host"
+msgstr "Horda Desolada"
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_CM@HEADER_IRRADIANT_FLARE"
-msgstr "Great Worm Lake: Irradiant Flare"
+msgstr "Lago da Grande Minhoca: Clarão Irradiante"
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_CM@HEADER_VOLATILE_FRACTURE"
-msgstr "Crackling Mesa: Volatile Fractures"
+msgstr "Meseta Estalante: Fraturas Voláteis"
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_CM@NOTIFICATION_VOLATILE_FRACTURES_DESC"
-msgstr "One of your armies inside the Great Worm Lake has been hit by the {GLOBAL.SPECIAL_OPERATIONS.IRRADIANT_FLARE.Hyperlink} spell."
+msgstr "Um de seus exércitos dentro do Lago da Grande Minhoca foi atingido pela magia {GLOBAL.SPECIAL_OPERATIONS.IRRADIANT_FLARE.Hyperlink}."
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_CM@RESEARCH_REWARD@DESC"
-msgstr "Crackling Mesa: {INT_KNOWLEDGE_TSR_RFR_CM} {GLOBAL.KnowledgeConcept.Hyperlink} gained."
+msgstr "Meseta Estalante: {INT_KNOWLEDGE_TSR_RFR_CM} {GLOBAL.KnowledgeConcept.Hyperlink} obtido."
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_CM@TOOLTIP@FRACTURED_TOWER_SPAWNED"
-msgstr "A {GLOBAL.STRUCTURES.FRACTURED_TOWER.Hyperlink} appears at the center of the region."
+msgstr "Uma {GLOBAL.STRUCTURES.FRACTURED_TOWER.Hyperlink} aparece no centro da região."
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_GWL@FRACTURED_RACE@NAME"
-msgstr "Undone Ones"
+msgstr "Desfeitos"
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_GWL@HEADER_END"
-msgstr "You have brought peace to the Great Worm Lake."
+msgstr "Você trouxe paz ao Lago da Grande Minhoca."
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_GWL@HEADER_END_OTHERS"
-msgstr "{TSR_WINNING_PLAYER} has brought peace to the Great Worm Lake."
+msgstr "{TSR_WINNING_PLAYER} trouxe paz ao Lago da Grande Minhoca."
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_GWL@HEADER_GREAT_WORM"
-msgstr "Defeat the offspring of the Great Worm before they devour everything!"
+msgstr "Derrote os descendentes da Grande Minhoca antes que eles devorem tudo!"
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_GWL@HEADER_ROAMING"
-msgstr "Beware the roaming incursions!"
+msgstr "Cuidado com as incursões vagantes!"
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_GWL@NOMAD_RACE@NAME"
-msgstr "Belligerent Nomads"
+msgstr "Nômades Beligerantes"
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_GWL@NOTE_PLAYER_WON_DESC"
-msgstr "{TSR_WINNING_PLAYER} has cleansed the Great Worm Lake. The last oasis of the realm is at peace, no battle or beast haunts it. <<Cp:TSR_WINNING_PLAYER>> has claimed the {TSR_RELIC} {GLOBAL.ArtifactConcept.Hyperlink} for their empire!"
+msgstr "{TSR_WINNING_PLAYER} purificou o Lago da Grande Minhoca. O último oásis do reino está em paz, nenhuma batalha ou besta o assombra. <<Cp:TSR_WINNING_PLAYER>> reclamou o {TSR_RELIC} {GLOBAL.ArtifactConcept.Hyperlink} para seu império!"
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_GWL@NOTE_PLAYER_WON_HEADER"
-msgstr "Great Worm Lake: Completed by {TSR_WINNING_PLAYER}!"
+msgstr "Lago da Grande Minhoca: Concluído por {TSR_WINNING_PLAYER}!"
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_GWL@OBJECTIVE_FRACTURED"
-msgstr "{TSR_NOMAD_KILLED_CURRENT}/{TSR_RFR_GWL_KILL_UNIT_MAX} Nomads Slain"
+msgstr "{TSR_NOMAD_KILLED_CURRENT}/{TSR_RFR_GWL_KILL_UNIT_MAX} Nômades Abatidos"
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_GWL@OBJECTIVE_GREAT_WORM"
-msgstr "{TSR_FRACTURE_BEAST_KILLED_CURRENT}/{TSR_FRACTURE_BEAST_SLAIN_MAX} Worms Slain"
+msgstr "{TSR_FRACTURE_BEAST_KILLED_CURRENT}/{TSR_FRACTURE_BEAST_SLAIN_MAX} Minhocas Abatidas"
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_GWL@OBJECTIVE_NOMADS"
-msgstr "{TSR_FRACTURED_KILLED_CURRENT}/{TSR_RFR_GWL_KILL_UNIT_MAX} Undone Slain"
+msgstr "{TSR_FRACTURED_KILLED_CURRENT}/{TSR_RFR_GWL_KILL_UNIT_MAX} Desfeitos Abatidos"
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_GWL@TOOLTIP_FRACTURED_REVEAL"
-msgstr "Reveals the positions of all Undone armies currently within the region."
+msgstr "Revela as posições de todos os exércitos Desfeitos atualmente na região."
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_GWL@TOOLTIP_NOMAD_REVEAL"
-msgstr "Reveals the positions of all Nomad armies currently within the region."
+msgstr "Revela as posições de todos os exércitos Nômades atualmente na região."
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_SOE@HEADER_VICTORY"
-msgstr "You have eradicated the source of contamination."
+msgstr "Você errou a fonte de contaminação."
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_SOE@HEADER_VICTORY_OTHERS"
-msgstr "{TSR_WINNING_PLAYER} has cleared {TSR_RFR_SOE_STRUCTURE} and eradicated the source of contamination."
+msgstr "{TSR_WINNING_PLAYER} limpou {TSR_RFR_SOE_STRUCTURE} e errou a fonte de contaminação."
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_SOE@NOTE_PLAYER_WON_DESC"
-msgstr "After clearing the {TSR_RFR_SOE_STRUCTURE}, {TSR_WINNING_PLAYER} eradicated the source of contamination."
+msgstr "Após limpar o {TSR_RFR_SOE_STRUCTURE}, {TSR_WINNING_PLAYER} errou a fonte de contaminação."
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_SOE@NOTE_PLAYER_WON_HEADER"
-msgstr "{TSR_WINNING_PLAYER} has claimed {TSR_RFR_SOE_STRUCTURE}!"
+msgstr "{TSR_WINNING_PLAYER} conquistou {TSR_RFR_SOE_STRUCTURE}!"
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_SOE@NOTIFICATION@PHASE2_DESC"
-msgstr "The {TSR_WINNING_PLAYER} found the source of the contamination: the {TSR_RFR_SOE_STRUCTURE}. Where the Unmakers tried to replicate [hyperlink,GLOBAL.TheWellLoreConcept]The Well Of Creation[/hyperlink]."
+msgstr "O {TSR_WINNING_PLAYER} encontrou a fonte da contaminação: o {TSR_RFR_SOE_STRUCTURE}. Onde os Desfazedores tentaram replicar [hyperlink,GLOBAL.TheWellLoreConcept]O Poço da Criação[/hyperlink]."
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_SOE@NOTIFICATION@PHASE2_HEADER"
-msgstr "The source of the contamination has been discovered!"
+msgstr "A fonte da contaminação foi descoberta!"
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_SOE@TOOLTIP@CONTAMINATED_SECTOR"
-msgstr "This sector is affected by {GLOBAL.PROPERTIES.TSR_RFR_SOE_MANA_SIPHON.Hyperlink}."
+msgstr "Este setor é afetado por {GLOBAL.PROPERTIES.TSR_RFR_SOE_MANA_SIPHON.Hyperlink}."
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_SOE@TOWER@NAME"
-msgstr "Fractured Tower^N"
+msgstr "Torre Fracturada^N"
 
 msgid "DLC@RISEFROMRUIN@TSR_SECTOR_PROPERTY@FAVORABLE_WINDS@DESCRIPTION"
-msgstr "Spells have an additional {amount}% chance of {GLOBAL.BackfireConcept.Hyperlink}. When they do they always have a negative effect."
+msgstr "Magias têm uma chance adicional de {amount}% de {GLOBAL.BackfireConcept.Hyperlink}. Quando isso acontece, elas sempre têm um efeito negativo."
 
 msgid "DLC@RISEFROMRUIN@TSR_SECTOR_PROPERTY@FAVORABLE_WINDS@NAME"
-msgstr "Unfavorable Winds"
+msgstr "Ventos Desfavoráveis"
 
 msgid "DLC@RISEFROMRUIN@TSR_SECTOR_PROPERTY@INCURSIONS@DESCRIPTION"
-msgstr "The pitched battle between Nomads and Undone ones is chaotic and restless. Incursions from both sides will roam the oasis, and they may identify you as an enemy."
+msgstr "A batalha acirrada entre Nômades e Desfeitos é caótica e inquieta. Incursões de ambos os lados vagarão pelo oásis, e eles podem identificá-lo como um inimigo."
 
 msgid "DLC@RISEFROMRUIN@TSR_SECTOR_PROPERTY@IRRADIANT_FLARE@DESCRIPTION"
-msgstr "The area is heavily contaminated. At the beginning of each strategic turn, every non-{GLOBAL.MarauderConcept.Hyperlink} {GLOBAL.ArmyConcept.Hyperlink} in this sector has a {IntChance}% chance of being hit by the {GLOBAL.SPECIAL_OPERATIONS.IRRADIANT_FLARE.Hyperlink} {GLOBAL.SpellConcept.Hyperlink}."
+msgstr "A área está fortemente contaminada. No início de cada turno estratégico, todo {GLOBAL.ArmyConcept.Hyperlink} não-{GLOBAL.MarauderConcept.Hyperlink} neste setor tem uma chance de {IntChance}% de ser atingido pelo {GLOBAL.SPECIAL_OPERATIONS.IRRADIANT_FLARE.Hyperlink} {GLOBAL.SpellConcept.Hyperlink}."
 
 msgid "DLC@RISEFROMRUIN@TSR_SECTOR_PROPERTY@IRRADIANT_FLARE@NAME"
-msgstr "Irradiant Flare"
+msgstr "Clareão Irradiante"
 
 msgid "DLC@RISEFROMRUIN@TSR_SECTOR_PROPERTY@MANA_DEFICIENCY@DESCRIPTION"
-msgstr "This unit suffers {amount} of [damagePhysical/] [hyperlink,GLOBAL.PhysicalDamageConcept]Physical Damage[/hyperlink] at the end of its {GLOBAL.TurnConcept.Hyperlink} if no {GLOBAL.CombatSpellConcept.Hyperlink} was cast this turn.[br/][br/]When a friendly {GLOBAL.CombatSpellConcept.Hyperlink} is cast, this unit gains {GLOBAL.PROPERTIES.NEW_LIFE_STEAL.Hyperlink} for {buffduration} {GLOBAL.TurnConcept.Hyperlink}."
+msgstr "Esta unidade sofre {amount} de [damagePhysical/] [hyperlink,GLOBAL.PhysicalDamageConcept]Dano Físico[/hyperlink] no final de seu {GLOBAL.TurnConcept.Hyperlink} se nenhuma {GLOBAL.CombatSpellConcept.Hyperlink} foi lançada neste turno.[br/][br/]Quando uma {GLOBAL.CombatSpellConcept.Hyperlink} aliada é lançada, esta unidade ganha {GLOBAL.PROPERTIES.NEW_LIFE_STEAL.Hyperlink} por {buffduration} {GLOBAL.TurnConcept.Hyperlink}."
 
 msgid "DLC@RISEFROMRUIN@TSR_SECTOR_PROPERTY@MANA_DEFICIENCY@NAME"
-msgstr "Mana Deficiency"
+msgstr "Deficiência de Mana"
 
 msgid "DLC@RISEFROMRUIN@TSR_SECTOR_PROPERTY@MANA_SIPHON@DESCRIPTION"
-msgstr "{GLOBAL.CombatSpellConcept.Hyperlink} cost {amount}% more {GLOBAL.ManaConcept.Hyperlink} and {GLOBAL.SoulConcept.Hyperlink}."
+msgstr "{GLOBAL.CombatSpellConcept.Hyperlink} custa {amount}% mais {GLOBAL.ManaConcept.Hyperlink} e {GLOBAL.SoulConcept.Hyperlink}."
 
 msgid "DLC@RISEFROMRUIN@TSR_SECTOR_PROPERTY@MANA_SIPHON@NAME"
-msgstr "Essence Siphon"
+msgstr "Sifão de Essência"
 
 msgid "DLC@RISEFROMRUIN@TSR_SECTOR_PROPERTY@VOLATILE_FRACTURE@DESCRIPTION"
-msgstr "During a combat in this region, the battlefield will be struck by the {GLOBAL.SPECIAL_OPERATIONS.TEAR_FRACTURE.Hyperlink} spell every other turn."
+msgstr "Durante um combate nesta região, o campo de batalha será atingido pela magia {GLOBAL.SPECIAL_OPERATIONS.TEAR_FRACTURE.Hyperlink} a cada dois turnos."
 
 msgid "DLC@RISEFROMRUIN@TSR_SECTOR_PROPERTY@VOLATILE_FRACTURE@NAME"
-msgstr "Volatile Fractures"
+msgstr "Fraturas Voláteis"
 
 msgid "DLC@RISEFROMRUIN@TSR_SOE@OBJECTIVE_01"
-msgstr "{TSR_SOE_TOWER_EXCAVATED}/1 Contamination Source Found"
+msgstr "{TSR_SOE_TOWER_EXCAVATED}/1 Fonte de Contaminação Encontrada"
 
 msgid "DLC@RISEFROMRUIN@TSR_SOE@OBJECTIVE_02"
-msgstr "0/1 {GLOBAL.STRUCTURES.FRACTURED_TOWER.Hyperlink} Shut down."
+msgstr "0/1 {GLOBAL.STRUCTURES.FRACTURED_TOWER.Hyperlink} desativado."
 
 msgid "DLC@RISEFROMRUIN@TSR_SOE@TOOLTIP@OTHER_PROGESS_FINAL"
-msgstr "Another player has already found the source of the contamination."
+msgstr "Outro jogador já encontrou a fonte da contaminação."
 
 msgid "DLC@RISEFROMRUIN@TSR_SOE@TRIBE_NAME_01"
-msgstr "Errant Star"
+msgstr "Estrela Errante"
 
 msgid "DLC@RISEFROMRUIN@TSR_SOE@TRIBE_NAME_02"
-msgstr "Dark Sand"
+msgstr "Areia Escura"
 
 msgid "DLC@RISEFROMRUIN@TSR_SOE@TRIBE_NAME_03"
-msgstr "Lost Oasis"
+msgstr "Oásis Perdido"
 
 msgid "DLC@RISEFROMRUIN@TSR_SOE@TRIBE_NAME_04"
-msgstr "Dunebreach"
+msgstr "Rompe-Dunas"
 
 msgid "DLC@RISEFROMRUIN@TSR_SOE@TRIBE_NAME_05"
-msgstr "Wind's Watch"
+msgstr "Vigia do Vento"
 
 msgid "DLC@RISEFROMRUIN@TSR_SOE@TRIBE_NAME_06"
-msgstr "Vigils of the Shatter"
+msgstr "Vigílias do Estilhaço"
 
 msgid "DLC@RISEFROMRUIN@TSR_SOE@TRIBE_NAME_07"
-msgstr "Sand Sentinel"
+msgstr "Sentinela de Areia"
 
 msgid "DLC@RISEFROMRUIN@TSR_SOE@WONDER_PROPERTY@DEBUFF_NAME"
-msgstr "Mana Deficiency: No spells cast"
+msgstr "Deficiência de Mana: Nenhuma magia lançada"
 
 msgid "DLC@RISEFROMRUIN@TSR_SOE@WONDER_PROPERTY@DESCRIPTION"
-msgstr "This unit suffers {amount} of [damagePhysical/] [hyperlink,GLOBAL.PhysicalDamageConcept]Physical Damage[/hyperlink] at the end of its {GLOBAL.TurnConcept.Hyperlink} if no {GLOBAL.CombatSpellConcept.Hyperlink} was cast this turn.[br/][br/]When a friendly {GLOBAL.CombatSpellConcept.Hyperlink} is cast, this unit gains {GLOBAL.PROPERTIES.NEW_LIFE_STEAL.Hyperlink} for {buffduration} {GLOBAL.TurnConcept.Hyperlink}."
+msgstr "Esta unidade sofre {amount} de [damagePhysical/] [hyperlink,GLOBAL.PhysicalDamageConcept]Dano Físico[/hyperlink] no final de seu {GLOBAL.TurnConcept.Hyperlink} se nenhuma {GLOBAL.CombatSpellConcept.Hyperlink} foi lançada neste turno.[br/][br/]Quando uma {GLOBAL.CombatSpellConcept.Hyperlink} aliada é lançada, esta unidade ganha {GLOBAL.PROPERTIES.NEW_LIFE_STEAL.Hyperlink} por {buffduration} {GLOBAL.TurnConcept.Hyperlink}."
 
 msgid "DLC@RISEFROMRUIN@TSR_SOE@WONDER_PROPERTY@NAME"
-msgstr "Mana Deficiency"
+msgstr "Deficiência de Mana"
 
 msgid "DLC@RISEFROMRUIN@TUTORIAL@NOMADS@DESCRIPTION"
-msgstr "Tutorial on the Nomad culture"
+msgstr "Tutorial sobre a cultura Nômade"
 
 msgid "DLC@RISEFROMRUIN@TUTORIAL@NOMADS@TITLE"
-msgstr "Overharvesting"
+msgstr "Superexploração"
 
 msgid "DLC@RISEFROMRUIN@TUTORIAL@NOMAD_CONQUERORS@DESCRIPTION"
-msgstr "Tutorial on the Nomad Conquerors culture"
+msgstr "Tutorial sobre a cultura dos Conquistadores Nômades"
 
 msgid "DLC@RISEFROMRUIN@TUTORIAL@NOMAD_CONQUERORS@PAGE02@DESCRIPTION"
-msgstr "When the <<m:{GLOBAL.NodeConcept.Hyperlink}>> in reach of a Nomad city are depleted, the city may want to relocate.[br/][br/]Nomad Cities can pack up into a {GLOBAL.NomadSettlerConcept.Hyperlink} and move to a new location."
+msgstr "Quando os <<m:{GLOBAL.NodeConcept.Hyperlink}>> ao alcance de uma cidade Nômade são esgotados, a cidade pode querer se realocar.[br/][br/]Cidades Nômades podem se empacotar em um {GLOBAL.NomadSettlerConcept.Hyperlink} e se mover para um novo local."
 
 msgid "DLC@RISEFROMRUIN@TUTORIAL@NOMAD_CONQUERORS@PAGE02@INSTRUCTIONS"
-msgstr "Conquerors in particular prefer settling their cities near hostile {GLOBAL.DomainConcept.Hyperlink}, as they gain additional benefit from annexing hostile provinces through {GLOBAL.AggressiveExpansionConcept.Hyperlink}."
+msgstr "Conquistadores, em particular, preferem estabelecer suas cidades perto de {GLOBAL.DomainConcept.Hyperlink} hostis, pois obtêm benefícios adicionais ao anexar províncias hostis por meio de {GLOBAL.AggressiveExpansionConcept.Hyperlink}."
 
 msgid "DLC@RISEFROMRUIN@TUTORIAL@NOMAD_CONQUERORS@TITLE"
-msgstr "Nomad Conqueror Cities"
+msgstr "Cidades Conquistadoras Nômades"
 
 msgid "DLC@RISEFROMRUIN@TUTORIAL@NOMAD_SCAVENGER@DESCRIPTION"
-msgstr "Tutorial on the Nomad Scavengers culture"
+msgstr "Tutorial sobre a cultura dos Catadores Nômades"
 
 msgid "DLC@RISEFROMRUIN@TUTORIAL@NOMAD_SCAVENGER@TITLE"
-msgstr "Nomad Scavenger Cities"
+msgstr "Cidades Catadoras Nômades"
 
 msgid "DLC@RISEFROMRUIN@TUTORIAL@NOMAD_SCAVENGERS@PAGE02@DESCRIPTION"
-msgstr "When the <<m:{GLOBAL.NodeConcept.Hyperlink}>> in reach of a Nomad city are depleted, the city may want to move to a new location.[br/][br/]Nomad Cities can pack up into a {GLOBAL.NomadSettlerConcept.Hyperlink} and move to a new location."
+msgstr "Quando os <<m:{GLOBAL.NodeConcept.Hyperlink}>> ao alcance de uma cidade Nômade são esgotados, a cidade pode querer se mover para um novo local.[br/][br/]Cidades Nômades podem se empacotar em um {GLOBAL.NomadSettlerConcept.Hyperlink} e se mover para um novo local."
 
 msgid "DLC@RISEFROMRUIN@TUTORIAL@NOMAD_SCAVENGERS@PAGE02@INSTRUCTIONS"
-msgstr "Scavengers in particular seek out <<m:{GLOBAL.AncientWonderConcept.Hyperlink}>> to exploit {GLOBAL.WonderScavengingConcept.Hyperlink}. Seek out locations near <<m:{GLOBAL.AncientWonderConcept.Hyperlink}>> with plenty of <<m:{GLOBAL.NodeConcept.Hyperlink}>>."
+msgstr "Catadores, em particular, buscam <<m:{GLOBAL.AncientWonderConcept.Hyperlink}>> para explorar {GLOBAL.WonderScavengingConcept.Hyperlink}. Procure locais perto de <<m:{GLOBAL.AncientWonderConcept.Hyperlink}>> com muitos <<m:{GLOBAL.NodeConcept.Hyperlink}>>."
 
 msgid "DLC@RISEFROMRUIN@TUTORIAL@OVERHARVESTING@PAGE01@DESCRIPTION"
-msgstr "Nomad culture cities passively [hyperlink,GLOBAL.OverharvestingConcept]Overharvest[/hyperlink] <<m:{GLOBAL.NodeConcept.Hyperlink}>> in their {GLOBAL.DomainConcept.Hyperlink}.[br/][br/]Once this process is complete, the {GLOBAL.NodeConcept.Hyperlink} is depleted and the city gains an {GLOBAL.EssenceConcept.Hyperlink} that grants income based on the Node or {GLOBAL.MagicMaterialConcept.Hyperlink} that was harvested."
+msgstr "Cidades da cultura Nômade colhem excessivamente [hyperlink,GLOBAL.OverharvestingConcept]Overharvest[/hyperlink] <<m:{GLOBAL.NodeConcept.Hyperlink}>> em seu {GLOBAL.DomainConcept.Hyperlink}.[br/][br/]Uma vez que este processo é concluído, o {GLOBAL.NodeConcept.Hyperlink} é esgotado e a cidade ganha uma {GLOBAL.EssenceConcept.Hyperlink} que concede renda baseada no Nó ou {GLOBAL.MagicMaterialConcept.Hyperlink} que foi colhido."
 
 msgid "DLC@RISEFROMRUIN@TUTORIAL@OVERHARVESTING@PAGE01@INSTRUCTIONS"
-msgstr "Overharvesting of a node can be accelerated using {GLOBAL.ImperiumConcept.Hyperlink} proportionate to the time remaining."
+msgstr "A colheita excessiva de um nó pode ser acelerada usando {GLOBAL.ImperiumConcept.Hyperlink} proporcional ao tempo restante."
 
 msgid "DLC@RISEFROMRUIN@TUTORIAL@OVERHARVESTING@TITLE"
-msgstr "Overharvesting"
+msgstr "Colheita Excessiva"
 
 msgid "DLC@RISEFROMRUIN@UNITS_WILDLIFE@ETHEREALMANASTARVEDSCORPION@NAME"
-msgstr "Ethereal Mana Starved Scorpion"
+msgstr "Escorpião Etéreo Faminto por Mana"
 
 msgid "DLC@RISEFROMRUIN@UNITS_WILDLIFE@FRACTURED_DRAGON@NAME"
-msgstr "Fractured Dragon^n"
+msgstr "Dragão Fracturado^n"
 
 msgid "DLC@RISEFROMRUIN@UNITS_WILDLIFE@FRACTURED_EVOKER@NAME"
-msgstr "Fractured Evoker^m"
+msgstr "Invocador Fracturado^m"
 
 msgid "DLC@RISEFROMRUIN@UNITS_WILDLIFE@FRACTURED_SCORPION@NAME"
-msgstr "Fractured Scorpion^n"
+msgstr "Escorpião Fracturado^n"
 
 msgid "DLC@RISEFROMRUIN@UNITS_WILDLIFE@FRACTURED_SERPENT@NAME"
-msgstr "Fractured Serpent^n"
+msgstr "Serpente Fracturada^n"
 
 msgid "DLC@RISEFROMRUIN@UNITS_WILDLIFE@FRACTURED_UNICORN@NAME"
-msgstr "Fractured Unicorn^n"
+msgstr "Unicórnio Fracturado^n"
 
 msgid "DLC@RISEFROMRUIN@UNITS_WILDLIFE@FRACTURED_WORM@NAME"
-msgstr "Fractured Worm^n"
+msgstr "Vermes Fraturados^n"
 
 msgid "DLC@RISEFROMRUIN@UNITS_WILDLIFE@SANDWORM@NAME"
-msgstr "Sand Worm^n"
+msgstr "Vermes de Areia^n"
 
 msgid "DLC@RISEFROMRUIN@UNMAKER_RACE@NAME"
 msgstr "{GLOBAL.UnmakersLoreConcept.Hyperlink}"
 
 msgid "DLC@RISEFROMRUIN@WEAPON@NOMAD_BOW@NAME"
-msgstr "Nomad Bow^n"
+msgstr "Arco Nômade^n"
 
 msgid "DLC@RISEFROMRUIN@WILDLIFE_UNITPROPERTIES@FRACTURED@ABILITY01@NAME"
-msgstr "Disrupting Bolts"
+msgstr "Projéteis Perturbadores"
 
 msgid "DLC@RISEFROMRUIN@WILDLIFE_UNITPROPERTIES@FRACTURED@ABILITY02@CHAMPION_DESCRIPTION"
-msgstr "Mana Drain:[bulletlist][bullet/]Base damage increases to {MANA_DRAIN_UNIT_DAMAGE>DAMAGE>Physical} {GLOBAL.PhysicalDamageConcept.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.DISRUPTION_TOOLTIP_PROPERTY.Hyperlink} and {GLOBAL.PROPERTIES.MANA_STARVED.Hyperlink} chance increased to {MANA_DRAINED_RESISTANCE>ResolvedStrength}%[/bulletlist]"
+msgstr "Dreno de Mana:[bulletlist][bullet/]Dano base aumenta para {MANA_DRAIN_UNIT_DAMAGE>DAMAGE>Physical} {GLOBAL.PhysicalDamageConcept.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.DISRUPTION_TOOLTIP_PROPERTY.Hyperlink} e chance de {GLOBAL.PROPERTIES.MANA_STARVED.Hyperlink} aumentada para {MANA_DRAINED_RESISTANCE>ResolvedStrength}%[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@WILDLIFE_UNITPROPERTIES@FRACTURED@ABILITY02@CHAMPION_NAME"
-msgstr "Champion Mana Drain"
+msgstr "Dreno de Mana do Campeão"
 
 msgid "DLC@RISEFROMRUIN@WILDLIFE_UNITPROPERTIES@FRACTURED@ABILITY02@DESCRIPTION"
-msgstr "Target unit:[bulletlist][bullet/]Sustains damage.[bullet/]Has a base {DISRUPTION_RESISTANCE>ResolvedStrength}% chance of becoming {GLOBAL.PROPERTIES.DISRUPTION_TOOLTIP_PROPERTY.Hyperlink} for {DISRUPTION_DISABLE>Duration} <<m:{GLOBAL.TurnConcept}>>.[bullet/]Has a base {MANA_DRAINED_RESISTANCE>ResolvedStrength}% chance of becoming {GLOBAL.PROPERTIES.MANA_DRAINED.Hyperlink} for {MANA_DRAINED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>."
+msgstr "Unidade alvo:[bulletlist][bullet/]Sofre dano.[bullet/]Tem uma chance base de {DISRUPTION_RESISTANCE>ResolvedStrength}% de ficar {GLOBAL.PROPERTIES.DISRUPTION_TOOLTIP_PROPERTY.Hyperlink} por {DISRUPTION_DISABLE>Duration} <<m:{GLOBAL.TurnConcept}>>.[bullet/]Tem uma chance base de {MANA_DRAINED_RESISTANCE>ResolvedStrength}% de ficar {GLOBAL.PROPERTIES.MANA_DRAINED.Hyperlink} por {MANA_DRAINED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>."
 
 msgid "DLC@RISEFROMRUIN@WILDLIFE_UNITPROPERTIES@FRACTURED@ABILITY02@NAME"
-msgstr "Mana Drain"
+msgstr "Dreno de Mana"
 
 msgid "DLC@RISEFROMRUIN@WILDLIFE_UNITPROPERTIES@FRACTURED@ABILITY03@DESCRIPTION"
-msgstr "Target unit sustains damage. Enter {GLOBAL.DefenseModeConcept.Hyperlink}."
+msgstr "Unidade alvo sofre dano. Entre em {GLOBAL.DefenseModeConcept.Hyperlink}."
 
 msgid "DLC@RISEFROMRUIN@WILDLIFE_UNITPROPERTIES@FRACTURED@ABILITY03@NAME"
-msgstr "Disrupting Sting"
+msgstr "Picada Perturbadora"
 
 msgid "DLC@RISEFROMRUIN@WILDLIFE_UNITPROPERTIES@FRACTURED@ABILITY04@DESCRIPTION"
-msgstr "Move to target hex."
+msgstr "Mover para o hex alvo."
 
 msgid "DLC@RISEFROMRUIN@WILDLIFE_UNITPROPERTIES@FRACTURED@ABILITY04@NAME"
-msgstr "Phase Shift"
+msgstr "Deslocamento de Fase"
 
 msgid "DLC@RISEFROMRUIN@WILDLIFE_UNITPROPERTIES@FRACTURED@ABILITY05@DESCRIPTION"
-msgstr "Enemy units in a {SEVERING_TREMOR_TARGETER>AREA>Radius}-hex radius:[bulletlist][bullet/]Sustain damage.[bullet/]{GLOBAL.PROPERTIES.MAGIC_ORIGIN.Hyperlink} units sustain double damage.[/bulletlist]"
+msgstr "Unidades inimigas em um raio de {SEVERING_TREMOR_TARGETER>AREA>Radius}-hex:[bulletlist][bullet/]Sofrem dano.[bullet/]Unidades {GLOBAL.PROPERTIES.MAGIC_ORIGIN.Hyperlink} sofrem dano duplo.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@WILDLIFE_UNITPROPERTIES@FRACTURED@ABILITY05@NAME"
-msgstr "Severing Tremor"
+msgstr "Tremor Cortante"
 
 msgid "DLC@RISEFROMRUIN@WILDLIFE_UNITPROPERTIES@FRACTURED@ABILITY06@DESCRIPTION"
-msgstr "[bulletlist][bullet/]Deal damage to all units in a {ANTIMAGIC_BREATH_TARGETER>AREA>Length}-hex cone.[bullet/]{GLOBAL.PROPERTIES.MAGIC_ORIGIN.Hyperlink} units have a base {ANTIMAGIC_BREATH_RESISTANCE_CHECK>ResolvedStrength}% chance of dieing instantly.[/bulletlist]"
+msgstr "[bulletlist][bullet/]Causa dano a todas as unidades em um cone de {ANTIMAGIC_BREATH_TARGETER>AREA>Length}-hex.[bullet/]Unidades {GLOBAL.PROPERTIES.MAGIC_ORIGIN.Hyperlink} têm uma chance base de {ANTIMAGIC_BREATH_RESISTANCE_CHECK>ResolvedStrength}% de morrer instantaneamente.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@WILDLIFE_UNITPROPERTIES@FRACTURED@ABILITY06@NAME"
-msgstr "Anti-Magic Breath"
+msgstr "Baforada Antimágica"
 
 msgid "DLC@RISEFROMRUIN@WILDLIFE_UNITPROPERTIES@FRACTURED@ABILITY07@DESCRIPTION"
-msgstr "At the start of the turn, adjacent enemy units:[bulletlist][bullet/]Sustain {DISRUPTING_AURA_DAMAGE>DAMAGE>Physical} {GLOBAL.PhysicalDamageConcept.Hyperlink}.[bullet/]Have a base {DISRUPTION_RESISTANCE>ResolvedStrength}% chance of becoming {GLOBAL.PROPERTIES.DISRUPTION_TOOLTIP_PROPERTY.Hyperlink} for {DISRUPTION_DISABLE>Duration} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist]"
+msgstr "No início do turno, unidades inimigas adjacentes:[bulletlist][bullet/]Sofrem {DISRUPTING_AURA_DAMAGE>DAMAGE>Physical} {GLOBAL.PhysicalDamageConcept.Hyperlink}.[bullet/]Têm uma chance base de {DISRUPTION_RESISTANCE>ResolvedStrength}% de ficar {GLOBAL.PROPERTIES.DISRUPTION_TOOLTIP_PROPERTY.Hyperlink} por {DISRUPTION_DISABLE>Duration} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@WILDLIFE_UNITPROPERTIES@FRACTURED@ABILITY07@NAME"
-msgstr "Disrupting Aura"
+msgstr "Aura Perturbadora"
 
 msgid "DLC@RISEFROMRUIN@WILDLIFE_UNITPROPERTIES@FRACTURED@ABILITY08@DESCRIPTION"
-msgstr "Target enemy unit:[bulletlist][bullet/]Sustains damage.[bullet/]Becomes {GLOBAL.PROPERTIES.MANA_DRAINED.Hyperlink} for {MANA_DRAINED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist][br/]On hit, all other friendly units with {GLOBAL.PROPERTIES.MANA_STARVED.Hyperlink} gain {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink} and {GLOBAL.PROPERTIES.REGENERATION.Hyperlink} for {STRENGTHENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>."
+msgstr "Unidade inimiga alvo:[bulletlist][bullet/]Sofre dano.[bullet/]Fica {GLOBAL.PROPERTIES.MANA_DRAINED.Hyperlink} por {MANA_DRAINED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist][br/]Ao acertar, todas as outras unidades amigáveis com {GLOBAL.PROPERTIES.MANA_STARVED.Hyperlink} ganham {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink} e {GLOBAL.PROPERTIES.REGENERATION.Hyperlink} por {STRENGTHENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>."
 
 msgid "DLC@RISEFROMRUIN@WILDLIFE_UNITPROPERTIES@FRACTURED@ABILITY08@NAME"
-msgstr "Mana Drain Touch"
+msgstr "Toque de Dreno de Mana"
 
 msgid "DLC@RISEFROMRUIN@WILDLIFE_UNITPROPERTIES@FRACTURED@SHARED@DESCRIPTION"
-msgstr "This unit:[bulletlist][bullet/]Gains {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink} and {GLOBAL.PROPERTIES.REGENERATION.Hyperlink} for {STRENGTHENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>:[bulletlist][bullet/]When it applies {GLOBAL.PROPERTIES.DISRUPTION_TOOLTIP_PROPERTY.Hyperlink} and {GLOBAL.PROPERTIES.MANA_DRAIN.Hyperlink}.[bullet/]When hit by a {GLOBAL.MagicConcept.Hyperlink} attack:[/bulletlist][bullet/]Cannot have Unit Enchantments or Transformations.[bullet/]Has {GLOBAL.ControlLossImmunityConcept.Hyperlink}.[/bulletlist]"
+msgstr "Esta unidade:[bulletlist][bullet/]Ganha {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink} e {GLOBAL.PROPERTIES.REGENERATION.Hyperlink} por {STRENGTHENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>:[bulletlist][bullet/]Quando aplica {GLOBAL.PROPERTIES.DISRUPTION_TOOLTIP_PROPERTY.Hyperlink} e {GLOBAL.PROPERTIES.MANA_DRAIN.Hyperlink}.[bullet/]Quando atingida por um ataque {GLOBAL.MagicConcept.Hyperlink}:[/bulletlist][bullet/]Não pode ter Encantamentos ou Transformações de Unidade.[bullet/]Tem {GLOBAL.ControlLossImmunityConcept.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@WILDLIFE_UNITPROPERTIES@FRACTURED@SHARED@NAME"
-msgstr "Mana Starved"
+msgstr "Fome de Mana"
 
 msgid "DLC@RISEFROMRUIN@WILDLIFE_UNITPROPERTIES@SAND_WORM@ABILITY01@DESCRIPTION"
 msgstr "Enemy units in a {EARTH_TREMOR_TARGETER>AREA>Radius}-hex radius sustain damage.[br/][br/]Deals double damage to obstacles."
