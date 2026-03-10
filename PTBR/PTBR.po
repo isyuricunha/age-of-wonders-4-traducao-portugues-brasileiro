@@ -53144,10 +53144,10 @@ msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@MARKER@LOOT@DESCRIPTION"
 msgstr "Pode ser recolhido por qualquer unidade com a propriedade {GLOBAL.PROPERTIES.SCAVENGER.Hyperlink} movendo-se para este hexágono.[br/]Ao recolher, a unidade:[bulletlist][bullet/]Ganha {GLOBAL.PROPERTIES.LOOTED_POWER.Hyperlink}.[bullet/]Cura +{HealBonus} {GLOBAL.HitPointConcept.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@MARKER@LOOT@HYPERLINK"
-msgstr "[hyperlink,GLOBAL.ScavengerLootConcept]Loot[/hyperlink]"
+msgstr "[hyperlink,GLOBAL.ScavengerLootConcept]Butim[/hyperlink]"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@MARKER@LOOT@NAME"
-msgstr "Loot"
+msgstr "Butim"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@NOMAD@BIO"
 msgstr "Eles tendem a vagar, seja para conquistar terras além do horizonte ou para extrair essências potentes de fontes mágicas."
@@ -53156,7 +53156,7 @@ msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@NOMAD@DESCRIPTION"
 msgstr "[bulletlist][bullet/]Unidades móveis que focam em manobras e flanqueamento.[bullet/]Cidades Nômades podem se desmontar em um {GLOBAL.NomadSettlerConcept.Hyperlink} e realocar.[bullet/]Nós no domínio de suas Cidades são [hyperlink,GLOBAL.OverharvestingConcept]Sobrecolhidos[/hyperlink] com o tempo, esgotando os Nós para obter {GLOBAL.EssenceConcept.Hyperlink} naquela cidade.[bullet/]Cidades Nômades requerem {PercentageDecrease}% mais {GLOBAL.FoodConcept.Hyperlink} para ganhar {GLOBAL.PopulationConcept.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@NOMAD@HYPERLINK"
-msgstr "[hyperlink,GLOBAL.NomadConcept]Nomad[/hyperlink]"
+msgstr "[hyperlink,GLOBAL.NomadConcept]Nômade[/hyperlink]"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@NOMAD@LORE"
 msgstr "[br/][helpcolor]Um povo astuto que migra para prosperar. Eles guiam suas barcaças terrestres pelo reino para se estabelecer em novas terras.[/helpcolor]"
@@ -53186,19 +53186,19 @@ msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@PLAYER_FEMALE_TITLE_03@GENDER"
 msgstr "^f"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@PLAYER_TITLE_01"
-msgstr "Wayforge King"
+msgstr "Rei Wayforge"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@PLAYER_TITLE_01@GENDER"
 msgstr "^m"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@PLAYER_TITLE_02"
-msgstr "Horde Commander"
+msgstr "Comandante da Horda"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@PLAYER_TITLE_02@GENDER"
 msgstr "^m"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@PLAYER_TITLE_03"
-msgstr "Prime Custodian"
+msgstr "Primeiro Custódio"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@PLAYER_TITLE_03@GENDER"
 msgstr "^m"
@@ -53216,28 +53216,28 @@ msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@CONQUERERS@FPG_DESCRIPTION"
 msgstr "[bulletlist][bullet/]Cidades móveis que favorecem assentamentos agressivos perto de domínios hostis.[bullet/]Fortalece-se com o movimento em combate.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@CONQUERERS@LORENAME"
-msgstr "Conquerors^n"
+msgstr "Conquistadores^n"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@CONQUERERS@NAME"
-msgstr "Conquerors"
+msgstr "Conquistadores"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@CONQUERERS@RESEARCH_SKILL@CHIMES_OF_MOMENTUM@DESCRIPTION"
 msgstr "Concede a unidades não-Cultura:[bulletlist][bullet/]{GLOBAL.PROPERTIES.EMPOWERING_MOMENTUM.Hyperlink}[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@CONQUERERS@RESEARCH_SKILL@CHIMES_OF_MOMENTUM@NAME"
-msgstr "Chimes of Momentum"
+msgstr "Carrilhões do Momento"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@CONQUERERS@RESEARCH_SKILL@SWIFTSTRIKE_BLESSING@DESCRIPTION"
 msgstr "Unidade aliada alvo que tem pontos de ação restantes e outra dentro de {SWIFTSTRIKE_BLESSING_TARGETER>MaxDistance} hexes ganha:[bulletlist][bullet/]{GLOBAL.PROPERTIES.EMPOWERING_MOMENTUM.Hyperlink} por {MOMENTUM_STATUS_EFFECT>NumTurns} <<m:{GLOBAL.TurnConcept.Hyperlink}>>.[bullet/]{GLOBAL.PROPERTIES.FORTUNE.Hyperlink} por {FORTUNE_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept.Hyperlink}>>.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@CONQUERERS@RESEARCH_SKILL@SWIFTSTRIKE_BLESSING@NAME"
-msgstr "Swiftstrike Blessing"
+msgstr "Bênção do Golpe Rápido"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@CONQUERERS@RESEARCH_SKILL@WATCHFUL_EYE@DESCRIPTION"
 msgstr "Província alvo:[bulletlist][bullet/]Fornece visão em um raio de {VisionRange} hex do centro da província.[bullet/]Unidades inimigas nesta província sofrem {GLOBAL.PROPERTIES.MARKED.Hyperlink}.[/bulletlist][br/]Dura por {Duration} <<m:{GLOBAL.TurnConcept.Hyperlink}>>."
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@CONQUERERS@RESEARCH_SKILL@WATCHFUL_EYE@NAME"
-msgstr "Watchful Eye"
+msgstr "Olho Vigilante"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@CONQUERERS@RESEARCH_SKILL@WATCHFUL_EYE@PROP_DESCRIPTION"
 msgstr "Unidades inimigas nesta província sofrem {GLOBAL.PROPERTIES.MARKED.Hyperlink}"
@@ -53246,7 +53246,7 @@ msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@CONQUERERS@TOME_DESCRIPTION"
 msgstr "Esta pesquisa está disponível para Governantes com a cultura {GLOBAL.NomadConcept.Hyperlink}. Eles se especializam em mobilidade."
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@CONQUERERS@TOME_NAME"
-msgstr "Nomad - Conquerors"
+msgstr "Nômade - Conquistadores"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@NAME"
 msgstr "Tradição"
@@ -53282,7 +53282,7 @@ msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@SCAVENGERS@RESEARCH_SKILL@SCAVE
 msgstr "Bolsas de Catador"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@SCAVENGERS@TOME_NAME"
-msgstr "Nomad - Scavengers"
+msgstr "Nômade - Catadores"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@UNIT01@NAME"
 msgstr "Cavaleiro das Dunas^m"
@@ -53309,7 +53309,7 @@ msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@UNIT08@NAME"
 msgstr "Campeão^m"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@UNIT09@NAME"
-msgstr "City Barge"
+msgstr "Barca da Cidade"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@UNIT_ABILITY@CATCH@DESCRIPTION"
 msgstr "Transfere uma pilha de {GLOBAL.PROPERTIES.LOOTED_POWER.Hyperlink} desta unidade para a unidade aliada alvo."
@@ -53486,7 +53486,7 @@ msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@UNIT_PROPERTY@WINDSTRIDE@NAME"
 msgstr "Passo do Vento"
 
 msgid "DLC@RISEFROMRUIN@DESCRIPTION"
-msgstr "Rise from Ruin"
+msgstr "Ascensão das Ruínas"
 
 msgid "DLC@RISEFROMRUIN@DIPLOMACY_CASUS_BELLI@SECOND_ARTIFACT@TITLE"
 msgstr "{STR_leaderName} obteve um segundo artefato."
@@ -53495,7 +53495,7 @@ msgid "DLC@RISEFROMRUIN@DISPLAYDESCRIPTION"
 msgstr "Forje um reino poderoso das cinzas em Age of Wonders 4: Rise from Ruin. Viaje pelos Mundos Devastados e explore suas paisagens arrasadas com a Cultura Nômade, unicamente adaptada para sobreviver e prosperar na desolação. Descubra as magias perdidas que assolaram esses reinos, e escolha baní-las para sempre ou aproveitar seu poder para sua própria ascensão."
 
 msgid "DLC@RISEFROMRUIN@DISPLAYNAME"
-msgstr "Age of Wonders 4: Rise from Ruin"
+msgstr "Age of Wonders 4: Ascensão das Ruínas"
 
 msgid "DLC@RISEFROMRUIN@EMPIRE_CORE@REALM_TEMPLATES@WITHERED_WORLDS@DESCRIPTION"
 msgstr "Um reino outrora afligido pelos {GLOBAL.FracturingWindsConcept.Hyperlink}. Sua erosão mancha as terras e seus habitantes."
@@ -53543,55 +53543,55 @@ msgid "DLC@RISEFROMRUIN@EMPIRE_CORE@REALM_TRAITS@DEVOURING_WINDS@PROPERTY_DESCRI
 msgstr "A chance de <<m:{GLOBAL.SpellConcept.Hyperlink}>> {GLOBAL.BackfireConcept.Hyperlink} aumentou devido aos {GLOBAL.FracturingWindsConcept.Hyperlink}."
 
 msgid "DLC@RISEFROMRUIN@EMPIRE_CORE@REALM_TRAITS@ECHOES_OF_THE_FRACTURING@DESCRIPTION"
-msgstr "DEV - This trait is to test out the Devouring Winds crisis, does not come with the fated regions"
+msgstr "DEV - Este traço é para testar a crise dos Ventos Devoradores, não vem com as regiões fadadas"
 
 msgid "DLC@RISEFROMRUIN@EMPIRE_CORE@REALM_TRAITS@ECHOES_OF_THE_FRACTURING@NAME"
-msgstr "Echoes of the Fracturing (Crisis Test Trait)"
+msgstr "Ecos do Fraturamento (Traço de Teste de Crise)"
 
 msgid "DLC@RISEFROMRUIN@EMPIRE_CORE@REALM_TRAITS@FRACTURED_INFESTATIONS@DESCRIPTION"
 msgstr "O reino possui várias fraturas das quais criaturas famintas por mana emergem.[bulletlist][bullet/]<<m:{GLOBAL.STRUCTURES.FRACTURED_INFESTATION.Hyperlink}>> são [abilityblue]comuns[/abilityblue].[bullet/]Essas <<m:{GLOBAL.InfestationConcept.Hyperlink}>> se espalham {GLOBAL.AstralBarrensConcept.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@EMPIRE_CORE@REALM_TRAITS@FRACTURED_INFESTATIONS@NAME"
-msgstr "Fractured Infestations"
+msgstr "Infestações Fraturadas"
 
 msgid "DLC@RISEFROMRUIN@EMPIRE_CORE@REALM_TRAITS@RUINED_NODES@DESCRIPTION"
 msgstr "Os recursos naturais do reino estão parcialmente esgotados.[bulletlist][bullet/]Cerca de metade dos <<m:{GLOBAL.NodeConcept.Hyperlink}>> presentes no início estão [hyperlink,GLOBAL.RuinedNodeConcept]Ruined[/hyperlink].[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@EMPIRE_CORE@REALM_TRAITS@RUINED_NODES@NAME"
-msgstr "Ruined Nodes"
+msgstr "Nós Arruinados"
 
 msgid "DLC@RISEFROMRUIN@EMPIRE_CORE@REALM_TRAITS@TIMELOCKED_TOMES@DESCRIPTION"
 msgstr "Este reino tem uma conexão estranha com as marés do Mar Astral, marés altas de inspiração seguem refluxos onde nenhuma pode ser encontrada. Tomos de magia são descobertos apenas quando as marés do Mar Astral permitirem.[bulletlist][bullet/]Tomos não são descobertos conforme Habilidades de Pesquisa são desbloqueadas.[bullet/]Tomos são desbloqueados simultaneamente para todos os Governantes em intervalos definidos com base na configuração de velocidade de pesquisa do Reino.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@EMPIRE_CORE@REALM_TRAITS@TIMELOCKED_TOMES@NAME"
-msgstr "Timelocked Tomes"
+msgstr "Tomos Temporalmente Trancados"
 
 msgid "DLC@RISEFROMRUIN@EMPIRE_CORE@REALM_TRAITS@UNSTABLE_ASTRAL_FLOW@DESSCRIPTION"
 msgstr "O Fluxo Astral através deste reino é tumultuoso.[bulletlist][bullet/]Todas as <<m:{GLOBAL.WorldMapSpellConcept.Hyperlink}>> e <<m:{GLOBAL.CombatSpellConcept.Hyperlink}>> têm uma chance base de {chance} de {GLOBAL.BackfireConcept.Hyperlink}[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@EMPIRE_CORE@REALM_TRAITS@UNSTABLE_ASTRAL_FLOW@NAME"
-msgstr "Unstable Astral Flow"
+msgstr "Fluxo Astral Instável"
 
 msgid "DLC@RISEFROMRUIN@EMPIRE_CORE@UNTARGETABLE_CATACLYSM_EFFECT@DESCRIPTION"
 msgstr "O <<m:{GLOBAL.DomainConcept.Hyperlink}>> do seu {GLOBAL.EmpireConcept.Hyperlink} não pode mais ser alvo de <<m:{GLOBAL.CataclysmConcept.Hyperlink}>>. Não funciona quando uma {GLOBAL.ProvinceConcept.Hyperlink} já foi alvo de um Cataclismo e depois se torna seu domínio."
 
 msgid "DLC@RISEFROMRUIN@EMPIRE_CORE@WITHERED_WORLDS@NAME_1"
-msgstr "Wind-born Badlands"
+msgstr "Terras Áridas Nascidas do Vento"
 
 msgid "DLC@RISEFROMRUIN@EMPIRE_CORE@WITHERED_WORLDS@NAME_2"
-msgstr "Planes of Ventifacts"
+msgstr "Planícies de Ventifactos"
 
 msgid "DLC@RISEFROMRUIN@EMPIRE_CORE@WITHERED_WORLDS@NAME_3"
-msgstr "Hubris Mesas"
+msgstr "Mesas da Hybris"
 
 msgid "DLC@RISEFROMRUIN@ESSENCE@ANCIENT_MANUSCRIPTS@BRONZE@NAME"
-msgstr "Ancient Manuscripts (Bronze)"
+msgstr "Manuscritos Antigos (Bronze)"
 
 msgid "DLC@RISEFROMRUIN@ESSENCE@ANCIENT_MANUSCRIPTS@DESCRIPTION"
 msgstr "Esta cidade ganha:[bulletlist][bullet/]+{INCOMEBONUS} {GLOBAL.KnowledgeConcept.Hyperlink} por Essência que possui.[bullet/]+{STABILITYBONUS} {GLOBAL.CityStabilityConcept.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@ESSENCE@ANCIENT_MANUSCRIPTS@GOLD@NAME"
-msgstr "Ancient Manuscripts (Gold)"
+msgstr "Manuscritos Antigos (Ouro)"
 
 msgid "DLC@RISEFROMRUIN@ESSENCE@ANCIENT_MANUSCRIPTS@SILVER@NAME"
 msgstr "Ancient Manuscripts (Silver)"
