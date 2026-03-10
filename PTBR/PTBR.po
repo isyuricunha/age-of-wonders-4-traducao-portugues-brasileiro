@@ -56129,7 +56129,7 @@ msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@SKILL3@MOD_DESCRIPTION"
 msgstr "Unidade causa +{DUNESTALKERS_FLANK_DAMAGE>ResolvedMultiplier}% de dano ao {GLOBAL.FlankingConcept.Hyperlink}."
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@SKILL3@NAME"
-msgstr "Dunestalkers"
+msgstr "Caçadores das Dunas"
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@SKILL3@PROP_DESCRIPTION"
 msgstr "Unidade possui:[bulletlist][bullet/]{GLOBAL.PROPERTIES.SAND_WALK.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.SAND_CAMOUFLAGE.Hyperlink}[bullet/]Quando em terreno de {GLOBAL.SandConcept.Hyperlink}, ganha:[bulletlist][bullet/]Movimento Muito Rápido em combate.[bullet/]+{amount}% de dano ao {GLOBAL.FlankingConcept.Hyperlink}.[/bulletlist][/bulletlist]"
@@ -56165,10 +56165,10 @@ msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@TOME@GAMEPLAY_DESCRIPTION"
 msgstr "Espalhe desertos, persegue e cega seus inimigos, e invoque um Guardião do Deserto para protegê-lo."
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@TOME@LORE_DESCRIPTION"
-msgstr "\"A maioria chama o deserto de lugar perigoso, uma armadilha mortal sem água, comida ou abrigo. Nós chamamos de lar. Somos a miragem no calor, somos os saqueadores no vento. Nosso aço fere com veneno, parente do escorpião. Somos os que invocam a tempestade de areia. Somos os Sand Stalkers.\""
+msgstr "\"A maioria chama o deserto de lugar perigoso, uma armadilha mortal sem água, comida ou abrigo. Nós chamamos de lar. Somos a miragem no calor, somos os saqueadores no vento. Nosso aço fere com veneno, parente do escorpião. Somos os que invocam a tempestade de areia. Somos os Caçadores das Areias.\""
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@TOME@NAME"
-msgstr "Tomo dos Sand Stalkers"
+msgstr "Tomo dos Caçadores das Areias"
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@UNIT@ABILITY01@DESCRIPTION"
 msgstr "Unidade inimiga alvo:[bulletlist][bullet/]Sofre dano.[bullet/]Ganha {amount1} {GLOBAL.PROPERTIES.WEAKENED.Hyperlink} por {WEAKENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]Ganha {amount2} {GLOBAL.PROPERTIES.POISONED.Hyperlink} por {POISONED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist][br/]Entra em {GLOBAL.DefenseModeConcept.Hyperlink}."
