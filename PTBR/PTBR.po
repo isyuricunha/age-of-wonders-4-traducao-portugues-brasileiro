@@ -31596,7 +31596,7 @@ msgid "DLC@ELDRITCHREALMS@META_EMPIRE@ELDRITCH_SOVEREIGN_CUSTOMIZATION2_NAME"
 msgstr "Cabeça de Ogro Espectral"
 
 msgid "DLC@ELDRITCHREALMS@META_EMPIRE@ELDRITCH_SOVEREIGN_CUSTOMIZATION3_NAME"
-msgstr "Eldritch Fractured Evoker Head"
+msgstr "Cabeça do Invocador Fraturado Éldrico"
 
 msgid "DLC@ELDRITCHREALMS@META_EMPIRE@OBJECTIVE_HOUSE_CONQUERED@NAME"
 msgstr "Moradia Umbral Conquistada"
