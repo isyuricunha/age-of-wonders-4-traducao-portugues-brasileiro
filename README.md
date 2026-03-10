@@ -15,9 +15,13 @@ Tradução do jogo Age of Wonders 4 para Português Brasileiro.
 
 Links:
 Nexus Mods: https://www.nexusmods.com/ageofwonders4/mods/124
+
 GitHub: https://github.com/isyuricunha/age-of-wonders-4-traducao-portugues-brasileiro
+
 Paradox: https://mods.paradoxplaza.com/mods/133369/Any/?version=
+
 Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3657814946
+
 Comunidade do Discord: https://discord.com/invite/aYbWBr4
 
 
