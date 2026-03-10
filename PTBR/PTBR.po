@@ -54866,571 +54866,571 @@ msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1344@BUTTON_1"
 msgstr "Armadilhe e domestique [unit/] um dos <<m:EnemyUnit>>."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1344@BUTTON_2"
-msgstr "Fashion a {EventItem} [item/] from the dead <<G:chitin^n,EnemyUnit>>."
+msgstr "Fabrique um {EventItem} [item/] a partir dos mortos <<G:chitin^n,EnemyUnit>>."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1344@BUTTON_3"
-msgstr "Secure the best armaments for your army to upgrade [xp/] their equipment."
+msgstr "Obtenha os melhores armamentos para seu exército para atualizar [xp/] o equipamento deles."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1344@TITLE"
-msgstr "Wormed Wood: Aftermath"
+msgstr "Wormed Wood: Consequências"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1350@BODY_FOOTER"
-msgstr "How will you entertain these guests sent by {EventHouseLord.FirstName}?"
+msgstr "Como você entretém esses convidados enviados por {EventHouseLord.FirstName}?"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1350@BODY_HEADER"
-msgstr "A land barge from {EventHouse} sails across the <<m:EventGeo>> toward {EventCity}. It transports a group of young warriors of the {EventRace}."
+msgstr "Uma barcaça de {EventHouse} navega através de <<m:EventGeo>> em direção a {EventCity}. Ela transporta um grupo de jovens guerreiros da {EventRace}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1350@BODY_LORE"
-msgstr "As a rite of passage, Nomad adolescents are sent out into the world to learn about other Cultures. As one of <<G:allies^p,EventHouse>>, {EventHouseLord} presents <<o:EventHouseLord>> candidates to you. Several <<m:EventUnit>> alight the barge, impressed by your great City."
+msgstr "Como um rito de passagem, adolescentes nômades são enviados ao mundo para aprender sobre outras culturas. Como um de <<G:allies^p,EventHouse>>, {EventHouseLord} apresenta <<o:EventHouseLord>> candidatos a você. Vários <<m:EventUnit>> desembarcam da barcaça, impressionados por sua grande cidade."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1350@BUTTON_0"
-msgstr "Ask that two <<m:EventUnitB>> [unit/] will stay with you."
+msgstr "Peça que dois <<m:EventUnitB>> [unit/] fiquem com você."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1350@BUTTON_1"
-msgstr "Take in a {EventUnit} [unit/] as your ward."
+msgstr "Acolha um {EventUnit} [unit/] como seu protegido."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1350@BUTTON_2"
-msgstr "Request that the <<m:EventUnit>> share some of their combat training. [unitprod/]"
+msgstr "Peça que os <<m:EventUnit>> compartilhem um pouco de seu treinamento de combate. [unitprod/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1350@BUTTON_3"
-msgstr "Exchange lore [knowledge/] with the visitors from {EventHouse}."
+msgstr "Troque lore [knowledge/] com os visitantes de {EventHouse}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1350@BUTTON_4"
-msgstr "Commission [gold/] a feast [happiness/] in honor of your guests."
+msgstr "Encomende [gold/] um banquete [happiness/] em honra de seus convidados."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1350@BUTTON_5"
-msgstr "Kill the visitors. [souls/] No one will ever know. [evilact/]"
+msgstr "Mate os visitantes. [souls/] Ninguém jamais saberá. [evilact/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1350@BUTTON_8"
-msgstr "Be a gracious host, expecting nothing in return. [relationLvl3/]"
+msgstr "Seja um anfitrião generoso, sem esperar nada em troca. [relationLvl3/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1350@TITLE"
-msgstr "<<m:EventUnit>> From Faraway <<Cm:EventGeo>>"
+msgstr "<<m:EventUnit>> de Terras Distantes <<Cm:EventGeo>>"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1351@BODY_FOOTER"
-msgstr "{EventHouse} seeks to gift you some of the heavier resources they've harvested over time. Which one will you accept from them?"
+msgstr "{EventHouse} deseja presentear você com alguns dos recursos mais pesados que colheram ao longo do tempo. Qual você aceita deles?"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1351@BODY_HEADER"
-msgstr "The {EventHouseRace} of {EventHouse} are a nomadic people and should always be ready to migrate. {EventHouseLord} contacts you with a generous offer."
+msgstr "Os {EventHouseRace} de {EventHouse} são um povo nômade e sempre devem estar prontos para migrar. {EventHouseLord} entra em contato com uma oferta generosa."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1351@BODY_LORE"
-msgstr "They possess some resources they do not wish to take along with them on their next trek. \"Stone and tools that would overencumber our ships. Too many weapons for our soldiers to wield. Books and scrolls that have now been memorized by our <<m:EventUnit>>. We seek to offload these resources to someone we deem trustworthy.\""
+msgstr "Eles possuem alguns recursos que não desejam levar consigo em sua próxima jornada. 'Pedras e ferramentas que sobrecarregariam nossos navios. Armas demais para nossos soldados empunharem. Livros e pergaminhos que agora foram memorizados por nossos <<m:EventUnit>>. Buscamos transferir esses recursos para alguém que consideramos confiável.'"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1351@BUTTON_0"
-msgstr "Take the stone and tools. [structureprod/]"
+msgstr "Pegue as pedras e ferramentas. [structureprod/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1351@BUTTON_1"
-msgstr "Claim the weapons and anvils. [unitprod/]"
+msgstr "Reivindique as armas e bigornas. [unitprod/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1351@BUTTON_2"
-msgstr "Request the books and scrolls. [knowledge/]"
+msgstr "Solicite os livros e pergaminhos. [knowledge/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1351@BUTTON_3"
-msgstr "Demand [evilact/] you take the weapons [unitprod/] and tools. [structureprod/]"
+msgstr "Exija [evilact/] que você pegue as armas [unitprod/] e ferramentas. [structureprod/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1351@BUTTON_4"
-msgstr "Donate [allegiance/] the resources to {EventHouseB}."
+msgstr "Doe [allegiance/] os recursos para {EventHouseB}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1351@BUTTON_5"
-msgstr "Enchant [mana/] the resources' weight so {EventHouse} can take everything along. [goodact/]"
+msgstr "Encante [mana/] o peso dos recursos para que {EventHouse} possa levar tudo. [goodact/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1351@TITLE"
-msgstr "Risks of Encumbrance"
+msgstr "Riscos de Sobrecarga"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1357@BODY_FOOTER"
-msgstr "Will you wait until the <<m:EventStackLeader>> have finished their survey, or will you try to speed up the process?"
+msgstr "Você esperará até que <<m:EventStackLeader>> terminem a avaliação, ou tentará acelerar o processo?"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1357@BODY_HEADER"
-msgstr "An {EventStackLeader} and <<o:EventStackLeader>> companions from {EventHouse} are appraising the {EventStructure} to see if they should strip its resources."
+msgstr "Um {EventStackLeader} e <<o:EventStackLeader>> companheiros de {EventHouse} estão avaliando o {EventStructure} para ver se devem extrair seus recursos."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1357@BODY_LORE"
-msgstr "Should the {EventStackLeader} deem the {EventStructure} fit for extraction, {EventHouse} may decide to claim it for themselves. As the {EventHouseRace} are wont to do, they would then eventually delve all {EventResource} from it until it is fully depleted. But, given <<G:furrowed brow^n,EventStackLeader>> and the frequency of <<o:EventStackLeader>> sighs, any real interest in this {EventStructure} seems unlikely."
+msgstr "Caso o {EventStackLeader} considere o {EventStructure} adequado para extração, {EventHouse} pode decidir reclamá-lo para si. Como os {EventHouseRace} costumam fazer, eles eventualmente extrairiam todos os {EventResource} até que esteja completamente esgotado. Mas, dado <<G:furrowed brow^n,EventStackLeader>> e a frequência dos suspiros de <<o:EventStackLeader>>, qualquer interesse real neste {EventStructure} parece improvável."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1357@BUTTON_0"
-msgstr "Share your insights [knowledge/] of the {EventStructure} to speed up the survey."
+msgstr "Compartilhe seus conhecimentos [knowledge/] sobre o {EventStructure} para acelerar a avaliação."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1357@BUTTON_2"
-msgstr "Pay {EventResource} to {EventHouse}, to gain access to the {EventStructure}."
+msgstr "Pague {EventResource} para {EventHouse} para obter acesso ao {EventStructure}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1357@BUTTON_3"
-msgstr "Have the {EventStructure} yield some of its resources willingly."
+msgstr "Faça o {EventStructure} ceder alguns de seus recursos voluntariamente."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1357@BUTTON_4"
-msgstr "Cast an illusion on the {EventStructure} to make it look depleted."
+msgstr "Lance uma ilusão no {EventStructure} para fazê-lo parecer esgotado."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1357@BUTTON_5"
-msgstr "Press a claim for this land. Fend off {EventHouse}."
+msgstr "Reivindique esta terra. Afaste {EventHouse}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1357@BUTTON_6"
-msgstr "Allow the {EventHouseRace} from {EventHouse} to resume their appraisal."
+msgstr "Permita que os {EventHouseRace} de {EventHouse} retomem sua avaliação."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1357@TITLE"
-msgstr "Fit for Extraction"
+msgstr "Adequado para Extração"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1358@BODY_FOOTER"
-msgstr "The {EventStackLeader} grins: \"You know. The old paths.\" How will you deal with the Merchant and <<o:EventStackLeader>> bodyguards?"
+msgstr "O {EventStackLeader} sorri: \"Você sabe. Os caminhos antigos.\" Como você lidará com o Mercador e os <<o:EventStackLeader>> guardas?"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1358@BODY_FOOTER@PLAYER_==_YAKA"
-msgstr "The {EventStackLeader} then realizes who <<p:EventStackLeader>> is dealing with and grovels: \"My Lord Yaka! I am but a humble servant!\" How will you deal with the Merchant and <<o:EventStackLeader>> bodyguards?"
+msgstr "O {EventStackLeader} então percebe com quem <<p:EventStackLeader>> está lidando e se humilha: \"Meu Senhor Yaka! Sou apenas um humilde servo!\" Como você lidará com o Mercador e os <<o:EventStackLeader>> guardas?"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1358@BODY_HEADER"
-msgstr "A {EventStackLeader} from {EventHouse}, guarded by other warriors, has set up a trading post at a {EventStructure}."
+msgstr "Um {EventStackLeader} de {EventHouse}, protegido por outros guerreiros, estabeleceu um posto comercial em um {EventStructure}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1358@BODY_LORE"
-msgstr "The {EventStackLeader} sizes {SourceStackLeader} up carefully. \"We are all Nomads now,\" <<p:EventStackLeader>> proclaims before leaning in to whisper: \"But some of us still walk the old paths.\" An amulet falls out of the garments of the {EventStackLeader}, which <<p:EventStackLeader>> hastily tucks away again. The amulet resembles an old idol of {GLOBAL.YakaLoreConcept.Hyperlink}. In one of the <<G:tents^p,EventStackLeader>>, several <<m:EventUnit>> are chained to posts."
+msgstr "O {EventStackLeader} avalia {SourceStackLeader} cuidadosamente. \"Todos nós somos nômades agora,\" <<p:EventStackLeader>> proclama antes de se inclinar para sussurrar: \"Mas alguns de nós ainda caminham pelos velhos caminhos.\" Um amuleto cai das vestes do {EventStackLeader}, que <<p:EventStackLeader>> rapidamente guarda novamente. O amuleto se parece com um antigo ídolo de {GLOBAL.YakaLoreConcept.Hyperlink}. Em uma das <<G:tents^p,EventStackLeader>>, vários <<m:EventUnit>> estão acorrentados a postes."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1358@BODY_LORE@PLAYER_==_YAKA"
-msgstr "The {EventStackLeader} sizes {SourceStackLeader} up carefully. \"We are all Nomads now,\" <<p:EventStackLeader>> proclaims before leaning in to whisper: \"But some of us still walk the old paths.\" An amulet falls out of the garments of the {EventStackLeader}, which <<p:EventStackLeader>> hastily tucks away again. The amulet resembles an old idol of {GLOBAL.YakaLoreConcept.Hyperlink}. Of you. In one of the <<G:tents^p,EventStackLeader>>, several <<m:EventUnit>> are chained to posts."
+msgstr "O {EventStackLeader} avalia {SourceStackLeader} cuidadosamente. \"Todos nós somos nômades agora,\" <<p:EventStackLeader>> proclama antes de se inclinar para sussurrar: \"Mas alguns de nós ainda caminham pelos velhos caminhos.\" Um amuleto cai das vestes do {EventStackLeader}, que <<p:EventStackLeader>> rapidamente guarda novamente. O amuleto se parece com um antigo ídolo de {GLOBAL.YakaLoreConcept.Hyperlink}. De você. Em uma das <<G:tents^p,EventStackLeader>>, vários <<m:EventUnit>> estão acorrentados a postes."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1358@BUTTON_0"
-msgstr "Trade food [food/] with the {EventStackLeader} [gold/] to make <<P:EventStackLeader>> depart."
+msgstr "Comercie comida [food/] com o {EventStackLeader} [gold/] para fazer <<P:EventStackLeader>> partir."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1358@BUTTON_2"
-msgstr "Buy [gold/] the <<m:EventUnit>> [unit/] off the {EventStackLeader} to serve [evilact/] you."
+msgstr "Compre [gold/] o(a) <<m:EventUnit>> [unit/] de {EventStackLeader} para servir [evilact/] você."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1358@BUTTON_3"
-msgstr "\"You are violating the laws of {EventHouse}. I will report you promptly.\""
+msgstr "\"Você está violando as leis de {EventHouse}. Eu irei denunciá-lo prontamente.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1358@BUTTON_4"
-msgstr "No living creature should be chained by another."
+msgstr "Nenhuma criatura viva deveria ser acorrentada por outra."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1358@BUTTON_5"
-msgstr "Attack the {EventStackLeader} to free the slaves. [goodact/]"
+msgstr "Atacar o(a) {EventStackLeader} para libertar os escravos. [goodact/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1358@BUTTON_6"
-msgstr "Turn a blind eye to the <<G:mercantile activities^p,{EventStackLeader} >>"
+msgstr "Fingir não ver as <<G:mercantile activities^p,{EventStackLeader} >>"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1358@BUTTON_7"
-msgstr "\"Loyal servants such as yourself [unit/] should fight for me.\" [evilact/]"
+msgstr "\"Servos leais como você [unit/] deveriam lutar por mim.\" [evilact/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1358@TITLE"
-msgstr "Followers of Old Paths"
+msgstr "Seguidores dos Caminhos Antigos"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1359@BODY_FOOTER"
-msgstr "Unless someone intervenes, this battle can know no end. Will {EventHero} step up and harmonize the elements of the {EventStructure}?"
+msgstr "A menos que alguém intervenha, esta batalha não pode ter fim. {EventHero} irá se adiantar e harmonizar os elementos do(a) {EventStructure}?"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1359@BODY_FOOTER@HERO_IS_PLAYELEA"
-msgstr "Unless someone intervenes, this battle can know no end. Will you step up and harmonize the elements of the {EventStructure}?"
+msgstr "A menos que alguém intervenha, esta batalha não pode ter fim. Você irá se adiantar e harmonizar os elementos do(a) {EventStructure}?"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1359@BODY_HEADER"
-msgstr "{EventHero} arrives at a {EventStructure}, expecting to quench <<o:EventHero>> thirst. Instead, <<p:EventHero>> is met by hostile <<m:EnemyUnit>> rampaging about."
+msgstr "{EventHero} chega a um(a) {EventStructure}, esperando matar a sede de <<o:EventHero>>. Em vez disso, <<p:EventHero>> é recebido por <<m:EnemyUnit>> hostis que estão devastando tudo."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1359@BODY_HEADER@HERO_IS_PLAYELEA"
-msgstr "You arrive at a {EventStructure}, expecting to quench your thirst. Instead, you are met by hostile <<m:EnemyUnit>> rampaging about."
+msgstr "Você chega a um(a) {EventStructure}, esperando matar sua sede. Em vez disso, você é recebido por <<m:EnemyUnit>> hostis que estão devastando tudo."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1359@BODY_LORE"
-msgstr "An elemental imbalance has dried up the {GLOBAL.STRUCTURES.HIDDEN_WELLSPRING.Hyperlink} that is normally lush with life. On the barren lake bed, various <<m:{GLOBAL.PROPERTIES.ELEMENTAL.Hyperlink}>> lash out against any interlopers. It is a primordial battle to decide what element will persevere and take over the {EventStructure}. {EventHero} witnesses how a {EventUnit} is incinerated by a {EventUnitA}, but then turns into a {EventUnitB} to resume the fight."
+msgstr "Um desequilíbrio elemental secou o(a) {GLOBAL.STRUCTURES.HIDDEN_WELLSPRING.Hyperlink} que normalmente é exuberante de vida. No leito do lago estéril, vários <<m:{GLOBAL.PROPERTIES.ELEMENTAL.Hyperlink}>> atacam qualquer intruso. É uma batalha primordial para decidir qual elemento prevalecerá e dominará o(a) {EventStructure}. {EventHero} testemunha como um(a) {EventUnit} é incinerado por um(a) {EventUnitA}, mas então se transforma em um(a) {EventUnitB} para retomar a luta."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1359@BODY_LORE@HERO_IS_PLAYELEA"
-msgstr "An elemental imbalance has dried up the {GLOBAL.STRUCTURES.HIDDEN_WELLSPRING.Hyperlink} that is normally lush with life. On the barren lake bed, various <<m:{GLOBAL.PROPERTIES.ELEMENTAL.Hyperlink}>> lash out against any interlopers. It is a primordial battle to decide what element will persevere and take over the {EventStructure}. You witness how a {EventUnit} is incinerated by a {EventUnitA}, but then turns into a {EventUnitB} to resume the fight."
+msgstr "Um desequilíbrio elemental secou o(a) {GLOBAL.STRUCTURES.HIDDEN_WELLSPRING.Hyperlink} que normalmente é exuberante de vida. No leito do lago estéril, vários <<m:{GLOBAL.PROPERTIES.ELEMENTAL.Hyperlink}>> atacam qualquer intruso. É uma batalha primordial para decidir qual elemento prevalecerá e dominará o(a) {EventStructure}. Você testemunha como um(a) {EventUnit} é incinerado por um(a) {EventUnitA}, mas então se transforma em um(a) {EventUnitB} para retomar a luta."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1359@BUTTON_0"
-msgstr "Attack the Elementals to restore balance to the {EventStructure}."
+msgstr "Atacar os Elementais para restaurar o equilíbrio ao(a) {EventStructure}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1359@BUTTON_1"
-msgstr "Deharmonize [mana/] the tumultuous nature of the attacking Elementals."
+msgstr "Deharmonize [mana/] a natureza tumultuosa dos Elementais atacantes."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1359@BUTTON_2"
-msgstr "Reseed the {EventStructure}."
+msgstr "Reseed o(a) {EventStructure}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1359@BUTTON_3"
-msgstr "Disrupt the {EventGeo} revealed by the drained {EventStructure}."
+msgstr "Perturbe o(a) {EventGeo} revelado pelo(a) {EventStructure} drenado."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1359@BUTTON_4"
-msgstr "Escape the unstable Elements' rage."
+msgstr "Escape da fúria dos Elementos instáveis."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1359@TITLE"
-msgstr "Dried Up Disarray"
+msgstr "Desordem Seca"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1360@BODY_FOOTER"
-msgstr "By restoring balance to the {EventStructure}, it now has a chance to heal. Some Elementals' remains can be repurposed for boons."
+msgstr "Ao restaurar o equilíbrio ao(a) {EventStructure}, ele(a) agora tem uma chance de se curar. Alguns restos de Elementais podem ser reutilizados para bênçãos."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1360@BODY_HEADER"
-msgstr "{EventHero} has overcome the elemental imbalance caused by the <<G:drought^n,EventStructure>>."
+msgstr "{EventHero} superou o desequilíbrio elemental causado pelo(a) <<G:drought^n,EventStructure>>."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1360@BODY_HEADER@HERO_IS_PLAYELEA"
-msgstr "You have overcome the elemental imbalance caused by the <<G:drought^n,EventStructure>>."
+msgstr "Você superou o desequilíbrio elemental causado pelo(a) <<G:drought^n,EventStructure>>."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1360@BODY_LORE"
-msgstr "The hostile <<m:{GLOBAL.PROPERTIES.ELEMENTAL.Hyperlink}>> were warped, twisted, and driven mad by the magical disruption that the dried up Wellspring wrought. Now that their physical manifestations are shattered, the dry lake bed is covered in mana crystals, which {EventHero} gratefully collects."
+msgstr "Os hostis <<m:{GLOBAL.PROPERTIES.ELEMENTAL.Hyperlink}>> foram distorcidos, retorcidos e enlouquecidos pela perturbação mágica que a Nascente seca causou. Agora que suas manifestações físicas foram destruídas, o leito do lago seco está coberto de cristais de mana, que {EventHero} coleta grato."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1360@BODY_LORE@HERO_IS_PLAYELEA"
-msgstr "The hostile <<m:{GLOBAL.PROPERTIES.ELEMENTAL.Hyperlink}>> were warped, twisted, and driven mad by the magical disruption that the dried up Wellspring wrought. Now that their physical manifestations are shattered, the dry lake bed is covered in mana crystals, which your warriors dutifully collect."
+msgstr "Os hostis <<m:{GLOBAL.PROPERTIES.ELEMENTAL.Hyperlink}>> foram distorcidos, retorcidos e enlouquecidos pela perturbação mágica que a Nascente seca causou. Agora que suas manifestações físicas foram destruídas, o leito do lago seco está coberto de cristais de mana, que seus guerreiros coletam diligentemente."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1360@BUTTON_0"
-msgstr "Restore one shattered {RandomElemental} [unit/] to fight for you."
+msgstr "Restaurar um(a) {RandomElemental} destruído(a) [unit/] para lutar por você."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1360@BUTTON_1"
-msgstr "Gather the <<G:remains^p,EventUnit>> to fuel <<G:forges^p,EventCity>>. [unitprod/]"
+msgstr "Colete os(as) <<G:remains^p,EventUnit>> para abastecer <<G:forges^p,EventCity>>. [unitprod/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1360@BUTTON_2"
-msgstr "Collect the <<G:remains^p,EventUnitA>> to fertilize <<G:fields^p,EventCity>>. [food/]"
+msgstr "Colete os(as) <<G:remains^p,EventUnitA>> para fertilizar <<G:fields^p,EventCity>>. [food/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1360@BUTTON_3"
-msgstr "Pick up the <<G:remains^p,EventUnitB>> to build <<G:structures^p,EventCity>>. [structureprod/]"
+msgstr "Pegue os(as) <<G:remains^p,EventUnitB>> para construir <<G:structures^p,EventCity>>. [structureprod/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1360@BUTTON_4"
-msgstr "Drain the <<G:remains^p,EventUnitC>> to boost your majesty. [influence/]"
+msgstr "Drene os(as) <<G:remains^p,EventUnitC>> para aumentar sua majestade. [influence/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1360@TITLE"
-msgstr "Dried Up Disarray: Aftermath"
+msgstr "Caos da Seca: Consequências"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1361@BODY_FOOTER"
-msgstr "In the Temple of {EventGod}, the Forsaken <<EventGod{God/Goddess}>>, nothing truly dies. Not forever. How can {EventHero} defend <<r:EventHero>> against <<G:priests^p,{<<EventGod{God/Goddess}>>}>>?"
+msgstr "No Templo de {EventGod}, o Abandonado <<EventGod{God/Goddess}>>, nada realmente morre. Não para sempre. Como {EventHero} pode defender <<r:EventHero>> contra <<G:priests^p,{<<EventGod{God/Goddess}>>}>>?"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1361@BODY_FOOTER@HERO_IS_PLAYELEA"
-msgstr "In the Temple of {EventGod}, the Forsaken <<EventGod{God/Goddess}>>, nothing truly dies. Not forever. How can you defend yourself against <<G:priests^p,EventGod>>?"
+msgstr "No Templo de {EventGod}, o Abandonado <<EventGod{God/Goddess}>>, nada realmente morre. Não para sempre. Como você pode se defender contra <<G:priests^p,EventGod>>?"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1361@BODY_HEADER"
-msgstr "{EventHero} discovers an {EventStructure} where a long-forgotten <<EventGod{God/Goddess}>> of {EventAttribute} was once worshiped. Timeless oblivion has effectively killed the <<EventGod{God/Goddess}>>."
+msgstr "{EventHero} descobre um(a) {EventStructure} onde um(a) <<EventGod{God/Goddess}>> de {EventAttribute} já foi adorado. O esquecimento eterno efetivamente matou o(a) <<EventGod{God/Goddess}>>."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1361@BODY_HEADER@HERO_IS_PLAYELEA"
-msgstr "You discover an {EventStructure} where a long-forgotten <<EventGod{God/Goddess}>> of {EventAttribute} was once worshiped. Timeless oblivion has effectively killed the <<EventGod{God/Goddess}>>."
+msgstr "Você descobre um(a) {EventStructure} onde um(a) <<EventGod{God/Goddess}>> de {EventAttribute} já foi adorado. O esquecimento eterno efetivamente matou o(a) <<EventGod{God/Goddess}>>."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1361@BODY_LORE"
-msgstr "A shrine is built inside the {EventStructure}. {EventHero} wipes the dust and cobwebs from the shrine to learn that this Temple belonged to the god {EventGod} long ago. Yet <<G:presence^n,{EventHero.FirstName}>> involuntarily feeds the dormant eternal flame of {EventGod}, which in turn animates <<EventGod{his/her}>> decayed followers. They rise from the dead to worship their deity and protect <<o:EventGod>> sanctuary once more."
+msgstr "Um santuário é construído dentro do(a) {EventStructure}. {EventHero} limpa a poeira e as teias de aranha do santuário e descobre que este Templo pertenceu ao deus {EventGod} há muito tempo. No entanto, <<G:presence^n,{EventHero.FirstName}>> alimenta involuntariamente a chama eterna dormente de {EventGod}, que por sua vez anima <<EventGod{his/her}>> seguidores decompostos. Eles ressuscitam para adorar sua divindade e proteger o santuário de <<o:EventGod>> mais uma vez."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1361@BODY_LORE@HERO_IS_PLAYELEA"
-msgstr "A shrine is built inside the {EventStructure}. You wipe the dust and cobwebs from the shrine to learn that this Temple belonged to the god {EventGod} long ago. Yet your presence involuntarily feeds the dormant eternal flame of {EventGod}, which in turn animates <<EventGod{his/her}>> decayed followers. They rise from the dead to worship their deity and protect <<o:EventGod>> sanctuary once more."
+msgstr "Um santuário é construído dentro do(a) {EventStructure}. Você limpa a poeira e as teias de aranha do santuário e descobre que este Templo pertenceu ao deus {EventGod} há muito tempo. No entanto, sua presença alimenta involuntariamente a chama eterna dormente de {EventGod}, que por sua vez anima <<EventGod{his/her}>> seguidores decompostos. Eles ressuscitam para adorar sua divindade e proteger o santuário de <<o:EventGod>> mais uma vez."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1361@BUTTON_0"
-msgstr "Attack the priests of the Forsaken <<EventGod{God/Goddess}>>."
+msgstr "Atacar os sacerdotes do Abandonado <<EventGod{God/Goddess}>>."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1361@BUTTON_1"
-msgstr "Make an offering [gold/] to <<G:shrine^n,EventGod>> to receive <<o:EventGod>> favor in combat."
+msgstr "Faça uma oferta [gold/] ao(a) <<G:shrine^n,EventGod>> para receber o favor de <<o:EventGod>> em combate."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1361@BUTTON_2"
-msgstr "Draw power from the revival of the dead."
+msgstr "Obtenha poder da ressurreição dos mortos."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1361@BUTTON_3"
-msgstr "Hallow the {EventStructure}, laying any revived spirits to rest."
+msgstr "Consagre o(a) {EventStructure}, pondo quaisquer espíritos ressuscitados para descansar."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1361@BUTTON_4"
-msgstr "Depart from the {EventStructure}."
+msgstr "Parta da {EventStructure}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1361@TITLE"
-msgstr "The Forsaken <<EventGod{God/Goddess}>>"
+msgstr "O(a) Abandonado(a) <<EventGod{God/Goddess}>>"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1362@BODY_FOOTER"
-msgstr "<<G:battle^n,{EventHero.FirstName}>> rekindled some of <<G:divine power^n,EventGod>>. <<Cp:EventHero>> may claim the {EventItem} as <<o:EventHero>> prize. And perhaps even take more."
+msgstr "<<G:battle^n,{EventHero.FirstName}>> reacendeu parte do <<G:divine power^n,EventGod>>. <<Cp:EventHero>> pode reclamar o {EventItem} como <<o:EventHero>> prêmio. E talvez até levar mais."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1362@BODY_FOOTER@HERO_IS_PLAYELEA"
-msgstr "Your battle rekindled some of <<G:divine power^n,EventGod>>. You may claim the {EventItem} as your prize. And perhaps even take more."
+msgstr "Sua batalha reacendeu parte do <<G:divine power^n,EventGod>>. Você pode reclamar o {EventItem} como seu prêmio. E talvez até levar mais."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1362@BODY_HEADER"
-msgstr "While the resurrected priests of {EventGod} have resumed their sleep of death—for now—{EventHero} inspects the {EventStructure} more closely."
+msgstr "Enquanto os sacerdotes ressuscitados de {EventGod} retomaram seu sono da morte — por enquanto — {EventHero} inspeciona a {EventStructure} mais de perto."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1362@BODY_HEADER@HERO_IS_PLAYELEA"
-msgstr "While the resurrected priests of {EventGod} have resumed their sleep of death—for now—you may inspect the {EventStructure} more closely."
+msgstr "Enquanto os sacerdotes ressuscitados de {EventGod} retomaram seu sono da morte — por enquanto — você pode inspecionar a {EventStructure} mais de perto."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1362@BODY_LORE"
-msgstr "The Temple to {EventGod} contains many age-old relics and riches. This <<EventGod{God/Goddess}>> of {EventAttribute} must have been an important deity to whatever culture of this realm worshiped <<P:EventGod>> so many years ago. Their history is told in the engravings in stone that cover the walls. A holy light then shines down on the golden shrine, and a {EventItem} appears."
+msgstr "O Templo de {EventGod} contém muitas relíquias e riquezas antigas. Este(a) <<EventGod{God/Goddess}>> de {EventAttribute} deve ter sido uma divindade importante para qualquer cultura deste reino que adorava <<P:EventGod>> há tantos anos. Sua história é contada nas inscrições em pedra que cobrem as paredes. Uma luz sagrada então brilha sobre o santuário dourado, e um(a) {EventItem} aparece."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1362@BUTTON_0"
-msgstr "Leave the {EventStructure} untouched [influence/] and say a prayer to {EventGod}. [goodact/]"
+msgstr "Deixe a {EventStructure} intocada [influence/] e faça uma prece a {EventGod}. [goodact/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1362@BUTTON_1"
-msgstr "Siphon whatever remains of the {EventReward} in the {EventStructure}."
+msgstr "Drene o que restar do {EventReward} na {EventStructure}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1362@BUTTON_2"
-msgstr "Study the engravings [knowledge/] scrawled on the Temple walls."
+msgstr "Estude as inscrições [knowledge/] rabiscadas nas paredes do Templo."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1362@BUTTON_3"
-msgstr "Call forth the souls [souls/] that forever linger in the Forsaken Temple."
+msgstr "Invocar as almas [souls/] que permanecem para sempre no Templo Abandonado."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1362@BUTTON_4"
-msgstr "Melt down [evilact/] the shrine and golden artifacts. [gold/]"
+msgstr "Derreta [evilact/] o santuário e os artefatos dourados. [gold/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1362@TITLE"
-msgstr "The Forsaken <<EventGod{God/Goddess}>>: Aftermath"
+msgstr "O(a) Abandonado(a) <<EventGod{God/Goddess}>>: Consequências"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1363@BODY_FOOTER"
-msgstr "A {EnemyUnit} senses the magical aura of {EventHero.FirstName} and turns to <<P:EventHero>> with a roar. Will <<p:EventHero>> risk an assault?"
+msgstr "Um(a) {EnemyUnit} sente a aura mágica de {EventHero.FirstName} e se volta para <<P:EventHero>> com um rugido. <<p:EventHero>> vai arriscar um ataque?"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1363@BODY_FOOTER@HERO_IS_PLAYELEA"
-msgstr "A {EnemyUnit} senses your magical aura and turns to you with a roar. Will you risk an assault?"
+msgstr "Um(a) {EnemyUnit} sente sua aura mágica e se volta para você com um rugido. Você vai arriscar um ataque?"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1363@BODY_HEADER"
-msgstr "{EventHero} stands in the long shadow of a {EventStructure}. Entities feed on the last of its remaining magical energies."
+msgstr "{EventHero} está na longa sombra de uma {EventStructure}. Entidades se alimentam dos últimos vestígios de suas energias mágicas."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1363@BODY_HEADER@HERO_IS_PLAYELEA"
-msgstr "You stand in the long shadow of a {EventStructure}. Entities feed on the last of its remaining magical energies."
+msgstr "Você está na longa sombra de uma {EventStructure}. Entidades se alimentam dos últimos vestígios de suas energias mágicas."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1363@BODY_LORE"
-msgstr "Where once a {GLOBAL.STRUCTURES.WORLD_TREE.Hyperlink} bloomed, now stands a husk, drained of its magic. The creatures feeding on it are known as {GLOBAL.PROPERTIES.MANA_STARVED.Hyperlink}: profoundly deprived of enchantments and mana, haunted by a limitless hunger to consume magic. They sapped all life and energy from the {EventStructure}, yet still continue to suck the last traces of power from its dry and dead roots."
+msgstr "Onde antes uma {GLOBAL.STRUCTURES.WORLD_TREE.Hyperlink} florescia, agora está um casulo, drenado de sua magia. As criaturas que se alimentam dela são conhecidas como {GLOBAL.PROPERTIES.MANA_STARVED.Hyperlink}: profundamente privadas de encantamentos e mana, assombradas por uma fome sem limites para consumir magia. Elas drenaram toda a vida e energia da {EventStructure}, mas ainda continuam a sugar os últimos vestígios de poder de suas raízes secas e mortas."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1363@BODY_LORE@HERO_IS_PLAYELEA"
-msgstr "Where once a {GLOBAL.STRUCTURES.WORLD_TREE.Hyperlink} bloomed, now stands a husk, drained of its magic. You recognize the creatures to be {GLOBAL.PROPERTIES.MANA_STARVED.Hyperlink}: thoroughly deprived of magic and mana, driven by a limitless hunger to consume all things magical. They have sapped all life and energy from the {EventStructure}, yet still they continue to drain the dry and dead roots."
+msgstr "Onde antes uma {GLOBAL.STRUCTURES.WORLD_TREE.Hyperlink} florescia, agora está um casulo, drenado de sua magia. Você reconhece as criaturas como {GLOBAL.PROPERTIES.MANA_STARVED.Hyperlink}: completamente privadas de magia e mana, movidas por uma fome sem limites para consumir todas as coisas mágicas. Elas drenaram toda a vida e energia da {EventStructure}, mas ainda continuam a drenar as raízes secas e mortas."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1363@BUTTON_0"
-msgstr "Attack the {EnemyUnit} and <<o:EnemyUnit>> {GLOBAL.PROPERTIES.MANA_STARVED.Name} host."
+msgstr "Atacar o(a) {EnemyUnit} e sua horda <<o:EnemyUnit>> {GLOBAL.PROPERTIES.MANA_STARVED.Name}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1363@BUTTON_1"
-msgstr "Cover {EventHero} in mana crystals [mana/] to taunt the {EnemyUnit}."
+msgstr "Cubra {EventHero} com cristais de mana [mana/] para provocar a {EnemyUnit}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1363@BUTTON_1@HERO_IS_PLAYELEA"
-msgstr "Cover yourself in mana crystals [mana/] to taunt the {EnemyUnit}."
+msgstr "Cubra-se com cristais de mana [mana/] para provocar a {EnemyUnit}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1363@BUTTON_2"
-msgstr "Let your holy might grow your warriors' strength."
+msgstr "Deixe que seu poder sagrado aumente a força de seus guerreiros."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1363@BUTTON_3"
-msgstr "Feed the {GLOBAL.PROPERTIES.MANA_STARVED.Name} creatures corrupted magic."
+msgstr "Alimente as criaturas {GLOBAL.PROPERTIES.MANA_STARVED.Name} com magia corrompida."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1363@BUTTON_4"
-msgstr "Flee the {EventStructure}."
+msgstr "Fuja da {EventStructure}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1363@TITLE"
-msgstr "Sapped and Fractured"
+msgstr "Drenado e Fraturado"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1364@BODY_FOOTER"
-msgstr "Even without its sappers, the {EventStructure} is too dangerous a place to stay. What should {EventHero} salvage before leaving?"
+msgstr "Mesmo sem seus drenadores, a {EventStructure} é um lugar perigoso demais para ficar. O que {EventHero} deve salvar antes de partir?"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1364@BODY_FOOTER@HERO_IS_PLAYELEA"
-msgstr "Even without its sappers, the {EventStructure} is too dangerous a place to stay. What should you salvage before leaving?"
+msgstr "Mesmo sem seus drenadores, a {EventStructure} é um lugar perigoso demais para ficar. O que você deve salvar antes de partir?"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1364@BODY_HEADER"
-msgstr "Your army finally bested the {EnemyUnit} and the other {GLOBAL.PROPERTIES.MANA_STARVED.Hyperlink} creatures, driven mad by their craving for magic."
+msgstr "Seu exército finalmente derrotou a {EnemyUnit} e as outras criaturas {GLOBAL.PROPERTIES.MANA_STARVED.Hyperlink}, enlouquecidas por seu desejo por magia."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1364@BODY_LORE"
-msgstr "<<G:troops^p,EventHero>> pack up the <<G:head^n,EnemyUnit>> to be mounted above your seat in {EventCity}. Meanwhile, {EventHero.FirstName} gazes upon the {EventStructure} to take in the utter devastation, spotting a {EventItem} lodged in the drained wood. Madness is all that remains here. And yet... Witnessing the ferocity and strength of the {GLOBAL.PROPERTIES.MANA_STARVED.Hyperlink} makes you wonder if it may lead your {EventRace} to greatness."
+msgstr "<<G:troops^p,EventHero>> empacotam a <<G:head^n,EnemyUnit>> para ser montada acima de seu assento em {EventCity}. Enquanto isso, {EventHero.FirstName} observa a {EventStructure} para absorver a devastação total, avistando um {EventItem} encravado na madeira drenada. A loucura é tudo o que resta aqui. E ainda... Testemunhar a ferocidade e força dos {GLOBAL.PROPERTIES.MANA_STARVED.Hyperlink} faz você se perguntar se isso pode levar sua {EventRace} à grandeza."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1364@BODY_LORE@HERO_IS_PLAYELEA"
-msgstr "Your troops pack up the <<G:head^n,EnemyUnit>> to be mounted above your seat in {EventCity}. Meanwhile, you gaze upon the {EventStructure} to take in the utter devastation, spotting a {EventItem} lodged in the drained wood. Madness is all that remains here. And yet... witnessing the ferocity and strength of the {GLOBAL.PROPERTIES.MANA_STARVED.Hyperlink} makes you wonder if it may lead your {EventRace} to greatness."
+msgstr "Suas tropas empacotam a <<G:head^n,EnemyUnit>> para ser montada acima de seu assento em {EventCity}. Enquanto isso, você observa a {EventStructure} para absorver a devastação total, avistando um {EventItem} encravado na madeira drenada. A loucura é tudo o que resta aqui. E ainda... testemunhar a ferocidade e força dos {GLOBAL.PROPERTIES.MANA_STARVED.Hyperlink} faz você se perguntar se isso pode levar sua {EventRace} à grandeza."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1364@BUTTON_0"
-msgstr "Dislodge the {EventItem} [item/] from the trunk of the {EventStructure}."
+msgstr "Desalojar o {EventItem} [item/] do tronco da {EventStructure}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1364@BUTTON_1"
-msgstr "Steel your army's resolve against the {GLOBAL.PROPERTIES.MANA_STARVED.Name} onslaught."
+msgstr "Fortaleça a determinação do seu exército contra o assalto {GLOBAL.PROPERTIES.MANA_STARVED.Name}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1364@BUTTON_2"
-msgstr "Praise [xp/] <<G:tenacity^n,EventHero>> in battle."
+msgstr "Elogie [xp/] a <<G:tenacity^n,EventHero>> em batalha."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1364@BUTTON_2@HERO_IS_PLAYELEA"
-msgstr "Celebrate [xp/] your prowess in battle."
+msgstr "Celebre [xp/] sua proeza em batalha."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1364@BUTTON_3"
-msgstr "Sacrifice your magic to turn your {EventRace} {GLOBAL.PROPERTIES.MANA_STARVED.Name}. [knowledge/]"
+msgstr "Sacrifique sua magia para transformar sua {EventRace} em {GLOBAL.PROPERTIES.MANA_STARVED.Name}. [knowledge/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1364@BUTTON_4"
-msgstr "Study the aberrant magic [knowledge/] of the {GLOBAL.PROPERTIES.MANA_STARVED.Hyperlink} entities."
+msgstr "Estude a magia aberrante [knowledge/] das entidades {GLOBAL.PROPERTIES.MANA_STARVED.Hyperlink}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1364@TITLE"
-msgstr "Sapped and Fractured: Aftermath"
+msgstr "Drenado e Fraturado: Consequências"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1171_4500@BODY_FOOTER"
-msgstr "Casting <<m:{GLOBAL.WorldMapSpellConcept.Hyperlink}>> will build up to a {GLOBAL.CataclysmConcept.Hyperlink}. But perhaps there are ways to mitigate this crisis."
+msgstr "Lançar <<m:{GLOBAL.WorldMapSpellConcept.Hyperlink}>> levará a um {GLOBAL.CataclysmConcept.Hyperlink}. Mas talvez haja maneiras de mitigar esta crise."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1171_4500@BODY_HEADER"
-msgstr "The winds roar with hunger. This realm is being affected by the {GLOBAL.FracturingWindsConcept.Hyperlink}."
+msgstr "Os ventos rugem de fome. Este reino está sendo afetado pelos {GLOBAL.FracturingWindsConcept.Hyperlink}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1171_4500@BODY_LORE"
-msgstr "The breeze siphons and redirects magic from everything it passes through. Should a great surge of magic flood it, the winds would wreak havoc, bringing dire consequences for spellcasters and the landscape of the realm."
+msgstr "A brisa drena e redireciona magia de tudo por onde passa. Caso uma grande onda de magia a inunde, os ventos causariam estragos, trazendo consequências desastrosas para os lançadores de feitiços e a paisagem do reino."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1171_4500@TITLE"
-msgstr "The Devouring Winds"
+msgstr "Os Ventos Devoradores"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1171_4501@BUTTON_0"
-msgstr "Investigate this phenomenon."
+msgstr "Investigue este fenômeno."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1197@BODY_FOOTER"
-msgstr "The voice of the winds compels you to approach the <<m:{GLOBAL.FractureLoreConcept.Hyperlink}>>. How will you prepare?"
+msgstr "A voz dos ventos o obriga a se aproximar do <<m:{GLOBAL.FractureLoreConcept.Hyperlink}>>. Como você se preparará?"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1197@BODY_HEADER"
-msgstr "Your troops reach the barren plateau while the devouring winds flow with great strength. They sound strange here, like a susurrant voice talking inwards."
+msgstr "Suas tropas alcançam o planalto árido enquanto os ventos devoradores fluem com grande força. Eles soam estranhos aqui, como uma voz sussurrante falando para dentro."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1197@BODY_LORE"
-msgstr "The region is overrun with Fractures, floating shards of ruins orbiting around them. Suddenly the winds begin whispering: \"Come to us. Draw near to the [hyperlink,GLOBAL.FractureLoreConcept]Fractures[/hyperlink] and you shall gain knowledge and power beyond your imagination. Fools fear what they do not understand; the wise seek to comprehend it.\" As the gust sweeps, the air crackles with sparks of refracting energy. Magic is extremely volatile here."
+msgstr "A região está infestada de Fraturas, fragmentos flutuantes de ruínas orbitando ao redor delas. De repente, os ventos começam a sussurrar: \"Venha até nós. Aproxime-se das [hyperlink,GLOBAL.FractureLoreConcept]Fraturas[/hyperlink] e você obterá conhecimento e poder além de sua imaginação. Os tolos temem o que não entendem; os sábios buscam compreendê-lo.\" Enquanto a rajada varre, o ar estala com faíscas de energia refratante. A magia é extremamente volátil aqui."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1197@BUTTON_0"
-msgstr "Let the winds pull [hp/] your troops towards [movementgeneral/] the Fractures."
+msgstr "Deixe os ventos puxarem [hp/] suas tropas em direção [movementgeneral/] às Fraturas."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1197@BUTTON_3"
-msgstr "The winds cannot be trusted, shield [mana/] your troops [resistance/] from them."
+msgstr "Os ventos não podem ser confiáveis, proteja [mana/] suas tropas [resistance/] deles."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1197@BUTTON_4"
-msgstr "Continue at your own pace."
+msgstr "Continue no seu próprio ritmo."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1197@TITLE"
-msgstr "Ascending to the Crackling Mesa"
+msgstr "Ascendendo à Mesa Crepitante"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1198@BODY_FOOTER"
-msgstr "\"Activate the sigils to bind the complex back together. Protect it, and I will reveal more secrets of [hyperlink,GLOBAL.UnmakersLoreConcept]these wizards[/hyperlink]. Beware, for the energy surge will attract fractured beasts.\""
+msgstr "\"Ative os sigilos para unir o complexo novamente. Proteja-o, e revelarei mais segredos desses [hyperlink,GLOBAL.UnmakersLoreConcept]magos[/hyperlink]. Cuidado, pois a onda de energia atrairá bestas fraturadas.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1198@BODY_HEADER"
-msgstr "An ancient magical complex exists only as drifting fragments beyond access, caught in orbit around a {GLOBAL.FractureLoreConcept.Hyperlink}. The wind-born voice sounds louder here:"
+msgstr "Um antigo complexo mágico existe apenas como fragmentos à deriva inacessíveis, presos em órbita ao redor de um {GLOBAL.FractureLoreConcept.Hyperlink}. A voz transportada pelo vento soa mais alta aqui:"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1198@BODY_LORE"
-msgstr "\"The great minds who raised this place succeeded in creating an almost perfect echo of [hyperlink,GLOBAL.TheWellLoreConcept]The Well Of Creation[/hyperlink]. The powers and knowledge of the {GLOBAL.AllfatherLoreConcept.Hyperlink} were within their grasp. Thus, they split open this magical essence that held the secrets of creation and... It was void. So void that it engulfed us all and drained the world of its very existence, unleashing [hyperlink,GLOBAL.TheFracturingLoreConcept]the cataclysm[/hyperlink].\""
+msgstr "\"As grandes mentes que ergueram este lugar conseguiram criar um eco quase perfeito do [hyperlink,GLOBAL.TheWellLoreConcept]Poço da Criação[/hyperlink]. Os poderes e conhecimentos do {GLOBAL.AllfatherLoreConcept.Hyperlink} estavam ao seu alcance. Assim, eles dividiram esta essência mágica que guardava os segredos da criação e... Era vazio. Tão vazio que nos engolfou a todos e drenou o mundo de sua própria existência, desencadeando [hyperlink,GLOBAL.TheFracturingLoreConcept]o cataclismo[/hyperlink].\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1198@BUTTON_1"
-msgstr "Activate the sigils, protect the place. [knowledge/]"
+msgstr "Ative os sigilos, proteja o local. [knowledge/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1198@BUTTON_2"
-msgstr "Activate the sigils and pillage [unitprod/] the area [item/] before the beasts arrive."
+msgstr "Ative os sigilos e saqueie [unitprod/] a área [item/] antes que as bestas cheguem."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1198@BUTTON_4"
-msgstr "Abandon the ruins."
+msgstr "Abandone as ruínas."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1198@TITLE"
-msgstr "Crackling Mesa: Splitting of Essence"
+msgstr "Mesa Crepitante: Divisão da Essência"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1200@BODY_FOOTER"
-msgstr "The voice of the winds reverberates in fury: \"Looters, foolish vermin. Kill them, and I shall reveal where the secrets of this place lie hidden.\""
+msgstr "A voz dos ventos reverbera em fúria: \"Saqueadores, vermes tolos. Mate-os, e revelarei onde os segredos deste lugar estão escondidos.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1200@BODY_HEADER"
-msgstr "Around the ominous {GLOBAL.FractureLoreConcept.Hyperlink}, inaccessible pieces of a shattered building float adrift. The voice carried by the winds roar: \"Activate the sigils to bind it back.\""
+msgstr "Ao redor da ominosa {GLOBAL.FractureLoreConcept.Hyperlink}, pedaços inacessíveis de um edifício destruído flutuam à deriva. A voz transportada pelos ventos rugem: \"Ative os sigilos para uni-lo novamente.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1200@BODY_LORE"
-msgstr "As your troops ready themselves to follow your command, a band of Nomads emerges. Their leader takes a hostile stance and shouts: \"Wanderer, you do not understand the forces you are meddling with. Do not listen to the voices of the devils of the wind. Leave this place before it is too late for all of us—this is your only warning.\""
+msgstr "Enquanto suas tropas se preparam para seguir seu comando, um grupo de Nômades surge. Seu líder assume uma postura hostil e grita: \"Viajante, você não entende as forças com as quais está se metendo. Não ouça as vozes dos demônios do vento. Saia deste lugar antes que seja tarde demais para todos nós—este é o seu único aviso.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1200@BUTTON_1"
-msgstr "Activate the sigils and face the nomads. [knowledge/]"
+msgstr "Ative os sigilos e enfrete os nômades. [knowledge/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1200@BUTTON_2"
-msgstr "Awaken the sigils and entice [gold/] the nomads to stand with you [unit/]."
+msgstr "Desperte os sigilos e atraia [gold/] os nômades para que lutem ao seu lado [unit/]."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1200@BUTTON_4"
-msgstr "Leave the place for now."
+msgstr "Deixe o local por enquanto."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1200@TITLE"
-msgstr "Crackling Mesa: Conflict of Voices"
+msgstr "Meseta Estalante: Conflito de Vozes"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1202@BODY_FOOTER"
-msgstr "\"Activate the sigils to bind back the library and eradicate the fractured archivists, for they will eventually awaken in madness and destroy everything here.\""
+msgstr "\"Ative os sigilos para reconectar a biblioteca e erradicar os arquivistas fraturados, pois eles eventualmente despertarão na loucura e destruirão tudo aqui.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1202@BODY_HEADER"
-msgstr "A ruined library floats around the {GLOBAL.FractureLoreConcept.Hyperlink}, full of sigils, books written in codex, and dormant <<m:{EventUnit}>>. The voice of the winds resonates loudly:"
+msgstr "Uma biblioteca arruinada flutua ao redor da {GLOBAL.FractureLoreConcept.Hyperlink}, cheia de sigilos, livros escritos em códex e <<m:{EventUnit}>> adormecidos. A voz dos ventos ressoa alto:"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1202@BODY_LORE"
-msgstr "\"Great is the tragedy of the knowledge lost in [hyperlink,GLOBAL.TheFracturingLoreConcept]the great cataclysm[/hyperlink]. Ages have passed, and still no one has discovered that the {GLOBAL.AstralFlowsLoreConcept.Hyperlink} are reversed near the fractures. And that, like any current, they can be navigated and diverted. No one has dared to gaze again into the void of creation. But those who tried... Documented everything. Obey me, and I shall teach you how to decipher their code.\""
+msgstr "\"Grande é a tragédia do conhecimento perdido no [hyperlink,GLOBAL.TheFracturingLoreConcept]grande cataclismo[/hyperlink]. Séculos se passaram, e ainda ninguém descobriu que os {GLOBAL.AstralFlowsLoreConcept.Hyperlink} estão invertidos perto das fraturas. E que, como qualquer corrente, podem ser navegados e desviados. Ninguém ousou olhar novamente para o vazio da criação. Mas aqueles que tentaram... Documentaram tudo. Obedeça-me, e eu lhe ensinarei a decifrar seu código.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1202@BUTTON_1"
-msgstr "Activate the sigils and take down the archivists. [knowledge/]"
+msgstr "Ative os sigilos e derrote os arquivistas. [knowledge/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1202@BUTTON_2"
-msgstr "Leave the library for now."
+msgstr "Deixe a biblioteca por enquanto."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1202@BUTTON_5"
-msgstr "Activate the sigils, appraise [knowledge/] the books to sell them [gold/], and leave."
+msgstr "Ative os sigilos, avalie [knowledge/] os livros para vendê-los [gold/], e saia."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1202@TITLE"
-msgstr "Crackling Mesa: Inverted Flows"
+msgstr "Meseta Estalante: Fluxos Invertidos"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1204@BODY_FOOTER"
-msgstr "A colossal Fracture has manifested at the heart of the Crackling Mesa. And from it, a figure emerges... The figure of an [hyperlink,GLOBAL.UnmakersLoreConcept]Unmaker[/hyperlink]."
+msgstr "Uma Fratura colossal se manifestou no coração da Meseta Estalante. E dela, uma figura emerge... A figura de um [hyperlink,GLOBAL.UnmakersLoreConcept]Unmaker[/hyperlink]."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1204@BODY_HEADER"
-msgstr "When you activate the third sigil, the very air begins to tremble. The three [hyperlink,GLOBAL.FractureLoreConcept]Fractures[/hyperlink] crackle with energy, drawing in powerful devouring winds."
+msgstr "Quando você ativa o terceiro sigilo, o próprio ar começa a tremer. As três [hyperlink,GLOBAL.FractureLoreConcept]Fraturas[/hyperlink] crepitam com energia, atraindo poderosos ventos devoradores."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1204@BODY_LORE"
-msgstr "These currents surge toward the fissures, siphoning the energy of everything in their path. The Fractures swell as they feed on this power—and then, suddenly, they implode, releasing the devouring winds that are pulled toward the center of the region. When the gusts converge, a massive Fracture reappears, restoring a fragment of the plateau it once consumed."
+msgstr "Essas correntes fluem em direção às fissuras, sugando a energia de tudo em seu caminho. As Fraturas inchem à medida que se alimentam desse poder — e então, de repente, implodem, liberando os ventos devoradores que são puxados para o centro da região. Quando as rajadas convergem, uma Fratura massiva reaparece, restaurando um fragmento do planalto que já consumiu."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1204@BUTTON_0"
-msgstr "Approach the Unmaker."
+msgstr "Aproxime-se do Unmaker."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1204@TITLE"
-msgstr "Crackling Mesa: Echos of the Fracturing"
+msgstr "Meseta Estalante: Ecos do Fraturamento"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1206@BODY_FOOTER"
-msgstr "The Great Fracture remains open. With the Unmakers' {GLOBAL.ArtifactConcept.Hyperlink}, you might draw something out from the other side before sealing it."
+msgstr "A Grande Fratura permanece aberta. Com o {GLOBAL.ArtifactConcept.Hyperlink} dos Unmakers, você pode extrair algo do outro lado antes de selá-la."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1206@BODY_FOOTER@UNMAKER_ALLY"
-msgstr "As the Unmaker leaves, the Great Fracture remains open. With the {GLOBAL.ArtifactConcept.Hyperlink}, you might draw something out from the other side before sealing it."
+msgstr "À medida que o Unmaker parte, a Grande Fratura permanece aberta. Com o {GLOBAL.ArtifactConcept.Hyperlink}, você pode extrair algo do outro lado antes de selá-la."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1206@BODY_HEADER"
-msgstr "{EventHero} lies defeated at last. Once again, <<o:EventHero>> abilities fell short of <<o:EventHero>> arrogance. From his hand slips an object, the {EventRelic}."
+msgstr "{EventHero} jaz derrotado finalmente. Mais uma vez, as habilidades de <<o:EventHero>> ficaram aquém de <<o:EventHero>> arrogância. De sua mão escorrega um objeto, a {EventRelic}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1206@BODY_HEADER@UNMAKER_ALLY"
-msgstr "{EventHero} looks at you, as if finally seeing you for the first time. The Unmaker raises an object in his hand—the {EventRelic}. His voice rings out:"
+msgstr "{EventHero} olha para você, como se finalmente o visse pela primeira vez. O Unmaker levanta um objeto em sua mão — a {EventRelic}. Sua voz ressoa:"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1206@BODY_LORE"
-msgstr "The intricate compass radiates negative energy. The devouring winds pass through the artifact before rushing toward the Great Fracture, as though it were redirecting them. It seems {EventHero} used the energy and alignment of the sigils you activated to create one himself and return... from the other side of the fracture. Now that power rests in your hands."
+msgstr "A bússola intricada irradia energia negativa. Os ventos devoradores passam pelo artefato antes de se dirigirem à Grande Fratura, como se estivessem sendo redirecionados. Parece que {EventHero} usou a energia e o alinhamento dos sigilos que você ativou para criar um para si mesmo e retornar... do outro lado da fratura. Agora, esse poder está em suas mãos."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1206@BODY_LORE@UNMAKER_ALLY"
-msgstr "\"A great feat indeed, to discern the voice of knowledge amid the cries of the ignorant. My word binds me, {PlayerLeader}. Here is your reward.\" The intricate compass radiates negative energy. The devouring winds pass through the artifact before rushing toward the Great Fracture, as though it were redirecting them. It seems {EventHero} used the energy and alignment of the sigils you activated to create one himself and return... From the other side of the fracture."
+msgstr "\"Uma grande proeza, de fato, discernir a voz do conhecimento entre os gritos dos ignorantes. Minha palavra me obriga, {PlayerLeader}. Aqui está sua recompensa.\" A bússola intricada irradia energia negativa. Os ventos devoradores passam pelo artefato antes de se dirigirem à Grande Fratura, como se estivessem sendo redirecionados. Parece que {EventHero} usou a energia e o alinhamento dos sigilos que você ativou para criar um para si mesmo e retornar... Do outro lado da fratura."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1206@BUTTON_0"
-msgstr "Seal the Fracture and redirect the mana [mana/] to your empire."
+msgstr "Selle a Fratura e redirecione o mana [mana/] para seu império."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1206@BUTTON_3"
-msgstr "Bring a battalion of fractured beings [unit/] under your command."
+msgstr "Traga um batalhão de seres fraturados [unit/] sob seu comando."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1206@BUTTON_4"
-msgstr "Bring back a whole city [citytier1/] from the Unmakers. (NOT FUNCTIONAL)"
+msgstr "Recupere uma cidade inteira [citytier1/] dos Desfazedores. (NÃO FUNCIONAL)"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1206@BUTTON_5"
 msgstr "A"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1206@BUTTON_6"
-msgstr "Bring forth a Fractured Tower [siteGold/] where the Unmakers once conducted their experiments."
+msgstr "Traga à tona uma Torre Fraturada [siteGold/] onde os Desfazedores já conduziram seus experimentos."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1206@TITLE"
-msgstr "Crackling Mesa: Aftermath"
+msgstr "Meseta Crepitante: Consequências"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1233@BODY_FOOTER"
-msgstr "One of the Unmakers has returned through a Fracture, and now challenges all who dare to oppose <<P:EventHero>>."
+msgstr "Um dos Desfazedores retornou através de uma Fratura e agora desafia todos que ousam se opor a <<P:EventHero>>."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1233@BODY_HEADER"
-msgstr "The figure beside the great Fracture turns, <<o:{EventHero}>> empty gaze cuts straight through you. <<Co:{EventHero}>> voice—one you have heard before in the winds—claims:"
+msgstr "A figura ao lado da grande Fratura se vira, <<o:{EventHero}>> olhar vazio corta diretamente através de você. <<Co:{EventHero}>> voz—uma que você já ouviu antes nos ventos—afirma:"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1233@BODY_LORE"
-msgstr "\"Knowledge is power, traveler. That is why we were punished, because the power of even the {GLOBAL.AllfatherLoreConcept.Hyperlink} was within our reach. But not even his unjust punishment could stop me. The one the myths speak of has returned! I, {EventHero}, who has stared back to the void of creation, claim this realm and all that lies within it. Come then—bring your worst!\""
+msgstr "\"Conhecimento é poder, viajante. Por isso fomos punidos, porque o poder do próprio {GLOBAL.AllfatherLoreConcept.Hyperlink} estava ao nosso alcance. Mas nem mesmo sua punição injusta pôde me deter. Aquele de quem falam os mitos retornou! Eu, {EventHero}, que encarei o vazio da criação, reclamo este reino e tudo que nele existe. Venha então—traga seu pior!\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1233@BUTTON_0"
-msgstr "Prepare to fight the Unmaker."
+msgstr "Prepare-se para lutar contra o Desfazedor."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1233@BUTTON_1"
-msgstr "I fulfilled your every demand; I do not stand against you. [influence/]"
+msgstr "Cumpri todas as suas demandas; não estou contra você. [influence/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1233@TITLE"
-msgstr "Crackling Mesa: Herald of the Fracturing"
+msgstr "Meseta Crepitante: Arauto da Fraturação"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1333@BODY_FOOTER"
-msgstr "What will you do with all this power? Will you embrace it—or free this realm from its yoke?"
+msgstr "O que você fará com todo esse poder? Você o abraçará—ou libertará este reino de seu jugo?"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1333@BODY_HEADER"
-msgstr "As you claim the {LAST_ARTIFACT}, the other artifacts begin to crackle. Bolts of negative energy coil out from them imbuing you with their power."
+msgstr "Ao reclamar o {LAST_ARTIFACT}, os outros artefatos começam a crepitar. Rajadas de energia negativa se enroscam a partir deles, imbuindo-o com seu poder."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1333@BODY_LORE"
-msgstr "The energy courses through you from head to toe, your eyes blaze like beacons of hollow flame, and you feel your body drawing magic from the very air. For just an instant, you can feel it—a power so vast it could change the realm. A power that could defy existence itself. In that moment, that seems to last forever, you must make a choice."
+msgstr "A energia percorre você da cabeça aos pés, seus olhos brilham como faróis de chama oca, e você sente seu corpo absorvendo magia do próprio ar. Por apenas um instante, você pode senti-la—um poder tão vasto que poderia mudar o reino. Um poder que poderia desafiar a própria existência. Naquele momento, que parece durar para sempre, você deve fazer uma escolha."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1333@BUTTON_0"
-msgstr "Unleash the power of the Fractures as their herald."
+msgstr "Libere o poder das Fraturas como seu arauto."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1333@BUTTON_1"
-msgstr "Redirect the energy to heal the Fractures of the realm."
+msgstr "Redirecione a energia para curar as Fraturas do reino."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1333@BUTTON_2"
-msgstr "Cast off the energy, releasing the power [mana/]. You will safeguard the {GLOBAL.ArtifactConcept.Hyperlink} as their guardian [influence/] [allegiance/]."
+msgstr "Descarte a energia, liberando o poder [mana/]. Você será o guardião do {GLOBAL.ArtifactConcept.Hyperlink} como seu protetor [influence/] [allegiance/]."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1333@TITLE"
-msgstr "Echoes of the Fracturing: Hubris of the Unmakers"
+msgstr "Ecos do Fraturamento: Hubris dos Desfazedores"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1383@BODY_FOOTER"
-msgstr "This world is lost. {PlayerLeader} has achieved the {GLOBAL.CataclysmVictoryConcept.Hyperlink}."
+msgstr "Este mundo está perdido. {PlayerLeader} alcançou o {GLOBAL.CataclysmVictoryConcept.Hyperlink}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1383@BODY_FOOTER@PLAYER_IS_HERALD"
-msgstr "If you retain all three <<m:{GLOBAL.ArtifactConcept.Hyperlink}>>, you will achieve victory in 5 turns. You will lose the Artifacts if {PlayerLeader} is defeated in combat."
+msgstr "Se você mantiver todos os três <<m:{GLOBAL.ArtifactConcept.Hyperlink}>>, alcançará a vitória em 5 turnos. Você perderá os Artefatos se {PlayerLeader} for derrotado em combate."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1383@BODY_HEADER"
-msgstr "The entire realm trembles. You can feel a brutal disturbance ripple through the Astral Sea. {PlayerLeader} has gathered the Unmakers' artifacts and embraced their power."
+msgstr "Todo o reino treme. Você pode sentir uma perturbação brutal se espalhar pelo Mar Astral. {PlayerLeader} reuniu os artefatos dos Desfazedores e abraçou seu poder."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1383@BODY_HEADER@PLAYER_IS_HERALD"
-msgstr "The entire realm trembles. You can feel the brutal disturbance you have unleashed upon the Astral Sea. You have gathered the Unmakers' artifacts and embraced their power."
+msgstr "Todo o reino treme. Você pode sentir a perturbação brutal que desatou sobre o Mar Astral. Você reuniu os artefatos dos Desfazedores e abraçou seu poder."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1383@BODY_LORE"
-msgstr "The Devouring Winds roar with fury. Their new master summons them, and they answer the call. Storms of negative energy begin to darken the skies.<<m:{GLOBAL.FractureLoreConcept.Hyperlink}>> erupt across the land. The magical balance of the realm has been shattered, a new Fracturing is imminent."
+msgstr "Os Ventos Devoradores rugem com fúria. Seu novo mestre os convoca, e eles atendem ao chamado. Tempestades de energia negativa começam a escurecer os céus.<<m:{GLOBAL.FractureLoreConcept.Hyperlink}>> irrompem pela terra. O equilíbrio mágico do reino foi quebrado, um novo Fraturamento é iminente."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1383@BODY_LORE@PLAYER_IS_HERALD"
-msgstr "The Devouring Winds roar with fury. Their new master summons them, and they answer your call. Storms of negative energy begin to darken the skies.<<m:{GLOBAL.FractureLoreConcept.Hyperlink}>> tear open everywhere. The magical balance of the realm has been shattered, a new Fracturing is about to occur. Others will attempt to stop you before you consume the realm."
+msgstr "Os Ventos Devoradores rugem com fúria. Seu novo mestre os convoca, e eles atendem ao seu chamado. Tempestades de energia negativa começam a escurecer os céus.<<m:{GLOBAL.FractureLoreConcept.Hyperlink}>> se abrem por toda parte. O equilíbrio mágico do reino foi quebrado, um novo Fraturamento está prestes a ocorrer. Outros tentarão impedi-lo antes que você consuma o reino."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1383@BUTTON_0"
-msgstr "Leave the realm."
+msgstr "Deixe o reino."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1383@BUTTON_0@PLAYER_IS_HERALD"
-msgstr "The end is near."
+msgstr "O fim está próximo."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1383@BUTTON_1"
 msgstr "A"
@@ -55439,28 +55439,28 @@ msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1383@BUTTON_2"
 msgstr "A"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1383@TITLE"
-msgstr "Echoes of the Fracturing: Fractured Realm"
+msgstr "Ecos do Fraturamento: Reino Fraturado"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1384@BODY_FOOTER"
-msgstr "Soon there will be no cataclysm or hubris to torment this realm, and {PlayerLeader} will be empowered by the tribes. Does this serve your interests?"
+msgstr "Em breve não haverá cataclismo ou hubris para atormentar este reino, e {PlayerLeader} será fortalecido pelas tribos. Isso serve aos seus interesses?"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1384@BODY_FOOTER@PLAYER_IS_HERALD"
-msgstr "Soon there will be no cataclysm or hubris to torment this realm."
+msgstr "Em breve não haverá cataclismo ou hubris para atormentar este reino."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1384@BODY_HEADER"
-msgstr "The wind falls still, and a strange calm settles over the realm. {PlayerLeader} has gathered the Unmakers' artifacts and is using their power to heal the world."
+msgstr "O vento cai em silêncio, e uma calma estranha se instala sobre o reino. {PlayerLeader} reuniu os artefatos dos Desfazedores e está usando seu poder para curar o mundo."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1384@BODY_HEADER@PLAYER_IS_HERALD"
-msgstr "The wind falls still, and a strange calm settles over the realm. You have gathered the Unmakers' artifacts and are using their power to heal the world."
+msgstr "O vento cai em silêncio, e uma calma estranha se instala sobre o reino. Você reuniu os artefatos dos Desfazedores e está usando seu poder para curar o mundo."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1384@BODY_LORE"
-msgstr "The <<m:{GLOBAL.FractureLoreConcept.Hyperlink}>> that scar this barren land begin to wane, shrinking in both number and size. The [hyperlink,GLOBAL.AstralFlowsLoreConcept]Astral Currents[/hyperlink] flow once more through the world, filling it with life. The nomadic tribes sense the change and flock in great numbers to their savior. Their prophecy of the Mender of the Fractured Age is becoming true."
+msgstr "As <<m:{GLOBAL.FractureLoreConcept.Hyperlink}>> que cicatrizam esta terra árida começam a minguar, diminuindo em número e tamanho. As [hyperlink,GLOBAL.AstralFlowsLoreConcept]Correntes Astrais[/hyperlink] fluem mais uma vez pelo mundo, preenchendo-o com vida. As tribos nômades sentem a mudança e acorrem em grande número para seu salvador. Sua profecia do Consertador da Era Fraturada está se tornando realidade."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1384@BUTTON_0"
-msgstr "It is in your hands to support the healing of this realm... or its destruction."
+msgstr "Está em suas mãos apoiar a cura deste reino... ou sua destruição."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1384@BUTTON_0@PLAYER_IS_HERALD"
-msgstr "The mending is near."
+msgstr "A cura está próxima."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1384@BUTTON_1"
 msgstr "A"
@@ -55469,19 +55469,19 @@ msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1384@BUTTON_2"
 msgstr "A"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1384@TITLE"
-msgstr "Echoes of the Fracturing: Mender of the Fractures"
+msgstr "Ecos do Fraturamento: Consertador das Fraturas"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1385@BODY_FOOTER"
-msgstr "Something, deep within the Astral Sea, calls out to you... With a mere gesture, you open a colossal Fracture to cross it."
+msgstr "Algo, nas profundezas do Mar Astral, chama por você... Com um mero gesto, você abre uma Fratura colossal para cruzá-la."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1385@BODY_HEADER"
-msgstr "The entire realm trembles. You can feel a brutal disturbance ripple through the {GLOBAL.AstralSeaLoreConcept.Hyperlink}. You have finally gathered the Unmakers' artifacts and embraced their power."
+msgstr "Todo o reino treme. Você pode sentir uma perturbação brutal se espalhar pelo {GLOBAL.AstralSeaLoreConcept.Hyperlink}. Você finalmente reuniu os artefatos dos Desfazedores e abraçou seu poder."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1385@BODY_LORE"
-msgstr "The Devouring Winds roar with fury. Their new master summons them, and they answer your call. Storms of negative energy begin to darken the skies. <<m:{GLOBAL.FractureLoreConcept.Hyperlink}>> tear open everywhere. Before you, empires kneel amid the remnants of a world consumed by your ambition. All the magic of the realm now courses through your veins. Yet, it is not enough. Even greater power lies within your reach."
+msgstr "Os Ventos Devoradores rugem com fúria. Seu novo mestre os convoca, e eles respondem ao seu chamado. Tempestades de energia negativa começam a escurecer os céus. <<m:{GLOBAL.FractureLoreConcept.Hyperlink}>> se abrem em todos os lugares. Ante você, impérios se ajoelham entre os remanescentes de um mundo consumido por sua ambição. Toda a magia do reino agora flui em suas veias. Ainda assim, não é suficiente. Um poder ainda maior está ao seu alcance."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1385@BUTTON_0"
-msgstr "You are the Herald of the Fracturing, nothing and no one will stand in your way."
+msgstr "Você é o Arauto do Fraturamento, nada nem ninguém ficará em seu caminho."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1385@BUTTON_1"
 msgstr "A"
@@ -55490,25 +55490,25 @@ msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1385@BUTTON_2"
 msgstr "A"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1385@TITLE"
-msgstr "Echoes of the Fracturing: A New Herald"
+msgstr "Ecos do Fraturamento: Um Novo Arauto"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1386@BODY_FOOTER"
-msgstr "Your path here is not yet finished; your legend still has verses left unwritten."
+msgstr "Seu caminho aqui ainda não terminou; sua lenda ainda tem versos por escrever."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1386@BODY_HEADER"
-msgstr "You have held the artifacts till the {GLOBAL.CataclysmConcept.Hyperlink} was cleansed. You have become the supreme savior of this realm."
+msgstr "Você guardou os artefatos até que o {GLOBAL.CataclysmConcept.Hyperlink} fosse purificado. Você se tornou o supremo salvador deste reino."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1386@BODY_HEADER@PLAYER_IS_NOT_HE"
-msgstr "{PlayerLeader} held the artifacts till the {GLOBAL.CataclysmConcept.Hyperlink} was cleansed. <<Cp:{PlayerLeader}>> has become the supreme savior of this realm."
+msgstr "{PlayerLeader} guardou os artefatos até que o {GLOBAL.CataclysmConcept.Hyperlink} fosse purificado. <<Cp:{PlayerLeader}>> se tornou o supremo salvador deste reino."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1386@BODY_LORE"
-msgstr "With the support of the nomads, you have united the roaming tribes under your rule. Vegetation will bloom once more, animals will return to these lands. And in one very, very distant day, all the suffering and destruction caused by {GLOBAL.TheFracturingLoreConcept.Hyperlink} will be nothing more than a tale. One passed down through generations, to remember that long ago, a great {EventPlayerType} brought peace and life back to this world."
+msgstr "Com o apoio dos nômades, você uniu as tribos errantes sob seu domínio. A vegetação florescerá novamente, os animais retornarão a estas terras. E em um dia muito, muito distante, todo o sofrimento e destruição causados por {GLOBAL.TheFracturingLoreConcept.Hyperlink} não serão mais do que uma história. Uma história passada de geração em geração, para lembrar que, há muito tempo, um grande {EventPlayerType} trouxe paz e vida de volta a este mundo."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1386@BODY_LORE@PLAYER_IS_NOT_HE"
-msgstr "Vegetation will bloom once more, animals will return to these lands. And in one very, very distant day, all the suffering and destruction caused by {GLOBAL.TheFracturingLoreConcept.Hyperlink} will be nothing more than a tale. One passed down through generations, to remember that long ago, a great {EventPlayerType} brought peace and life back to this world."
+msgstr "A vegetação florescerá novamente, os animais retornarão a estas terras. E em um dia muito, muito distante, todo o sofrimento e destruição causados por {GLOBAL.TheFracturingLoreConcept.Hyperlink} não serão mais do que uma história. Uma história passada de geração em geração, para lembrar que, há muito tempo, um grande {EventPlayerType} trouxe paz e vida de volta a este mundo."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1386@BUTTON_0"
-msgstr "Continue your story."
+msgstr "Continue sua história."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1386@BUTTON_1"
 msgstr "A"
@@ -55517,73 +55517,73 @@ msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1386@BUTTON_2"
 msgstr "A"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1386@TITLE"
-msgstr "Echoes of the Fracturing: Healed Realm"
+msgstr "Ecos do Fraturamento: Reino Curado"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1430@BODY_FOOTER"
-msgstr "\"We know how to reward those who aid us, wanderers. Will you raise your sword to purge the curse of the [hyperlink,GLOBAL.FractureLoreConcept]hollowing winds[/hyperlink]?\""
+msgstr "\"Sabemos como recompensar aqueles que nos ajudam, viajantes. Você erguerá sua espada para purgar a maldição dos [hyperlink,GLOBAL.FractureLoreConcept]ventos ocos[/hyperlink]?\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1430@BODY_FOOTER@PLAYER_FRACTURED"
 msgstr "A"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1430@BODY_HEADER"
-msgstr "Your troops come upon the waters of an underground oasis. Its shores are crowded with Nomads, steel at hand."
+msgstr "Suas tropas encontram as águas de um oásis subterrâneo. Suas margens estão lotadas de Nômades, com aço em mãos."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1430@BODY_LORE"
-msgstr "\"Halt, wanderers!\" a voice shouts. Leading a band of warriors, a proud chieftain steps forward. \"I am {EventHero} of the {EventTribe}, and this is the last oasis of the realm. You do not look like rotters, perhaps we can help one another. Those Undone abominations at the other side of the lake are poisoning our animals, our scarce waters, and our people, condemning them to the same fate they suffer.\" <<Co:EventHero>> face hardens into a mask of hatred as <<p:EventHero>> adds: \"I will not see another friend die.\""
+msgstr "\"Parem, viajantes!\" uma voz grita. Liderando um grupo de guerreiros, um chefe orgulhoso avança. \"Eu sou {EventHero} da {EventTribe}, e este é o último oásis do reino. Vocês não parecem apodrecedores, talvez possamos ajudar uns aos outros. Aqueles abominações Desfeitas do outro lado do lago estão envenenando nossos animais, nossas águas escassas e nosso povo, condenando-os ao mesmo destino que sofrem.\" O rosto de <<Co:EventHero>> endurece em uma máscara de ódio enquanto <<p:EventHero>> acrescenta: \"Não verei outro amigo morrer.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1430@BODY_LORE@PLAYER_FRACTURED"
 msgstr "A"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1430@BUTTON_0"
-msgstr "\"Point me to those rabid dogs.\""
+msgstr "\"Aponte-me para aqueles cães raivosos.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1430@BUTTON_1"
-msgstr "\"I will meet with the cursed ones on my own terms.\""
+msgstr "\"Encontrarei os amaldiçoados nos meus próprios termos.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1430@BUTTON_3"
 msgstr "A"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1430@TITLE"
-msgstr "Cursed Shores of the Great Worm Lake"
+msgstr "Margens Amaldiçoadas do Grande Lago da Minhoca"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1431@BODY_FOOTER"
-msgstr "The prisoner awaits your verdict. What will you do with <<P:{EventUnit}>>?"
+msgstr "O prisioneiro aguarda seu veredito. O que você fará com <<P:{EventUnit}>>?"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1431@BODY_HEADER"
-msgstr "Some Nomads lie before you, while others flee to regroup. Your troops have managed to capture an {EventUnit}."
+msgstr "Alguns Nômades estão diante de você, enquanto outros fogem para se reagrupar. Suas tropas conseguiram capturar um {EventUnit}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1431@BODY_LORE"
-msgstr "It does not take long for the prisoner to speak: \"What would you have done, {PlayerLeader}? If your pastures, your livestock, and your kin were sickened by the Undones? What would you have done if you watched your children die of thirst or madness? Perhaps we should be judged for our actions—but you are not one to pass that judgment.\""
+msgstr "Não demora muito para o prisioneiro falar: \"O que você teria feito, {PlayerLeader}? Se suas pastagens, seu gado e seus parentes fossem envenenados pelos Desfeitos? O que você teria feito se visse seus filhos morrerem de sede ou loucura? Talvez devêssemos ser julgados por nossas ações—mas você não é quem deve passar esse julgamento.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1431@BUTTON_0"
-msgstr "Spare <<o:{EventUnit}>> life in exchange for some of <<o:{EventUnit}>> loot. [gold/]"
+msgstr "Poupe a vida de <<o:{EventUnit}>> em troca de parte do butim de <<o:{EventUnit}>>. [gold/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1431@BUTTON_1"
-msgstr "Execute <<P:{EventUnit}>> [evilact/] for all <<o:{EventUnit}>> loot. [gold/] [item/]"
+msgstr "Execute <<P:{EventUnit}>> [evilact/] por todo o butim de <<o:{EventUnit}>>. [gold/] [item/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1431@BUTTON_2"
-msgstr "\"If it is green pastures [food/] you seek, you shall find them under my rule.\" [unit/]"
+msgstr "\"Se são pastagens verdes [food/] que você busca, encontrará sob meu governo.\" [unit/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1431@TITLE"
-msgstr "Great Worm Lake: Judge and Jury"
+msgstr "Grande Lago da Minhoca: Juiz e Júri"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1432@BODY_FOOTER"
-msgstr "Will you save the life of this {EventUnit} so he can fight you another day? Or loot <<P:EventUnit>>?"
+msgstr "Você poupará a vida deste {EventUnit} para que ele possa lutar contra você outro dia? Ou saquear <<P:EventUnit>>?"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1432@BODY_HEADER"
-msgstr "After the clash, your troops find a travel journal on a dying {EventUnit}. The final entry reads:"
+msgstr "Após o confronto, suas tropas encontram um diário de viagem em um {EventUnit} moribundo. A última entrada diz:"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1432@BODY_LORE"
-msgstr "\"After another cycle of the stars, we return to the Great Worm Lake. Now the last oasis. Legends of our tribe speak of this place as a paradise. They tell of a great worm, mother of all others and protector of the desert. But everything the cursed gods touched fell undone. They experimented on the Great Mother and her brood, seeking answers to questions that should never have been asked. The Great Mother now lies in the water, her offspring vanished.\""
+msgstr "\"Após outro ciclo das estrelas, retornamos ao Grande Lago da Minhoca. Agora o último oásis. As lendas de nossa tribo falam deste lugar como um paraíso. Elas contam sobre uma grande minhoca, mãe de todas as outras e protetora do deserto. Mas tudo o que os deuses amaldiçoados tocaram desfez-se. Eles experimentaram na Grande Mãe e sua prole, buscando respostas para perguntas que nunca deveriam ter sido feitas. A Grande Mãe agora jaz na água, sua prole desaparecida.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1432@BUTTON_0"
-msgstr "Heal <<o:{EventUnit}>> wounds. [goodact/]"
+msgstr "Cure os ferimentos de <<o:{EventUnit}>>. [goodact/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1432@BUTTON_1"
-msgstr "Loot <<P:{EventUnit}>>. [gold/]"
+msgstr "Saqueie <<P:{EventUnit}>>. [gold/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1432@TITLE"
-msgstr "Great Worm Lake: Lost Paradise"
+msgstr "Grande Lago da Minhoca: Paraíso Perdido"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1436@BODY_FOOTER"
 msgstr "A"
@@ -55601,61 +55601,61 @@ msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1436@TITLE"
 msgstr "A"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1437@BODY_FOOTER"
-msgstr "\"We must destroy them, or nothing will remain of us. My troops will aid you, {PlayerLeader}. I must prepare to bring down that beast.\""
+msgstr "\"Devemos destruí-los, ou nada restará de nós. Minhas tropas o ajudarão, {PlayerLeader}. Preciso me preparar para derrubar aquela fera.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1437@BODY_HEADER"
-msgstr "The Undone withdraw—their weakened forces can no longer hold the territory. But suddenly, a violent tremor shakes the subterranean lake."
+msgstr "Os Desfeitos recuam — suas forças enfraquecidas não conseguem mais segurar o território. Mas de repente, um tremor violento sacode o lago subterrâneo."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1437@BODY_HEADER@SIDED_WITH_UNDON"
-msgstr "The Nomads withdraw—their weakened forces can no longer hold the territory. But suddenly, a violent tremor shakes the subterranean lake."
+msgstr "Os Nômades recuam — suas forças enfraquecidas não conseguem mais segurar o território. Mas de repente, um tremor violento sacode o lago subterrâneo."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1437@BODY_LORE"
-msgstr "A gargantuan beast rises at the center of the oasis. A Fractured Worm, vast as a city roars with hunger. And with her, her brood erupts from the earth, devouring everything in their path. Nomads and Undone alike are swallowed by the worms' maws. {EventHero} stares in disbelief. \"It can't be. The Great Worm died, but one of its deformed daughters survived the experiments, and she has never stopped growing.\""
+msgstr "Uma fera gigantesca surge no centro do oásis. Um Verme Fraturado, vasto como uma cidade, ruge de fome. E com ela, sua prole irrompe da terra, devorando tudo em seu caminho. Nômades e Desfeitos são engolidos pelas mandíbulas dos vermes. {EventHero} olha incrédulo. \"Não pode ser. O Grande Verme morreu, mas uma de suas filhas deformadas sobreviveu aos experimentos, e ela nunca parou de crescer.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1437@BODY_LORE@SIDED_WITH_UNDON"
-msgstr "A gargantuan beast rises at the center of the oasis. A Fractured Worm, vast as a city roars with hunger. And with her, her brood erupts from the earth, devouring everything in their path. Nomads and Undone alike are swallowed by the worms' maws. {EventHero} looks on, shaken. \"Not even the Great Worm shows us mercy... To arms! Hunger knows no sides. It is breeding season—it's them or us!\""
+msgstr "Uma fera gigantesca surge no centro do oásis. Um Verme Fraturado, vasto como uma cidade, ruge de fome. E com ela, sua prole irrompe da terra, devorando tudo em seu caminho. Nômades e Desfeitos são engolidos pelas mandíbulas dos vermes. {EventHero} observa, abalado. \"Nem mesmo o Grande Verme nos poupa... Às armas! A fome não escolhe lados. É época de reprodução — são eles ou nós!\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1437@BUTTON_0"
 msgstr "A"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1437@BUTTON_1"
-msgstr "Face the Great Worm."
+msgstr "Enfrente o Grande Verme."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1437@TITLE"
-msgstr "Great Worm Lake: Awakening"
+msgstr "Lago do Grande Verme: Despertar"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1440@BODY_FOOTER"
-msgstr "\"Our tamed beast will be at your disposal. But what else can we do to repay this debt?\" asks the chieftain of the Nomads."
+msgstr "\"Nossa fera domesticada estará à sua disposição. Mas o que mais podemos fazer para pagar esta dívida?\" pergunta o chefe dos Nômades."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1440@BODY_FOOTER@SIDED_WITH_UNDON"
-msgstr "\"Our tamed beast will be at your disposal. But what else can we do to repay this debt?\" asks the chieftain of the Undone."
+msgstr "\"Nossa fera domesticada estará à sua disposição. Mas o que mais podemos fazer para pagar esta dívida?\" pergunta o chefe dos Desfeitos."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1440@BODY_HEADER"
-msgstr "The last of the hatchlings falls, and the Great Worm roars in grief and fury. Harpooned by the Nomads, the beast bleeds profusely."
+msgstr "O último dos filhotes cai, e o Grande Verme ruge de dor e fúria. Arponeado pelos Nômades, a fera sangra profusamente."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1440@BODY_HEADER@SIDED_WITH_UNDON"
-msgstr "The last of the hatchlings falls, and the Great Worm roars in grief and fury. Harpooned by the Undone, the beast bleeds profusely as it retreats."
+msgstr "O último dos filhotes cai, e o Grande Verme ruge de dor e fúria. Arponeado pelos Desfeitos, a fera sangra profusamente enquanto recua."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1440@BODY_LORE"
-msgstr "As the beast retreats, the blue blood falls into the oasis, creating bubbling pools. The downpour hits {EventHero}, and the corruption takes hold at once. <<Co:EventHero>> body rapidly changes—turning <<P:EventHero>> into one of the Undone. <<Co:EventHero>> anguished scream echoes across the lake: \"No! The oasis has been purged, and I will never see it bloom again.\" Seeing their tribe gather around, <<p:EventHero>> grows calm, recalling <<o:EventHero>> duty. \"I must depart in eternal penance. But my tribe owes you a great debt, {PlayerLeader}.\""
+msgstr "Enquanto a fera recua, o sangue azul cai no oásis, criando poças borbulhantes. A chuva atinge {EventHero}, e a corrupção toma conta imediatamente. <<Co:EventHero>> corpo muda rapidamente—transformando <<P:EventHero>> em um dos Desfeitos. <<Co:EventHero>> grito angustiado ecoa pelo lago: \"Não! O oásis foi purgado, e eu nunca mais o verei florescer.\" Vendo sua tribo se reunir, <<p:EventHero>> se acalma, lembrando de <<o:EventHero>> dever. \"Devo partir em penitência eterna. Mas minha tribo lhe deve uma grande dívida, {PlayerLeader}.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1440@BODY_LORE@SIDED_WITH_UNDON"
-msgstr "From her wounds, streams of blue blood spills across the oasis, forming vast pools of bubbling fluid. \"Do not go near them!\" cries the voice of {EventHero}, chieftain of the Undone. \"The Great Worm has been devouring mana for generations, strengthening the Unmakers' curse. Its blood is so powerful that it would curse and transform anyone who touched it. I would not have our savior suffer our fate.\""
+msgstr "De seus ferimentos, correntes de sangue azul se espalham pelo oásis, formando vastas poças de fluido borbulhante. \"Não se aproximem delas!\" grita a voz de {EventHero}, chefe dos Desfeitos. \"O Grande Verme tem devorado mana por gerações, fortalecendo a maldição dos Desfazedores. Seu sangue é tão poderoso que amaldiçoaria e transformaria qualquer um que o tocasse. Não quero que nosso salvador sofra nosso destino.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1440@BUTTON_0"
-msgstr "\"My cities need to grow, your people will finally have a place to call home.\" [population/]"
+msgstr "\"Minhas cidades precisam crescer, seu povo finalmente terá um lugar para chamar de lar.\" [population/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1440@BUTTON_0@SIDED_WITH_UNDON"
-msgstr "\"Tell me the myth of the Great Worm, and how it came to be.\" [knowledge/]"
+msgstr "\"Conte-me o mito do Grande Vermes, e como ele surgiu.\" [knowledge/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1440@BUTTON_3"
-msgstr "\"Teach me to commune with the power of the <<m:{EventUnit}>>.\""
+msgstr "\"Ensine-me a comunicar com o poder do <<m:{EventUnit}>>.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1440@BUTTON_3@SIDED_WITH_UNDON"
-msgstr "\"Teach me to commune with the power of the <<m:{EventUnit}>>.\""
+msgstr "\"Ensine-me a comunicar com o poder do <<m:{EventUnit}>>.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1440@BUTTON_4"
-msgstr "\"May your people spread the tales of the {PlayerLeader.TitleName}.\" [influence/]"
+msgstr "\"Que seu povo espalhe os contos sobre {PlayerLeader.TitleName}.\" [influence/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1440@BUTTON_5"
 msgstr "A"
@@ -55664,19 +55664,19 @@ msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1440@TITLE"
 msgstr "Great Worm Lake: Aftermath"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1470@BODY_FOOTER"
-msgstr "\"My name is {EventHero}, and in the name of my people, I ask for your aid. We seek only to live out the time we have left in peace.\""
+msgstr "\"Meu nome é {EventHero}, e em nome do meu povo, peço sua ajuda. Buscamos apenas viver o tempo que nos resta em paz.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1470@BODY_HEADER"
-msgstr "Your troops come upon the waters of an underground oasis. Its shores are crowded with warped Nomads, steel at hand."
+msgstr "Suas tropas chegam às águas de um oásis subterrâneo. Suas margens estão lotadas de Nômades deformados, com aço em mãos."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1470@BODY_LORE"
-msgstr "\"Who are you, who walk the land of the cursed?\" A figure with hollow eyes pushes through the diseased. \"You do not bear the mark of the Undone, nor the hatred of the {EventTribe}. You may traverse this sacred place, now dimmed by the war that rages across its waters and along its shores. Nevertheless, you cannot stay, for the place and we ourselves carry a plague that devours the mind and soul. If you defend us, however, we would not hesitate to reward you generously, wanderers.\""
+msgstr "\"Quem são vocês, que caminham pela terra dos amaldiçoados?\" Uma figura de olhos ocos avança entre os doentes. \"Você não carrega a marca dos Desfeitos, nem o ódio da {EventTribe}. Você pode atravessar este lugar sagrado, agora obscurecido pela guerra que assola suas águas e suas margens. No entanto, você não pode ficar, pois o lugar e nós mesmos carregamos uma praga que devora a mente e a alma. Se você nos defender, no entanto, não hesitaremos em recompensá-lo generosamente, viajantes.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1470@BUTTON_0"
-msgstr "\"I will free you from those who pursue you.\""
+msgstr "\"Eu libertarei vocês daqueles que os perseguem.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1470@BUTTON_1"
-msgstr "\"It is too soon to choose sides.\""
+msgstr "\"É cedo demais para escolher lados.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1470@BUTTON_3"
 msgstr "A"
@@ -55703,658 +55703,658 @@ msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1476@BUTTON_3"
 msgstr "A"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1498@BODY_FOOTER"
-msgstr "The scrap of papyrus is rapidly deteriorating. Will you retrieve the scroll or pursue the fleeing Undone?"
+msgstr "O pedaço de papiro está se deteriorando rapidamente. Você recuperará o pergaminho ou perseguirá os Desfeitos em fuga?"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1498@BODY_HEADER"
-msgstr "After the battle, your troops corner one of the Undone against the lake. With <<o:EventUnit>> hands raised, <<p:EventUnit>> begins to slowly back away, chanting a litany:"
+msgstr "Após a batalha, suas tropas encurralam um dos Desfeitos contra o lago. Com as mãos de <<o:EventUnit>> levantadas, <<p:EventUnit>> começa a recuar lentamente, entoando uma ladainha:"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1498@BODY_LORE"
-msgstr "\"This place is sacred. The Great Worm brought us here. In its waters we bathe in communion with her. She protects us from all harm—she will protect us from the intruders.\" With a sudden movement, the Undone throws <<r:EventUnit>> into the contaminated lake and begins to swim away. A scroll surfaces, seemingly dropped from <<o:EventUnit>> grasp. You can make out ancient engravings of a great, twisted worm."
+msgstr "\"Este lugar é sagrado. A Grande Serpente nos trouxe aqui. Em suas águas nos banhamos em comunhão com ela. Ela nos protege de todo mal — ela nos protegerá dos intrusos.\" Com um movimento repentino, o Desfeito joga <<r:EventUnit>> no lago contaminado e começa a nadar para longe. Um pergaminho surge, aparentemente caído do aperto de <<o:EventUnit>>. Você consegue distinguir gravuras antigas de uma grande serpente retorcida."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1498@BUTTON_0"
-msgstr "Save the scroll. [knowledge/]"
+msgstr "Salve o pergaminho. [knowledge/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1498@BUTTON_1"
-msgstr "Practice some target shooting. [evilact/] [xp/]"
+msgstr "Pratique um pouco de tiro ao alvo. [evilact/] [xp/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1498@TITLE"
-msgstr "Great Worm Lake: Found Paradise"
+msgstr "Lago da Grande Serpente: Paraíso Encontrado"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1499@BODY_FOOTER"
-msgstr "\"My head... No... I need my bag... Mana... Please.\""
+msgstr "\"Minha cabeça... Não... Preciso da minha bolsa... Mana... Por favor.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1499@BODY_HEADER"
-msgstr "The defeated Undones lie before you. Your troops have captured one of them, clutching a heavy satchel of mana."
+msgstr "Os Desfeitos derrotados estão diante de você. Suas tropas capturaram um deles, segurando uma bolsa pesada de mana."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1499@BODY_LORE"
-msgstr "<<Co:EventUnit>> sobs echo as <<p:EventUnit>> speaks: \"Have we not suffered enough? They call us Undone, devoided, rotten. They hunt us, for the sole crime of wanting to keep living. We withdrew to the oasis to contain it, yet they still persecuted us. Are we not even allowed to... Die in... P-peace?.\" You can see the fracture in <<o:EventUnit>> skull spreading."
+msgstr "Os soluços de <<Co:EventUnit>> ecoam enquanto <<p:EventUnit>> fala: \"Não sofremos o suficiente? Eles nos chamam de Desfeitos, vazios, podres. Eles nos caçam, pelo único crime de querermos continuar vivendo. Nós nos retiramos para o oásis para contê-lo, mas ainda nos perseguem. Não nos é permitido nem... Morrer em... P-paz?.\" Você pode ver a fratura no crânio de <<o:EventUnit>> se espalhando."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1499@BUTTON_0"
-msgstr "Give <<P:{EventUnit}>> the bag. [goodact/]"
+msgstr "Dê a bolsa para <<P:{EventUnit}>>. [goodact/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1499@BUTTON_1"
-msgstr "Keep the mana. [mana/]"
+msgstr "Fique com a mana. [mana/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1499@BUTTON_2"
-msgstr "\"I could supply you with mana [mana/] and safety under my empire.\" [unit/]"
+msgstr "\"Eu poderia lhe fornecer mana [mana/] e segurança sob meu império.\" [unit/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_1499@TITLE"
-msgstr "Great Worm Lake: Sin of Living"
+msgstr "Lago da Grande Serpente: Pecado de Viver"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_805@BODY_FOOTER"
 msgstr "(WIP)"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_805@BODY_HEADER"
-msgstr "The Hero has come to open the barrier(WIP)"
+msgstr "O Herói veio para abrir a barreira(WIP)"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_805@BODY_LORE"
-msgstr "Magic magic(WIP)"
+msgstr "Magia magia(WIP)"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_805@BUTTON_0"
-msgstr "Lets gooo(WIP)"
+msgstr "Vamos lá(WIP)"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_805@TITLE"
-msgstr "Danger (WIP)"
+msgstr "Perigo (WIP)"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_808@BODY_FOOTER"
-msgstr "It seems the Unmakers were trying to replicate the Well of Creation. But what went wrong?"
+msgstr "Parece que os Desfazedores estavam tentando replicar o Poço da Criação. Mas o que deu errado?"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_808@BODY_HEADER"
-msgstr "As you excavate the final area, a {EventStructure} rises before you. Mana crystals pierce its frame, contaminated by the negative energy."
+msgstr "Enquanto você escava a área final, uma {EventStructure} surge diante de você. Cristais de mana perfuram sua estrutura, contaminados pela energia negativa."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_808@BODY_LORE"
-msgstr "A lifeless hand protrudes from the rubble, clutching a journal as the final proof of its existence. Reading through it you find a passage: \"More [hyperlink,GLOBAL.FractureLoreConcept]Fractures[/hyperlink] are appearing, but the experiments are promising. We may create an infinite source of energy, a Tear from {GLOBAL.TheWellLoreConcept.Hyperlink}. We're so close; we just need to isolate and condense mana into its purest form. We must hurry to be the first, rumors say the experiment has already succeeded in another realm.\""
+msgstr "Uma mão sem vida surge dos escombros, segurando um diário como prova final de sua existência. Lendo-o, você encontra uma passagem: \"Mais [hyperlink,GLOBAL.FractureLoreConcept]Fraturas[/hyperlink] estão aparecendo, mas os experimentos são promissores. Podemos criar uma fonte infinita de energia, uma Lágrima de {GLOBAL.TheWellLoreConcept.Hyperlink}. Estamos tão perto; só precisamos isolar e condensar a mana em sua forma mais pura. Devemos nos apressar para sermos os primeiros, rumores dizem que o experimento já teve sucesso em outro reino.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_808@BUTTON_0"
-msgstr "Press on to the tower, if there are answers, they lie there."
+msgstr "Avança em direção à torre, se houver respostas, elas estão lá."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_808@TITLE"
-msgstr "Core of Contamination: The Source"
+msgstr "Núcleo da Contaminação: A Fonte"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_811@BODY_FOOTER"
-msgstr "The air quivers around the fractured humanoids; their very presence warps the fabric of magic itself. Suddenly, they turn toward you drawn by your magic."
+msgstr "O ar treme ao redor dos humanoides fraturados; sua mera presença distorce o tecido da magia. De repente, eles se voltam para você, atraídos por sua magia."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_811@BODY_HEADER"
-msgstr "After clearing away rubble and soil, you uncover a {GLOBAL.STRUCTURES.FRACTURED_INFESTATION.Hyperlink}."
+msgstr "Após remover os escombros e a terra, você descobre um {GLOBAL.STRUCTURES.FRACTURED_INFESTATION.Hyperlink}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_811@BODY_LORE"
-msgstr "Humanoids, or what remains of them, wander through the area. Their twisted bodies radiate the same energy as the cracks in the ground. \"Misshapen abominations... If you linger too long near a Fracture, you'll end up like them,\" whispers {EventHero}. \"That is why our people are cursed to wander forever, because of the arrogance of the {GLOBAL.UnmakersLoreConcept.Hyperlink}.\""
+msgstr "Humanoides, ou o que resta deles, vagam pela área. Seus corpos retorcidos irradiam a mesma energia das fissuras no chão. \"Abominações deformadas... Se você ficar muito tempo perto de uma Fissura, acabará como eles\", sussurra {EventHero}. \"É por isso que nosso povo é amaldiçoado a vagar para sempre, por causa da arrogância dos {GLOBAL.UnmakersLoreConcept.Hyperlink}.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_811@BUTTON_0"
-msgstr "Ready your troops to move."
+msgstr "Prepare suas tropas para se mover."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_811@TITLE"
-msgstr "Core of Contamination: Infestation"
+msgstr "Núcleo da Contaminação: Infestação"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_813@BODY_FOOTER"
-msgstr "Large shipments of crystallized mana lie scattered across the site, all pointing toward the source of the contamination."
+msgstr "Grandes remessas de mana cristalizado estão espalhadas pelo local, todas apontando para a fonte da contaminação."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_813@BODY_HEADER"
-msgstr "As you excavate the area, you uncover a disturbing scene: collapsed buildings, half-disintegrated bones, fissures and crystals that emit a frightening energy, which pull in your troops from their inside."
+msgstr "Ao escavar a área, você descobre uma cena perturbadora: edifícios desmoronados, ossos semi-desintegrados, fissuras e cristais que emitem uma energia assustadora, que puxa suas tropas por dentro."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_813@BODY_LORE"
-msgstr "\"These are ruins,\" says {EventHero}. \"Ruins of the civilization that existed before {GLOBAL.TheFracturingLoreConcept.Hyperlink}. [hyperlink,GLOBAL.UnmakersLoreConcept]Those who condemned this realm[/hyperlink] to be devoured by itself. In this city, as in many others, they sought to create something. They experimented with the very origin of magic. And through their arrogance, they tore the fabric of both magic and reality.\""
+msgstr "\"Estas são ruínas\", diz {EventHero}. \"Ruínas da civilização que existia antes de {GLOBAL.TheFracturingLoreConcept.Hyperlink}. [hyperlink,GLOBAL.UnmakersLoreConcept]Aqueles que condenaram este reino[/hyperlink] a ser devorado por si mesmo. Nesta cidade, como em muitas outras, eles procuraram criar algo. Eles experimentaram com a própria origem da magia. E através de sua arrogância, eles rasgaram o tecido da magia e da realidade.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_813@BUTTON_0"
-msgstr "Continue your path, following the fissures."
+msgstr "Continue seu caminho, seguindo as fissuras."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_813@TITLE"
-msgstr "Core of Contamination: Ruins"
+msgstr "Núcleo da Contaminação: Ruínas"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_814@BODY_FOOTER"
-msgstr "The source of the contamination is close, you can sense it just beyond the next layer of earth. What were they trying to create with so much mana?"
+msgstr "A fonte da contaminação está próxima, você pode senti-la logo além da próxima camada de terra. O que eles tentavam criar com tanta mana?"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_814@BODY_HEADER"
-msgstr "You excavate the next area. The further you go, the more mana crystals surround you, dim, contaminated, lifeless."
+msgstr "Você escava a próxima área. Quanto mais você avança, mais cristais de mana o cercam, opacos, contaminados, sem vida."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_814@BODY_LORE"
-msgstr "The tainted fissures begin to converge toward their source. The energy emanating from them is so intense that you can feel it trying to pull something out from within you. Your troops feel it too, their magic wanes quickly, their enchantments require constant renewal. The energy is draining your mana. How can an energy drain? Whatever experiment the Unmakers conducted... They did it here."
+msgstr "As fissuras corrompidas começam a convergir para sua fonte. A energia que emana delas é tão intensa que você pode sentir algo sendo puxado de dentro de você. Suas tropas também sentem isso, sua magia enfraquece rapidamente, seus encantamentos precisam de renovação constante. A energia está drenando sua mana. Como uma energia pode drenar? Qualquer experimento que os Desfazedores conduziram... Eles o fizeram aqui."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_814@BUTTON_0"
-msgstr "Prepare your troops to dig."
+msgstr "Prepare suas tropas para cavar."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_814@TITLE"
-msgstr "Core of Contamination: Hazard"
+msgstr "Núcleo da Contaminação: Perigo"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_821@TITLE"
-msgstr "Fracture Tower (WIP)"
+msgstr "Torre da Fissura (WIP)"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_835@BODY_FOOTER"
-msgstr "\"My tribe... We are the descendants of the Unmakers,\" says {TribeHero} in shock. \"My duty is not over {EventHero}, I shall always guard this place, by your side\""
+msgstr "\"Minha tribo... Somos os descendentes dos Desfazedores\", diz {TribeHero} em choque. \"Meu dever não terminou {EventHero}, eu sempre guardarei este lugar, ao seu lado\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_835@BODY_HEADER"
-msgstr "The {EventRelic} lies before {EventHero}, finally disconnected from the {EventStructure}, stopping the source of contamination. You see {TribeHero} pick up a journal from the ground."
+msgstr "O {EventRelic} está diante de {EventHero}, finalmente desconectado do {EventStructure}, parando a fonte de contaminação. Você vê {TribeHero} pegar um diário do chão."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_835@BODY_LORE"
-msgstr "<<Cp:TribeHero>> reads: \"A surge of negative magic from the Astral Sea has struck us. We believe an experiment went terribly wrong in another realm. The surge has triggered a chain reaction. The Fractures are erupting, devouring everything in their path. We are trying to shut the experiment down but it is too late, we must seal the city... With ourselves inside. A few will escape, vowing to guard this place forever. They will be called the... {TribeName}."
+msgstr "<<Cp:TribeHero>> lê: \"Uma onda de magia negativa do Mar Astral nos atingiu. Acreditamos que um experimento deu terrivelmente errado em outro reino. A onda desencadeou uma reação em cadeia. As Fraturas estão irrompendo, devorando tudo em seu caminho. Estamos tentando desligar o experimento, mas é tarde demais, devemos selar a cidade... Com nós dentro. Alguns escaparão, jurando guardar este lugar para sempre. Eles serão chamados de... {TribeName}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_835@BUTTON_10"
-msgstr "Gather as many journals [knowledge/] as you can."
+msgstr "Colete o máximo de diários [knowledge/] que puder."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_835@BUTTON_3"
-msgstr "Collect the experimental equipment [item/] of the mages."
+msgstr "Colete o equipamento experimental [item/] dos magos."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_835@BUTTON_9"
-msgstr "Synchronize with the fractured energy at your own risk [hp/]."
+msgstr "Sincronize com a energia fraturada por sua própria conta e risco [hp/]."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_835@TITLE"
-msgstr "Core of Contamination: Aftermath"
+msgstr "Núcleo de Contaminação: Consequências"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_836@BODY_FOOTER"
-msgstr "It seems that some {GLOBAL.DragonsLoreConcept.Hyperlink} aided [hyperlink,GLOBAL.UnmakersLoreConcept]The Unmakers[/hyperlink] to create the {EventRelic}. And that their carcasses roam this place."
+msgstr "Parece que alguns {GLOBAL.DragonsLoreConcept.Hyperlink} ajudaram [hyperlink,GLOBAL.UnmakersLoreConcept]The Unmakers[/hyperlink] a criar o {EventRelic}. E que seus cadáveres vagam por este lugar."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_836@BODY_HEADER"
-msgstr "The {EventStructure} swallows energy from the surroundings, feeding something at its core. The pull is so strong that your troops are being depleted of mana."
+msgstr "O {EventStructure} engole energia dos arredores, alimentando algo em seu núcleo. A atração é tão forte que suas tropas estão sendo esgotadas de mana."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_836@BODY_LORE"
-msgstr "{EventHero} crosses the threshold of the structure. Lifting <<o:EventHero>> gaze to the heart of the tower, <<p:EventHero>> sees it: a miniature [hyperlink,GLOBAL.TheWellLoreConcept]Well of Creation[/hyperlink], the {EventRelic}. Starved for ages, stands a {EventUnit}, a majestic creature that once bore a name of its own, now driven mad by the devouring energy. The mages who were trapped within rise beside it, the remnants of the Unmakers."
+msgstr "{EventHero} cruza o limiar da estrutura. Erguendo <<o:EventHero>> olhar para o coração da torre, <<p:EventHero>> vê: um [hyperlink,GLOBAL.TheWellLoreConcept]Poço da Criação[/hyperlink] em miniatura, o {EventRelic}. Faminto há eras, está um {EventUnit}, uma criatura majestosa que já teve um nome próprio, agora enlouquecida pela energia devoradora. Os magos que ficaram presos dentro surgem ao seu lado, os remanescentes dos Unmakers."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_836@BUTTON_0"
-msgstr "Put an end to this experiment."
+msgstr "Ponha um fim a este experimento."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_836@BUTTON_1"
-msgstr "Send troops [unitprod/] to collapse part of the tower onto the Fractured beings."
+msgstr "Envie tropas [unitprod/] para desmoronar parte da torre sobre os seres Fraturados."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_836@BUTTON_2"
-msgstr "Draw protective mana [mana/] sigils on your troops."
+msgstr "Desenhe sigilos protetores de mana [mana/] em suas tropas."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_836@BUTTON_3"
-msgstr "Stabilize the mana of your troops."
+msgstr "Estabilize a mana de suas tropas."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_836@BUTTON_4"
-msgstr "Retreat."
+msgstr "Retirar."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_836@BUTTON_5"
-msgstr "Tap into the cracks of the {EventStructure}, collapsing it over your enemies."
+msgstr "Aproveite as fissuras da {EventStructure}, desmoronando-a sobre seus inimigos."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_836@TITLE"
-msgstr "Core of Contamination: Fractured Tower"
+msgstr "Núcleo de Contaminação: Torre Fraturada"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_868@TITLE"
-msgstr "Echoes of the Fracturing: Devouring Winds"
+msgstr "Ecos do Fraturamento: Ventos Devoradores"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_869@BODY_FOOTER"
-msgstr "Whether you seek the origin or the power of the [hyperlink,GLOBAL.FractureLoreConcept]Fractures[/hyperlink], you will find what you covet in the Fated Regions."
+msgstr "Se você busca a origem ou o poder das [hyperlink,GLOBAL.FractureLoreConcept]Fraturas[/hyperlink], encontrará o que deseja nas Regiões do Destino."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_869@BODY_HEADER"
-msgstr "Both wind and wanderers whisper the same tales: legends of a world-shattering calamity long past."
+msgstr "Tanto o vento quanto os viajantes sussurram as mesmas histórias: lendas de uma calamidade que abalou o mundo há muito tempo."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_869@BODY_LORE"
-msgstr "These tales speak of places where devouring energies converge, lands that existed long before [hyperlink,GLOBAL.TheFracturingLoreConcept]the Fracturing[/hyperlink]. To the nomadic tribes of {EventRealm}, they are forbidden territory, perilous places full of secrets best left undiscovered. Each fable tells of an {GLOBAL.ArtifactConcept.Hyperlink} of immense power and arrogance, and of a legend claiming that whoever unites three will be able to heal the world... Or to rule it."
+msgstr "Essas histórias falam de lugares onde energias devoradoras convergem, terras que existiam muito antes do [hyperlink,GLOBAL.TheFracturingLoreConcept]Fraturamento[/hyperlink]. Para as tribos nômades de {EventRealm}, são territórios proibidos, lugares perigosos cheios de segredos que é melhor deixar desconhecidos. Cada fábula fala de um {GLOBAL.ArtifactConcept.Hyperlink} de poder imenso e de uma lenda que afirma que quem unir três poderá curar o mundo... Ou dominá-lo."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_869@BUTTON_0"
-msgstr "Venture into {EventRealm}."
+msgstr "Aventure-se em {EventRealm}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1224_869@TITLE"
-msgstr "Echoes of the Fracturing: The Fated Regions"
+msgstr "Ecos do Fracturamento: As Regiões Fadadas"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_110@BODY_FOOTER"
-msgstr "Driven by madness, the {EventUnit} raises the {EventRelic.NoLink}: \"Come! Fight me, {PlayerLeader}! I know you want this—over my dead body!\""
+msgstr "Movido pela loucura, o {EventUnit} levanta o {EventRelic.NoLink}: \"Venha! Lute comigo, {PlayerLeader}! Sei que você quer isso—sobre o meu cadáver!\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_110@BODY_HEADER"
-msgstr "With <<o:EventUnit>> ghostly host reassembled, the {EventUnit} marches out to complete <<o:EventUnit>> unending siege of {EventCityName}."
+msgstr "Com o exército fantasma de <<o:EventUnit>> reassemblado, o {EventUnit} marcha para completar o cerco interminável de {EventCityName}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_110@BODY_LORE"
-msgstr "Yet the deeper <<p:EventUnit>> ventures into the ruined city, the more discontented the {EventUnit} grows. \"Where are those spell-slinging dastards!?\" <<p:EventUnit>> shouts angrily, searching for opposition. At last the {EventUnit} reaches the central crater, silent memorial of {GLOBAL.TheFracturingLoreConcept.Hyperlink}. Guided by some ghostly intuition <<p:EventUnit>> plunges into the rubble, soon after returning with a radiant object. \"What sorcery is this? This cannot be, unless...\" The {EventUnit} gazes directly at you, piercing the Astral veil. \"You!\" <<p:EventUnit>> screams, \"you are an [hyperlink,GLOBAL.UnmakersLoreConcept]Unmaker[/hyperlink], {PlayerLeader}!\""
+msgstr "No entanto, quanto mais <<p:EventUnit>> se aventura na cidade arruinada, mais insatisfeito o {EventUnit} fica. \"Onde estão aqueles malditos lançadores de feitiços!?\" <<p:EventUnit>> grita com raiva, procurando por oposição. Finalmente, o {EventUnit} chega à cratera central, memorial silencioso de {GLOBAL.TheFracturingLoreConcept.Hyperlink}. Guiado por alguma intuição fantasma, <<p:EventUnit>> mergulha nos escombros, logo depois retornando com um objeto radiante. \"Que feitiçaria é essa? Isso não pode ser, a menos que...\" O {EventUnit} olha diretamente para você, perfurando o véu Astral. \"Você!\" <<p:EventUnit>> grita, \"você é um [hyperlink,GLOBAL.UnmakersLoreConcept]Unmaker[/hyperlink], {PlayerLeader}!\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_110@BUTTON_0"
-msgstr "Unmaker or not, you will put <<o:EventUnit>> deranged spirit to rest."
+msgstr "Unmaker ou não, você colocará o espírito perturbado de <<o:EventUnit>> para descansar."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_110@TITLE"
-msgstr "Phantom Hills: A Mad Truth"
+msgstr "Colinas Fantasmas: Uma Verdade Louca"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_112@BODY_FOOTER"
-msgstr "The {EventUnit} hands over the {EventRelic}: \"The {GLOBAL.UnmakersLoreConcept.Hyperlink}, they trapped the waters of creation. Yet when they sought to release rain, they unleashed a deluge.\""
+msgstr "O {EventUnit} entrega o {EventRelic}: \"Os {GLOBAL.UnmakersLoreConcept.Hyperlink}, eles aprisionaram as águas da criação. No entanto, quando tentaram liberar a chuva, desencadearam um dilúvio.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_112@BODY_HEADER"
-msgstr "As <<o:EventUnit>> spirit is about to violently perish, the {EventUnit} is able to finally see the truth."
+msgstr "Enquanto o espírito de <<o:EventUnit>> está prestes a perecer violentamente, o {EventUnit} consegue finalmente ver a verdade."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_112@BODY_LORE"
-msgstr "\"<<C:{GLOBAL.TheFracturingLoreConcept.Hyperlink}>>!\" <<p:EventUnit>> calls out in dismay, as if <<p:EventUnit>> was reliving the last moments of <<o:EventUnit>> distant life. \"All these years—this eternity—I have been... dead.\" The {EventUnit} sheathes <<o:EventUnit>> weapon. \"I bow to your might and valor, {PlayerLeader},\" <<p:EventUnit>> exclaims. \"You have ended my vengeful curse and liberated my soldiers. May they all find their peace, at last.\""
+msgstr "\"<<C:{GLOBAL.TheFracturingLoreConcept.Hyperlink}>>!\" <<p:EventUnit>> clama com desalento, como se <<p:EventUnit>> estivesse revivendo os últimos momentos da vida distante de <<o:EventUnit>>. \"Todos esses anos—essa eternidade—eu tenho estado... morto.\" O {EventUnit} embainha a arma de <<o:EventUnit>>. \"Eu me curvo diante de sua força e valentia, {PlayerLeader},\" <<p:EventUnit>> exclama. \"Você encerrou minha maldição vingativa e libertou meus soldados. Que todos encontrem sua paz, finalmente.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_112@BUTTON_0"
-msgstr "Before <<p:EventUnit>> vanishes, ask the spirit for <<o:EventUnit>> mark of the {EventUnit}. [xp/][renown/]"
+msgstr "Antes de <<p:EventUnit>> desaparecer, peça ao espírito a marca de <<o:EventUnit>>. [xp/][renown/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_112@BUTTON_3"
-msgstr "Claim the siege engines [unit/] of the dissipating host."
+msgstr "Reivindique as máquinas de cerco [unit/] do exército dissipado."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_112@BUTTON_4"
-msgstr "Spread the legend of the {EventUnit} to inspire instructors [unitprod/] across your realm."
+msgstr "Difunda a lenda do {EventUnit} para inspirar instrutores [unitprod/] em todo o seu reino."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_112@BUTTON_5"
-msgstr "Share the tale of the Phantom Hills with the {GLOBAL.EternalSagesLoreConcept.Name}. [allegiance/]"
+msgstr "Compartilhe a história das Colinas Fantasmas com os {GLOBAL.EternalSagesLoreConcept.Name}. [allegiance/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_112@BUTTON_6"
-msgstr "Bind <<o:EventUnit>> spirit to your will [unit/], in eternal servitude. [evilact/]"
+msgstr "Vincule o espírito de <<o:EventUnit>> à sua vontade [unit/], em servidão eterna. [evilact/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_112@TITLE"
-msgstr "Phantom Hills: Aftermath"
+msgstr "Colinas Fantasmas: Consequências"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_82@BODY_FOOTER"
-msgstr "Caught in a long-gone past, the {EventUnit} commands your troops to prepare for the siege of an already ruined [hyperlink,GLOBAL.UnmakersLoreConcept]Unmaker[/hyperlink] bastion."
+msgstr "Preso em um passado há muito esquecido, o {EventUnit} comanda suas tropas para se prepararem para o cerco de uma bastião [hyperlink,GLOBAL.UnmakersLoreConcept]Unmaker[/hyperlink] já arruinado."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_82@BODY_HEADER"
-msgstr "Entering a fractured wasteland, your troops espy ghostly apparitions straying on the hills. One of them, a formidable {EventUnit}, bars the way."
+msgstr "Entrando em uma terra devastada fraturada, suas tropas avistam aparições fantasmas vagando pelas colinas. Uma delas, um formidável {EventUnit}, bloqueia o caminho."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_82@BODY_LORE"
-msgstr "\"Reinforcements, at last!\" <<p:EventUnit>> calls out with brisk fervor. \"Those damned {GLOBAL.UnmakersLoreConcept.Hyperlink} have halted our advance for too long, their unstable magics wreaking havoc left and right. They messed up my soldiers' minds, disabled our siegecraft, infiltrated our positions...\" The {EventUnit} pauses for a moment, maybe realizing <<o:EventUnit>> words won't inspire much confidence. \"With your arrival, the tide has turned. By {EventGodirName}, we will breach their defenses before their magic experiments blast the whole darn realm to oblivion!\""
+msgstr "\"Reinforços, finalmente!\" <<p:EventUnit>> chama com fervor animado. \"Aqueles malditos {GLOBAL.UnmakersLoreConcept.Hyperlink} têm impedido nosso avanço por muito tempo, suas magias instáveis causando estragos por todos os lados. Eles bagunçaram a mente dos meus soldados, desativaram nossa arte de cerco, infiltraram nossas posições...\" O {EventUnit} faz uma pausa por um momento, talvez percebendo que suas palavras não inspirarão muita confiança. \"Com sua chegada, a maré virou. Por {EventGodirName}, vamos romper suas defesas antes que seus experimentos mágicos explodam todo o reino maldito na obliteração!\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_82@BUTTON_0"
-msgstr "Let them follow <<o:EventUnit>> delusional orders, for now."
+msgstr "Deixe-os seguir as ordens delirantes de <<o:EventUnit>>, por enquanto."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_82@BUTTON_3"
-msgstr "Persuade [influence/] the {EventUnit} to drill your troops [xp/] first."
+msgstr "Persuada [influence/] o {EventUnit} a treinar suas tropas [xp/] primeiro."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_82@TITLE"
-msgstr "Climbing the Phantom Hills"
+msgstr "Subindo as Colinas Fantasmas"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_86@BODY_FOOT@FRACTURE_1_DONE"
-msgstr "Nothing can be done here anymore."
+msgstr "Nada mais pode ser feito aqui."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_86@BODY_FOOT@FRACTURE_2_DONE"
-msgstr "Nothing can be done here anymore."
+msgstr "Nada mais pode ser feito aqui."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_86@BODY_FOOT@FRACTURE_3_DONE"
-msgstr "Nothing can be done here anymore."
+msgstr "Nada mais pode ser feito aqui."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_86@BODY_FOOTER"
-msgstr "The {EventAnimal} and their horde of wasteland dwellers have infested the <<m:EventStackLeader>>."
+msgstr "O {EventAnimal} e sua horda de habitantes do deserto infestaram o <<m:EventStackLeader>>."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_86@BODY_FOOTER@GOLEM_REPAIRED"
-msgstr "The <<m:EventStackLeader>> are ready to be employed."
+msgstr "O <<m:EventStackLeader>> está pronto para ser empregado."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_86@BODY_HEADER"
-msgstr "Approaching the inactive siege machines marked by the {EventUnit}, your troops start to hear a multitude of clicking and hissing noises."
+msgstr "Ao se aproximar das máquinas de cerco inativas marcadas pelo {EventUnit}, suas tropas começam a ouvir uma multidão de ruídos de cliques e chiados."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_86@BODY_HEADER@FRACTURE_1_DONE"
-msgstr "Your troops return to the {GLOBAL.FractureLoreConcept.Hyperlink} in the magic complex."
+msgstr "Suas tropas retornam ao {GLOBAL.FractureLoreConcept.Hyperlink} no complexo mágico."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_86@BODY_HEADER@FRACTURE_2_DONE"
-msgstr "Your troops return to the {GLOBAL.FractureLoreConcept.Hyperlink} where you found the nomads."
+msgstr "Suas tropas retornam ao {GLOBAL.FractureLoreConcept.Hyperlink} onde você encontrou os nômades."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_86@BODY_HEADER@FRACTURE_3_DONE"
-msgstr "Your troops return to the {GLOBAL.FractureLoreConcept.Hyperlink} in the library."
+msgstr "Suas tropas retornam ao {GLOBAL.FractureLoreConcept.Hyperlink} na biblioteca."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_86@BODY_HEADER@GOLEM_REPAIRED"
-msgstr "Your troops return to the smoldering <<m:EventStackLeader>>."
+msgstr "Suas tropas retornam ao <<m:EventStackLeader>> fumegante."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_86@BODY_LORE"
-msgstr "Carefully observing from a distance, they notice blurry movements within the metallic carcasses of the <<m:EventStackLeader>>. At last a large {EventAnimal} comes forward, assuming an aggressive posture, while the clickety-clack of <<o:EventAnimal>> scissors echoes down the hills.[br/][br/]It is clear that these wasteland creatures, attracted by the still emanated heat of the <<m:EventStackLeader>>—or their scorpion guise—have made the abandoned siege machines their shelter."
+msgstr "Observando cuidadosamente de longe, eles notam movimentos borrados dentro das carcaças metálicas do <<m:EventStackLeader>>. Finalmente, um grande {EventAnimal} avança, assumindo uma postura agressiva, enquanto o clique-claque de <<o:EventAnimal>> tesouras ecoa pelas colinas.[br/][br/]Fica claro que essas criaturas do deserto, atraídas pelo calor ainda emanado do <<m:EventStackLeader>>—ou sua aparência de escorpião—fizeram das máquinas de cerco abandonadas seu abrigo."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_86@BODY_LORE@FRACTURE_1_DONE"
-msgstr "The place remains calm, its sigils still glowing with power."
+msgstr "O local permanece calmo, seus sigilos ainda brilhando com poder."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_86@BODY_LORE@FRACTURE_2_DONE"
-msgstr "The place remains calm, its sigils still glowing with power."
+msgstr "O local permanece calmo, seus sigilos ainda brilhando com poder."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_86@BODY_LORE@FRACTURE_3_DONE"
-msgstr "The place remains calm, its sigils still glowing with power."
+msgstr "O local permanece calmo, seus sigilos ainda brilhando com poder."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_86@BODY_LORE@GOLEM_REPAIRED"
-msgstr "The siege machines barely move or make a sound. But the heat from their molten cores warms up the surroundings."
+msgstr "As máquinas de cerco mal se movem ou fazem som. Mas o calor de seus núcleos derretidos aquece os arredores."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_86@BUTTON_0"
-msgstr "Flee, for now."
+msgstr "Fuja, por enquanto."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_86@BUTTON_0@GOLEM_REPAIRED"
-msgstr "Leave."
+msgstr "Sair."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_86@BUTTON_1"
-msgstr "Fight off the wasteland creatures."
+msgstr "Combater as criaturas do deserto."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_86@BUTTON_2"
-msgstr "Lure them away with an abundance of food. [food/]"
+msgstr "Afaste-as com abundância de comida. [food/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_86@BUTTON_4"
-msgstr "Bond with the {EventAnimal} and become their new <<PlayerLeader{Sire/Matriarch}>>."
+msgstr "Crie um vínculo com o {EventAnimal} e torne-se seu novo <<PlayerLeader{Sire/Matriarch}>>."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_86@BUTTON_5"
-msgstr "Ignite the <<m:EventStackLeader>> with life, incinerating the creatures."
+msgstr "Inflame o <<m:EventStackLeader>> com vida, incinerando as criaturas."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_86@TITLE"
-msgstr "Phantom Hills: Repurposed Constructs"
+msgstr "Phantom Hills: Construtos Reaproveitados"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_91@BODY_FOOTER"
-msgstr "\"The will of our {EventUnit} holds us captive,\" the {EventStackLeader} ends <<o:EventStackLeader>> tale. \"We are hapless ghosts, forever chained to a lost purpose.\""
+msgstr "\"A vontade de nosso {EventUnit} nos mantém cativos,\" o {EventStackLeader} termina <<o:EventStackLeader>> relato. \"Somos fantasmas infelizes, eternamente acorrentados a um propósito perdido.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_91@BODY_FOOTER@MORALE_RESTORED"
-msgstr "The host is ready to assault {EventCityName}."
+msgstr "O exército está pronto para atacar {EventCityName}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_91@BODY_HEADER"
-msgstr "On this hill, the lonely ghost of a {EventStackLeader} lingers. As your troops approach, <<p:EventStackLeader>> starts to mumble."
+msgstr "Nesta colina, o fantasma solitário de um {EventStackLeader} permanece. Enquanto suas tropas se aproximam, <<p:EventStackLeader>> começa a murmurar."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_91@BODY_HEADER@MORALE_RESTORED"
-msgstr "Returning to the hill, your troops find the ghostly host rallied around the {EventStackLeader}."
+msgstr "Retornando à colina, suas tropas encontram o exército fantasmagórico reunido em torno do {EventStackLeader}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_91@BODY_LORE"
-msgstr "\"We were positioning all battalions on these hills,\" <<p:EventStackLeader>> speaks with a stale voice, \"ready to descend upon the {GLOBAL.UnmakersLoreConcept.Hyperlink}. But too late...\" The stare of the <<EventStackLeader{man/woman}>> intensifies. \"In a flash of teal lightning the city and all its surroundings became torn apart—torn within. We all perished in {GLOBAL.TheFracturingLoreConcept.Hyperlink}. But it was not the end.\""
+msgstr "\"Estávamos posicionando todos os batalhões nestas colinas,\" <<p:EventStackLeader>> fala com uma voz sem vida, \"prontos para descer sobre os {GLOBAL.UnmakersLoreConcept.Hyperlink}. Mas tarde demais...\" O olhar do <<EventStackLeader{man/woman}>> se intensifica. \"Em um clarão de relâmpago azulado, a cidade e todos os seus arredores foram dilacerados — dilacerados por dentro. Todos nós perecemos no {GLOBAL.TheFracturingLoreConcept.Hyperlink}. Mas não foi o fim.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_91@BODY_LORE@MORALE_RESTORED"
-msgstr "Their long lines of armed phantasmal shapes invoke a sense of wonder and terror at once. No eagerness or zeal prevails in their weathered faces, only the fatigue of serving their {EventUnit} for a thousand lifetimes."
+msgstr "Suas longas fileiras de formas fantasmagóricas armadas provocam uma sensação de admiração e terror ao mesmo tempo. Não há ansiedade ou zelo em seus rostos desgastados, apenas a fadiga de servir a seu {EventUnit} por mil vidas."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_91@BUTTON_0"
-msgstr "Leave <<P:EventStackLeader>>, for now."
+msgstr "Deixe <<P:EventStackLeader>>, por enquanto."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_91@BUTTON_0@MORALE_RESTORED"
-msgstr "Leave."
+msgstr "Sair."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_91@BUTTON_1"
-msgstr "\"I shall teach you to obey the commands of your {EventUnit} beyond death!\""
+msgstr "\"Eu lhe ensinarei a obedecer aos comandos de seu {EventUnit} além da morte!\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_91@BUTTON_2"
-msgstr "\"Friendship and loyalty [influence/] can outlast death. March and your lost purpose will be fulfilled.\""
+msgstr "\"Amizade e lealdade [influence/] podem durar além da morte. Marche e seu propósito perdido será cumprido.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_91@BUTTON_4"
-msgstr "\"Rally your troops one last time, and I pledge you shall find peace.\" [goodact/]"
+msgstr "\"Reúna suas tropas pela última vez, e eu prometo que você encontrará paz.\" [goodact/]"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_91@BUTTON_5"
-msgstr "\"The fallen do not question. The fallen obey power.\""
+msgstr "\"Os caídos não questionam. Os caídos obedecem ao poder.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_91@TITLE"
-msgstr "Phantom Hills: Will of the Warlord"
+msgstr "Phantom Hills: Vontade do Senhor da Guerra"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_94@BODY_FOOTER"
-msgstr "The {EventStackLeader} is feeding on your mana. Whatever information the {EventUnit} is after, you should try to attain it quickly."
+msgstr "O {EventStackLeader} está se alimentando de seu mana. Qualquer informação que o {EventUnit} esteja buscando, você deveria tentar obtê-la rapidamente."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_94@BODY_FOOTER@SPY_INTERROGATED"
-msgstr "There is nothing more to be learned from this {EventStackLeader}."
+msgstr "Não há mais nada a ser aprendido com este {EventStackLeader}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_94@BODY_HEADER"
-msgstr "Entering the prison pit of the ghostly encampment, your troops shudder at the sight of the locked-in \"spy.\""
+msgstr "Entrando na fossa da prisão do acampamento fantasmagórico, suas tropas estremecem ao ver o espião preso."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_94@BODY_HEADER@SPY_INTERROGATED"
-msgstr "With great caution your troops return to the imprisoned {EventStackLeader}."
+msgstr "Com grande cautela, suas tropas retornam ao {EventStackLeader} prisioneiro."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_94@BODY_LORE"
-msgstr "\"More questions?\" the entity's mouth asks, while your men gaze into the abyss of its fractured head. \"It's high time. I've been starving... To talk.\" As the entity speaks you sense an astral pull, its very presence draining your magic. \"Ahh,\" it sighs in relief, \"such pleasant... Company. If only I could return to {EventCityName}. With my people... Our {EventRelic.NoLink}, my hunger would cease.\""
+msgstr "\"Mais perguntas?\" a boca da entidade pergunta, enquanto seus homens olham para o abismo de sua cabeça fraturada. \"Já é hora. Estive faminto... Por conversar.\" Enquanto a entidade fala, você sente uma atração astral, sua própria presença drenando sua magia. \"Ahh,\" ela suspira aliviada, \"que companhia agradável... Se ao menos eu pudesse voltar para {EventCityName}. Com meu povo... Nossa {EventRelic.NoLink}, minha fome cessaria.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_94@BODY_LORE@SPY_INTERROGATED"
-msgstr "<<Cp:EventStackLeader>> seems to have entered a trance-like state, as if the answers you found emptied <<o:EventStackLeader>> mind. Even the astral pull you sensed earlier appears to have subsided, for now."
+msgstr "<<Cp:EventStackLeader>> parece ter entrado em um estado de transe, como se as respostas que você encontrou tivessem esvaziado a mente de <<o:EventStackLeader>>. Até mesmo a atração astral que você sentiu anteriormente parece ter diminuído, por enquanto."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_94@BUTTON_0"
-msgstr "Flee from the mana drain, for now."
+msgstr "Fuja do dreno de mana, por enquanto."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_94@BUTTON_0@SPY_INTERROGATED"
-msgstr "Leave."
+msgstr "Sair."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_94@BUTTON_1"
-msgstr "Confront the entity's shattered memories, reliving {GLOBAL.TheFracturingLoreConcept.Name}."
+msgstr "Enfrente as memórias destruídas da entidade, revivendo {GLOBAL.TheFracturingLoreConcept.Name}."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_94@BUTTON_2"
-msgstr "Grapple the broken mind [knowledge/] of the {EventStackLeader} to reave <<o:EventStackLeader>> knowledge."
+msgstr "Agarre a mente quebrada [conhecimento/] do {EventStackLeader} para roubar <<o:EventStackLeader>> conhecimento."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_94@BUTTON_4"
-msgstr "Squeeze every droplet of mana out of the {EventStackLeader} until <<p:EventStackLeader>> squeals."
+msgstr "Esprema cada gota de mana do {EventStackLeader} até <<p:EventStackLeader>> guinchar."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_94@BUTTON_5"
-msgstr "Feed the {EventStackLeader} with an abundance of mana [mana/] to mellow <<o:EventStackLeader>> answers."
+msgstr "Alimente o {EventStackLeader} com abundância de mana [mana/] para suavizar <<o:EventStackLeader>> respostas."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_94@TITLE"
-msgstr "Phantom Hills: Fractured Memories"
+msgstr "Colinas Fantasmas: Memórias Fraturadas"
 
 msgid "DLC@RISEFROMRUIN@TERRAINDEFINITIONS_STRATEGIC@ASTRAL_BARRENS@COMBAT_PROPERTY@DESCRIPTION"
-msgstr "<<m:{GLOBAL.CombatSpellConcept.Hyperlink}>> have a {percentage} chance of {GLOBAL.BackfireConcept.Hyperlink}.[br/][br/]In addition, several Astral Fracture obstacles are present which are {GLOBAL.DrainingConcept.Hyperlink} and duplicate whenever a {GLOBAL.CombatSpellConcept.Hyperlink} is cast."
+msgstr "<<m:{GLOBAL.CombatSpellConcept.Hyperlink}>> têm uma chance de {percentage} de {GLOBAL.BackfireConcept.Hyperlink}.[br/][br/]Além disso, vários obstáculos de Fratura Astral estão presentes, os quais são {GLOBAL.DrainingConcept.Hyperlink} e duplicam sempre que uma {GLOBAL.CombatSpellConcept.Hyperlink} é lançada."
 
 msgid "DLC@RISEFROMRUIN@TERRAINDEFINITIONS_STRATEGIC@ASTRAL_BARRENS@NAME"
-msgstr "Astral Barrens"
+msgstr "Ermos Astrais"
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@PASSIVE@DESCRIPTION"
-msgstr "Able to build <<m:{GLOBAL.FarmConcept.Hyperlink}>> on Sand terrain.[br/][br/]<<m:{GLOBAL.FarmConcept.Hyperlink}>> on Sand terrain gain +{amount} {GLOBAL.FoodConcept.Hyperlink} if your race has Desert Adaptation."
+msgstr "Capaz de construir <<m:{GLOBAL.FarmConcept.Hyperlink}>> em terreno de Areia.[br/][br/]<<m:{GLOBAL.FarmConcept.Hyperlink}>> em terreno de Areia ganham +{amount} de {GLOBAL.FoodConcept.Hyperlink} se sua raça tiver Adaptação ao Deserto."
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@PASSIVE@NAME"
-msgstr "Desert Farming"
+msgstr "Agricultura Desértica"
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@PASSIVE_STABILITY@DESCRIPTION"
-msgstr "<<m:{GLOBAL.ProvinceConcept.Hyperlink}>> with Sand give +{amount} {GLOBAL.CityStabilityConcept.Hyperlink}."
+msgstr "<<m:{GLOBAL.ProvinceConcept.Hyperlink}>> com Areia concedem +{amount} de {GLOBAL.CityStabilityConcept.Hyperlink}."
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@PASSIVE_STABILITY@NAME"
-msgstr "Sand Preference"
+msgstr "Preferência por Areia"
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@SKILL1@DESCRIPTION"
-msgstr "Summon a {GLOBAL.UNITS.SAND_SCORPION.Hyperlink}, a {GLOBAL.PROPERTIES.SHIELD_UNIT.Hyperlink} unit with a debilitating poison."
+msgstr "Invocar um {GLOBAL.UNITS.SAND_SCORPION.Hyperlink}, uma unidade {GLOBAL.PROPERTIES.SHIELD_UNIT.Hyperlink} com um veneno debilitante."
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@SKILL1@NAME"
-msgstr "Summon Sand Scorpion"
+msgstr "Invocar Escorpião de Areia"
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@SKILL2@DESCRIPTION"
-msgstr "Target and adjacent <<m:{GLOBAL.ProvinceConcept.Hyperlink}>> on the surface gain {GLOBAL.SandConcept.Hyperlink}."
+msgstr "Província alvo e adjacentes <<m:{GLOBAL.ProvinceConcept.Hyperlink}>> na superfície ganham {GLOBAL.SandConcept.Hyperlink}."
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@SKILL2@NAME"
-msgstr "Desertification"
+msgstr "Desertificação"
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@SKILL3@DESCRIPTION"
-msgstr "Target race becomes one with the desert, granting them:[bulletlist][bullet/]{GLOBAL.PROPERTIES.SAND_WALK.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.SAND_CAMOUFLAGE.Hyperlink}[bullet/]When on {GLOBAL.SandConcept.Hyperlink} terrain gain:[bulletlist][bullet/]Very Fast Movement in combat.[bullet/]+{amount}% {GLOBAL.FlankingConcept.Hyperlink} damage.[/bulltlist][/bulltlist]"
+msgstr "A raça alvo se torna uma com o deserto, concedendo a eles:[bulletlist][bullet/]{GLOBAL.PROPERTIES.SAND_WALK.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.SAND_CAMOUFLAGE.Hyperlink}[bullet/]Quando em terreno de {GLOBAL.SandConcept.Hyperlink} ganham:[bulletlist][bullet/]Movimento Muito Rápido em combate.[bullet/]+{amount}% de dano de {GLOBAL.FlankingConcept.Hyperlink}.[/bulltlist][/bulltlist]"
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@SKILL3@MOD_DESCRIPTION"
-msgstr "Unit deals +{DUNESTALKERS_FLANK_DAMAGE>ResolvedMultiplier}% damage when {GLOBAL.FlankingConcept.Hyperlink}."
+msgstr "Unidade causa +{DUNESTALKERS_FLANK_DAMAGE>ResolvedMultiplier}% de dano ao {GLOBAL.FlankingConcept.Hyperlink}."
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@SKILL3@NAME"
 msgstr "Dunestalkers"
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@SKILL3@PROP_DESCRIPTION"
-msgstr "Unit has:[bulletlist][bullet/]{GLOBAL.PROPERTIES.SAND_WALK.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.SAND_CAMOUFLAGE.Hyperlink}[bullet/]When on {GLOBAL.SandConcept.Hyperlink} terrain gain:[bulletlist][bullet/]Very Fast Movement in combat.[bullet/]+{amount}% {GLOBAL.FlankingConcept.Hyperlink} damage.[/bulltlist][/bulltlist]"
+msgstr "Unidade possui:[bulletlist][bullet/]{GLOBAL.PROPERTIES.SAND_WALK.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.SAND_CAMOUFLAGE.Hyperlink}[bullet/]Quando em terreno de {GLOBAL.SandConcept.Hyperlink}, ganha:[bulletlist][bullet/]Movimento Muito Rápido em combate.[bullet/]+{amount}% de dano ao {GLOBAL.FlankingConcept.Hyperlink}.[/bulletlist][/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@SKILL4@DESCRIPTION"
-msgstr "Conjure a {GLOBAL.SandstormConcept.Hyperlink} in a {SANDSTORM_POSITION_TARGETER_CIRCLE>AREA>Radius}-hex radius that lasts for {SANDSTORM_PLACE_MARKER>Duration} <<m:{GLOBAL.TurnConcept}>>."
+msgstr "Invoca uma {GLOBAL.SandstormConcept.Hyperlink} em um raio de {SANDSTORM_POSITION_TARGETER_CIRCLE>AREA>Radius} hex que dura {SANDSTORM_PLACE_MARKER>Duration} <<m:{GLOBAL.TurnConcept}>>."
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@SKILL4@MARKER_DESCRIPTION"
-msgstr "Units passing through or ending their turn on this hex:[bulletlist][bullet/]Have a base {chance}% chance of becoming {GLOBAL.PROPERTIES.BLINDED.Hyperlink} for {amount} <<m:{GLOBAL.TurnConcept}>>.[bullet/]Become {GLOBAL.PROPERTIES.SLOWED.Hyperlink} for {amount} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist][br/]Units with {GLOBAL.PROPERTIES.SAND_WALK.Hyperlink} are immune to this effect."
+msgstr "Unidades que passam por ou terminam seu turno neste hex:[bulletlist][bullet/]Têm uma chance base de {chance}% de ficarem {GLOBAL.PROPERTIES.BLINDED.Hyperlink} por {amount} <<m:{GLOBAL.TurnConcept}>>.[bullet/]Ficam {GLOBAL.PROPERTIES.SLOWED.Hyperlink} por {amount} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist][br/]Unidades com {GLOBAL.PROPERTIES.SAND_WALK.Hyperlink} são imunes a este efeito."
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@SKILL4@MARKER_HYPERLINK"
-msgstr "[hyperlink,GLOBAL.SandstormConcept]Sandstorm[/hyperlink]"
+msgstr "[hyperlink,GLOBAL.SandstormConcept]Tempestade de Areia[/hyperlink]"
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@SKILL4@NAME"
-msgstr "Sandstorm"
+msgstr "Tempestade de Areia"
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@SKILL5@DESCRIPTION"
-msgstr "{GLOBAL.MeleeConcept.Hyperlink} attacks of enchanted units gain:[bulletlist][bullet/]A base {WEAKENED_RESISTANCE>ResolvedStrength}% chance of inflicting {GLOBAL.PROPERTIES.WEAKENED.Hyperlink} for {WEAKENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]A base {POISONED_RESISTANCE>ResolvedStrength}% chance of inflicting {GLOBAL.PROPERTIES.POISONED.Hyperlink} for {POISONED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]+{SCORPION_VENOM_BLADES_FLANKING_DAMAGE>DAMAGE>Blight} {GLOBAL.BlightDamageConcept.Hyperlink} when flanking.[/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+msgstr "Ataques {GLOBAL.MeleeConcept.Hyperlink} de unidades encantadas ganham:[bulletlist][bullet/]Uma chance base de {WEAKENED_RESISTANCE>ResolvedStrength}% de infligir {GLOBAL.PROPERTIES.WEAKENED.Hyperlink} por {WEAKENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]Uma chance base de {POISONED_RESISTANCE>ResolvedStrength}% de infligir {GLOBAL.PROPERTIES.POISONED.Hyperlink} por {POISONED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]+{SCORPION_VENOM_BLADES_FLANKING_DAMAGE>DAMAGE>Blight} {GLOBAL.BlightDamageConcept.Hyperlink} ao flanquear.[/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@SKILL5@NAME"
-msgstr "Scorpion Venom Blades"
+msgstr "Lâminas de Veneno de Escorpião"
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@SKILL5@PROP_DESCRIPTION"
-msgstr "{GLOBAL.MeleeConcept.Hyperlink} attacks have:[bulletlist][bullet/]A base {WEAKENED_RESISTANCE>ResolvedStrength}% chance of inflicting {GLOBAL.PROPERTIES.WEAKENED.Hyperlink} for {WEAKENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]A base {POISONED_RESISTANCE>ResolvedStrength}% chance of inflicting {GLOBAL.PROPERTIES.POISONED.Hyperlink} for {POISONED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]+{SCORPION_VENOM_BLADES_FLANKING_DAMAGE>DAMAGE>Blight} {GLOBAL.BlightDamageConcept.Hyperlink} when flanking.[/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+msgstr "Ataques {GLOBAL.MeleeConcept.Hyperlink} têm:[bulletlist][bullet/]Uma chance base de {WEAKENED_RESISTANCE>ResolvedStrength}% de infligir {GLOBAL.PROPERTIES.WEAKENED.Hyperlink} por {WEAKENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]Uma chance base de {POISONED_RESISTANCE>ResolvedStrength}% de infligir {GLOBAL.PROPERTIES.POISONED.Hyperlink} por {POISONED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]+{SCORPION_VENOM_BLADES_FLANKING_DAMAGE>DAMAGE>Blight} {GLOBAL.BlightDamageConcept.Hyperlink} ao flanquear.[/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@SPI@DESCRIPTION"
-msgstr "[bulletlist][bullet/]+{amount1} {GLOBAL.GoldConcept.Hyperlink} income.[bullet/]Per adjacent {GLOBAL.ProvinceConcept.Hyperlink} with {GLOBAL.SandConcept.Hyperlink}:[bulletlist][bullet/]+{amount2} {GLOBAL.GoldConcept.Hyperlink}.[bullet/]+{amount3} {GLOBAL.FoodConcept.Hyperlink}.[/bulletlist][bullet/]Counts as a {GLOBAL.MineConcept.Hyperlink}.[/bulletlist]"
+msgstr "[bulletlist][bullet/]+{amount1} de renda em {GLOBAL.GoldConcept.Hyperlink}.[bullet/]Por {GLOBAL.ProvinceConcept.Hyperlink} adjacente com {GLOBAL.SandConcept.Hyperlink}:[bulletlist][bullet/]+{amount2} {GLOBAL.GoldConcept.Hyperlink}.[bullet/]+{amount3} {GLOBAL.FoodConcept.Hyperlink}.[/bulletlist][bullet/]Conta como uma {GLOBAL.MineConcept.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@SPI@NAME"
-msgstr "[mine/] Grand Bazaar"
+msgstr "[mine/] Grande Bazar"
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@TOME@GAMEPLAY_DESCRIPTION"
-msgstr "Spread deserts, stalk and blind your enemies, and summon a Guardian of the Desert to protect you."
+msgstr "Espalhe desertos, persegue e cega seus inimigos, e invoque um Guardião do Deserto para protegê-lo."
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@TOME@LORE_DESCRIPTION"
-msgstr "\"Most call the desert a perilous place, a death trap without water, food or shelter. We call it home. We are the mirage in the heat, we are the raiders in the wind. Our steel stings with venom, kindred with the scorpion. We are the ones that call the sandstorm. We are the Sand Stalkers.\""
+msgstr "\"A maioria chama o deserto de lugar perigoso, uma armadilha mortal sem água, comida ou abrigo. Nós chamamos de lar. Somos a miragem no calor, somos os saqueadores no vento. Nosso aço fere com veneno, parente do escorpião. Somos os que invocam a tempestade de areia. Somos os Sand Stalkers.\""
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@TOME@NAME"
-msgstr "Tome of the Sand Stalkers"
+msgstr "Tomé dos Sand Stalkers"
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@UNIT@ABILITY01@DESCRIPTION"
-msgstr "Target enemy unit:[bulletlist][bullet/]Sustains damage.[bullet/]Gains {amount1} {GLOBAL.PROPERTIES.WEAKENED.Hyperlink} for {WEAKENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]Gains {amount2} {GLOBAL.PROPERTIES.POISONED.Hyperlink} for {POISONED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist][br/]Enter {GLOBAL.DefenseModeConcept.Hyperlink}."
+msgstr "Unidade inimiga alvo:[bulletlist][bullet/]Sofre dano.[bullet/]Ganha {amount1} {GLOBAL.PROPERTIES.WEAKENED.Hyperlink} por {WEAKENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]Ganha {amount2} {GLOBAL.PROPERTIES.POISONED.Hyperlink} por {POISONED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist][br/]Entra em {GLOBAL.DefenseModeConcept.Hyperlink}."
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@UNIT@ABILITY01@NAME"
-msgstr "Debilitating Sting"
+msgstr "Ferrão Debilitante"
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@UNIT@ABILITY02@DESCRIPTION"
-msgstr "Move to target hex."
+msgstr "Mover para o hex alvo."
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@UNIT@ABILITY02@NAME"
-msgstr "Sand Shift"
+msgstr "Deslocamento de Areia"
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@UNIT@ABILITY02@PROP_DESCRIPTION"
-msgstr "Unit gains {GLOBAL.PROPERTIES.SAND_SHIFT.Hyperlink} when on {GLOBAL.SandConcept.Hyperlink} terrain."
+msgstr "Unidade ganha {GLOBAL.PROPERTIES.SAND_SHIFT.Hyperlink} quando em terreno de {GLOBAL.SandConcept.Hyperlink}."
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@UNIT@NAME"
 msgstr "Sand Scorpion^n"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARBAND@ABILITY01@DESCRIPTION"
-msgstr "Target enemy unit and all units of that type gain:[bulletlist][bullet/]{amount} {GLOBAL.PROPERTIES.SUNDERED_DEFENSE.Hyperlink} for {SUNDERED_DEFENSE_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]{amount} {GLOBAL.PROPERTIES.SUNDERED_RESISTANCE.Hyperlink} for {SUNDERED_RESISTANCE_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist]"
+msgstr "Unidade inimiga alvo e todas as unidades desse tipo ganham:[bulletlist][bullet/]{amount} {GLOBAL.PROPERTIES.SUNDERED_DEFENSE.Hyperlink} por {SUNDERED_DEFENSE_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]{amount} {GLOBAL.PROPERTIES.SUNDERED_RESISTANCE.Hyperlink} por {SUNDERED_RESISTANCE_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARBAND@ABILITY01@NAME"
-msgstr "Discern Weakness"
+msgstr "Discernir Fraqueza"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARBAND@ABILITY02@DESCRIPTION"
-msgstr "[bulletlist][bullet/]When this unit attacks, a random friendly unit within {LIEUTENANTS_LEAD_ON_ATTACK_JUMP>MaxDistance} hexes gains {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink} for {STRENGTHENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]When this unit enters {GLOBAL.DefenseModeConcept.Hyperlink}, a random friendly unit within {LIEUTENANTS_LEAD_ON_DEFENSE_MODE_JUMP>MaxDistance} hexes gains {GLOBAL.PROPERTIES.BOLSTERED_DEFENSE.Hyperlink} and {GLOBAL.PROPERTIES.BOLSTERED_RESISTANCE.Hyperlink} for {BOLSTERED_DEFENSE_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist]"
+msgstr "[bulletlist][bullet/]Quando esta unidade ataca, uma unidade amigável aleatória dentro de {LIEUTENANTS_LEAD_ON_ATTACK_JUMP>MaxDistance} hexes ganha {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink} por {STRENGTHENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]Quando esta unidade entra em {GLOBAL.DefenseModeConcept.Hyperlink}, uma unidade amigável aleatória dentro de {LIEUTENANTS_LEAD_ON_DEFENSE_MODE_JUMP>MaxDistance} hexes ganha {GLOBAL.PROPERTIES.BOLSTERED_DEFENSE.Hyperlink} e {GLOBAL.PROPERTIES.BOLSTERED_RESISTANCE.Hyperlink} por {BOLSTERED_DEFENSE_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARBAND@ABILITY02@NAME"
-msgstr "Lieutenant's Lead"
+msgstr "Liderança do Tenente"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARBAND@SKILL1@DESCRIPTION"
-msgstr "A {GLOBAL.PROPERTIES.FIGHTER.Hyperlink} unit that empowers others in battle through their own actions."
+msgstr "Uma unidade {GLOBAL.PROPERTIES.FIGHTER.Hyperlink} que fortalece outras em batalha através de suas próprias ações."
 
 msgid "DLC@RISEFROMRUIN@TOME_WARBAND@SKILL1@NAME"
-msgstr "Lieutenant"
+msgstr "Tenente"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARBAND@SKILL2@DESCRIPTION"
-msgstr "Target owned city:[bulletlist][bullet/]Gains {amount1} {GLOBAL.UnitProductionConcept.Hyperlink}.[/bulletlist]"
+msgstr "Cidade própria alvo:[bulletlist][bullet/]Ganha {amount1} {GLOBAL.UnitProductionConcept.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARBAND@SKILL2@NAME"
-msgstr "Training Regimen"
+msgstr "Regime de Treinamento"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARBAND@SKILL3@BUFF_DESCRIPTION"
-msgstr "Unit gains +{MENTORSHIP_XP_PER_TURN>XP} {GLOBAL.ExperienceConcept.Hyperlink} per {GLOBAL.WorldMapConcept.Hyperlink} {GLOBAL.TurnConcept}."
+msgstr "Unidade ganha +{MENTORSHIP_XP_PER_TURN>XP} {GLOBAL.ExperienceConcept.Hyperlink} por {GLOBAL.WorldMapConcept.Hyperlink} {GLOBAL.TurnConcept}."
 
 msgid "DLC@RISEFROMRUIN@TOME_WARBAND@SKILL3@DESCRIPTION"
-msgstr "All heroes under your control gain:[bulletlist][bullet/]While army leader, the non-Hero unit with the least {GLOBAL.ExperienceConcept.Hyperlink} in the army gains +{amount} {GLOBAL.ExperienceConcept.Hyperlink} per {GLOBAL.WorldMapConcept.Hyperlink} {GLOBAL.TurnConcept}.[/bulletlist]"
+msgstr "Todos os heróis sob seu controle ganham:[bulletlist][bullet/]Como líder do exército, a unidade não-Herói com menos {GLOBAL.ExperienceConcept.Hyperlink} no exército ganha +{amount} {GLOBAL.ExperienceConcept.Hyperlink} por {GLOBAL.WorldMapConcept.Hyperlink} {GLOBAL.TurnConcept}.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARBAND@SKILL3@NAME"
-msgstr "Mentorship"
+msgstr "Mentoria"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARBAND@SKILL3@PROP_DESCRIPTION"
-msgstr "While army leader, the non-Hero unit with the least {GLOBAL.ExperienceConcept.Hyperlink} in the army gains +{MENTORSHIP_XP_PER_TURN>XP} {GLOBAL.ExperienceConcept.Hyperlink} per {GLOBAL.WorldMapConcept.Hyperlink} {GLOBAL.TurnConcept}."
+msgstr "Como líder do exército, a unidade não-Herói com menos {GLOBAL.ExperienceConcept.Hyperlink} no exército ganha +{MENTORSHIP_XP_PER_TURN>XP} {GLOBAL.ExperienceConcept.Hyperlink} por {GLOBAL.WorldMapConcept.Hyperlink} {GLOBAL.TurnConcept}."
 
 msgid "DLC@RISEFROMRUIN@TOME_WARBAND@SKILL4@DESCRIPTION"
-msgstr "Transformed units become stronger and more battle ready gaining:[bulletlist][bullet/]+{BRED_FOR_WAR_HP>BONUS>HitPoints} <<m:{GLOBAL.HitPointConcept.Hyperlink}>>.[bullet/]+{BRED_FOR_WAR_MORALE_RESIST>ResolvedMoraleDropModifier}% {GLOBAL.UnitMoraleConcept.Hyperlink} resistance to morale loss, plus +{BRED_FOR_WAR_MORALE_RESIST>ResolvedMoraleDropModifier}% for each adjacent friendly unit.[/bulletlist]"
+msgstr "Unidades transformadas ficam mais fortes e mais prontas para batalha, ganhando:[bulletlist][bullet/]+{BRED_FOR_WAR_HP>BONUS>HitPoints} <<m:{GLOBAL.HitPointConcept.Hyperlink}>>.[bullet/]+{BRED_FOR_WAR_MORALE_RESIST>ResolvedMoraleDropModifier}% {GLOBAL.UnitMoraleConcept.Hyperlink} de resistência à perda de moral, mais +{BRED_FOR_WAR_MORALE_RESIST>ResolvedMoraleDropModifier}% para cada unidade amigável adjacente.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARBAND@SKILL4@NAME"
-msgstr "Bred for War"
+msgstr "Criados para a Guerra"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARBAND@SKILL4@PROP_DESCRIPTION"
-msgstr "Unit has:[bulletlist][bullet/]+{BRED_FOR_WAR_HP>BONUS>HitPoints} <<m:{GLOBAL.HitPointConcept.Hyperlink}>>.[bullet/]+{BRED_FOR_WAR_MORALE_RESIST>ResolvedMoraleDropModifier}% {GLOBAL.UnitMoraleConcept.Hyperlink} resistance to morale loss, plus +{BRED_FOR_WAR_MORALE_RESIST>ResolvedMoraleDropModifier}% for each adjacent friendly unit.[/bulletlist]"
+msgstr "Unidade tem:[bulletlist][bullet/]+{BRED_FOR_WAR_HP>BONUS>HitPoints} <<m:{GLOBAL.HitPointConcept.Hyperlink}>>.[bullet/]+{BRED_FOR_WAR_MORALE_RESIST>ResolvedMoraleDropModifier}% {GLOBAL.UnitMoraleConcept.Hyperlink} de resistência à perda de moral, mais +{BRED_FOR_WAR_MORALE_RESIST>ResolvedMoraleDropModifier}% para cada unidade amigável adjacente.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARBAND@SKILL5@DESCRIPTION"
-msgstr "Friendly units in a {COMMANDERS_CALL_TARGETER>AREA>Radius}-hex radius:[bulletlist][bullet/]Heal {COMMANDERS_CALL_HEAL>NumHitpointsToRestore} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>[bullet/]Gain {COMMANDERS_CALL_CHANGE_MORALE>Morale Change Absolute} {GLOBAL.UnitMoraleConcept.Hyperlink}[/bulletlist]"
+msgstr "Unidades amigáveis em um raio de {COMMANDERS_CALL_TARGETER>AREA>Radius}-hex:[bulletlist][bullet/]Cura {COMMANDERS_CALL_HEAL>NumHitpointsToRestore} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>[bullet/]Ganha {COMMANDERS_CALL_CHANGE_MORALE>Morale Change Absolute} {GLOBAL.UnitMoraleConcept.Hyperlink}[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARBAND@SKILL5@NAME"
-msgstr "Commander's Call"
+msgstr "Chamado do Comandante"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARBAND@TOME@GAMEPLAY_DESCRIPTION"
-msgstr "Build strong martial armies and mentor your units through the ranks."
+msgstr "Construa exércitos marciais fortes e mentore suas unidades através das fileiras."
 
 msgid "DLC@RISEFROMRUIN@TOME_WARBAND@TOME@LORE_DESCRIPTION"
-msgstr "\"Magic is fickle; you can only trust your strength. Here you learn to hold a weapon before the age of seven, for at seven you stand watch. You turn war drills into your games; your pastimes are hunting your own food and winning pit fights. Our lieutenant says that we shall never know peace, for we were bred for war.\""
+msgstr "\"A magia é volúvel; você só pode confiar em sua força. Aqui você aprende a segurar uma arma antes dos sete anos, pois aos sete você fica de guarda. Você transforma exercícios de guerra em seus jogos; suas diversões são caçar sua própria comida e vencer lutas em poços. Nosso tenente diz que nunca conheceremos a paz, pois fomos criados para a guerra.\""
 
 msgid "DLC@RISEFROMRUIN@TOME_WARBAND@TOME@NAME"
-msgstr "Tome of the Warband"
+msgstr "Tomé da Banda de Guerra"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARBAND@UNIT@NAME"
-msgstr "Lieutenant^m"
+msgstr "Tenente^m"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY01@DESCRIPTION"
-msgstr "+{WAR_VETERAN>ResolvedCritChanceBonus}% {GLOBAL.CriticalHitConcept.Hyperlink} chance."
+msgstr "+{WAR_VETERAN>ResolvedCritChanceBonus}% de chance de {GLOBAL.CriticalHitConcept.Hyperlink}."
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY01@NAME"
-msgstr "War Veteran"
+msgstr "Veterano de Guerra"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY02@DESCRIPTION"
-msgstr "On unit kill, reset the cooldowns of all Command abilities."
+msgstr "Ao matar uma unidade, reinicia o tempo de recarga de todas as habilidades de Comando."
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY02@NAME"
-msgstr "Command Momentum"
+msgstr "Ímpeto de Comando"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY03@DESCRIPTION"
-msgstr "This unit ends its turn and goes into a defensive mode:[bulletlist][bullet/]Extends its {GLOBAL.ZoneOfControlConcept.Hyperlink} to all adjacent hexes.[bullet/]Gains +{HOLD_YOUR_GROUND_DEFENSE_INCREASE>DEF_MOD>Armor} {GLOBAL.DefenseConcept.Hyperlink}.[bullet/]Gains +{HOLD_YOUR_GROUND_DEFENSE_INCREASE>DEF_MOD>Resistance} {GLOBAL.ResistanceConcept.Hyperlink}.[bullet/]Immune to {GLOBAL.FlankingConcept.Hyperlink}.[bullet/]All adjacent friendly units gain +{HOLD_YOUR_GROUND_DEFENSE>DEF_MOD>Armor} {GLOBAL.DefenseConcept.Hyperlink}.[bullet/]All adjacent friendly units gain +{HOLD_YOUR_GROUND_DEFENSE>DEF_MOD>Resistance} {GLOBAL.ResistanceConcept.Hyperlink}.[bullet/]All adjacent friendly units gain {GLOBAL.PROPERTIES.CHARGE_RESISTANCE.Hyperlink}.[/bulletlist]"
+msgstr "Esta unidade termina seu turno e entra em modo defensivo:[bulletlist][bullet/]Estende sua {GLOBAL.ZoneOfControlConcept.Hyperlink} para todos os hexágonos adjacentes.[bullet/]Ganha +{HOLD_YOUR_GROUND_DEFENSE_INCREASE>DEF_MOD>Armor} de {GLOBAL.DefenseConcept.Hyperlink}.[bullet/]Ganha +{HOLD_YOUR_GROUND_DEFENSE_INCREASE>DEF_MOD>Resistance} de {GLOBAL.ResistanceConcept.Hyperlink}.[bullet/]Imune a {GLOBAL.FlankingConcept.Hyperlink}.[bullet/]Todas as unidades amigáveis adjacentes ganham +{HOLD_YOUR_GROUND_DEFENSE>DEF_MOD>Armor} de {GLOBAL.DefenseConcept.Hyperlink}.[bullet/]Todas as unidades amigáveis adjacentes ganham +{HOLD_YOUR_GROUND_DEFENSE>DEF_MOD>Resistance} de {GLOBAL.ResistanceConcept.Hyperlink}.[bullet/]Todas as unidades amigáveis adjacentes ganham {GLOBAL.PROPERTIES.CHARGE_RESISTANCE.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY03@NAME"
-msgstr "Defense Mode: Hold your Ground"
+msgstr "Modo Defensivo: Mantenha sua Posição"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY03@PROP_DESCRIPTION"
-msgstr "This unit has:[bulletlist][bullet/]+{HOLD_YOUR_GROUND_DEFENSE>DEF_MOD>Armor} {GLOBAL.DefenseConcept.Hyperlink}[bullet/]+{HOLD_YOUR_GROUND_DEFENSE>DEF_MOD>Resistance} {GLOBAL.ResistanceConcept.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.CHARGE_RESISTANCE.Hyperlink}[/bulletlist]"
+msgstr "Esta unidade possui:[bulletlist][bullet/]+{HOLD_YOUR_GROUND_DEFENSE>DEF_MOD>Armor} de {GLOBAL.DefenseConcept.Hyperlink}[bullet/]+{HOLD_YOUR_GROUND_DEFENSE>DEF_MOD>Resistance} de {GLOBAL.ResistanceConcept.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.CHARGE_RESISTANCE.Hyperlink}[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY03@PROP_NAME"
-msgstr "Hold your Ground"
+msgstr "Mantenha sua Posição"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY04@DESCRIPTION"
-msgstr "Target friendly Tier I, Tier II, or Tier III unit gains:[bulletlist][bullet/]{amount1} {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink} for {STRENGTHENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]{amount2} {GLOBAL.PROPERTIES.FORTUNE.Hyperlink} for {FORTUNE_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist][br/]All Command abilities on this unit go into cooldown."
+msgstr "Unidade amigável alvo de Nível I, II ou III recebe:[bulletlist][bullet/]{amount1} de {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink} por {STRENGTHENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]{amount2} de {GLOBAL.PROPERTIES.FORTUNE.Hyperlink} por {FORTUNE_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist][br/]Todas as habilidades de Comando nesta unidade entram em recarga."
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY04@HERO_DESCRIPTION"
-msgstr "Target friendly Tier I, Tier II, or Tier III unit gains:[bulletlist][bullet/]{amount1} {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink} for {STRENGTHENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]{amount2} {GLOBAL.PROPERTIES.FORTUNE.Hyperlink} for {FORTUNE_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist]"
+msgstr "Unidade amigável alvo de Nível I, II ou III recebe:[bulletlist][bullet/]{amount1} de {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink} por {STRENGTHENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]{amount2} de {GLOBAL.PROPERTIES.FORTUNE.Hyperlink} por {FORTUNE_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY04@NAME"
-msgstr "Command: Attack"
+msgstr "Comando: Atacar"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY05@DESCRIPTION"
-msgstr "Target friendly Tier I, Tier II, or Tier III unit gains:[bulletlist][bullet/]+{EXTRA_RETALIATION>NumTriggersToAdd} {GLOBAL.RetaliationConcept.Hyperlink} for {COMMAND_DEFEND_STATUS_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>[bullet/]{amount1} {GLOBAL.PROPERTIES.BOLSTERED_DEFENSE.Hyperlink} for {BOLSTERED_DEFENSE_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]{amount2} {GLOBAL.PROPERTIES.BOLSTERED_RESISTANCE.Hyperlink} for {BOLSTERED_RESISTANCE_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist][br/]All Command abilities on this unit go into cooldown."
+msgstr "Unidade amigável alvo de Nível I, II ou III recebe:[bulletlist][bullet/]+{EXTRA_RETALIATION>NumTriggersToAdd} de {GLOBAL.RetaliationConcept.Hyperlink} por {COMMAND_DEFEND_STATUS_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]{amount1} de {GLOBAL.PROPERTIES.BOLSTERED_DEFENSE.Hyperlink} por {BOLSTERED_DEFENSE_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]{amount2} de {GLOBAL.PROPERTIES.BOLSTERED_RESISTANCE.Hyperlink} por {BOLSTERED_RESISTANCE_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist][br/]Todas as habilidades de Comando nesta unidade entram em recarga."
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY05@HERO_DESCRIPTION"
-msgstr "Target friendly Tier I, Tier II, or Tier III unit gains:[bulletlist][bullet/]+{EXTRA_RETALIATION>NumTriggersToAdd} {GLOBAL.RetaliationConcept.Hyperlink} for {COMMAND_DEFEND_STATUS_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]{amount1} {GLOBAL.PROPERTIES.BOLSTERED_DEFENSE.Hyperlink} for {BOLSTERED_DEFENSE_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]{amount2} {GLOBAL.PROPERTIES.BOLSTERED_RESISTANCE.Hyperlink} for {BOLSTERED_RESISTANCE_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist]"
+msgstr "Unidade amigável alvo de Nível I, II ou III recebe:[bulletlist][bullet/]+{EXTRA_RETALIATION>NumTriggersToAdd} de {GLOBAL.RetaliationConcept.Hyperlink} por {COMMAND_DEFEND_STATUS_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]{amount1} de {GLOBAL.PROPERTIES.BOLSTERED_DEFENSE.Hyperlink} por {BOLSTERED_DEFENSE_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]{amount2} de {GLOBAL.PROPERTIES.BOLSTERED_RESISTANCE.Hyperlink} por {BOLSTERED_RESISTANCE_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY05@NAME"
-msgstr "Command: Defend"
+msgstr "Comando: Defender"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY06@DESCRIPTION"
-msgstr "Target friendly Tier I, Tier II, or Tier III unit gains:[bulletlist][bullet/]Heals {COMMAND_RETREAT_HEAL>NumHitpointsToRestore} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>[bullet/]Gains {GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink} for {COMMAND_RETREAT_STATUS_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]Gains {GLOBAL.PROPERTIES.SLIPPERY.Hyperlink} for {COMMAND_RETREAT_STATUS_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist][br/]All Command abilities on this unit go into cooldown."
+msgstr "Unidade amigável alvo de Nível I, II ou III recebe:[bulletlist][bullet/]Cura {COMMAND_RETREAT_HEAL>NumHitpointsToRestore} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>[bullet/]Ganha {GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink} por {COMMAND_RETREAT_STATUS_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]Ganha {GLOBAL.PROPERTIES.SLIPPERY.Hyperlink} por {COMMAND_RETREAT_STATUS_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist][br/]Todas as habilidades de Comando nesta unidade entram em recarga."
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY06@HERO_DESCRIPTION"
-msgstr "Target friendly Tier I, Tier II, or Tier III unit gains:[bulletlist][bullet/]Heals {COMMAND_RETREAT_HEAL>NumHitpointsToRestore} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>[bullet/]Gains {GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink} for {COMMAND_RETREAT_STATUS_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]Gains {GLOBAL.PROPERTIES.SLIPPERY.Hyperlink} for {COMMAND_RETREAT_STATUS_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist]"
+msgstr "Unidade amigável alvo de Nível I, II ou III recebe:[bulletlist][bullet/]Cura {COMMAND_RETREAT_HEAL>NumHitpointsToRestore} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>[bullet/]Ganha {GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink} por {COMMAND_RETREAT_STATUS_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]Ganha {GLOBAL.PROPERTIES.SLIPPERY.Hyperlink} por {COMMAND_RETREAT_STATUS_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY06@NAME"
-msgstr "Command: Retreat"
+msgstr "Comando: Retirar"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY06@PROP_DESCRIPTION"
-msgstr "Unit has:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.SLIPPERY.Hyperlink}[/bulletlist]"
+msgstr "Unidade possui:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.SLIPPERY.Hyperlink}[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY07@DESCRIPTION"
-msgstr "In a {INFERNAL_RAY_POSITION_TARGETER>AREA>Length}-hex cone:[bulletlist][bullet/]Units sustain damage.[bullet/]Units gain {amount} {GLOBAL.PROPERTIES.BURNING.Hyperlink} for {BURNING_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]Hexes are set {GLOBAL.OnFireConcept.Hyperlink}[/bulletlist][br/]Deals double damage to obstacles."
+msgstr "Em um cone de {INFERNAL_RAY_POSITION_TARGETER>AREA>Length} hexágonos:[bulletlist][bullet/]Unidades sofrem dano.[bullet/]Unidades ganham {amount} {GLOBAL.PROPERTIES.BURNING.Hyperlink} por {BURNING_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]Hexágonos são colocados {GLOBAL.OnFireConcept.Hyperlink}[/bulletlist][br/]Causa dano dobrado a obstáculos."
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY07@NAME"
 msgstr "Infernal Ray"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY08@DESCRIPTION"
-msgstr "Move to target hex. Then all adjacent enemies gain {GLOBAL.PROPERTIES.BURNING.Hyperlink} for {BURNING_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>."
+msgstr "Mova para o hexágono alvo. Então todos os inimigos adjacentes ganham {GLOBAL.PROPERTIES.BURNING.Hyperlink} por {BURNING_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>."
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY08@NAME"
 msgstr "Fiery Shift"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY09@DESCRIPTION"
-msgstr "Tier I, Tier II, and Tier III units in the army have:[bulletlist][bullet/]+{FIELD_TACTICS_DEFENSE>DEF_MOD>Armor} {GLOBAL.DefenseConcept.Hyperlink}[bullet/]+{FIELD_TACTICS_DEFENSE>DEF_MOD>Resistance} {GLOBAL.ResistanceConcept.Hyperlink}[/bulletlist][br/]Does not stack."
+msgstr "Unidades de Tier I, Tier II e Tier III no exército têm:[bulletlist][bullet/]+{FIELD_TACTICS_DEFENSE>DEF_MOD>Armor} {GLOBAL.DefenseConcept.Hyperlink}[bullet/]+{FIELD_TACTICS_DEFENSE>DEF_MOD>Resistance} {GLOBAL.ResistanceConcept.Hyperlink}[/bulletlist][br/]Não se acumulam."
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY09@NAME"
 msgstr "Field Tactics"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@ABILITY09@PROP_DESCRIPTION"
-msgstr "Unit has:[bulletlist][bullet/]+{FIELD_TACTICS_DEFENSE>DEF_MOD>Armor} {GLOBAL.DefenseConcept.Hyperlink}[bullet/]+{FIELD_TACTICS_DEFENSE>DEF_MOD>Resistance} {GLOBAL.ResistanceConcept.Hyperlink}[/bulletlist]"
+msgstr "Unidade tem:[bulletlist][bullet/]+{FIELD_TACTICS_DEFENSE>DEF_MOD>Armor} {GLOBAL.DefenseConcept.Hyperlink}[bullet/]+{FIELD_TACTICS_DEFENSE>DEF_MOD>Resistance} {GLOBAL.ResistanceConcept.Hyperlink}[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SKILL01@DESCRIPTION"
-msgstr "A powerful {GLOBAL.PROPERTIES.MYTHIC_UNIT.Hyperlink}, a master of melee combat that commands others in combat."
+msgstr "Uma poderosa {GLOBAL.PROPERTIES.MYTHIC_UNIT.Hyperlink}, uma mestra do combate corpo a corpo que comanda outras em combate."
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SKILL01@NAME"
 msgstr "Warlord"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SKILL02@DESCRIPTION"
-msgstr "Summon a {GLOBAL.UNITS.WAR_GOLEM.Hyperlink}, an infernal siege weapon that specializes in destroying enemy fortifications."
+msgstr "Invocar um {GLOBAL.UNITS.WAR_GOLEM.Hyperlink}, uma arma de cerco infernal especializada em destruir fortificações inimigas."
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SKILL02@NAME"
 msgstr "Summon War Golem"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SKILL03@DESCRIPTION"
-msgstr "Enchanted units gain:[bulletlist][bullet/]+{RELENTLESS_MIGHT_RETALIATION_INCREASE>NumTriggersToAdd} {GLOBAL.RetaliationConcept.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.INFERNAL_MIGHT.Hyperlink} when it attacks.[/bulletlist]"
+msgstr "Unidades encantadas ganham:[bulletlist][bullet/]+{RELENTLESS_MIGHT_RETALIATION_INCREASE>NumTriggersToAdd} {GLOBAL.RetaliationConcept.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.INFERNAL_MIGHT.Hyperlink} quando ataca.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SKILL03@NAME"
 msgstr "Relentless Might"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SKILL03@PROPERTY_DESCRIPTION"
-msgstr "Unit has:[bulletlist][bullet/]+{RELENTLESS_MIGHT_RETALIATION_INCREASE>NumTriggersToAdd} {GLOBAL.RetaliationConcept.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.INFERNAL_MIGHT.Hyperlink} when it attacks.[/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+msgstr "Unidade tem:[bulletlist][bullet/]+{RELENTLESS_MIGHT_RETALIATION_INCREASE>NumTriggersToAdd} {GLOBAL.RetaliationConcept.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.INFERNAL_MIGHT.Hyperlink} quando ataca.[/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SKILL04@DESCRIPTION"
-msgstr "[bulletlist][bullet/]All friendly units gain {GLOBAL.PROPERTIES.SIEGE_BREAKER.Hyperlink} while sieging.[bullet/]During battle:[bulletlist][bullet/]All friendly units gain +{amount}% {GLOBAL.CriticalHitConcept.Hyperlink} chance in battle.[bullet/]Random hexes are set {GLOBAL.OnFireConcept.Hyperlink}.[/bulletlist][bullet/]If victorious, Razing and Migrating this city requires {amount2} less <<m:{GLOBAL.TurnConcept}>>.[/bulletlist]"
+msgstr "[bulletlist][bullet/]Todas as unidades amigáveis ganham {GLOBAL.PROPERTIES.SIEGE_BREAKER.Hyperlink} durante cerco.[bullet/]Durante a batalha:[bulletlist][bullet/]Todas as unidades amigáveis ganham +{amount}% de chance de {GLOBAL.CriticalHitConcept.Hyperlink} na batalha.[bullet/]Hexágonos aleatórios são colocados {GLOBAL.OnFireConcept.Hyperlink}.[/bulletlist][bullet/]Se vitorioso, Saquear e Migrar esta cidade requer {amount2} menos <<m:{GLOBAL.TurnConcept}>>.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SKILL04@NAME"
 msgstr "Conqueror's Edict"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SKILL05@DESCRIPTION"
-msgstr "All friendly units in a {MIGHT_OF_THE_BATTLEFIELD_UNIT_TARGETER_ALL_LOW_TIER>AREA>Radius}-hex radius gain:[bulletlist][bullet/]{GLOBAL.PROPERTIES.INFERNAL_MIGHT.Hyperlink} for {INFERNAL_BLAZE_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]{MIGHT_OF_THE_BATTLEFIELD_MORALE>Morale Change Absolute} {GLOBAL.UnitMoraleConcept.Hyperlink}.[/bulletlist][br/]Doubled for Tier I, Tier II, and Tier III units."
+msgstr "Todas as unidades amigáveis em um raio de {MIGHT_OF_THE_BATTLEFIELD_UNIT_TARGETER_ALL_LOW_TIER>AREA>Radius} hexágonos ganham:[bulletlist][bullet/]{GLOBAL.PROPERTIES.INFERNAL_MIGHT.Hyperlink} por {INFERNAL_BLAZE_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]{MIGHT_OF_THE_BATTLEFIELD_MORALE>Morale Change Absolute} {GLOBAL.UnitMoraleConcept.Hyperlink}.[/bulletlist][br/]Dobrado para unidades de Tier I, Tier II e Tier III."
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SKILL05@NAME"
 msgstr "Might of the Battlefield"
@@ -56366,58 +56366,58 @@ msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SKILL06@NAME"
 msgstr "Gladiatorial Pit"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SPI@DESCRIPTION"
-msgstr "[bulletlist][bullet/]+{amount1} {GLOBAL.UnitProductionConcept.Hyperlink} income.[bullet/]Per available Ore type {GLOBAL.MagicMaterialConcept.Hyperlink} available to your empire gain:[bulletlist][bullet/]+{amount2} {GLOBAL.GoldConcept.Hyperlink}.[bullet/]+{amount3} {GLOBAL.UnitProductionConcept.Hyperlink}[/bulletlist][bullet/]Counts as a {GLOBAL.MineConcept.Hyperlink}.[/bulletlist]"
+msgstr "[bulletlist][bullet/]+{amount1} {GLOBAL.UnitProductionConcept.Hyperlink} de renda.[bullet/]Por tipo de Minério disponível {GLOBAL.MagicMaterialConcept.Hyperlink} disponível para seu império, ganhe:[bulletlist][bullet/]+{amount2} {GLOBAL.GoldConcept.Hyperlink}.[bullet/]+{amount3} {GLOBAL.UnitProductionConcept.Hyperlink}[/bulletlist][bullet/]Conta como uma {GLOBAL.MineConcept.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@SPI@NAME"
-msgstr "[mine/] War Forge"
+msgstr "[mine/] Forja de Guerra"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@TOME@GAMEPLAY_DESCRIPTION"
-msgstr "Conquer the world with powerful warriors and infernal allies."
+msgstr "Conquiste o mundo com poderosos guerreiros e aliados infernais."
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@TOME@LORE_DESCRIPTION"
-msgstr "\"Much has changed since I first wrote of Warlords during the Third Age. They remain formidable warriors and tacticians, calling out commands as steel clashes, training the very best in the Gladiator Pits. But today, there are those who stand above, those who employ them and monstrous War Golems to lay siege to entire empires. They have become the true Sovereigns of War.\""
+msgstr "\"Muito mudou desde que primeiro escrevi sobre os Senhores da Guerra durante a Terceira Era. Eles continuam sendo formidáveis guerreiros e táticos, dando ordens enquanto o aço se choca, treinando os melhores nas Arenas de Gladiadores. Mas hoje, há aqueles que se destacam, aqueles que os empregam e Golems de Guerra monstros para sitiar impérios inteiros. Eles se tornaram os verdadeiros Soberanos da Guerra.\""
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@TOME@NAME"
-msgstr "Tome of the Warlord"
+msgstr "Tomé do Senhor da Guerra"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@UNIT02@NAME"
-msgstr "War Golem^n"
+msgstr "Golem de Guerra^n"
 
 msgid "DLC@RISEFROMRUIN@TOME_WARLORD@UNIT@NAME"
-msgstr "Warlord^m"
+msgstr "Senhor da Guerra^m"
 
 msgid "DLC@RISEFROMRUIN@TOOLTIP@SPAWNER_GREAT_WORM"
-msgstr "The {GLOBAL.STRUCTURES.GREAT_WORM_INFESTATION.Hyperlink} appeared at the center of the oasis."
+msgstr "A {GLOBAL.STRUCTURES.GREAT_WORM_INFESTATION.Hyperlink} apareceu no centro do oásis."
 
 msgid "DLC@RISEFROMRUIN@TOOLTIP_DEFINITIONS@ASTRAL_BARRENS@HYPERLINK"
-msgstr "[hyperlink,GLOBAL.AstralBarrensConcept]Astral Barrens[/hyperlink]"
+msgstr "[hyperlink,GLOBAL.AstralBarrensConcept]Ermos Astrais[/hyperlink]"
 
 msgid "DLC@RISEFROMRUIN@TOOLTIP_DEFINITIONS@BACKFIRING@DESCRIPTION"
-msgstr "Spell Backfiring Description placeholder text"
+msgstr "Descrição de Falha na Magia (texto placeholder)"
 
 msgid "DLC@RISEFROMRUIN@TOOLTIP_DEFINITIONS@BACKFIRING@HYPERLINK"
-msgstr "[hyperlink,GLOBAL.BackfireConcept]Backfiring[/hyperlink]"
+msgstr "[hyperlink,GLOBAL.BackfireConcept]Falha na Magia[/hyperlink]"
 
 msgid "DLC@RISEFROMRUIN@TOOLTIP_DEFINITIONS@BACKFIRING@NAME"
-msgstr "Spell Backfiring"
+msgstr "Falha na Magia"
 
 msgid "DLC@RISEFROMRUIN@TRIGGER@TOOLTIP@FIT_FOR_EXTRACTION@AFFINITY_CHECK_MATERIUM@FAILURE"
-msgstr "The {EventStructure} won't yield its bounty and remains occupied by {EventHouse}."
+msgstr "A {EventStructure} não irá render sua recompensa e permanece ocupada por {EventHouse}."
 
 msgid "DLC@RISEFROMRUIN@TRIGGER@TOOLTIP@FIT_FOR_EXTRACTION@AFFINITY_CHECK_MATERIUM@HEADER"
-msgstr "Harvest a portion of the {EventStructure} to satisfy the surveyors:"
+msgstr "Colha uma porção da {EventStructure} para satisfazer os pesquisadores:"
 
 msgid "DLC@RISEFROMRUIN@TRIGGER@TOOLTIP@FIT_FOR_EXTRACTION@AFFINITY_CHECK_MATERIUM@SUCCESS"
-msgstr "Content with the yield, the {EventHouseRace} leave with some {EventResource}."
+msgstr "Satisfeitos com a colheita, os {EventHouseRace} partem com alguns {EventResource}."
 
 msgid "DLC@RISEFROMRUIN@TRIGGER@TOOLTIP@FIT_FOR_EXTRACTION@AFFINITY_CHECK_SHADOW@FAILURE"
-msgstr "The surveyors are not fooled by the illusion and remain."
+msgstr "Os pesquisadores não são enganados pela ilusão e permanecem."
 
 msgid "DLC@RISEFROMRUIN@TRIGGER@TOOLTIP@FIT_FOR_EXTRACTION@AFFINITY_CHECK_SHADOW@HEADER"
-msgstr "Attempt to trick the surveyors into leaving the {EventStructure}:"
+msgstr "Tente enganar os pesquisadores para que deixem a {EventStructure}:"
 
 msgid "DLC@RISEFROMRUIN@TRIGGER@TOOLTIP@FIT_FOR_EXTRACTION@AFFINITY_CHECK_SHADOW@SUCCESS"
-msgstr "The surveyors from {EventHouse} decide that the {EventStructure} is not worth any extraction."
+msgstr "Os pesquisadores de {EventHouse} decidem que a {EventStructure} não vale a pena ser extraída."
 
 msgid "DLC@RISEFROMRUIN@TRIGGER@TOOLTIP@FIT_FOR_EXTRACTION@EVENT_RESOURCE@FOOD"
 msgstr "{GLOBAL.FoodConcept.Name}"
@@ -56435,151 +56435,151 @@ msgid "DLC@RISEFROMRUIN@TRIGGER@TOOLTIP@FIT_FOR_EXTRACTION@EVENT_RESOURCE@PRODUC
 msgstr "{GLOBAL.StructureProductionConcept.Name}"
 
 msgid "DLC@RISEFROMRUIN@TRIGGER@TOOLTIP@OLD_PATHS@AFFINITY_CHECK_CHAOS@FAILURE"
-msgstr "The feeble slaves are immediately caught again."
+msgstr "Os escravos frágeis são imediatamente capturados novamente."
 
 msgid "DLC@RISEFROMRUIN@TRIGGER@TOOLTIP@OLD_PATHS@AFFINITY_CHECK_CHAOS@HEADER"
-msgstr "Attempt to break the chains of the slaves:"
+msgstr "Tentar quebrar as correntes dos escravos:"
 
 msgid "DLC@RISEFROMRUIN@TRIGGER@TOOLTIP@OLD_PATHS@AFFINITY_CHECK_CHAOS@SUCCESS"
-msgstr "The slaves run away, pursued by the {EventStackLeader} and <<o:EventStackLeader>> guards."
+msgstr "Os escravos fogem, perseguidos pelo {EventStackLeader} e pelos guardas <<o:EventStackLeader>>."
 
 msgid "DLC@RISEFROMRUIN@TRIGGER@TOOLTIP@OLD_PATHS@AFFINITY_CHECK_ORDER@FAILURE"
-msgstr "The {EventStackLeader} mocks you and returns to minding <<o:EventStackLeader>> merchandise."
+msgstr "O {EventStackLeader} zomba de você e volta a cuidar de <<o:EventStackLeader>> mercadorias."
 
 msgid "DLC@RISEFROMRUIN@TRIGGER@TOOLTIP@OLD_PATHS@AFFINITY_CHECK_ORDER@HEADER"
-msgstr "Use your authority to scare off the {EventStackLeader}:"
+msgstr "Use sua autoridade para afugentar o {EventStackLeader}:"
 
 msgid "DLC@RISEFROMRUIN@TRIGGER@TOOLTIP@OLD_PATHS@AFFINITY_CHECK_ORDER@SUCCESS"
-msgstr "The {EventStackLeader} hastily packs up <<o:EventStackLeader>> wares and departs."
+msgstr "O {EventStackLeader} empacota apressadamente <<o:EventStackLeader>> mercadorias e parte."
 
 msgid "DLC@RISEFROMRUIN@TRIGGER@TOOLTIP@VISITING_EVENTUNIT@AFFINITY_CHECK_SHADOW@FAILURE"
-msgstr "{EventHouseLord} discovers and condemns your heinous crime."
+msgstr "{EventHouseLord} descobre e condena seu crime hediondo."
 
 msgid "DLC@RISEFROMRUIN@TRIGGER@TOOLTIP@VISITING_EVENTUNIT@AFFINITY_CHECK_SHADOW@HEADER"
-msgstr "Slay the visiting warriors from {EventHouse}:"
+msgstr "Matar os guerreiros visitantes de {EventHouse}:"
 
 msgid "DLC@RISEFROMRUIN@TRIGGER@TOOLTIP@VISITING_EVENTUNIT@AFFINITY_CHECK_SHADOW@SUCCESS"
-msgstr "You harvest the souls of the young visitors from {EventHouse} undetected."
+msgstr "Você colhe as almas dos jovens visitantes de {EventHouse} sem ser detectado."
 
 msgid "DLC@RISEFROMRUIN@TSR@WONDER@DESCRIPTION"
-msgstr "[bulletlist][bullet/]+{amount1} {GLOBAL.ResearchConcept.Hyperlink} per {GLOBAL.ConduitConcept.Hyperlink} in {GLOBAL.CityConcept.Hyperlink} {GLOBAL.DomainConcept.Hyperlink}.[bullet/]Adds {GLOBAL.UNITS.FRACTURED_EVOKER.Hyperlink} to the {GLOBAL.RequestMilitaryAidConcept.Hyperlink}.[/bulletlist]"
+msgstr "[bulletlist][bullet/]+{amount1} {GLOBAL.ResearchConcept.Hyperlink} por {GLOBAL.ConduitConcept.Hyperlink} em {GLOBAL.CityConcept.Hyperlink} {GLOBAL.DomainConcept.Hyperlink}.[bullet/]Adiciona {GLOBAL.UNITS.FRACTURED_EVOKER.Hyperlink} ao {GLOBAL.RequestMilitaryAidConcept.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@TSR@WONDER@LORE"
-msgstr "Fragments of an ancient Wizard Tower that once belonged to one of the {GLOBAL.UnmakersLoreConcept.Hyperlink}. These structures were the epicenter of experiments that tampered with the very essence of magic. Now their foundations barely clutch onto reality, consumed and contaminated by the energies that awakened long ago within its walls."
+msgstr "Fragmentos de uma Torre de Mago antiga que já pertenceu a um dos {GLOBAL.UnmakersLoreConcept.Hyperlink}. Essas estruturas foram o epicentro de experimentos que alteraram a própria essência da magia. Agora seus alicerces mal se agarram à realidade, consumidos e contaminados pelas energias que despertaram há muito tempo dentro de suas paredes."
 
 msgid "DLC@RISEFROMRUIN@TSR@WONDER@NAME"
-msgstr "Fractured Tower"
+msgstr "Torre Fraturada"
 
 msgid "DLC@RISEFROMRUIN@TSR_CM@EVENT_TOOLTIP@FRACTURE_1"
-msgstr "Enter combat with the fractured beasts. If you defeat them, you successfully activate the sigils and gain the knowledge [knowledge/]."
+msgstr "Entre em combate com as bestas fraturadas. Se você derrotá-las, ativará com sucesso os sigilos e obterá o conhecimento [knowledge/]."
 
 msgid "DLC@RISEFROMRUIN@TSR_CM@EVENT_TOOLTIP@FRACTURE_2"
-msgstr "Enter combat with the nomads. If you defeat them, you successfully activate the sigils and gain the knowledge [knowledge/]."
+msgstr "Entre em combate com os nômades. Se você derrotá-los, ativará com sucesso os sigilos e obterá o conhecimento [knowledge/]."
 
 msgid "DLC@RISEFROMRUIN@TSR_CM@EVENT_TOOLTIP@FRACTURE_3"
-msgstr "Enter combat with fractured librarians. If you defeat them, you successfully activate the sigils and gain the knowledge [knowledge/]."
+msgstr "Entre em combate com bibliotecários fraturados. Se você derrotá-los, ativará com sucesso os sigilos e obterá o conhecimento [knowledge/]."
 
 msgid "DLC@RISEFROMRUIN@TSR_CM@HEADER_VICTORY"
-msgstr "You have silenced the winds of the Crackling Mesa."
+msgstr "Você silenciou os ventos da Mesa Estalante."
 
 msgid "DLC@RISEFROMRUIN@TSR_CM@HEADER_VICTORY_OTHER"
-msgstr "{TSR_WINNING_PLAYER} has silenced the winds of the Crackling Mesa."
+msgstr "{TSR_WINNING_PLAYER} silenciou os ventos da Mesa Estalante."
 
 msgid "DLC@RISEFROMRUIN@TSR_CM@NOTIFICATION@FINAL_OTHER_PLAYER@DESCRIPTION"
-msgstr "{TSR_WINNING_PLAYER} has silenced the winds of the Crackling Mesa, closing all the Fractures in the region. <<Cp:TSR_WINNING_PLAYER>> has claimed the {TSR_RELIC} {GLOBAL.ArtifactConcept.Hyperlink} for <<o:TSR_WINNING_PLAYER>> empire!"
+msgstr "{TSR_WINNING_PLAYER} silenciou os ventos da Mesa Crepitante, fechando todas as Fraturas na região. <<Cp:TSR_WINNING_PLAYER>> reclamou o {TSR_RELIC} {GLOBAL.ArtifactConcept.Hyperlink} para o império de <<o:TSR_WINNING_PLAYER>>!"
 
 msgid "DLC@RISEFROMRUIN@TSR_CM@NOTIFICATION@FINAL_OTHER_PLAYER@HEADER"
-msgstr "Crackling Mesa: Completed by {TSR_WINNING_PLAYER}!"
+msgstr "Mesa Crepitante: Concluído por {TSR_WINNING_PLAYER}!"
 
 msgid "DLC@RISEFROMRUIN@TSR_CM@NOTIFICATION@UNMAKERS_BACK@DESCRIPTION"
-msgstr "The voice of the devouring winds has revealed <<r:TSR_CM_UNMAKER>> to be an {GLOBAL.UnmakersLoreConcept.Hyperlink}, who has used the sigils to triangulate the {GLOBAL.CosmosCreationLoreConcept.Hyperlink} position and has opened a {GLOBAL.FractureLoreConcept.Hyperlink} from where <<p:TSR_CM_UNMAKER>> has returned. Now <<p:TSR_CM_UNMAKER>> challenge anyone to oppose <<P:TSR_CM_UNMAKER>>."
+msgstr "A voz dos ventos devoradores revelou que <<r:TSR_CM_UNMAKER>> é um {GLOBAL.UnmakersLoreConcept.Hyperlink}, que usou os sigilos para triangular a posição do {GLOBAL.CosmosCreationLoreConcept.Hyperlink} e abriu uma {GLOBAL.FractureLoreConcept.Hyperlink} de onde <<p:TSR_CM_UNMAKER>> retornou. Agora <<p:TSR_CM_UNMAKER>> desafia qualquer um a se opor a <<P:TSR_CM_UNMAKER>>."
 
 msgid "DLC@RISEFROMRUIN@TSR_CM@NOTIFICATION@UNMAKER_BACK@HEADER"
-msgstr "Crackling Mesa: The {GLOBAL.UnmakersLoreConcept.Hyperlink} Came Back."
+msgstr "Mesa Crepitante: O {GLOBAL.UnmakersLoreConcept.Hyperlink} Retornou."
 
 msgid "DLC@RISEFROMRUIN@TSR_CM@OBJECTIVE_01"
-msgstr "{TSR_FRACTURES_DONE}/3 Fractures Approached"
+msgstr "{TSR_FRACTURES_DONE}/3 Fraturas Abordadas"
 
 msgid "DLC@RISEFROMRUIN@TSR_CM@OBJECTIVE_FINAL"
-msgstr "{TSR_UNMAKER_SLAIN}/1 Unmaker Defeated."
+msgstr "{TSR_UNMAKER_SLAIN}/1 Desfazedor Derrotado."
 
 msgid "DLC@RISEFROMRUIN@TSR_CM@RANDOMNOMAD_RACE@NAME"
-msgstr "Nomads"
+msgstr "Nômades"
 
 msgid "DLC@RISEFROMRUIN@TSR_CM@WIND@TOOLTIP@DESCRIPTION"
-msgstr "[bulletlist][bullet/]When a healing or buffing spell [hyperlink,GLOBAL.BackfireConcept]Backfires[/hyperlink] for this player, it always triggers a positive effect.[bullet/]When a damaging or debuffing spell [hyperlink,GLOBAL.BackfireConcept]Backfires[/hyperlink] for this player, it always triggers a negative effect for the enemy.[/bulletlist]"
+msgstr "[bulletlist][bullet/]Quando uma magia de cura ou fortalecimento [hyperlink,GLOBAL.BackfireConcept]Falta[/hyperlink] para este jogador, ela sempre aciona um efeito positivo.[bullet/]Quando uma magia de dano ou enfraquecimento [hyperlink,GLOBAL.BackfireConcept]Falta[/hyperlink] para este jogador, ela sempre aciona um efeito negativo para o inimigo.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@TSR_CM@WIND@TOOLTIP@HYPERLINK"
-msgstr "[hyperlink,GLOBAL.BackfireTailwindsConcept]Backfire Tailwinds[/hyperlink]"
+msgstr "[hyperlink,GLOBAL.BackfireTailwindsConcept]Ventos Favoráveis de Retrocesso[/hyperlink]"
 
 msgid "DLC@RISEFROMRUIN@TSR_CM@WIND@TOOLTIP@NAME"
-msgstr "Backfire Tailwind"
+msgstr "Vento Favorável de Retrocesso"
 
 msgid "DLC@RISEFROMRUIN@TSR_EFFECT@VOLATILE_FRACTURE@PROP_DESCRIPTION"
-msgstr "At the start of combat, this unit has a {amount}% chance of becoming {GLOBAL.PROPERTIES.MANA_DRAINED.Hyperlink}."
+msgstr "No início do combate, esta unidade tem uma chance de {amount}% de se tornar {GLOBAL.PROPERTIES.MANA_DRAINED.Hyperlink}."
 
 msgid "DLC@RISEFROMRUIN@TSR_FINISHER@RELATIONSHIP_MODIFIER"
-msgstr "Guardian of the Hubris"
+msgstr "Guardião da Hybris"
 
 msgid "DLC@RISEFROMRUIN@TSR_FINISHER@TOOLTIP@GUARDIAN"
-msgstr "For the rest of the game, you become known as the Guardian of the Hubris, unlocking the recruitment of all Fractured units in all of your cities. They gain {IntRanks} extra ranks upon recruitment."
+msgstr "Pelo resto do jogo, você será conhecido como o Guardião da Hybris, desbloqueando o recrutamento de todas as unidades Fraturadas em todas as suas cidades. Elas ganham {IntRanks} fileiras extras ao serem recrutadas."
 
 msgid "DLC@RISEFROMRUIN@TSR_FINISHER@TOOLTIP@HEAL_FORECAST"
-msgstr "As long as you hold at least three <<m:{GLOBAL.ArtifactConcept.Hyperlink}>>:[bulletlist][bullet/]You become known as the Mender of the Fractured Age. From now on, the <<m:{GLOBAL.DomainConcept.Hyperlink}>> of your {GLOBAL.EmpireConcept.Hyperlink} can no longer be targeted by <<m:{GLOBAL.CataclysmConcept.Hyperlink}>>. Does not work when a {GLOBAL.ProvinceConcept.Hyperlink} was already targeted by a Cataclysm and then becomes your domain.[bullet/]At the beginning of your {GLOBAL.TurnConcept.Hyperlink}, the {GLOBAL.CataclysmConcept.Hyperlink} meter progress and level will decrease, stabilizing the realm. When the Cataclysm level reaches 0, the world will be cleansed of the fractured energy. Destroying the cataclysm and the artifacts, and ceasing any unfinished Fated Region.[bullet/]At the beginning of your {GLOBAL.TurnConcept.Hyperlink}, nomads will pilgrimage to your cities, seeking to join the one who put an end to the [hyperlink,GLOBAL.FractureLoreConcept]Fractures[/hyperlink]. This will increase their {GLOBAL.PopulationConcept.Hyperlink} and {GLOBAL.CityStabilityConcept.Hyperlink}.[bulletlist]"
+msgstr "Enquanto você possuir pelo menos três <<m:{GLOBAL.ArtifactConcept.Hyperlink}>>:[bulletlist][bullet/]Você será conhecido como o Consertador da Era Fraturada. A partir de agora, o <<m:{GLOBAL.DomainConcept.Hyperlink}>> do seu {GLOBAL.EmpireConcept.Hyperlink} não poderá mais ser alvo de <<m:{GLOBAL.CataclysmConcept.Hyperlink}>>. Não funciona quando uma {GLOBAL.ProvinceConcept.Hyperlink} já foi alvo de um Cataclisma e depois se torna seu domínio.[bullet/]No início do seu {GLOBAL.TurnConcept.Hyperlink}, o progresso e nível do medidor de {GLOBAL.CataclysmConcept.Hyperlink} diminuirá, estabilizando o reino. Quando o nível do Cataclisma atingir 0, o mundo será purificado da energia fraturada. Destruindo o cataclisma e os artefatos, e cessando qualquer região do Destino inacabada.[bullet/]No início do seu {GLOBAL.TurnConcept.Hyperlink}, nômades farão peregrinações às suas cidades, buscando se juntar àquele que pôs fim às [hyperlink,GLOBAL.FractureLoreConcept]Fraturas[/hyperlink]. Isso aumentará sua {GLOBAL.PopulationConcept.Hyperlink} e {GLOBAL.CityStabilityConcept.Hyperlink}.[bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@TSR_FINISHER@TOOLTIP@HERALD"
-msgstr "As long as you hold the artifacts, you become known as the Herald Of The Fracturing. From now on the <<m:{GLOBAL.DomainConcept.Hyperlink}>> of your {GLOBAL.EmpireConcept.Hyperlink} can no longer be targeted by <<m:{GLOBAL.CataclysmConcept.Hyperlink}>>. Does not work when a {GLOBAL.ProvinceConcept.Hyperlink} was already targeted by a Cataclysm and then becomes your domain."
+msgstr "Enquanto você possuir os artefatos, você será conhecido como o Arauto do Fraturamento. A partir de agora, o <<m:{GLOBAL.DomainConcept.Hyperlink}>> do seu {GLOBAL.EmpireConcept.Hyperlink} não poderá mais ser alvo de <<m:{GLOBAL.CataclysmConcept.Hyperlink}>>. Não funciona quando uma {GLOBAL.ProvinceConcept.Hyperlink} já foi alvo de um Cataclisma e depois se torna seu domínio."
 
 msgid "DLC@RISEFROMRUIN@TSR_FINISHER@TOOLTIP@HERALD2"
-msgstr "As long as you hold the artifacts, you become known as the Mender of the Fractured Age. From now on the <<m:{GLOBAL.DomainConcept.Hyperlink}>> of your {GLOBAL.EmpireConcept.Hyperlink} can no longer be targeted by <<m:{GLOBAL.CataclysmConcept.Hyperlink}>>. Does not work when a {GLOBAL.ProvinceConcept.Hyperlink} was already targeted by a Cataclysm and then becomes your domain."
+msgstr "Enquanto você possuir os artefatos, você será conhecido como o Consertador da Era Fraturada. A partir de agora, o <<m:{GLOBAL.DomainConcept.Hyperlink}>> do seu {GLOBAL.EmpireConcept.Hyperlink} não poderá mais ser alvo de <<m:{GLOBAL.CataclysmConcept.Hyperlink}>>. Não funciona quando uma {GLOBAL.ProvinceConcept.Hyperlink} já foi alvo de um Cataclisma e depois se torna seu domínio."
 
 msgid "DLC@RISEFROMRUIN@TSR_FINISHER@TOOLTIP@VICTORY_FORECAST"
-msgstr "Embracing the power of the Fractures will lead to an immediate {GLOBAL.CataclysmVictoryConcept.Hyperlink}."
+msgstr "Abrarçar o poder das Fraturas levará a uma vitória imediata de {GLOBAL.CataclysmVictoryConcept.Hyperlink}."
 
 msgid "DLC@RISEFROMRUIN@TSR_FINISHER@XP_BONUS@NAME"
-msgstr "Herald of the Fracturing"
+msgstr "Arauto do Fraturamento"
 
 msgid "DLC@RISEFROMRUIN@TSR_GWL@FRACTURED_RALLY@NAME"
-msgstr "Patron of the Undone"
+msgstr "Patrono do Desfeito"
 
 msgid "DLC@RISEFROMRUIN@TSR_GWL@NOMAD_RALLY@NAME"
-msgstr "Allies in the Desert"
+msgstr "Aliados no Deserto"
 
 msgid "DLC@RISEFROMRUIN@TSR_GWL@NOTIFICATION@GREAT_WORM_BACK@DESCRIPTION"
-msgstr "The Great Worm has returned! The Undone Nomads were telling the truth; it seems one of the daughters of the Great Mother survived the experiments of the Unmakers. Now she has offspring of her own, and they are all starving."
+msgstr "O Grande Verme retornou! Os Nômades Desfeitos estavam dizendo a verdade; parece que uma das filhas da Grande Mãe sobreviveu aos experimentos dos Desfazedores. Agora ela tem sua própria prole, e todos estão famintos."
 
 msgid "DLC@RISEFROMRUIN@TSR_GWL@NOTIFICATION@GREAT_WORM_BACK@HEADER"
-msgstr "Great Worm Lake: The Great Worm is alive!"
+msgstr "Lago do Grande Verme: O Grande Verme está vivo!"
 
 msgid "DLC@RISEFROMRUIN@TSR_GWL@OBJECTIVE_FINAL"
-msgstr "{TSR_INFESTATION_DESTROYED}/1 {GLOBAL.STRUCTURES.GREAT_WORM_INFESTATION.Hyperlink} Destroyed."
+msgstr "{TSR_INFESTATION_DESTROYED}/1 {GLOBAL.STRUCTURES.GREAT_WORM_INFESTATION.Hyperlink} Destruída."
 
 msgid "DLC@RISEFROMRUIN@TSR_GWL@SECTOR_TREMOR"
-msgstr " The sectors affected by the {GLOBAL.STRUCTURES.GREAT_WORM_INFESTATION.Hyperlink} will suffer {GLOBAL.PROPERTIES.TSR_RFR_GWL_WORM_PROPERTY.Hyperlink}."
+msgstr " Os setores afetados pela {GLOBAL.STRUCTURES.GREAT_WORM_INFESTATION.Hyperlink} sofrerão {GLOBAL.PROPERTIES.TSR_RFR_GWL_WORM_PROPERTY.Hyperlink}."
 
 msgid "DLC@RISEFROMRUIN@TSR_GWL@TOOLTIP_RALLY_FRACTURED"
-msgstr "The unit {GLOBAL.UNITS.FRACTURED_SCORPION.Hyperlink} will be recruitable through the [hyperlink,GLOBAL.RequestMilitaryAidConcept]Rally of the Lieges[/hyperlink]."
+msgstr "A unidade {GLOBAL.UNITS.FRACTURED_SCORPION.Hyperlink} poderá ser recrutada por meio do [hyperlink,GLOBAL.RequestMilitaryAidConcept]Rali dos Suseranos[/hyperlink]."
 
 msgid "DLC@RISEFROMRUIN@TSR_GWL@TOOLTIP_RALLY_NOMADS"
-msgstr "The unit {GLOBAL.UNITS.SAND_SCORPION.Hyperlink} will be recruitable through the [hyperlink,GLOBAL.RequestMilitaryAidConcept]Rally of the Lieges[/hyperlink]."
+msgstr "A unidade {GLOBAL.UNITS.SAND_SCORPION.Hyperlink} poderá ser recrutada por meio do [hyperlink,GLOBAL.RequestMilitaryAidConcept]Rali dos Suseranos[/hyperlink]."
 
 msgid "DLC@RISEFROMRUIN@TSR_GWL@TRIBE_NAME_01"
-msgstr "Marching Dune"
+msgstr "Duna Marchante"
 
 msgid "DLC@RISEFROMRUIN@TSR_GWL@TRIBE_NAME_02"
-msgstr "Kindred of the Heat"
+msgstr "Parentes do Calor"
 
 msgid "DLC@RISEFROMRUIN@TSR_GWL@TRIBE_NAME_03"
-msgstr "Bleeding Pincer"
+msgstr "Pinça Sangrenta"
 
 msgid "DLC@RISEFROMRUIN@TSR_GWL@TRIBE_NAME_04"
-msgstr "Whispered Trace"
+msgstr "Rastro Sussurrado"
 
 msgid "DLC@RISEFROMRUIN@TSR_GWL@TRIBE_NAME_05"
-msgstr "Raging Sands"
+msgstr "Arenas Furiosas"
 
 msgid "DLC@RISEFROMRUIN@TSR_GWL@TRIGGER@MEET_OTHERS"
-msgstr "The other faction will be willing to meet you."
+msgstr "A outra facção estará disposta a encontrá-lo."
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@ASCENDED_CHAMPION_NAME_01"
 msgstr "Okato^M"
@@ -56600,10 +56600,10 @@ msgid "DLC@RISEFROMRUIN@TSR_PH@ASCENDED_CHAMPION_NAME_06"
 msgstr "Marantho^M"
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@EVENT_TOOLTIP@EVOKER_FIGHT"
-msgstr "Phantasms from the days of {GLOBAL.TheFracturingLoreConcept.Hyperlink} will assault your troops. If you defeat them, you interrogate the {EventStackLeader}."
+msgstr "Fantasmagorias dos dias de {GLOBAL.TheFracturingLoreConcept.Hyperlink} atacarão suas tropas. Se você derrotá-las, interrogue o {EventStackLeader}."
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@EVENT_TOOLTIP@EVOKER_INTERROGATED"
-msgstr "You interrogate the {EventStackLeader}."
+msgstr "Você interroga o {EventStackLeader}."
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@EVENT_TOOLTIP@GOLEM_FIGHT"
 msgstr "Enter combat with the {EventAnimal} and <<o:EventAnimal>> wasteland creatures. If you defeat them, you salvage the <<m:{EventStackLeader}>>."
