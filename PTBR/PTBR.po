@@ -87818,10 +87818,10 @@ msgid "INTERFACE@STRATEGIC_MAP@RUINED_NODE@DESCRIPTION"
 msgstr "Nós Arruinados são <<m:{GLOBAL.NodeConcept.Hyperlink}>> que foram esgotados por supercolheita ou outros meios.[br/]Nós arruinados não fornecem mais renda ou bônus.[br/][br/]Nós Arruinados podem ser restaurados desde que você os tenha reclamado, restaurá-los custa {GLOBAL.ManaConcept.Hyperlink}, mas seu custo diminui a cada {GLOBAL.TurnConcept.Hyperlink} até que um custo mínimo seja atingido.[br/]Quando restaurados, os Nós Arruinados são substituídos por suas versões intactas que fornecem sua renda e bônus novamente."
 
 msgid "INTERFACE@STRATEGIC_MAP@RUINED_NODE@HYPERLINK"
-msgstr "[hyperlink,GLOBAL.RuinedNodeConcept]Ruined Node[/hyperlink]"
+msgstr "[hyperlink,GLOBAL.RuinedNodeConcept]Nó em Ruínas[/hyperlink]"
 
 msgid "INTERFACE@STRATEGIC_MAP@RUINED_NODE@NAME"
-msgstr "Ruined Node"
+msgstr "Nó em Ruínas"
 
 msgid "INTERFACE@STRATEGIC_MAP@SPELL_JAMMER_HYPERLINK"
 msgstr "[spelljammer/] [hyperlink,GLOBAL.SpellJammerConcept]Bloqueador de Feitiços[/hyperlink]"
@@ -88427,7 +88427,7 @@ msgid "INTERFACE@TEXT@CAPTURED_UNIT"
 msgstr "Esta unidade foi capturada pelo inimigo."
 
 msgid "INTERFACE@TEXT@CAPTURE_SETTLER"
-msgstr "Captured Settler"
+msgstr "Colono Capturado"
 
 msgid "INTERFACE@TEXT@CASTING_LIMIT"
 msgstr "Limite de Conjuração"
@@ -88718,7 +88718,7 @@ msgid "INTERFACE@TEXT@CITY_WALL_STRUCTURE_HYPERLINK"
 msgstr "[hyperlink,GLOBAL.CityWallStructureConcept]Estrutura de Muralha[/hyperlink]"
 
 msgid "INTERFACE@TEXT@CLAIM_CITYNAME"
-msgstr "Claim {STR_CityName}"
+msgstr "Reivindicar {STR_CityName}"
 
 msgid "INTERFACE@TEXT@CLASS@DEATH_KNIGHT"
 msgstr "Cavaleiro da Morte"
@@ -88886,7 +88886,7 @@ msgid "INTERFACE@TEXT@CONTINUE_ANYWAY"
 msgstr "Deseja continuar mesmo assim?"
 
 msgid "INTERFACE@TEXT@CONTINUE_SIEGE"
-msgstr "Continue Siege"
+msgstr "Continuar Cerco"
 
 msgid "INTERFACE@TEXT@CONTROLLER"
 msgstr "Controle"
@@ -88898,7 +88898,7 @@ msgid "INTERFACE@TEXT@COOLDOWNS_RESET"
 msgstr "Recargas redefinidas"
 
 msgid "INTERFACE@TEXT@COOLDOWNS_SET"
-msgstr "Cooldowns set"
+msgstr "Cooldowns definidos"
 
 msgid "INTERFACE@TEXT@COOLDOWN_TIME_REMAINING"
 msgstr "Tempo restante de recarga:"
@@ -88967,7 +88967,7 @@ msgid "INTERFACE@TEXT@CUSTOMIZE_REALM"
 msgstr "Personalizar Reino"
 
 msgid "INTERFACE@TEXT@CUSTOM_REGION_BUNDLE_SELECTION"
-msgstr "Handcrafted Region Selection"
+msgstr "Seleção de Região Personalizada"
 
 msgid "INTERFACE@TEXT@CUSTOM_REGION_BUNDLE_SELECTION_DESCRIPTION"
 msgstr "Os reinos são gerados usando 1 categoria de <<m:{GLOBAL.HandcraftedRegionConcept.Hyperlink}>>. Selecione quais categorias podem ser escolhidas aleatoriamente quando um reino é gerado."
@@ -89640,7 +89640,7 @@ msgid "INTERFACE@TEXT@HANDCRAFTED_REGION@HYPERLINK"
 msgstr "[hyperlink,GLOBAL.HandcraftedRegionConcept]Handcrafted Region[/hyperlink]"
 
 msgid "INTERFACE@TEXT@HANDCRAFTED_REGION@NAME"
-msgstr "Handcrafted Region"
+msgstr "Região Artesanal"
 
 msgid "INTERFACE@TEXT@HAPPINESS_DESCRIPTION"
 msgstr "Felicidade é usada como renda para o evento de felicidade. Felicidade positiva leva a um evento de felicidade. Felicidade negativa leva a distúrbios e revoltas."
@@ -90108,7 +90108,7 @@ msgid "INTERFACE@TEXT@KEYBOARD_MOUSE"
 msgstr "Teclado e Mouse"
 
 msgid "INTERFACE@TEXT@KILL_SETTLER"
-msgstr "Raze Settlers"
+msgstr "Destruir Colonos"
 
 msgid "INTERFACE@TEXT@KNOWLEDGE_SURPLUS"
 msgstr "Conhecimento {GLOBAL.SurplusConcept.Hyperlink}"
@@ -91888,7 +91888,7 @@ msgid "INTERFACE@TEXT@SWAP_STRUCTURE"
 msgstr "Alterar Melhoria da Província"
 
 msgid "INTERFACE@TEXT@SWATCHES"
-msgstr "Swatches"
+msgstr "Amostras"
 
 msgid "INTERFACE@TEXT@SWATCHES_CUSTOM"
 msgstr "Personalizado"
@@ -97495,16 +97495,16 @@ msgid "META_EMPIRE@PROGRESSION_ITEM@FOO_DOG_HELMET@NAME"
 msgstr "Elmo Guardião"
 
 msgid "META_EMPIRE@PROGRESSION_ITEM@FRACTURED_BODY_NAME"
-msgstr "Fractured Evoker Outfit"
+msgstr "Conjunto do Invocador Fracturado"
 
 msgid "META_EMPIRE@PROGRESSION_ITEM@FRACTURED_CAPE_NAME"
-msgstr "Fractured Evoker Cape"
+msgstr "Capa do Invocador Fracturado"
 
 msgid "META_EMPIRE@PROGRESSION_ITEM@FRACTURED_EAGLE_MOUNT@NAME"
-msgstr "Fractured Eagle Mount^n"
+msgstr "Montaria da Águia Fracturada^n"
 
 msgid "META_EMPIRE@PROGRESSION_ITEM@FRACTURED_HEAD_NAME"
-msgstr "Fractured Evoker Head"
+msgstr "Cabeça do Invocador Fracturado"
 
 msgid "META_EMPIRE@PROGRESSION_ITEM@FROST_ICON_NAME"
 msgstr "Ícone de Estandarte do Clã do Gelo"
@@ -98049,7 +98049,7 @@ msgid "META_EMPIRE@PROGRESSION_ITEM@ITEM_FORGE@STAFF_MAGI@NAME"
 msgstr "Cajado do Mago"
 
 msgid "META_EMPIRE@PROGRESSION_ITEM@ITEM_FORGE@STAFF_MANCATCHER@NAME"
-msgstr "Mancatcher Staff"
+msgstr "Cajado do Caçador de Homens"
 
 msgid "META_EMPIRE@PROGRESSION_ITEM@ITEM_FORGE@STAFF_RADIANCE@NAME"
 msgstr "Cajado do Esplendor"
@@ -98106,7 +98106,7 @@ msgid "META_EMPIRE@PROGRESSION_ITEM@LINDWORM_ICON_NAME"
 msgstr "Ícone de Estandarte de Lindorm"
 
 msgid "META_EMPIRE@PROGRESSION_ITEM@MOLECULE_ICON_NAME"
-msgstr "Molecule Banner Icon"
+msgstr "Ícone do Estandarte Molecular"
 
 msgid "META_EMPIRE@PROGRESSION_ITEM@MOUNT_DESCRIPTION"
 msgstr "Desbloqueia uma nova opção de personalização de Montaria para sua raça e governante."
@@ -98145,7 +98145,7 @@ msgid "META_EMPIRE@PROGRESSION_ITEM@ONI_MASK@NAME"
 msgstr "Máscara de Ogro"
 
 msgid "META_EMPIRE@PROGRESSION_ITEM@OUROBOROS_ICON_NAME"
-msgstr "Ouroboros Banner Icon"
+msgstr "Ícone do Estandarte Ouroboros"
 
 msgid "META_EMPIRE@PROGRESSION_ITEM@OUTFIT_DESCRIPTION"
 msgstr "Desbloqueia uma nova opção de personalização de Traje para Herói."
@@ -98325,7 +98325,7 @@ msgid "META_EMPIRE@PROGRESSION_ITEM@WAYS_OF_WAR@JADE_TIGER@NAME"
 msgstr "Tigre de Jade"
 
 msgid "META_EMPIRE@PROGRESSION_ITEM@WINDS_ICON_NAME"
-msgstr "Winds Banner icon"
+msgstr "Ícone do Estandarte dos Ventos"
 
 msgid "META_EMPIRE@PROGRESSION_ITEM@WIZARD_ICON_DESCRIPTION"
 msgstr "Desbloqueia um novo Ícone para usar como estandarte da sua facção."
@@ -99624,10 +99624,10 @@ msgid "NAMES_RACES@CULTURE_BARBARIAN@ADJECTIVE_4"
 msgstr "Agressivo^a"
 
 msgid "NAMES_RACES@CULTURE_BARBARIAN@ADJECTIVE_5"
-msgstr "Brutal^a"
+msgstr "Brutal"
 
 msgid "NAMES_RACES@CULTURE_BARBARIAN@ADJECTIVE_6"
-msgstr "Tribal^a"
+msgstr "Tribal"
 
 msgid "NAMES_RACES@CULTURE_BARBARIAN@NOUN_1"
 msgstr "Bárbaros"
@@ -99678,7 +99678,7 @@ msgid "NAMES_RACES@CULTURE_DARK@NOUN_5"
 msgstr "Senhores Supremos"
 
 msgid "NAMES_RACES@CULTURE_FEUDAL@ADJECTIVE_1"
-msgstr "Feudal^a"
+msgstr "Feudal"
 
 msgid "NAMES_RACES@CULTURE_FEUDAL@ADJECTIVE_2"
 msgstr "Honroso^a"
@@ -99870,7 +99870,7 @@ msgid "NAMES_RACES@FORM_GOBLINOID@ADJECTIVE_2"
 msgstr "Perniciosos^a"
 
 msgid "NAMES_RACES@FORM_GOBLINOID@ADJECTIVE_3"
-msgstr "Goblin^a"
+msgstr "Goblin"
 
 msgid "NAMES_RACES@FORM_GOBLINOID@ADJECTIVE_4"
 msgstr "Goblinoides^a"
@@ -104010,7 +104010,7 @@ msgid "SHAREDMODIFIERS_UNITPROPERTIES@KNOCK_BACK@DESCRIPTION"
 msgstr "O alvo é empurrado para trás em {Knockbackdistance} hex."
 
 msgid "SHAREDMODIFIERS_UNITPROPERTIES@KNOCK_BACK@NAME"
-msgstr "Knockback"
+msgstr "Empurrão"
 
 msgid "SHAREDMODIFIERS_UNITPROPERTIES@LIFE_SEED@DESCRIPTION"
 msgstr "Quando esta unidade morre, ela cura uma unidade do lado do conjurador em até {MaxDistance} hexes por {NumHitpointsToRestore} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>."
