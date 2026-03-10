@@ -8,6 +8,21 @@
 
 **Versão completa no GitHub:** <https://github.com/isyuricunha/age-of-wonders-4-traducao-portugues-brasileiro>
 
+Tradução do jogo Age of Wonders 4 para Português Brasileiro.
+
+-> Ative o MOD no Launcher da Paradox; No jogo, mude o idioma para Português Brasileiro.
+-> Atualizado para DLC do Deserto.
+
+Links:
+Nexus Mods: https://www.nexusmods.com/ageofwonders4/mods/124
+GitHub: https://github.com/isyuricunha/age-of-wonders-4-traducao-portugues-brasileiro
+Paradox: https://mods.paradoxplaza.com/mods/133369/Any/?version=
+Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3657814946
+Comunidade do Discord: https://discord.com/invite/aYbWBr4
+
+
+Se você gostou desta tradução e quer apoiar o trabalho, considere fazer uma doação via PIX para: pix@yuricunha.com
+
 Este repositório contém uma tradução completa para português brasileiro do jogo Age of Wonders 4. Se você quer apenas instalar e jogar com a tradução pronta, siga as instruções abaixo. Se você é do tipo que gosta de fuçar e quer traduzir por conta própria, há uma seção separada no final explicando como usar o script `mo_convert.py` para facilitar o processo.
 
 Este guia é feito para novatos em computadores, então vamos passo a passo, devagar e explicando tudo direitinho.
