@@ -194,8 +194,17 @@ jobs:
         id: changelog
         shell: bash
         run: |
-          # Sanitize for NexusMods: Remove images, HTML tags, and clean extra newlines
-          content=$(cat release_body.md | sed -E 's/!\[.*\]\(.*\)//g' | sed -E 's/<[^>]*>//g' | sed -E 's/^[[:space:]]+//' | tr -s '\n')
+          # 1. Strip Markdown images and links (keeping link text)
+          content=$(sed -E 's/!\[.*\]\(.*\)//g' release_body.md | sed -E 's/\[([^]]*)\]\([^)]*\)/\1/g')
+          
+          # 2. Strip HTML tags and Markdown headers
+          content=$(echo "$content" | sed -E 's/<[^>]*>//g' | sed -E 's/^#+ //g')
+          
+          # 3. Strip emojis and non-ASCII characters (CRITICAL for 500 errors)
+          content=$(echo "$content" | tr -cd '\11\12\15\40-\176')
+          
+          # 4. Trim whitespace and multiple newlines
+          content=$(echo "$content" | sed -E 's/^[[:space:]]+//' | tr -s '\n')
           
           echo "body<<EOF" >> "$GITHUB_OUTPUT"
           echo "$content" >> "$GITHUB_OUTPUT"
