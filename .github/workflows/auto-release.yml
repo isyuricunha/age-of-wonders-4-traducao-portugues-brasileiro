@@ -29,12 +29,13 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          if [[ "${GITHUB_EVENT_NAME}" == "workflow_dispatch" ]]; then
-            # For manual testing, use a default tag or allow input
-            echo "tag_name=test-release-$(date +%Y%m%d%H%M%S)" >> "$GITHUB_OUTPUT"
+            tag="test-release-$(date +%Y%m%d%H%M%S)"
+            echo "tag_name=${tag}" >> "$GITHUB_OUTPUT"
+            echo "version_number=${tag#v}" >> "$GITHUB_OUTPUT"
           elif [[ "${GITHUB_REF:-}" == refs/tags/* ]]; then
             # For tag pushes, use the actual tag name
             echo "tag_name=${GITHUB_REF_NAME}" >> "$GITHUB_OUTPUT"
+            echo "version_number=${GITHUB_REF_NAME#v}" >> "$GITHUB_OUTPUT"
           else
             # For branch pushes, generate a version tag automatically
             # Get the latest tag and increment version
@@ -55,6 +56,7 @@ jobs:
             fi
 
             echo "tag_name=${new_tag}" >> "$GITHUB_OUTPUT"
+            echo "version_number=${new_tag#v}" >> "$GITHUB_OUTPUT"
           fi
 
       - name: create and push tag
@@ -191,7 +193,9 @@ jobs:
         id: changelog
         shell: bash
         run: |
-          content=$(cat release_body.md)
+          # Sanitize for NexusMods: Remove images, HTML tags, and clean extra newlines
+          content=$(cat release_body.md | sed -E 's/!\[.*\]\(.*\)//g' | sed -E 's/<[^>]*>//g' | sed -E 's/^[[:space:]]+//' | tr -s '\n')
+          
           echo "body<<EOF" >> "$GITHUB_OUTPUT"
           echo "$content" >> "$GITHUB_OUTPUT"
           echo "EOF" >> "$GITHUB_OUTPUT"
@@ -202,7 +206,7 @@ jobs:
           api_key: ${{ secrets.NEXUSMODS_API_KEY }}
           file_group_id: ${{ vars.NEXUSMODS_FILE_GROUP_ID }}
           filename: ${{ steps.find_zip.outputs.zip_path }}
-          version: ${{ steps.set_tag.outputs.tag_name }}
+          version: ${{ steps.set_tag.outputs.version_number }}
           file_category: main
           display_name: "PTBR"
           description: ${{ steps.changelog.outputs.body }}
