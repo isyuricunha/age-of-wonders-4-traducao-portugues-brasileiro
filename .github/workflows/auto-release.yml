@@ -187,6 +187,15 @@ jobs:
           fi
           echo "zip_path=$zip_file" >> "$GITHUB_OUTPUT"
 
+      - name: Read changelog
+        id: changelog
+        shell: bash
+        run: |
+          content=$(cat release_body.md)
+          echo "body<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$content" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
+
       - name: Upload to NexusMods
         uses: Nexus-Mods/upload-action@v1.0.0-beta.4
         with:
@@ -196,4 +205,4 @@ jobs:
           version: ${{ steps.set_tag.outputs.tag_name }}
           file_category: main
           display_name: "PTBR"
-          description: "Confira o changelog completo no GitHub: ${{ github.server_url }}/${{ github.repository }}/releases/tag/${{ steps.set_tag.outputs.tag_name }}"
+          description: ${{ steps.changelog.outputs.body }}
