@@ -29,6 +29,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+          if [[ "${GITHUB_EVENT_NAME}" == "workflow_dispatch" ]]; then
             tag="test-release-$(date +%Y%m%d%H%M%S)"
             echo "tag_name=${tag}" >> "$GITHUB_OUTPUT"
             echo "version_number=${tag#v}" >> "$GITHUB_OUTPUT"
