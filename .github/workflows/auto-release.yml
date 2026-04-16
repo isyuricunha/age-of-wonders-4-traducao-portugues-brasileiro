@@ -181,3 +181,25 @@ jobs:
               gh release create "$current_tag" --title "$title" --notes-file "${{ steps.release_notes.outputs.body_file }}"
             fi
           fi
+
+      - name: Find zip file
+        id: find_zip
+        shell: bash
+        run: |
+          zip_file=$(ls *.zip | head -n 1)
+          if [ -z "$zip_file" ]; then
+            echo "No zip file found to upload to NexusMods"
+            exit 1
+          fi
+          echo "zip_path=$zip_file" >> "$GITHUB_OUTPUT"
+
+      - name: Upload to NexusMods
+        uses: Nexus-Mods/upload-action@v1
+        with:
+          api_key: ${{ secrets.NEXUSMODS_API_KEY }}
+          file_group_id: ${{ vars.NEXUSMODS_FILE_GROUP_ID }}
+          filename: ${{ steps.find_zip.outputs.zip_path }}
+          version: ${{ steps.set_tag.outputs.tag_name }}
+          file_category: main
+          display_name: "PTBR"
+          description: "Confira o changelog completo no GitHub: ${{ github.server_url }}/${{ github.repository }}/releases/tag/${{ steps.set_tag.outputs.tag_name }}"
