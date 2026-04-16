@@ -81,14 +81,8 @@ jobs:
       # DO MY BUILD HERE
       # IN CASE OF FAILURE, THE STEP BELOW WILL NOT RUN.
 
-      - name: validate release token
-        env:
-          release_token: ${{ secrets.RELEASE_TOKEN }}
-        run: |
-          if [ -z "$release_token" ]; then
-            echo "RELEASE_TOKEN secret is not set. Create a classic PAT with repo scope and add it as a GitHub Actions secret named RELEASE_TOKEN."
-            exit 1
-          fi
+      # DO MY BUILD HERE
+      # IN CASE OF FAILURE, THE STEP BELOW WILL NOT RUN.
 
       - name: generate release notes
         id: release_notes
@@ -158,7 +152,7 @@ jobs:
 
       - name: create github release
         env:
-          GH_TOKEN: ${{ secrets.RELEASE_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         shell: bash
         run: |
           set -euo pipefail
