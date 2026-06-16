@@ -1,3 +1,52 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+""
+
+msgid "@@@@@@@@@@@@@@@@@@@@"
+msgstr "@@@@"
+
+msgid "@@@@@@@@@@@@@@@@@@@@@@@"
+msgstr "@@@@@@@"
+
+msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
+msgstr "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
+
+msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
+msgstr "@@@@@@@@@@@@@@@@@"
+
+msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
+msgstr "@@@@@@@@@@@@"
+
+msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
+msgstr "@@@@@@"
+
+msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
+msgstr "@@@@@@@@@@@@@@@@@@@@@@"
+
+msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
+msgstr "@@@@@@@@@@@@@@@@@@@@@@@@@@@"
+
+msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
+msgstr "@@@@@@@"
+
+msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
+msgstr "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
+
+msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
+msgstr "@@@@@@"
+
+msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
+msgstr "@@@@@@@@@@@@"
+
+msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
+msgstr "@@@@@@@@@@@@@@@@@"
+
+msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
+msgstr "@@@@@@@@@@"
+
+msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
+msgstr "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
+
 msgid "ABILITIES@ACTIVE_ABILITY_TOUCH@RELOAD_NAME"
 msgstr "Recarregar"
 
@@ -17955,24 +18004,6 @@ msgstr "Os seguintes modificadores serão removidos:[br/]{STR_modifiers}[br/]Neg
 msgid "DIPLOMATICSTATES_DEFINITIONS@TRADE_MODIFIER_DISLIKE@NAME"
 msgstr "Superar Desagrados"
 
-msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-
-msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@@@"
-
-msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-
-msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@@@"
-
-msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@@@@@@@@@@@@@@@@@@@"
-
-msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@@@@@@@@@"
-
 msgid "DLC@ARCHMAGE@DESCRIPTION"
 msgstr "Bônus do Passe de Expansão"
 
@@ -26420,9 +26451,6 @@ msgstr "Libera um raio mágico contra um inimigo alvo. Um inimigo adicional dent
 msgid "DLC@COSMICWANDERER@WEAPON02@NAME"
 msgstr "Orbe do Viajante Distante"
 
-msgid "@@@@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@@@@"
-
 msgid "DLC@DLC@PRIMALFURY@SUBCULTURE_PRIMAL@WOLF@NAME"
 msgstr "Lobo Silvestre"
 
@@ -28933,9 +28961,6 @@ msgstr "Unidade tem {MINOR_FACTION_AFFINITY>ATTRIBUTES>Value} de {MINOR_FACTION_
 
 msgid "DLC@DRAGONLORDS@WINGLENGTH"
 msgstr "Comprimento das Asas"
-
-msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@@@@@@@"
 
 msgid "DLC@ELDRITCHREALMS@CITYDEFINITIONS_STRATEGIC@BEACON@DESCRIPTION"
 msgstr "Um {GLOBAL.ArmyConcept.Hyperlink} pode construir um {GLOBAL.SanctuaryOutpostConcept.Hyperlink} em uma {GLOBAL.ProvinceConcept.Hyperlink}. Protegendo unidades de {GLOBAL.PROPERTIES.SHADOW_SICKNESS.Hyperlink} e permitindo a anexação de <<m:{GLOBAL.ProvinceConcept.Hyperlink}>> próximas."
@@ -36551,12 +36576,6 @@ msgstr "No início de cada turno:[bulletlist][bullet/]A unidade vinculada:[bulle
 msgid "DLC@ELDRITCHREALMS@WILDLIFE@WILLTHIEF@ABILITY01@PROP_NAME"
 msgstr "Drenagem Umbral"
 
-msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@@@@@@@@@@@@@@"
-
-msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@@@@@@@@@@@@@@"
-
 msgid "DLC@EMPIRESANDASHES@ADVENTURESET@SILVERKNIGHT@HERO@FIRSTNAME"
 msgstr "Cavaleiro de Prata"
 
@@ -42349,9 +42368,6 @@ msgstr "Selos estão presentes neste reino. Capturá-los levará a uma {GLOBAL.S
 
 msgid "DLC@EMPIRESANDASHES@WORLD_TRAIT@SEALS_VICTORY@SCARCE@NAME"
 msgstr "Selos Mundiais (Escassos)"
-
-msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
 
 msgid "DLC@EXPANSIONPASS@DISPLAYNAME"
 msgstr "Passe de Expansão"
@@ -49475,9 +49491,6 @@ msgstr "<<m:GLOBAL.LeaderConcept.Hyperlink>> começa com:[bulletlist][bullet/]<<
 msgid "DLC@GIANTKINGS@WEAPON@STORM_RITUALIST_OBELISK@DESCRIPTION"
 msgstr "<<m:GLOBAL.LeaderConcept.Hyperlink>> começa com:[bulletlist][bullet/]<<m:GLOBAL.HeroClassRitualist.Hyperlink>>[bullet/]Um <<m:GLOBAL.EQUIPMENT.STORM_OBELISK.Hyperlink>>, uma arma mágica à distância que causa metade do seu dano a inimigos adjacentes.[/bulletlist]"
 
-msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@@@@@@@@@"
-
 msgid "DLC@HERALDOFGLORY@DESCRIPTION"
 msgstr "Arauto da Glória"
 
@@ -49550,42 +49563,6 @@ msgstr "Lança da Glória"
 msgid "DLC@HERALDOFGLORY@WEAPON@PEGASUS_MOUNT"
 msgstr "Montaria Pegasus^n"
 
-msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@@@@"
-
-msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-
-msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-
-msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-
-msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-
-msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-
-msgid "@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@"
-
-msgid "@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@"
-
-msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@@@"
-
-msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@@@"
-
-msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@@@@@@@@@@@@@@"
-
-msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@@@@@@@@@@@@@@"
-
 msgid "DLC@INFLUENCER@DESCRIPTION"
 msgstr "Conteúdo de Influenciador"
 
@@ -49594,9 +49571,6 @@ msgstr "Age of Wonders 4: Conteúdo de Influenciador"
 
 msgid "DLC@INFLUENCER@DISPLAYNAME_PC"
 msgstr "Age of Wonders 4: Conteúdo de Influenciador (PC)"
-
-msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
 
 msgid "DLC@PREORDER@DESCRIPTION"
 msgstr "Pacote de Conteúdo de Pré-Pedido"
@@ -57552,15 +57526,6 @@ msgstr "Engolir Inteiro"
 
 msgid "DLC@RISEFROMRUIN@WONDER_PROPERTY@TSR_SOE@NAME"
 msgstr "Deficiência de Mana"
-
-msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@@@"
-
-msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-
-msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-msgstr "@@@@@@"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@@ESSENCE_GRACE@SKIN_OWLKIN@BIO"
 msgstr "Aves de rapina de olhos arregalados que incham suas penas quando ameaçadas. Seus gritos sinalizam reverência ou angústia."
