@@ -2,7 +2,7 @@
 
 ## Introdução
 
-**Participe da comunidade no Discord:** <https://discord.com/invite/aYbWBr4>
+**Participe da comunidade no Discord:** <https://discord.gg/uFEwSMwUYb>
 
 **Baixe a tradução no Nexus Mods:** <https://www.nexusmods.com/ageofwonders4/mods/124>
 
