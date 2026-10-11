@@ -89,6 +89,10 @@ replaced strings get flagged for revision.
 - Covenant = Aliança (the Godir alliance in the campaign).
 - Blight = Calamidade (existing choice: Blight Blast = Explosão de
   Calamidade, Blight Bolts = Raios de Calamidade).
+- Epithet article rule: contracted article when the epithet refers to a
+  specific or conceptual thing ("Tecelão da Luz", "Portador da Guerra",
+  "Tecelão do Destino"); plain "de" for material, composition or generic
+  plurals ("Martelo de Ouro", "Ceifador de Vidas", "Ladrão de Reis").
 - Willbreaker = Quebra-Ânimo everywhere (the Chaos epithet
   "Esmagador de Vontades" is superseded by this).
 - Gender construct: EN "the <<Hero{A^z/B^z}>>" renders in PT as
