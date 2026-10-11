@@ -1,2 +1,5 @@
 __pycache__/
 .env
+# Translation overhaul working files
+translation-work.json
+batches/

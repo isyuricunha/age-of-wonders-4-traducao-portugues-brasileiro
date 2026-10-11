@@ -1,0 +1,86 @@
+# Age of Wonders 4 PT-BR Glossary
+
+Living standardization record for the translation overhaul. Entries are
+string-level: the English term as it appears in game text, the fixed PT-BR
+rendering, and a note when the choice needs context. Older decisions win over
+newer ones; a new term only replaces an old choice when clearly better, and
+replaced strings get flagged for revision.
+
+## Campaign and scenario names
+
+- Rise of the Godir = Ascensão dos Godir
+- Empires and Ashes = Impérios e Cinzas
+- Eldritch Realms = Reinos Arcanos
+- Archon Prophecy = Profecia do Arcon
+- Thrones of Blood = Tronos de Sangue
+- Secrets of the Archmages = Segredos dos Arquimagos
+- Valley of Wonders = Vale das Maravilhas
+- The Enchanted Archipelago = Arquipélago Encantado (no article)
+- Crimson Caldera = Caldeira Carmesim
+- The Eternal Court = A Corte Eterna
+- Freed Lands of Manuhari = Terras Livres de Manuhari
+- Sehiran Oasis = Oásis de Sehiran
+- The Azh'Ruun Pit = O Poço Azh'Ruun
+- Burrow Downs = Burrow Downs (place name, kept)
+- Rings of Emnora = Anéis de Emnora
+- Cliffs of Sordünn = Penhascos de Sordünn
+- Tharru'Cath, Arcalot, Grexolis, Evermore = kept as proper nouns
+
+## People and titles
+
+- Godir = Godir
+- Wizard King = Rei-Feiticeiro
+- Arch Mage = Arquimago (no hyphen; one word)
+- Lord of Chaos = Suserano do Caos
+- Eternal Lord = Suserano Eterno
+- Dragon Lord = Suserano Dragão
+- Giant King = Rei Gigante
+- Elder Vampire = Vampiro Ancião
+- Eldritch Sovereign = Soberano Arcano
+- Ruler = Governante
+- Liege = Suserano; Rally of the Lieges = Ajuntamento dos Suseranos
+- Wizards of Evermore = Feiticeiros de Evermore
+- Champion = Campeão; Ranger = Patrulheiro
+
+## Races and units
+
+- Halfling = Halfling; Owlkin = Owlkin; Harefolk = Harefolk; Naga = Naga
+- Dark Goblins = Goblins Negros; Righteous Orcs = Orcs Justos
+- Ironclad = Blindado
+- Endailon = Endailon
+- Decaying Zombie concept stays behind its {GLOBAL.UNITS.DECAYING_ZOMBIE.Hyperlink} token
+
+## Magic and empire concepts
+
+- Tome = Tomo (the magic books; never "Tome" in PT text)
+- Affinity = Afinidade; the six: Ordem, Caos, Astral, Materium, Natureza, Sombra
+- Imperium = Imperium (kept)
+- Allegiance = Lealdade
+- Happening = Evento (Intrigue Happening = Evento de Intriga)
+- Throne City = Cidade do Trono
+- Free City = Cidade Livre
+- Ancient Wonder = Maravilha Ancestral
+- Tier = Nível (Tier V = Nível V)
+- Grievances = Agravos
+- Major/Minor Transformation = Transformação Maior/Menor
+- Major/Minor Ambitions = Ambições Maiores e Menores
+- Graze = Raspão (Graze Tactics = Táticas de Raspão)
+- Ironclad Ammunition = Munição
+
+## Style rules
+
+- Achievement/quest descriptions: imperative mood ("Vença...", never
+  infinitive "Vencer...").
+- Trailing punctuation mirrors the English string exactly (no added period
+  when EN has none; titles never take one).
+- Gender: prefer neutral phrasing for achievement titles and ruler-facing
+  text ("Purificação", "Sob Juramento", "Com o Favor dos Espíritos",
+  "pereceu" instead of "foi morto"); when neutrality is impossible, both
+  forms must read correctly.
+- Hyphens: ASCII hyphen only (U+002D); replace U+2011 non-breaking hyphens
+  found in the old text.
+- Race names coined by the game (Owlkin, Harefolk) stay in English; common
+  nouns (Goblins, Orcs, Dwarves) translate.
+- Obsidian Dragon = Dragão de Obsidiana (standard mineral name).
+- Insectoid = Insetoide (no hyphen, post-reform spelling).
+- Devotion Paragon level = nível de Devoção Exemplar.
