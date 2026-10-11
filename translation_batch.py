@@ -23,10 +23,19 @@ BATCH_SIZE = 500
 
 # Inline markup, icons and format variables: {x}, [tag], [/tag], [icon/], %s...
 TOKEN_RE = re.compile(r"\{[^{}]*\}|\[[^\[\]]*\]|%[a-zA-Z@#0-9.]+")
+# Gender-switch construct: article may live inside, content translates freely
+HERO_RE = re.compile(r"<<Hero\{[^{}]*\}>>")
+# Other <<...>> constructs (<<m:{CONCEPT}>> links): content must match exactly
+LINK_RE = re.compile(r"<<[^<>]*>>")
 
 
 def tokens(text: str) -> list[str]:
-    return sorted(TOKEN_RE.findall(text))
+    out = ["<<Hero>>"] * len(HERO_RE.findall(text))
+    rest = HERO_RE.sub(" ", text)
+    out += LINK_RE.findall(rest)
+    rest = LINK_RE.sub(" ", rest)
+    out += TOKEN_RE.findall(rest)
+    return sorted(out)
 
 
 def load_work() -> dict:
