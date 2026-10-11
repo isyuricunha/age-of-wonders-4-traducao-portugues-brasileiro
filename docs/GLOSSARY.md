@@ -11,7 +11,7 @@ replaced strings get flagged for revision.
 - Rise of the Godir = Ascensão dos Godir
 - Empires and Ashes = Impérios e Cinzas
 - Eldritch Realms = Reinos Arcanos
-- Archon Prophecy = Profecia do Arcon
+- Archon Prophecy = Profecia do Arconte (never "Profecia do Arcon").
 - Thrones of Blood = Tronos de Sangue
 - Secrets of the Archmages = Segredos dos Arquimagos
 - Valley of Wonders = Vale das Maravilhas

@@ -24,7 +24,7 @@ BATCH_SIZE = 500
 # Inline markup, icons and format variables: {x}, [tag], [/tag], [icon/], %s...
 TOKEN_RE = re.compile(r"\{[^{}]*\}|\[[^\[\]]*\]|%[a-zA-Z@#0-9.]+")
 # Gender-switch construct: article may live inside, content translates freely
-HERO_RE = re.compile(r"<<Hero\{[^{}]*\}>>")
+HERO_RE = re.compile(r"<<[A-Za-z]+\{[^{}]*\}>>")
 # Other <<...>> constructs (<<m:{CONCEPT}>> links): content must match exactly
 LINK_RE = re.compile(r"<<[^<>]*>>")
 
