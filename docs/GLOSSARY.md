@@ -84,3 +84,18 @@ replaced strings get flagged for revision.
 - Obsidian Dragon = Dragão de Obsidiana (standard mineral name).
 - Insectoid = Insetoide (no hyphen, post-reform spelling).
 - Devotion Paragon level = nível de Devoção Exemplar.
+- Archon = Arconte (never "Arcanjo"; that is a different being).
+- Seal = Selo (Seals Victory = Vitória dos Selos; never "sela").
+- Covenant = Aliança (the Godir alliance in the campaign).
+- Blight = Calamidade (existing choice: Blight Blast = Explosão de
+  Calamidade, Blight Bolts = Raios de Calamidade).
+- Willbreaker = Quebra-Ânimo everywhere (the Chaos epithet
+  "Esmagador de Vontades" is superseded by this).
+- Gender construct: EN "the <<Hero{A^z/B^z}>>" renders in PT as
+  "<<Hero{o A^z/a B^z}>>": the article goes INSIDE the alternation so
+  the game picks the matching form; "o/a" outside is wrong.
+- Hero epithets without the construct keep the masculine default with
+  lowercase article ("o Inanimado^z"): documented exception; the game
+  offers no other gender hook for fixed strings.
+- "halfling" is lowercase in prose; race compound titles capitalize as
+  in the RACE_*@NAME keys.
