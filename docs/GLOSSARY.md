@@ -108,6 +108,9 @@ replaced strings get flagged for revision.
 - Hero epithets without the construct keep the masculine default with
   lowercase article ("o Inanimado^z"): documented exception; the game
   offers no other gender hook for fixed strings.
+- The Pit / Azh'Ruun Pit / the Pit of eternal torment = "o Abismo" /
+  "Abismo Azh'Ruun" / "um abismo de tormento eterno" (Yuri's choice;
+  never "Fossa" or "Poço"). A literal molten pit stays lowercase "fossa".
 - "halfling" is lowercase in prose; race compound titles capitalize as
   in the RACE_*@NAME keys.
 - Sabertooth creature family (Ash Sabertooth etc.) = "Dente-de-Sabre de
