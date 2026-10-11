@@ -25,9 +25,9 @@ BATCH_SIZE = 500
 TOKEN_RE = re.compile(r"\{[^{}]*\}|\[[^\[\]]*\]|%[a-zA-Z@#0-9.]+")
 # Gender-switch construct: article may live inside, content translates freely
 HERO_RE = re.compile(r"<<[A-Za-z]+\{[^{}]*\}>>")
-# Grammar-switch construct (<<G:word^flags,Token>>): token part is fixed,
-# the display word translates freely
-G_RE = re.compile(r"<<G:[^<>]*>>")
+# Grammar-switch construct (<<G:word^flags,Token>> family: G, ge, Cge):
+# token part is fixed, the display word translates freely
+G_RE = re.compile(r"<<[Cc]?[Gg]e?:[^<>]*>>")
 # Other <<...>> constructs (<<m:{CONCEPT}>> links): content must match exactly
 LINK_RE = re.compile(r"<<[^<>]*>>")
 
