@@ -1,0 +1,19 @@
+{
+ "INTERFACE@EXTERNAL_EVENT@YOU_LOST_THE_CITY": "{City} perdida",
+ "INTERFACE@GENERIC@INDEPENDENT_VASSAL": "Cidade Vassala",
+ "INTERFACE@GROWN_COLONY@HAPPINESS": "[happiness/] [hyperlink,GLOBAL.CityStabilityConcept]{Happiness}[/hyperlink]",
+ "INTERFACE@HERO@NEXT_SIGNATURE_SKILL": "Desbloqueia Habilidade Marcante no nível: {level}[br/][br/]Aprender uma Habilidade Marcante concede 1 Ponto de Habilidade.",
+ "INTERFACE@HERO@RENOWN@DESCRIPTION": "Alguma descrição sobre o que é o renome",
+ "INTERFACE@HERO@SATIATED@DESCRIPTION": "Esta unidade está carregada de energia ao devorar um {GLOBAL.HeroConcept.Hyperlink}. Não poderá fazer isso novamente até que isso expire.",
+ "INTERFACE@HERO_AMBITION_COMPLETED@NOTIFY_LOG@SETTING": "[white]Nome do Herói[/white] completou uma Ambição Maior",
+ "INTERFACE@HERO_CRYPT_EVENT@NOTIFY_LOG@SETTING": "Restos de [white]Nome do Herói[/white] foram coletados",
+ "INTERFACE@HERO_PRISON_EVENT@NOTIFY_LOG": "{Hero.Name} agora está na prisão",
+ "INTERFACE@HERO_PRISON_EVENT@NOTIFY_LOG@SETTING": "[white]Nome do Herói[/white] agora está na prisão",
+ "INTERFACE@HERO_RECRUITABLE_EVENT@NOTIFY_LOG@SETTING": "[white]Nome do Herói[/white] agora está disponível para recrutar",
+ "INTERFACE@HERO_RELEASED_FROM_PRISON_EVENT@NOTIFY_LOG": "{Hero.Name} saiu da prisão",
+ "INTERFACE@HERO_RELEASED_FROM_PRISON_EVENT@NOTIFY_LOG@SETTING": "[white]Nome do Herói[/white] saiu da prisão",
+ "INTERFACE@HOUSE_LORD_EVENT@ARISEN_HEADER": "Um novo {Hero.Title} surgiu",
+ "INTERFACE@HOUSE_LORD_EVENT@DIED_HEADER": "{Hero.Title} Caído",
+ "INTERFACE@HUD_GENERAL_INFO@ARMOR_DESCRIPTION": "Defesa reduz o dano de ataques {GLOBAL.MeleeConcept.Hyperlink} e {GLOBAL.RangedConcept.Hyperlink}.",
+ "INTERFACE@ISO3166@CZ": "Chéquia"
+}
