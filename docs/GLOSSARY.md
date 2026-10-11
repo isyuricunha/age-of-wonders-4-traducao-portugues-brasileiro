@@ -110,3 +110,12 @@ replaced strings get flagged for revision.
   offers no other gender hook for fixed strings.
 - "halfling" is lowercase in prose; race compound titles capitalize as
   in the RACE_*@NAME keys.
+- Sabertooth creature family (Ash Sabertooth etc.) = "Dente-de-Sabre de
+  Cinzas" etc., following PT-BR order like "tigre dente-de-sabre";
+  never "Sabre-dente" (backwards calque of the English).
+- "Stonestele" (Primal culture structure) = "Menir"; never "Estela de
+  Pedra" (correct dictionary word, but opaque in a game UI) or
+  "Stonesteel" (garbage).
+- The `<<m:word>>` construct is a closed game key: the word inside is
+  never translated and must stay verbatim ("<<m:stack>>"); only the
+  `<<G:word>>` family renders free display text that gets translated.
