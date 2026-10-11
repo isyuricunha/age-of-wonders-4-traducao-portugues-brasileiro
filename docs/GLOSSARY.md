@@ -12,6 +12,8 @@ replaced strings get flagged for revision.
 - Empires and Ashes = Impérios e Cinzas
 - Eldritch Realms = Reinos Arcanos
 - Archon Prophecy = Profecia do Arconte (never "Profecia do Arcon").
+- Tome of the Archon = Tomo do Arconte (never "Tomo do Arcan").
+- Cosmic Wanderer = Andarilho Cósmico (title, DLC name and staff share it).
 - Thrones of Blood = Tronos de Sangue
 - Secrets of the Archmages = Segredos dos Arquimagos
 - Valley of Wonders = Vale das Maravilhas
