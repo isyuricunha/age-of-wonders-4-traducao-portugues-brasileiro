@@ -90,6 +90,12 @@ def cmd_merge(n: int) -> None:
     for k, pt in zip(batch_keys, pts):
         work[k]["pt"] = work[k]["pt_old"] if pt == "<old>" else pt
     save_work(work)
+    hist_dir = BATCH_DIR / "history"
+    hist_dir.mkdir(exist_ok=True)
+    hist = {k: work[k]["pt"] for k in batch_keys if work[k]["pt"] != work[k]["pt_old"]}
+    (hist_dir / f"batch-{n:03d}.json").write_text(
+        json.dumps(hist, ensure_ascii=False, indent=1), encoding="utf-8"
+    )
     path.unlink()
     filled = sum(1 for v in work.values() if v["pt"])
     print(f"batch {n:03d} merged: {len(batch_keys)} strings | progress {filled}/{len(work)}")

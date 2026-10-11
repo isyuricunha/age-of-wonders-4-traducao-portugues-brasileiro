@@ -1,5 +1,6 @@
 __pycache__/
 .env
-# Translation overhaul working files
+# Translation overhaul working files (history/ IS versioned: it holds the
+# resolved decisions of each batch)
 translation-work.json
-batches/
+/batches/*.json
