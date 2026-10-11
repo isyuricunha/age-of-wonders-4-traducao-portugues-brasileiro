@@ -11,6 +11,11 @@ replaced strings get flagged for revision.
 - Rise of the Godir = Ascensão dos Godir
 - Empires and Ashes = Impérios e Cinzas
 - Eldritch Realms = Reinos Arcanos
+- Gloom = Penumbra; Gloom Terrain = Terreno Penumbroso; Gloom Tear = Fenda da Penumbra (never "Sombras" or "Lágrima": collides with Shadow).
+- Umbral Malady = Moléstia Umbral (never "Maldição Umbral").
+- Thrall = Servo everywhere; Umbral Thralls = Servos Umbriais; Enthralled state = Escravizado.
+- Leana's Draw = Sorte de Leana (constellation).
+- Invading Sylviculture = Silvicultura Invasora (never "Sylvicultura").
 - Archon Prophecy = Profecia do Arconte (never "Profecia do Arcon").
 - Tome of the Archon = Tomo do Arconte (never "Tomo do Arcan").
 - Cosmic Wanderer = Andarilho Cósmico (title, DLC name and staff share it).
