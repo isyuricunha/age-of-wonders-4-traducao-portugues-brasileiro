@@ -122,3 +122,6 @@ replaced strings get flagged for revision.
 - The `<<m:word>>` construct is a closed game key: the word inside is
   never translated and must stay verbatim ("<<m:stack>>"); only the
   `<<G:word>>` family renders free display text that gets translated.
+
+## Demonkin
+- **Demonkin = Demonídeo.** Neologismo por analogia com os -ídeos taxonômicos reais (hominídeo, canídeo, felídeo); não está em dicionário. Decisão do usuário (2026-10-11): manter, preserva o matiz de "povo descendente de demônios". Não trocar por "demônio" ou "demoníaco" nos nomes de raça.
