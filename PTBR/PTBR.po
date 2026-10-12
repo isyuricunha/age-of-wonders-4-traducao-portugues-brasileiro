@@ -15798,19 +15798,19 @@ msgid "DIPLOMACY@MORALE_DESCRIPTION@VERY_LOW"
 msgstr "A unidade está desesperada e à beira do colapso.[br/][br/]Efeitos:[bulletlist][bullet/]Chance de Falha: {fumbleChance}%.[/bulletlist]"
 
 msgid "DIPLOMACY@MORALE_NAME@HIGH"
-msgstr "Alto"
+msgstr "Alta"
 
 msgid "DIPLOMACY@MORALE_NAME@LOW"
-msgstr "Baixo"
+msgstr "Baixa"
 
 msgid "DIPLOMACY@MORALE_NAME@NORMAL"
-msgstr "Neutro"
+msgstr "Neutra"
 
 msgid "DIPLOMACY@MORALE_NAME@ROUTING"
 msgstr "Retirada"
 
 msgid "DIPLOMACY@MORALE_NAME@VERY_LOW"
-msgstr "Muito Baixo"
+msgstr "Muito Baixa"
 
 msgid "DIPLOMACY@OVERLORD@INCOME"
 msgstr "Renda de vassalos"
@@ -110985,7 +110985,7 @@ msgid "PROPERTY@UNIT_ABILITY_MODIFIER@RESTORE_ACTION_POINT"
 msgstr "Restaura {Value} <<m:{GLOBAL.ActionPointConcept}>>."
 
 msgid "PROPERTY@UNIT_ABILITY_MODIFIER@TARGET_FILTER_LOW_MORALE"
-msgstr "Contra alvos com {GLOBAL.UnitMoraleConcept.Hyperlink} Baixo:"
+msgstr "Contra alvos com {GLOBAL.UnitMoraleConcept.Hyperlink} Baixa:"
 
 msgid "PROPERTY@UNIT_ADJACENT@HEADER_UNDEAD"
 msgstr "Mortos-vivos adjacentes <<m:{GLOBAL.UnitConcept.Hyperlink}>> têm:"
