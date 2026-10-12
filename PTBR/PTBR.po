@@ -3816,7 +3816,7 @@ msgid "BASE_ABILITY@MAGIC_BLAST@MYSTIC"
 msgstr "Explosão Mística"
 
 msgid "BASE_ABILITY@MAGIC_BLAST@POISON"
-msgstr "Explosão de Calamidade"
+msgstr "Explosão de Praga"
 
 msgid "BASE_ABILITY@MAGIC_BLAST@RADIANT"
 msgstr "Explosão Radiante"
@@ -3873,7 +3873,7 @@ msgid "BASE_ABILITY@MAGIC_BOLTS@PHYSICAL"
 msgstr "Raios de Aço"
 
 msgid "BASE_ABILITY@MAGIC_BOLTS@POISON"
-msgstr "Raios de Calamidade"
+msgstr "Raios de Praga"
 
 msgid "BASE_ABILITY@MAGIC_BOLTS@RADIANT"
 msgstr "Raios Radiantes"
@@ -7692,22 +7692,22 @@ msgid "CONCEPT@BASE_ABILITY@NAME"
 msgstr "Ataque Básico"
 
 msgid "CONCEPT@BLIGHT_DAMAGE@DESCRIPTION"
-msgstr "Inflige [damageBlight/] Dano de Calamidade."
+msgstr "Inflige [damageBlight/] Dano de Praga."
 
 msgid "CONCEPT@BLIGHT_DAMAGE@HYPERLINK"
-msgstr "[damageBlight/] [hyperlink,GLOBAL.BlightDamageConcept]Dano de Calamidade[/hyperlink]"
+msgstr "[damageBlight/] [hyperlink,GLOBAL.BlightDamageConcept]Dano de Praga[/hyperlink]"
 
 msgid "CONCEPT@BLIGHT_DAMAGE@NAME"
-msgstr "Dano de Calamidade"
+msgstr "Dano de Praga"
 
 msgid "CONCEPT@BLIGHT_RESISTANCE@DESCRIPTION"
-msgstr "Proteção contra Calamidade reduz {GLOBAL.BlightDamageConcept.Hyperlink}."
+msgstr "Proteção contra Praga reduz {GLOBAL.BlightDamageConcept.Hyperlink}."
 
 msgid "CONCEPT@BLIGHT_RESISTANCE@HYPERLINK"
-msgstr "[defenseblight/] [hyperlink,GLOBAL.BlightResistanceConcept]Proteção contra Calamidade[/hyperlink]"
+msgstr "[defenseblight/] [hyperlink,GLOBAL.BlightResistanceConcept]Proteção contra Praga[/hyperlink]"
 
 msgid "CONCEPT@BLIGHT_RESISTANCE@NAME"
-msgstr "Proteção contra Calamidade"
+msgstr "Proteção contra Praga"
 
 msgid "CONCEPT@CASUALTIES@DESCRIPTION"
 msgstr "Quando um {GLOBAL.UnitConcept.Hyperlink} sustenta dano, membros da unidade são perdidos.[br/][br/]Cada membro perdido reduz proporcionalmente o dano causado pela unidade. A chance da unidade de aplicar <<m:{GLOBAL.NegativeStatusEffectConcept.Hyperlink}>> também diminui.[br/][br/]Um {GLOBAL.LeaderConcept.Hyperlink} ou {GLOBAL.HeroConcept.Hyperlink} e grandes monstros têm apenas um membro e não são afetados por esta regra."
@@ -19359,7 +19359,7 @@ msgid "DLC@ARCHONPROPHECY@CULTURE_ARCHITECT@UNIT_PROPERTY@INCARNATE_DISRUPTION@E
 msgstr "Disrupção Encarnada: Física"
 
 msgid "DLC@ARCHONPROPHECY@CULTURE_ARCHITECT@UNIT_PROPERTY@INCARNATE_DISRUPTION@EFFECT_NAME@NATURE"
-msgstr "Disrupção Encarnada: Calamidade"
+msgstr "Disrupção Encarnada: Praga"
 
 msgid "DLC@ARCHONPROPHECY@CULTURE_ARCHITECT@UNIT_PROPERTY@INCARNATE_DISRUPTION@EFFECT_NAME@ORDER"
 msgstr "Disrupção Encarnada: Espírito"
@@ -26133,7 +26133,7 @@ msgid "DLC@ARCHONPROPHECY@WEAPON@ARCHITECT_HAMMER"
 msgstr "Martelo de Arquiteto"
 
 msgid "DLC@ARCHONPROPHECY@WEAPON@ARCHITECT_ORB_BLIGHT"
-msgstr "Orbe de Calamidade de Arquiteto"
+msgstr "Orbe de Praga de Arquiteto"
 
 msgid "DLC@ARCHONPROPHECY@WEAPON@ARCHITECT_ORB_FIRE"
 msgstr "Orbe de Fogo de Arquiteto"
@@ -26157,7 +26157,7 @@ msgid "DLC@ARCHONPROPHECY@WEAPON@ARCHITECT_STAFF"
 msgstr "Cajado de Arquiteto"
 
 msgid "DLC@ARCHONPROPHECY@WEAPON@ARCHITECT_STAFF_BLIGHT"
-msgstr "Cajado de Calamidade de Arquiteto"
+msgstr "Cajado de Praga de Arquiteto"
 
 msgid "DLC@ARCHONPROPHECY@WEAPON@ARCHITECT_STAFF_FIRE"
 msgstr "Cajado de Fogo de Arquiteto"
@@ -29043,13 +29043,13 @@ msgid "DLC@ELDRITCHREALMS@COSMIC_HAPPENING@COMBAT_01@COMBAT_01@DESCRIPTION"
 msgstr "A cada turno de combate, uma unidade aleatória:[bulletlist][bullet/]Sofre {BLIGHTFALL_DAMAGE>DAMAGE>Blight} {GLOBAL.BlightDamageConcept.Hyperlink}.[bullet/]Torna‑se {GLOBAL.PROPERTIES.DISEASED.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@ELDRITCHREALMS@COSMIC_HAPPENING@COMBAT_01@COMBAT_01@NAME"
-msgstr "Podridão da Calamidade"
+msgstr "Podridão da Praga"
 
 msgid "DLC@ELDRITCHREALMS@COSMIC_HAPPENING@COMBAT_01@COMBAT_02@DESCRIPTION"
 msgstr "Por {BLIGHTFALL_PLAYER_COMBAT_PROPERTY>TimeToLive} turnos, no início do seu turno, uma unidade inimiga aleatória:[bulletlist][bullet/]Sofre {BLIGHTFALL_PLAYER_DAMAGE>DAMAGE>Blight} {GLOBAL.BlightDamageConcept.Hyperlink}.[bullet/]Torna‑se {GLOBAL.PROPERTIES.DISEASED.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@ELDRITCHREALMS@COSMIC_HAPPENING@COMBAT_01@COMBAT_02@NAME"
-msgstr "Invocar Calamidade"
+msgstr "Invocar Praga"
 
 msgid "DLC@ELDRITCHREALMS@COSMIC_HAPPENING@CONSTELLATION_VARIABLES@ASTRAL_ECLIPSE"
 msgstr "o escurecimento de todas as estrelas"
@@ -29184,7 +29184,7 @@ msgid "DLC@ELDRITCHREALMS@COSMIC_HAPPENING@MAJOR_AFFINITY_03@PROPERTY_03@NAME"
 msgstr "Influência Astral Potencializada"
 
 msgid "DLC@ELDRITCHREALMS@COSMIC_HAPPENING@PLANET_PHASE_VARIABLES@BLIGHTFALL_CONJUNCTION"
-msgstr "Conjunção da Calamidade"
+msgstr "Conjunção da Praga"
 
 msgid "DLC@ELDRITCHREALMS@COSMIC_HAPPENING@PLANET_PHASE_VARIABLES@COLOSSUS_MOON"
 msgstr "Lua Colossal"
@@ -29457,7 +29457,7 @@ msgid "DLC@ELDRITCHREALMS@CRISIS@1167_422@DESCRIPTION"
 msgstr "[bulletlist][bullet/]{GLOBAL.PROPERTIES.BLIGHTFALL_COMBAT_PROPERTY.Hyperlink} ativo em combate.[bullet/]Cidades perdem -{amount1} {GLOBAL.FoodConcept.Hyperlink} por {GLOBAL.PopulationConcept.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@ELDRITCHREALMS@CRISIS@1167_422@NAME"
-msgstr "Conjunção da Calamidade"
+msgstr "Conjunção da Praga"
 
 msgid "DLC@ELDRITCHREALMS@CRISIS@1167_422@SUB_HEADER"
 msgstr "{GLOBAL.PROPERTIES.BLIGHTFALL_COMBAT_PROPERTY.Hyperlink} está ativo em combate.\nCidades requerem mais {GLOBAL.FoodConcept.Hyperlink}."
@@ -29703,7 +29703,7 @@ msgid "DLC@ELDRITCHREALMS@ELDRITCHLEADER@ABILTIY01_PLUGIN01@NAME"
 msgstr "Espinho Mental"
 
 msgid "DLC@ELDRITCHREALMS@ELDRITCHLEADER@ABILTIY01_PLUGIN02@NAME"
-msgstr "Espinho de Calamidade"
+msgstr "Espinho de Praga"
 
 msgid "DLC@ELDRITCHREALMS@ELDRITCHLEADER@ABILTIY01_PLUGIN03@MOD_DESCRIPTION"
 msgstr "{chance}% de chance de infligir um {GLOBAL.NegativeStatusEffectConcept.Hyperlink} aleatório."
@@ -29739,7 +29739,7 @@ msgid "DLC@ELDRITCHREALMS@ELDRITCHLEADER@ABILTIY02_PLUGIN01@NAME"
 msgstr "Repreensão Mental"
 
 msgid "DLC@ELDRITCHREALMS@ELDRITCHLEADER@ABILTIY02_PLUGIN02@NAME"
-msgstr "Repreensão de Calamidade"
+msgstr "Repreensão de Praga"
 
 msgid "DLC@ELDRITCHREALMS@ELDRITCHLEADER@ABILTIY02_PLUGIN03@NAME"
 msgstr "Repreensão de Fogo"
@@ -32739,13 +32739,13 @@ msgid "DLC@ELDRITCHREALMS@STORY_EVENT@1167_476@BUTTON_0"
 msgstr "\\\"Rezo para que meu {EventRace} possa digerir esta aflição.\\\""
 
 msgid "DLC@ELDRITCHREALMS@STORY_EVENT@1167_476@TITLE"
-msgstr "Conjunção da Calamidade"
+msgstr "Conjunção da Praga"
 
 msgid "DLC@ELDRITCHREALMS@STORY_EVENT@1167_477@BODY_FOOTER"
 msgstr "O reino está se curando. Só os mais ardilosos buscariam lucrar com este desastre global."
 
 msgid "DLC@ELDRITCHREALMS@STORY_EVENT@1167_477@BODY_HEADER"
-msgstr "O reino finalmente tem um alívio: a Conjunção da Calamidade chegou ao fim."
+msgstr "O reino finalmente tem um alívio: a Conjunção da Praga chegou ao fim."
 
 msgid "DLC@ELDRITCHREALMS@STORY_EVENT@1167_477@BODY_LORE"
 msgstr "Seus {EventRace} famintos ficam aliviados ao encontrar uma abundância de alimentos frescos após tamanha privação. Seus guerreiros, saciados novamente, permanecem firmes e prontos ao seu comando."
@@ -32754,13 +32754,13 @@ msgid "DLC@ELDRITCHREALMS@STORY_EVENT@1167_477@BUTTON_0"
 msgstr "Aprenda o feitiço {EventSpell} para amaldiçoar [evilact/] seus inimigos com esta praga."
 
 msgid "DLC@ELDRITCHREALMS@STORY_EVENT@1167_477@BUTTON_1"
-msgstr "Colha as almas [souls/] daqueles que sucumbiram à Calamidade."
+msgstr "Colha as almas [souls/] daqueles que sucumbiram à Praga."
 
 msgid "DLC@ELDRITCHREALMS@STORY_EVENT@1167_477@BUTTON_2"
 msgstr "Deixemos para trás esta era de pestilência."
 
 msgid "DLC@ELDRITCHREALMS@STORY_EVENT@1167_477@TITLE"
-msgstr "Conjunção da Calamidade: Consequência"
+msgstr "Conjunção da Praga: Consequência"
 
 msgid "DLC@ELDRITCHREALMS@STORY_EVENT@1167_478@BODY_FOOTER"
 msgstr "Até que o Mar possa se restaurar, o funcionamento de <<m:{GLOBAL.STRUCTURE_UPGRADES.TELEPORTER}>> e [hyperlink,GLOBAL.PROPERTIES.PHASE]deslocadores de fase[/hyperlink] tem sido gravemente interrompido."
@@ -46131,7 +46131,7 @@ msgid "DLC@GIANTKINGS@PRIMORDIAL_UNIT_ABILITY_04@DESCRIPTION"
 msgstr "Cause dano à unidade alvo e até {BLIGHT_COIL_JUMP_TARGETER>MaxJumps} outros inimigos dentro de {BLIGHT_COIL_JUMP_TARGETER>MaxDistance} hexágonos."
 
 msgid "DLC@GIANTKINGS@PRIMORDIAL_UNIT_ABILITY_04@NAME"
-msgstr "Espiral de Calamidade"
+msgstr "Espiral de Praga"
 
 msgid "DLC@GIANTKINGS@PRIMORDIAL_UNIT_ABILITY_05@DESCRIPTION"
 msgstr "Unidades inimigas em um raio de {DOOM_GAZE_UNIT_TARGETER_CIRCLE>AREA>Radius} hexágonos sofrem dano."
@@ -48186,7 +48186,7 @@ msgid "DLC@GIANTKINGS@TOME_DUNGEON_DEPTHS@TOME@NAME"
 msgstr "Tomo das Profundezas da Masmorra"
 
 msgid "DLC@GIANTKINGS@TOME_GEOMANCY@ABILITY_01@BLIGHT@NAME"
-msgstr "Raios de Terra: Calamidade"
+msgstr "Raios de Terra: Praga"
 
 msgid "DLC@GIANTKINGS@TOME_GEOMANCY@ABILITY_01@DESCRIPTION"
 msgstr "Causa dano à unidade inimiga alvo."
@@ -48207,13 +48207,13 @@ msgid "DLC@GIANTKINGS@TOME_GEOMANCY@ABILITY_01@SPIRIT@NAME"
 msgstr "Raios de Terra: Espírito"
 
 msgid "DLC@GIANTKINGS@TOME_GEOMANCY@ABILITY_02@BLIGHT@ENHANCED_NAME"
-msgstr "Surto Geomântico Campeão: Calamidade"
+msgstr "Surto Geomântico Campeão: Praga"
 
 msgid "DLC@GIANTKINGS@TOME_GEOMANCY@ABILITY_02@BLIGHT@MASTER_NAME"
-msgstr "Surto Geomântico Mestre: Calamidade"
+msgstr "Surto Geomântico Mestre: Praga"
 
 msgid "DLC@GIANTKINGS@TOME_GEOMANCY@ABILITY_02@BLIGHT@NAME"
-msgstr "Surto Geomântico: Calamidade"
+msgstr "Surto Geomântico: Praga"
 
 msgid "DLC@GIANTKINGS@TOME_GEOMANCY@ABILITY_02@DESCRIPTION"
 msgstr "Cause dano a todos os inimigos em um raio de {GEO_SURGE_TARGETER>AREA>Radius} hexágonos."
@@ -48285,7 +48285,7 @@ msgid "DLC@GIANTKINGS@TOME_GEOMANCY@SKILL1@NAME"
 msgstr "Geomante^n"
 
 msgid "DLC@GIANTKINGS@TOME_GEOMANCY@SKILL2@BLIGHT@NAME"
-msgstr "Cristalização Geomântica: Calamidade"
+msgstr "Cristalização Geomântica: Praga"
 
 msgid "DLC@GIANTKINGS@TOME_GEOMANCY@SKILL2@DESCRIPTION"
 msgstr "Transforme a raça-alvo em cristais ressonantes que se auto-infusam com magias ambientais, concedendo:[bulletlist][bullet/]O tipo de unidade {GLOBAL.PROPERTIES.ELEMENTAL.Hyperlink}.[bullet/]Resistência a um dano específico conforme o terreno em que a unidade está.[bullet/]+{amount2} de dano em ataques conforme o terreno em que a unidade está.[/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
@@ -84174,7 +84174,7 @@ msgid "HERO_SKILL@ROOTS@MODIFIER_DESCRIPTION"
 msgstr "+{POISON_WEAPONS_DAMAGE_MULTIPLIER>ResolvedMultiplier}% de dano contra alvos {GLOBAL.PROPERTIES.POISONED.Hyperlink} ou {GLOBAL.PROPERTIES.DECAYING.Hyperlink}."
 
 msgid "HERO_SKILL@ROOTS@NAME"
-msgstr "Golpes de Calamidade"
+msgstr "Golpes de Praga"
 
 msgid "HERO_SKILL@SHIELD_OF_CONDEMNATION@DESCRIPTION"
 msgstr "Os atacantes têm uma chance base de {CONDEMN_RESISTANCE>ResolvedStrength}% de ganhar {GLOBAL.PROPERTIES.CONDEMNED.Hyperlink} até o fim da batalha."
@@ -132837,7 +132837,7 @@ msgid "TACTICAL@BANNER@FIRSTSTRIKE_LETHAL"
 msgstr "Atacante morre ao Primeiro Golpe."
 
 msgid "TACTICAL@DAMAGE_IMMUNITIES@BLIGHT"
-msgstr "Imune a Calamidade"
+msgstr "Imune a Praga"
 
 msgid "TACTICAL@DAMAGE_IMMUNITIES@FIRE"
 msgstr "Imune a Fogo"
@@ -132855,7 +132855,7 @@ msgid "TACTICAL@DAMAGE_IMMUNITIES@SPIRIT"
 msgstr "Imune a Espírito"
 
 msgid "TACTICAL@DAMAGE_TYPES@BLIGHT"
-msgstr "Calamidade"
+msgstr "Praga"
 
 msgid "TACTICAL@DAMAGE_TYPES@FIRE"
 msgstr "Fogo"
@@ -134595,7 +134595,7 @@ msgid "TOME_CYCLES@ABILITY_4@DESCRIPTION"
 msgstr "Alvo unidade amiga não‑herói é morta, inimigos adjacentes sofrem {SACRIFICIAL_BLIGHT_DAMAGE>DAMAGE>Blight} {GLOBAL.BlightDamageConcept.Hyperlink} por Tier da unidade sacrificada.[br/][br/]Esta habilidade sempre é ativada {GLOBAL.PROPERTIES.LIFE_FROM_DEATH_ABILITY_MODIFIER.Hyperlink},"
 
 msgid "TOME_CYCLES@ABILITY_4@NAME"
-msgstr "Calamidade Sacrificial"
+msgstr "Praga Sacrificial"
 
 msgid "TOME_CYCLES@HERO_SKILL@DESCRIPTION"
 msgstr "Ataques base recebem uma chance base de {DECAYING_RESISTANCE>ResolvedStrength}% de infligir {GLOBAL.PROPERTIES.DECAYING.Hyperlink}.[br/][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
@@ -134754,7 +134754,7 @@ msgid "TOME_DEMON_GATE@TOME@GAMEPLAY_DESCRIPTION"
 msgstr "Abra fendas para invocar <<m:{GLOBAL.PROPERTIES.FIEND.Hyperlink}>> e queimar o mundo em sua esteira."
 
 msgid "TOME_DEMON_GATE@TOME@LORE_AUTHOR"
-msgstr "Kruul Senhor da Calamidade, Príncipe do Caos"
+msgstr "Kruul Senhor da Praga, Príncipe do Caos"
 
 msgid "TOME_DEMON_GATE@TOME@LORE_DESCRIPTION"
 msgstr "\\\"Aqueles que dominam a arte da invocação sempre terão aliados à disposição, embora nem sempre estejam dispostos. Demônios podem ser assustadores para alguns, mas, se invocados corretamente, são o servo mais valioso que um Godir pode encontrar. É claro que eles prefeririam arrancar a carne do seu rosto se pudessem... mas não podem, então a questão é irrelevante!\\\""
