@@ -21771,7 +21771,7 @@ msgid "DLC@ARCHONPROPHECY@STORY_EVENT@1194_1574@BODY_HEADER"
 msgstr "O {EventHouseLord.Title} de {EventHouse} avança de braços abertos para falar em nome de sua {GLOBAL.IndependentCityConcept.Hyperlink}."
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@1194_1574@BODY_LORE"
-msgstr "\"Glória!\" anuncia {EventHouseLord.Title} {EventHouseLord.FirstName} enquanto {EventHouseLord} levanta <<o:EventHouseLord>> dedo indicador bem alto, \"Ó Godir, ó Godir. Louvado seja o grande plano que me concedeu um igual de cultura neste dia.\" {EventHouseLord} estende ambas as mãos e sorri. \"Eis, eu sou {EventHouseLord.TitleName} dos {EventHouseRace}. Diga-me, que fundação devemos construir juntos a partir de agora?\""
+msgstr "\"Glória!\" anuncia {EventHouseLord.Title} {EventHouseLord.FirstName} enquanto {EventHouseLord} levanta seu  indicador bem alto, \"Ó Godir, ó Godir. Louvado seja o grande plano que me concedeu um igual de cultura neste dia.\" {EventHouseLord} estende ambas as mãos e sorri. \"Eis, eu sou {EventHouseLord.TitleName} dos {EventHouseRace}. Diga-me, que fundação devemos construir juntos a partir de agora?\""
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@1194_1574@BUTTON_0"
 msgstr "Veja quais fundações {EventHouse.Name} merece."
@@ -21825,10 +21825,10 @@ msgid "DLC@ARCHONPROPHECY@STORY_EVENT@1194_1771@BODY_HEADER@NO_SUNDREN"
 msgstr "Você derrotou {Merlin.TitleName} e <<o:Merlin>> [hyperlink,GLOBAL.ShadowDemonsLoreConcept]forças Umbral[/hyperlink]. {Merlin} afunda no chão, enquanto {Julia.FirstName} aparece e se ajoelha ao lado de <<P:Merlin>>."
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@1194_1771@BODY_LORE"
-msgstr "{Julia.FirstName} fecha suavemente <<o:Merlin>> olhos. \"Sinto muito, meu velho amigo.\" {Julia} sussurra, uma única lágrima escorrendo pelo rosto de <<m:Julia>>. {Sundren.FirstName} fixa seu olhar severo em você. \"A Profecia... Tentei fazer o que era certo por meu pai, minha mãe e meu mentor. Talvez eu tenha errado. Errado por vir aqui, ou por confiar em você.\""
+msgstr "{Julia.FirstName} fecha suavemente seus . \"Sinto muito, meu velho amigo.\" {Julia} sussurra, uma única lágrima escorrendo pelo rosto de <<m:Julia>>. {Sundren.FirstName} fixa seu olhar severo em você. \"A Profecia... Tentei fazer o que era certo por meu pai, minha mãe e meu mentor. Talvez eu tenha errado. Errado por vir aqui, ou por confiar em você.\""
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@1194_1771@BODY_LORE@NO_SUNDREN"
-msgstr "{Julia.FirstName} fecha suavemente <<o:Merlin>> olhos. \"Sinto muito, meu velho amigo.\" {Julia} sussurra, uma única lágrima escorrendo pelo rosto de <<m:Julia>>. \"Se ao menos o destino fosse mais gentil conosco...\""
+msgstr "{Julia.FirstName} fecha suavemente seus . \"Sinto muito, meu velho amigo.\" {Julia} sussurra, uma única lágrima escorrendo pelo rosto de <<m:Julia>>. \"Se ao menos o destino fosse mais gentil conosco...\""
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@1194_1771@BUTTON_0"
 msgstr "Uma vitória arduamente conquistada."
@@ -22701,13 +22701,13 @@ msgid "DLC@ARCHONPROPHECY@STORY_EVENT@1224_136@BUTTON_1@HERO_IS_PLAYERLE"
 msgstr "Proclame [influence/] a glória eterna do seu reinado imortal."
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@1224_136@BUTTON_2"
-msgstr "Gaste [mana/] para lançar um feitiço que mantenha <<r:EventHero>> vivo em <<o:EventHero>> último combate."
+msgstr "Gaste [mana/] para lançar um feitiço que mantenha <<r:EventHero>> vivo em seu  combate."
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@1224_136@BUTTON_2@HERO_IS_PLAYERLE"
 msgstr "Gaste [mana/] para lançar um feitiço que mantenha você com vida em seu último combate."
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@1224_136@BUTTON_4"
-msgstr "Extraia força do Plano Astral para manter <<r:EventHero>> vivo em <<o:EventHero>> último combate."
+msgstr "Extraia força do Plano Astral para manter <<r:EventHero>> vivo em seu  combate."
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@1224_136@BUTTON_4@HERO_IS_PLAYERLE"
 msgstr "Extraia força do Plano Astral para manter você com vida em seu último combate."
@@ -23883,13 +23883,13 @@ msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8162@BODY_FOOTER@PLAIN_NAME"
 msgstr "\"Caminhe sob as cúpulas de nossos Observatórios, {PlayerLeader.Name}\", {EventPlayer} encerra seu discurso, \"e ainda poderá alcançar Emnora.\""
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8162@BODY_HEADER"
-msgstr "\"Um {PlayerLeader.Title}, vejo,\" {EventPlayer} repete pensativamente, <<o:EventPlayer>> pensamentos velados sob o capuz de <<m:EventPlayer>>."
+msgstr "\"Um {PlayerLeader.Title}, vejo,\" {EventPlayer} repete pensativamente, seus  velados sob o capuz de <<m:EventPlayer>>."
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8162@BODY_HEADER@NO_NAME"
-msgstr "\"Um peregrino, vejo,\" {EventPlayer} diz pensativamente, <<o:EventPlayer>> pensamentos velados sob o capuz de <<m:EventPlayer>>."
+msgstr "\"Um peregrino, vejo,\" {EventPlayer} diz pensativamente, seus  velados sob o capuz de <<m:EventPlayer>>."
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8162@BODY_HEADER@PLAIN_NAME"
-msgstr "\"{PlayerLeader.Name}, vejo,\" {EventPlayer} repete pensativamente, <<o:EventPlayer>> pensamentos velados sob o capuz de <<m:EventPlayer>>."
+msgstr "\"{PlayerLeader.Name}, vejo,\" {EventPlayer} repete pensativamente, seus  velados sob o capuz de <<m:EventPlayer>>."
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8162@BODY_LORE"
 msgstr "\"É raro que um estranho visite os Lagos da Sagacidade,\" {EventPlayer} continua. \"Mas você tem liberdade para entrar em nossas casas de sabedoria, mergulhar sua mente na presença de nossas águas abençoadas; deixe as profecias de nossos Oráculos penetrarem.\"[br/][br/]\"A [hyperlink,GLOBAL.AllfatherLoreConcept]luz do Allfather[/hyperlink] indica o destino de nosso cosmos,\" {EventPlayer} explica empaticamente, \"mas quem contempla {GLOBAL.TheWellLoreConcept.Hyperlink} afogará na sua verdade. Assim, a Ordem dos Augúrios observa apenas seus fracos reflexos, ecoados como luz das estrelas.\""
@@ -24075,13 +24075,13 @@ msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8212@BODY_HEADER@NO_QUEST"
 msgstr "Suas tropas encontram um templo de arquitetura de Arcontes, abandonado e selado."
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8212@BODY_LORE"
-msgstr "Eles silenciosamente conduzem você ao centro do templo, onde um {EventUnit} está detido dentro de um círculo de magia negra. O {EventUnit} ajoelha-se no chão, protegido por <<o:EventUnit>> quatro poderosas asas. Quando {EventUnit} percebe você, {EventUnit} levanta <<o:EventUnit>> cabeça, levemente. <<Co:EventUnit>> palavras, brilhantes e afiadas, ressoam pelo templo como uma provação."
+msgstr "Eles silenciosamente conduzem você ao centro do templo, onde um {EventUnit} está detido dentro de um círculo de magia negra. O {EventUnit} ajoelha-se no chão, protegido por suas  poderosas asas. Quando {EventUnit} percebe você, {EventUnit} levanta sua , levemente. <<Co:EventUnit>> palavras, brilhantes e afiadas, ressoam pelo templo como uma provação."
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8212@BODY_LORE@NO_QUEST"
 msgstr "Um aroma distinto de lavanda e mirra paira no ar, como um testemunho persistente das cerimônias distantes em que os Arcontes santificaram os mortos. Suas tropas avançam ao redor do complexo de estruturas, porém o único portão que antes conduzia ao templo está bloqueado por dentro."
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8212@BODY_LORE@NO_RULER"
-msgstr "Eles silenciosamente conduzem {EventHero} ao centro do templo, onde um {EventUnit} está detido dentro de um círculo de magia negra. O {EventUnit} ajoelha-se no chão, protegido por <<o:EventUnit>> quatro poderosas asas. Quando {EventUnit} percebe {EventHero}, {EventUnit} levanta <<o:EventUnit>> cabeça, levemente. <<Co:EventUnit>> palavras, brilhantes e afiadas, ressoam pelo templo como uma provação."
+msgstr "Eles silenciosamente conduzem {EventHero} ao centro do templo, onde um {EventUnit} está detido dentro de um círculo de magia negra. O {EventUnit} ajoelha-se no chão, protegido por suas  poderosas asas. Quando {EventUnit} percebe {EventHero}, {EventUnit} levanta sua , levemente. <<Co:EventUnit>> palavras, brilhantes e afiadas, ressoam pelo templo como uma provação."
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8212@BUTTON_0"
 msgstr "\"Você está enganado, {EventUnit}. Vim para libertá-lo desta prisão!\""
@@ -24147,7 +24147,7 @@ msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8216@BODY_FOOTER"
 msgstr "\"A maldição do [hyperlink,GLOBAL.RevenantsLoreConcept]Revenante[/hyperlink] é uma corrupção da própria sacralidade,\" conclui o {EventUnit}. \"Precisamos proteger nossas terras Celestiais de seu alcance, ou tudo poderá ser maculado.\""
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8216@BODY_HEADER"
-msgstr "\"Parece determinado,\" diz o {EventUnit}, espalhando suas <<o:EventUnit>> asas. \"No entanto, a compaixão é um dom que deve ser reservado aos vivos.\""
+msgstr "\"Parece determinado,\" diz o {EventUnit}, espalhando suas suas . \"No entanto, a compaixão é um dom que deve ser reservado aos vivos.\""
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8216@BODY_LORE"
 msgstr "\"Há santidade em cada alma, seja ela Humano, Elfo ou Arconte,\" {EventUnit} explica com gravidade. \"Nós {GLOBAL.ArchonsLoreConcept.Hyperlink} vigiamos a integridade de todos os {GLOBAL.SoulsLoreConcept.Hyperlink} ao abandonarem seus casulos mortais, protegendo sua jornada para reencontrar o {GLOBAL.AllfatherLoreConcept.Hyperlink}. Contudo, a necromancia é uma perversão da alma. Ela abre a porta para o caminho sem retorno. Só o fim de sua não-vida pode restaurar a paz às almas que sofreram tal destino.\""
@@ -24168,7 +24168,7 @@ msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8216@TITLE"
 msgstr "O Preço da Não-Vida"
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8232@BODY_FOOTER"
-msgstr "{EventPlayer} expira, <<o:EventPlayer>> corpo repousando como se finalmente encontrasse paz. Ainda assim, você sabe que as obras de Urrath podem ser enganosas."
+msgstr "{EventPlayer} expira, seu  repousando como se finalmente encontrasse paz. Ainda assim, você sabe que as obras de Urrath podem ser enganosas."
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8232@BODY_HEADER"
 msgstr "Espancado e ferido, as últimas palavras de {EventPlayer} são ditas como se fosse um sonho febril, Umbral."
@@ -24729,7 +24729,7 @@ msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8493@BODY_HEADER"
 msgstr "Na ala da biblioteca do {EventStructure} você é acompanhado por {EventHero}."
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8493@BODY_LORE"
-msgstr "\"Observar a abundância de textos que debatem suas profecias me ensinou muito sobre o {GLOBAL.ArchonsLoreConcept.Hyperlink},\" {EventHero} diz, <<o:EventHero>> dedos deslizando lentamente sobre os símbolos nas estantes, indicando sua era e categoria. \"Eles há muito acreditavam que a Profecia de Anon prenunciava a queda de {GLOBAL.MyrridaLoreConcept.Hyperlink}. Assim, depois que Myrrida foi sitiada, retiraram-se de muitos {GLOBAL.WorldsWithinLoreConcept.Hyperlink}, pois 'A Guarda Divina deve Repousar, Para que Novos Poderes Surgam'. O que, por sua vez, facilitou o {GLOBAL.EndailonCrisisLoreConcept.Hyperlink}...\""
+msgstr "\"Observar a abundância de textos que debatem suas profecias me ensinou muito sobre o {GLOBAL.ArchonsLoreConcept.Hyperlink},\" {EventHero} diz, seus  deslizando lentamente sobre os símbolos nas estantes, indicando sua era e categoria. \"Eles há muito acreditavam que a Profecia de Anon prenunciava a queda de {GLOBAL.MyrridaLoreConcept.Hyperlink}. Assim, depois que Myrrida foi sitiada, retiraram-se de muitos {GLOBAL.WorldsWithinLoreConcept.Hyperlink}, pois 'A Guarda Divina deve Repousar, Para que Novos Poderes Surgam'. O que, por sua vez, facilitou o {GLOBAL.EndailonCrisisLoreConcept.Hyperlink}...\""
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8493@BUTTON_0"
 msgstr "Leia sobre o Allfather e a criação dos Arcontes. [order/]"
@@ -24963,7 +24963,7 @@ msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8561@TITLE"
 msgstr "A Partida de {OracleName}"
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8575@BODY_FOOTER"
-msgstr "\"Não!\" {EventPlayer} grita com <<o:EventPlayer>> última força. \"Através do {GLOBAL.AstralSeaLoreConcept.Hyperlink} nosso {GLOBAL.SoulsLoreConcept.Hyperlink} nadará, infalível, resistente, até que retornemos a... {GLOBAL.TheWellLoreConcept.Hyperlink}...\""
+msgstr "\"Não!\" {EventPlayer} grita com sua  força. \"Através do {GLOBAL.AstralSeaLoreConcept.Hyperlink} nosso {GLOBAL.SoulsLoreConcept.Hyperlink} nadará, infalível, resistente, até que retornemos a... {GLOBAL.TheWellLoreConcept.Hyperlink}...\""
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8575@BODY_HEADER"
 msgstr "<<Co:EventPlayer>> saco vocal sangra a cada sílaba pronunciada, {EventPlayer} entoa fraquemente a própria elegia de <<m:EventPlayer>>."
@@ -24984,13 +24984,13 @@ msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8575@TITLE"
 msgstr "A Queda de {EventPlayer}"
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8618@BODY_FOOTER"
-msgstr "\"O que dizes, {PlayerLeader},\" {EventPlayer} pergunta, <<o:EventPlayer>> pele agora adquirindo um tom amarelado, \"devemos festejar em amizade?\""
+msgstr "\"O que dizes, {PlayerLeader},\" {EventPlayer} pergunta, sua  agora adquirindo um tom amarelado, \"devemos festejar em amizade?\""
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8618@BODY_HEADER"
 msgstr "Enquanto seus batedores patrulham as fronteiras, em busca do {GLOBAL.RevenantsLoreConcept.Hyperlink} de {RevenantPlayer}, você ouve o coaxar familiar de {EventPlayer} ao longe."
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8618@BODY_LORE"
-msgstr "\"Justo {PlayerLeader},\" {EventPlayer} entoa, <<o:EventPlayer>> pele mudando de cor como se transmitisse uma mensagem própria. \"Ficamos satisfeitos em vê-lo juntar-se à cruzada contra {RevenantPlayer}. As águas turbulentas perto de {EventCity} são traiçoeiras para navegar. Contudo, se zarparmos juntos, nosso desembarque será triunfante!\"[br/][br/]\"É costume entre o meu povo selar uma aliança com troca de alimentos e homens,\" {EventPlayer} continua, revelando um grande banquete com supostas iguarias do {EventRace} atrás de <<P:EventPlayer>>."
+msgstr "\"Justo {PlayerLeader},\" {EventPlayer} entoa, sua  mudando de cor como se transmitisse uma mensagem própria. \"Ficamos satisfeitos em vê-lo juntar-se à cruzada contra {RevenantPlayer}. As águas turbulentas perto de {EventCity} são traiçoeiras para navegar. Contudo, se zarparmos juntos, nosso desembarque será triunfante!\"[br/][br/]\"É costume entre o meu povo selar uma aliança com troca de alimentos e homens,\" {EventPlayer} continua, revelando um grande banquete com supostas iguarias do {EventRace} atrás de <<P:EventPlayer>>."
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8618@BUTTON_0"
 msgstr "Aceite a aliança [rs_alliance/] e uma troca de tropas. [unit/]"
@@ -25008,7 +25008,7 @@ msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8618@TITLE"
 msgstr "Brisa Morna"
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8623@BODY_FOOTER"
-msgstr "\"Em nome de {GLOBAL.AthlaLoreConcept.Hyperlink} e {GLOBAL.MagehavenLoreConcept.Hyperlink} suplico-lhe, {PlayerLeader}:\" {EventHero} encerra <<o:EventHero>> chamado, \"pára esta loucura agora, enquanto sua alma ainda pode encontrar paz.\""
+msgstr "\"Em nome de {GLOBAL.AthlaLoreConcept.Hyperlink} e {GLOBAL.MagehavenLoreConcept.Hyperlink} suplico-lhe, {PlayerLeader}:\" {EventHero} encerra seu , \"pára esta loucura agora, enquanto sua alma ainda pode encontrar paz.\""
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8623@BODY_HEADER"
 msgstr "Invadindo os Lagos da Sagacidade, você encontra um(a) elfo <<EventHero{homem/mulher}>>, chamando por você à distância."
@@ -34335,7 +34335,7 @@ msgid "DLC@ELDRITCHREALMS@STORY_EVENT@1194_708@BODY_FOOTER"
 msgstr "Você deixará os monstros estranhos aterrorizar ou os atacará?"
 
 msgid "DLC@ELDRITCHREALMS@STORY_EVENT@1194_708@BODY_HEADER"
-msgstr "Enquanto suas tropas avançam para atacar a {EventStackLeader.Name} e a <<o:EventStackLeader>> coleção de {GLOBAL.ShadowDemonsLoreConcept.Hyperlink}, o inimigo grita e se rende."
+msgstr "Enquanto suas tropas avançam para atacar a {EventStackLeader.Name} e a sua  de {GLOBAL.ShadowDemonsLoreConcept.Hyperlink}, o inimigo grita e se rende."
 
 msgid "DLC@ELDRITCHREALMS@STORY_EVENT@1194_708@BODY_LORE"
 msgstr "Carne ondulante e tentáculos contorcidos se entrelaçam em um grotesco espetáculo de pânico enquanto suas armas cercam o grupo de horrores arcanos vindos de {GLOBAL.ShadowRealmLoreConcept.Hyperlink}. Embora aterrorizantes em aspecto, esses seres parecem não ter ânsia de combate. Pelo menos não contra você..."
@@ -34605,7 +34605,7 @@ msgid "DLC@ELDRITCHREALMS@STORY_EVENT@991_6183@BODY_FOOTER"
 msgstr "\"{Lithyl.FirstName} está profanando a herança esquecida da minha linhagem. Sinto-a na terra sangrante, ouço-a nas árvores que choram. Em breve o ritual <<o:Lithyl>> será concluído.\""
 
 msgid "DLC@ELDRITCHREALMS@STORY_EVENT@991_6183@BODY_HEADER"
-msgstr "Envolta por um enxame de borboletas, a figura graciosa de {EventPlayer} oferece <<o:EventPlayer>> saudação distante."
+msgstr "Envolta por um enxame de borboletas, a figura graciosa de {EventPlayer} oferece sua  distante."
 
 msgid "DLC@ELDRITCHREALMS@STORY_EVENT@991_6183@BODY_LORE"
 msgstr "\"As folhas caem rapidamente nesta estação,\" diz {EventPlayer}, um brilho de tristeza ressoando em sua voz. \"Só este inverno pode durar até que todas as maravilhas silvestres pereçam, sem retorno. Não é assim, {PlayerLeader}?\"[br/][br/]Então, voltando‑se para {Meandor.Name}, {EventPlayer} continua: \"Não deveria surpreender ver o seu povo chegar em segundo lugar em Arcalot, quando os {GLOBAL.ShadraiFactionLoreConcept.Hyperlink} já romperam as linhas inimigas. Seja o Culto da Tempestade, o Círculo do Feiticeiro, ou {GLOBAL.CovenantFactionLoreConcept.Hyperlink}, vocês sempre escolhem o lado fraco, {Meandor.FirstName}.\""
@@ -34686,7 +34686,7 @@ msgid "DLC@ELDRITCHREALMS@STORY_EVENT@991_6246@BODY_FOOTER"
 msgstr "\"Minha força está diminuindo. Não posso proteger o {EventStructure} para sempre.\" {EventPlayer.FirstName} envolve <<r:EventPlayer>> em um véu de folhagem cintilante. \"Supere a tempestade, {PlayerLeader}! Salve {GLOBAL.AthlaLoreConcept.Hyperlink}!\""
 
 msgid "DLC@ELDRITCHREALMS@STORY_EVENT@991_6246@BODY_HEADER"
-msgstr "\"Poupe‑nos de sua falsa sabedoria, velho!\" Uma explosão exuberante de energia rejuvenesce sua mente enquanto {EventPlayer} abre <<o:EventPlayer>> asas em desafio a {Merlin.FirstName}."
+msgstr "\"Poupe‑nos de sua falsa sabedoria, velho!\" Uma explosão exuberante de energia rejuvenesce sua mente enquanto {EventPlayer} abre suas  em desafio a {Merlin.FirstName}."
 
 msgid "DLC@ELDRITCHREALMS@STORY_EVENT@991_6246@BODY_LORE"
 msgstr "\"Suas raízes contaminadas ainda não alcançaram {GLOBAL.AthlaLoreConcept.Hyperlink}, e também não reivindicarão {PlayerLeader}!\"[br/][br/]O {EventPlayerType} volta‑se para você. \"A situação é grave, {PlayerLeader.Title} dos {EventRace}. {Merlin.Name} e {Lithyl.Name} buscam entrar no {EventStructure} e envenenar {GLOBAL.AthlaLoreConcept.Hyperlink} em comunhão sombria. {GLOBAL.AthlaLoreConcept.Hyperlink} é querida por mim. Ela restaurou meus filhos depois que a ira de Urrath devastou este mundo em eras passadas. Ela não pode morrer.\""
@@ -34716,7 +34716,7 @@ msgid "DLC@ELDRITCHREALMS@STORY_EVENT@991_6257@BODY_HEADER@NO_ONERON"
 msgstr "Nesta hora funesta, você se lembra de <<g:palavras^n,EventPlayer.FirstName>> sobre o {GLOBAL.GloomwatchLoreConcept.Hyperlink} e o {GLOBAL.DreamersLoreConcept.Hyperlink}."
 
 msgid "DLC@ELDRITCHREALMS@STORY_EVENT@991_6257@BODY_LORE"
-msgstr "\"Nós, da {GLOBAL.GloomwatchLoreConcept.Hyperlink}, temos um ditado: das noites mais sombrias nascem as velas mais brilhantes.\" {EventPlayer} desenrola um mapa encantado que retrata o {GLOBAL.AstralSeaLoreConcept.Hyperlink}. \"Isso,\" {EventPlayer} aponta para um poço corrente no centro, \"é o {GLOBAL.AllfatherLoreConcept.Hyperlink}. E estes\" {EventPlayer.FirstName} gesticula em direção a vários cálices espalhados pelo mapa, \"são os {GLOBAL.DreamersLoreConcept.Hyperlink}. Eles são filhos do {GLOBAL.AllfatherLoreConcept.Hyperlink} e o {GLOBAL.GloomwatchLoreConcept.Hyperlink} lhes tem servido ao longo dos séculos.\"[br/][br/]Por fim, {EventPlayer.FirstName} aponta <<o:EventPlayer>> dedo para um cálice fervendo em lama pútrida: \"Este é {GLOBAL.AthlaLoreConcept.Hyperlink}. O veneno de {Lithyl} a está afogando em pesadelos. Se não nos apressarmos, ela morrerá.\""
+msgstr "\"Nós, da {GLOBAL.GloomwatchLoreConcept.Hyperlink}, temos um ditado: das noites mais sombrias nascem as velas mais brilhantes.\" {EventPlayer} desenrola um mapa encantado que retrata o {GLOBAL.AstralSeaLoreConcept.Hyperlink}. \"Isso,\" {EventPlayer} aponta para um poço corrente no centro, \"é o {GLOBAL.AllfatherLoreConcept.Hyperlink}. E estes\" {EventPlayer.FirstName} gesticula em direção a vários cálices espalhados pelo mapa, \"são os {GLOBAL.DreamersLoreConcept.Hyperlink}. Eles são filhos do {GLOBAL.AllfatherLoreConcept.Hyperlink} e o {GLOBAL.GloomwatchLoreConcept.Hyperlink} lhes tem servido ao longo dos séculos.\"[br/][br/]Por fim, {EventPlayer.FirstName} aponta seu  para um cálice fervendo em lama pútrida: \"Este é {GLOBAL.AthlaLoreConcept.Hyperlink}. O veneno de {Lithyl} a está afogando em pesadelos. Se não nos apressarmos, ela morrerá.\""
 
 msgid "DLC@ELDRITCHREALMS@STORY_EVENT@991_6257@BODY_LORE@NO_ONERON"
 msgstr "Para {EventPlayer}, {GLOBAL.AthlaLoreConcept.Hyperlink} parecia ser mais que apenas um [hyperlink,GLOBAL.WorldsWithinLoreConcept]Mundo Interior[/hyperlink]. Quando {EventPlayer} falou, tinha uma conotação quase íntima, como se {GLOBAL.AthlaLoreConcept.Hyperlink} fosse como uma pessoa que {EventPlayer.FirstName} amava e servia. Dadas as circunstâncias, parece mais sábio buscar o {EventStructure} por conta própria. Para encontrar respostas — e atrasar {Lithyl} em <<o:Lithyl>> ritual vil, se puder."
@@ -35049,7 +35049,7 @@ msgid "DLC@ELDRITCHREALMS@STORY_EVENT@991_6347@BODY_HEADER"
 msgstr "Entre a grama contaminada e as árvores murchas, os poderes florescentes de {EventPlayer} desaparecem."
 
 msgid "DLC@ELDRITCHREALMS@STORY_EVENT@991_6347@BODY_LORE"
-msgstr "\"Ai! Choro por este mundo, por seus prados e florestas, suas charnecas e selvas. E choro por você, {GLOBAL.AthlaLoreConcept.Hyperlink}, amada portadora de fauna e flora.\" O {EventPlayerType} da Natureza abre <<o:EventPlayer>> asas, formando uma cúpula ao redor do corpo colossal de <<m:EventPlayer>>. Trepadeiras desenfreadas brotam do chão, rapidamente cobrindo a cúpula."
+msgstr "\"Ai! Choro por este mundo, por seus prados e florestas, suas charnecas e selvas. E choro por você, {GLOBAL.AthlaLoreConcept.Hyperlink}, amada portadora de fauna e flora.\" O {EventPlayerType} da Natureza abre suas , formando uma cúpula ao redor do corpo colossal de <<m:EventPlayer>>. Trepadeiras desenfreadas brotam do chão, rapidamente cobrindo a cúpula."
 
 msgid "DLC@ELDRITCHREALMS@STORY_EVENT@991_6347@BUTTON_0"
 msgstr "Até mesmo os <<m:EventPlayerType>> caem perante Urrath."
@@ -39048,7 +39048,7 @@ msgid "DLC@EMPIRESANDASHES@STORY_EVENT@1140_853@BUTTON_4"
 msgstr "\"Certamente falaremos novamente no futuro.\""
 
 msgid "DLC@EMPIRESANDASHES@STORY_EVENT@1140_853@BUTTON_5"
-msgstr "\"Sua dependência de alianças o enfraquece. Um verdadeiro Godir pode lutar <<o:PlayerLeader>> próprias batalhas!\" [chaos/]"
+msgstr "\"Sua dependência de alianças o enfraquece. Um verdadeiro Godir pode lutar suas  batalhas!\" [chaos/]"
 
 msgid "DLC@EMPIRESANDASHES@STORY_EVENT@1140_853@TITLE"
 msgstr "O Unificador Athlan"
@@ -39912,7 +39912,7 @@ msgid "DLC@EMPIRESANDASHES@STORY_EVENT@1167_126@BODY_HEADER@ENEMY_IS_PLAYER"
 msgstr "Fazendeiros de <<G:campos^p,EventCity>> solicitam falar com você. Seu líder anuncia que desejam ajudar sua guerra contra {EnemyPlayer}."
 
 msgid "DLC@EMPIRESANDASHES@STORY_EVENT@1167_126@BODY_LORE"
-msgstr "“Sabemos o nosso lugar, meu {PlayerLeader.Title}. Não compreendemos as mentes dos Godir e dos Suseranos.” Os fazendeiros se mexem desconfortavelmente, evitando seu olhar avaliativo. “Entendemos que, se {EnemyPlayer} enviar <<o:EnemyPlayer>> exércitos para {EventCity}, eles devastarão nossas colheitas. E nossas famílias. Portanto, achamos que nossas ferramentas servem como boas armas nas mãos de seus soldados, ó {PlayerLeader.Title}.”"
+msgstr "“Sabemos o nosso lugar, meu {PlayerLeader.Title}. Não compreendemos as mentes dos Godir e dos Suseranos.” Os fazendeiros se mexem desconfortavelmente, evitando seu olhar avaliativo. “Entendemos que, se {EnemyPlayer} enviar seus  para {EventCity}, eles devastarão nossas colheitas. E nossas famílias. Portanto, achamos que nossas ferramentas servem como boas armas nas mãos de seus soldados, ó {PlayerLeader.Title}.”"
 
 msgid "DLC@EMPIRESANDASHES@STORY_EVENT@1167_126@BUTTON_0"
 msgstr "Sim! As forquilhas [food/] são ótimas para esfaquear [unitprod/] também!"
@@ -40203,7 +40203,7 @@ msgid "DLC@EMPIRESANDASHES@STORY_EVENT@1167_84@TITLE"
 msgstr "Toque de My'dhas"
 
 msgid "DLC@EMPIRESANDASHES@STORY_EVENT@1167_85@BODY_FOOTER"
-msgstr "Enquanto My'dhas gasta <<o:EventGodir>> últimos suspiros, suas tropas coletam o tesouro de <<m:EventGodir>>. Como mais você lucrará com a queda de My'dhas?"
+msgstr "Enquanto My'dhas gasta seus  suspiros, suas tropas coletam o tesouro de <<m:EventGodir>>. Como mais você lucrará com a queda de My'dhas?"
 
 msgid "DLC@EMPIRESANDASHES@STORY_EVENT@1167_85@BODY_HEADER"
 msgstr "Seus guerreiros provaram ser mais do que {EventGodir} e <<o:EventGodir>> que o exército dourado negociou. O {GLOBAL.WizardKingLoreConcept} empobrecido jaz aos seus pés."
@@ -47643,7 +47643,7 @@ msgid "DLC@GIANTKINGS@STORY_EVENT@991_7309@BODY_HEADER"
 msgstr "Amedrontadas pelas vastas ruínas desoladas que se estendem até o horizonte, suas tropas são contatadas por um espírito cintilante vindo de longe."
 
 msgid "DLC@GIANTKINGS@STORY_EVENT@991_7309@BODY_LORE"
-msgstr "\"Cuidado, bravos cidadãos!\" O {EventUnit} grita, enquanto {EventUnit} se aproxima. \"Pois vocês estão entrando em uma terra amaldiçoada. Em eras passadas este era o domínio de um terrível [hyperlink,GLOBAL.TraitorKingsLoreConcept]Rei Traidor[/hyperlink]. Embora {EventHero} tenha caído ao merecido castigo de [hyperlink,GLOBAL.ArchonsLoreConcept]meu povo[/hyperlink], <<o:EventHero>> espírito quebrado continua a assolar o reino, infligindo bestas, vermes e até o solo com uma fome insaciável.\""
+msgstr "\"Cuidado, bravos cidadãos!\" O {EventUnit} grita, enquanto {EventUnit} se aproxima. \"Pois vocês estão entrando em uma terra amaldiçoada. Em eras passadas este era o domínio de um terrível [hyperlink,GLOBAL.TraitorKingsLoreConcept]Rei Traidor[/hyperlink]. Embora {EventHero} tenha caído ao merecido castigo de [hyperlink,GLOBAL.ArchonsLoreConcept]meu povo[/hyperlink], seu  quebrado continua a assolar o reino, infligindo bestas, vermes e até o solo com uma fome insaciável.\""
 
 msgid "DLC@GIANTKINGS@STORY_EVENT@991_7309@BUTTON_0"
 msgstr "Considere o aviso do {EventUnit} enquanto suas tropas entram nas ruínas."
@@ -47757,7 +47757,7 @@ msgid "DLC@GIANTKINGS@STORY_EVENT@991_7328@BUTTON_4"
 msgstr "Atrai o {EventStackLeader} para dentro, para esmagá-lo com sua força de vontade [knowledge/]."
 
 msgid "DLC@GIANTKINGS@STORY_EVENT@991_7461@BODY_FOOTER"
-msgstr "Por meio de magia vil, {EventHero} invoca <<o:EventHero>> lacaios para proteger a miserável existência de <<m:EventHero>>. Só um exército poderoso pode desafiar o [hyperlink,GLOBAL.TraitorKingsLoreConcept]Rei Traidor[/hyperlink]."
+msgstr "Por meio de magia vil, {EventHero} invoca seus  para proteger a miserável existência de <<m:EventHero>>. Só um exército poderoso pode desafiar o [hyperlink,GLOBAL.TraitorKingsLoreConcept]Rei Traidor[/hyperlink]."
 
 msgid "DLC@GIANTKINGS@STORY_EVENT@991_7461@BODY_HEADER"
 msgstr "Tendo enfraquecido os aspectos da fome, carnificina e delírio, {EventHero} é forçado a revelar a verdadeira forma de <<m:EventHero>>, um espírito vingativo e amaldiçoado."
@@ -47814,7 +47814,7 @@ msgid "DLC@GIANTKINGS@STORY_EVENT@991_7496@TITLE"
 msgstr "Descobrindo o Monte Godkeep"
 
 msgid "DLC@GIANTKINGS@STORY_EVENT@991_7514@BODY_FOOTER"
-msgstr "Com um grito terrível, o {EventUnit} derrama <<o:EventUnit>> própria alma, buscando escapar do seu alcance."
+msgstr "Com um grito terrível, o {EventUnit} derrama sua  alma, buscando escapar do seu alcance."
 
 msgid "DLC@GIANTKINGS@STORY_EVENT@991_7514@BODY_HEADER"
 msgstr "Espancado e ferido, um {EventUnit} da {GLOBAL.TraitorKingCultLoreConcept.Hyperlink} fala com suas tropas, ainda impregnado de orgulho."
@@ -47904,7 +47904,7 @@ msgid "DLC@GIANTKINGS@STORY_EVENT@991_7522@TITLE@ENTRY_BLOCKED"
 msgstr "Monte Godkeep: Barreira de Gelo"
 
 msgid "DLC@GIANTKINGS@STORY_EVENT@991_7523@BODY_FOOTER"
-msgstr "O {EventUnit} tira <<o:EventUnit>> coroa. \"{PlayerLeader} digno {PlayerLeader.Title}. {EventUnit} não tem mais {GLOBAL.BloodClanLoreConcept.Hyperlink}. Seguirá {PlayerLeader}!\""
+msgstr "O {EventUnit} tira sua . \"{PlayerLeader} digno {PlayerLeader.Title}. {EventUnit} não tem mais {GLOBAL.BloodClanLoreConcept.Hyperlink}. Seguirá {PlayerLeader}!\""
 
 msgid "DLC@GIANTKINGS@STORY_EVENT@991_7523@BODY_HEADER"
 msgstr "Com o {CultHero} caindo vítima da hubris de <<m:CultHero>>, o {EventUnit} retorna à sala do trono {EventUnit} que antes governava."
@@ -51480,7 +51480,7 @@ msgid "DLC@PRIMALFURY@STORY_EVENT@1165_1350@BODY_FOOTER"
 msgstr "Você se encontra entre dois Godir que lutam pelo domínio da natureza. De qual lado você fica?"
 
 msgid "DLC@PRIMALFURY@STORY_EVENT@1165_1350@BODY_HEADER"
-msgstr "Logo após encontrar {EventPlayer.TitleName}, {EventPlayer} entra em contato com você. \"As bênçãos da Natureza-\" {EventPlayer} começa, mas antes que {EventPlayer} possa terminar <<o:EventPlayer>> saudação, {EventPlayer} é interrompido por {EventPlayer2.TitleName}."
+msgstr "Logo após encontrar {EventPlayer.TitleName}, {EventPlayer} entra em contato com você. \"As bênçãos da Natureza-\" {EventPlayer} começa, mas antes que {EventPlayer} possa terminar sua , {EventPlayer} é interrompido por {EventPlayer2.TitleName}."
 
 msgid "DLC@PRIMALFURY@STORY_EVENT@1165_1350@BODY_LORE"
 msgstr "Imediatamente, os dois {GLOBAL.GodirLoreConcept.Hyperlink} começam a discutir. \"As bênçãos da {GLOBAL.NatureConcept} devem ser protegidas, não torcidas e degeneradas,\" {Serena.FirstName} zombou: \"Todos que ameaçarem meu domínio serão exterminados, até as 'deusas' loucas como {Nimue.FirstName}.\"[br/][br/]{Nimue.FirstName} escarnece. \"Meu {NimueRace} inundará suas preciosas florestas. Só os mais fortes sobrevivem à maré, e para isso, vocês devem se adaptar. Permitam-me demonstrar, {Serena.FirstName}!\""
@@ -51600,7 +51600,7 @@ msgid "DLC@PRIMALFURY@STORY_EVENT@1167_203@TITLE"
 msgstr "Insaciável"
 
 msgid "DLC@PRIMALFURY@STORY_EVENT@1167_204@BODY_FOOTER"
-msgstr "{EventCultureUnit} olha para você, confuso. Você ruge: \"O {EventRace} saciou a fome do {PlayerSpirit}! {PlayerSpirit.LoreName} nos deixou <<o:{PlayerSpirit.LoreName}>> bênção!\" Onde você o encontrará?"
+msgstr "{EventCultureUnit} olha para você, confuso. Você ruge: \"O {EventRace} saciou a fome do {PlayerSpirit}! {PlayerSpirit.LoreName} nos deixou sua !\" Onde você o encontrará?"
 
 msgid "DLC@PRIMALFURY@STORY_EVENT@1167_204@BODY_HEADER"
 msgstr "Com a construção do último [hyperlink,GLOBAL.ConduitConcept][conduit/]Conduit[/hyperlink] concluída, o silêncio já familiar recai sobre seu domínio mais uma vez. Você sabe que {PlayerSpirit.LoreName} retornou."
@@ -51876,7 +51876,7 @@ msgid "DLC@PRIMALFURY@STORY_EVENT@1167_251@BODY_HEADER"
 msgstr "Suas tropas se aproximam de um {EventStructure.Name}, mas são impedidas por uma companhia de {EventHouse}. \"Fiquem longe! Acreditamos que o {EventHouseSpirit} está aqui.\""
 
 msgid "DLC@PRIMALFURY@STORY_EVENT@1167_251@BODY_LORE"
-msgstr "Um {EventUnit} anda com os olhos fechados, cantando suavemente. \"Por favor, vá embora!\", insiste o líder da companhia. \"Acreditamos que {EventHouseSpirit.LoreName}, o {EventHouseSpirit}, reside neste {EventStructure.Name}. Nosso xamã está tentando fazer contato.\" O {EventUnit} ajoelha-se e coloca <<o:EventUnit>> palmas no chão. \"Partiremos assim que {EventUnit} confirmar a presença do Grande <<C:HouseSpiritAnimal>>.\""
+msgstr "Um {EventUnit} anda com os olhos fechados, cantando suavemente. \"Por favor, vá embora!\", insiste o líder da companhia. \"Acreditamos que {EventHouseSpirit.LoreName}, o {EventHouseSpirit}, reside neste {EventStructure.Name}. Nosso xamã está tentando fazer contato.\" O {EventUnit} ajoelha-se e coloca suas  no chão. \"Partiremos assim que {EventUnit} confirmar a presença do Grande <<C:HouseSpiritAnimal>>.\""
 
 msgid "DLC@PRIMALFURY@STORY_EVENT@1167_251@BUTTON_0"
 msgstr "Doe mana [mana/] para acelerar a <<G:survey^n,EventUnit>>."
@@ -55410,7 +55410,7 @@ msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1357@BODY_FOOTER"
 msgstr "Você esperará até que o <<m:EventStackLeader>> termine sua pesquisa, ou tentará acelerar o processo?"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1357@BODY_HEADER"
-msgstr "Um {EventStackLeader} e <<o:EventStackLeader>> companheiros de {EventHouse} estão avaliando o {EventStructure} para ver se devem extrair seus recursos."
+msgstr "Um {EventStackLeader} e seus  de {EventHouse} estão avaliando o {EventStructure} para ver se devem extrair seus recursos."
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1167_1357@BODY_LORE"
 msgstr "Caso o {EventStackLeader} considere o {EventStructure} adequado para extração, {EventHouse} pode decidir reivindicá‑lo para si. Como o {EventHouseRace} costuma fazer, eles então eventualmente extrairão todo o {EventResource} dele até que se esgote completamente. Mas, dado <<G:sobrancelha franzida^n,EventStackLeader>> e a frequência dos <<o:EventStackLeader>> suspiros, qualquer interesse real neste {EventStructure} parece improvável."
@@ -56484,7 +56484,7 @@ msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_86@TITLE"
 msgstr "Colinas Fantasmas: Construtos Reaproveitados"
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_91@BODY_FOOTER"
-msgstr "\"A vontade do nosso {EventUnit} nos mantém cativos,\" o {EventStackLeader} encerra a <<o:EventStackLeader>> história. \"Somos fantasmas desamparados, eternamente acorrentados a um propósito perdido.\""
+msgstr "\"A vontade do nosso {EventUnit} nos mantém cativos,\" o {EventStackLeader} encerra a sua . \"Somos fantasmas desamparados, eternamente acorrentados a um propósito perdido.\""
 
 msgid "DLC@RISEFROMRUIN@STORY_EVENT@1252_91@BODY_FOOTER@MORALE_RESTORED"
 msgstr "O exército está pronto para atacar {EventCityName}."
@@ -57081,7 +57081,7 @@ msgid "DLC@RISEFROMRUIN@TSR_PH@EVENT_TOOLTIP@GOLEM_REPAIRED"
 msgstr "Você recupera <<m:{EventStackLeader}>>."
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@EVENT_TOOLTIP@HOST_FIGHT"
-msgstr "Entre em combate com o {EventStackLeader} e a <<o:EventStackLeader>> hoste fantasmagórica. Se derrotá-los, você reúne a hoste."
+msgstr "Entre em combate com o {EventStackLeader} e a sua  fantasmagórica. Se derrotá-los, você reúne a hoste."
 
 msgid "DLC@RISEFROMRUIN@TSR_PH@EVENT_TOOLTIP@MORALE_RAISED"
 msgstr "Você reúne a hoste fantasmagórica."
@@ -59598,7 +59598,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1167_1492@BODY_FOOTER@HERO_IS_PLAYE
 msgstr "Os <<m:EventUnit>> observam seus guerreiros, que sentem um calor incômodo crescer dentro deles. Você pode extinguir essa ameaça flamejante?"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1167_1492@BODY_HEADER"
-msgstr "Abrindo <<o:EventHero>> caminho pelo domínio carbonizado e inundado de lava, {EventHero} sente o sabor de cinzas no ar enquanto {EventHero} se aproxima de {EventStructure}."
+msgstr "Abrindo seu  pelo domínio carbonizado e inundado de lava, {EventHero} sente o sabor de cinzas no ar enquanto {EventHero} se aproxima de {EventStructure}."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1167_1492@BODY_HEADER@HERO_IS_CREATOR"
 msgstr "Você hesita em entrar em {EventStructure} enquanto memórias dolorosas surgem diante de seus olhos. Mesmo assim, você avança para a cripta escaldante."
@@ -59910,10 +59910,10 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1167_1508@BODY_FOOTER@HERO_IS_PLAYE
 msgstr "{EventRace} emergem do {EventStructure} e o encaram com suspeita. Eles seguram seus martelos na expectativa da sua resposta."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1167_1508@BODY_HEADER"
-msgstr "O {EventStructure} pulsa com energia tênue. Um {EnemyUnit} coloca <<o:EnemyUnit>> garra emplumada na estrutura enquanto {EnemyUnit} percebe {EventHero}."
+msgstr "O {EventStructure} pulsa com energia tênue. Um {EnemyUnit} coloca sua  emplumada na estrutura enquanto {EnemyUnit} percebe {EventHero}."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1167_1508@BODY_HEADER@HERO_IS_PLAYERLE"
-msgstr "O {EventStructure} pulsa com energia tênue. Um {EnemyUnit} coloca <<o:EnemyUnit>> garra emplumada na estrutura enquanto {EnemyUnit} percebe você."
+msgstr "O {EventStructure} pulsa com energia tênue. Um {EnemyUnit} coloca sua  emplumada na estrutura enquanto {EnemyUnit} percebe você."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1167_1508@BODY_LORE"
 msgstr "\"Os <<m:EventStructure>> são meras ferramentas,\" proclama o {EnemyUnit}. \"O verdadeiro tesouro que guardamos dentro. Só quem resolver este enigma pode passar: [br/][br/]Na escuridão eu sou obtido, [br/]Para que eu possa brilhar ao sol. [br/]Sou usado pelos lordes, [br/]Guardado em tesouros de dragões, [br/]Mas para que um mundo melhor exista, [br/]Seu coração deveria ser feito de mim. [br/]O que sou eu?\""
@@ -60021,7 +60021,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1167_1511@BODY_HEADER@HERO_IS_PLAYE
 msgstr "O {EnemyUnit} e os {EventRace} armados diante do {EventStructure} parecem surpresos ao encontrar você e seu exército ali."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1167_1511@BODY_LORE"
-msgstr "\"Você nos vê? E o {EventStructure.Name}?\" A dúvida franze a <<o:EnemyUnit>> sobrancelha emplumada. \"O {EventRace} perdeu o poder de envolver o <<m:EventStructure>>? Nossos enigmas perderam também seu poder de proteção? Ouçam:[br/][br/]Sou muitos e sou um. [br/]Dou a você minha lealdade. [br/]Sou a filha. Sou o filho. [br/]Suas cidades foram construídas para mim. [br/] O que sou?\""
+msgstr "\"Você nos vê? E o {EventStructure.Name}?\" A dúvida franze a sua  emplumada. \"O {EventRace} perdeu o poder de envolver o <<m:EventStructure>>? Nossos enigmas perderam também seu poder de proteção? Ouçam:[br/][br/]Sou muitos e sou um. [br/]Dou a você minha lealdade. [br/]Sou a filha. Sou o filho. [br/]Suas cidades foram construídas para mim. [br/] O que sou?\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1167_1511@BUTTON_0"
 msgstr "\"Vocês são meu povo, os {EventRace}.\" [population/] [evilact/]"
@@ -62076,7 +62076,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_698@BODY_LORE"
 msgstr "\"Bem-vindo a {GLOBAL.ObbadothLoreConcept.Hyperlink}, {GLOBAL.GodirLoreConcept.Hyperlink},\" reconhece {Ysariel}. \"Atendeu ao meu chamado, por isso lhe ofereço minha gratidão. Contudo, é você meu <<PlayerLeader{Irmão/Irmã}>>, ou é meu inimigo? Prove sua intenção agora: jure um 'Pacto de Irmandade' comigo, jure-o sobre sua alma imortal, para que possamos restaurar a ordem abandonada do {EventRealm}, juntos. Mas, se ousar recusar-me, sofrerá minha ira!\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_698@BODY_LORE@KARISSA_BOUND"
-msgstr "{Karissa.FirstName} agarra um punhado de cinzas de <<m:Ysariel>>, beija-o suavemente na <<o:Karissa>> mão antes de soprá-lo ao ar. Sem sequer lhe reconhecer, {Karissa} se vira, caminha até a borda da cratera e se deleita no calor de {GLOBAL.ObbadothLoreConcept.Hyperlink} por um momento. Então {Karissa} abre os braços e solta um Grito Selvagem do Caos, tão alto que reverbera por todo o reino!"
+msgstr "{Karissa.FirstName} agarra um punhado de cinzas de <<m:Ysariel>>, beija-o suavemente na sua  antes de soprá-lo ao ar. Sem sequer lhe reconhecer, {Karissa} se vira, caminha até a borda da cratera e se deleita no calor de {GLOBAL.ObbadothLoreConcept.Hyperlink} por um momento. Então {Karissa} abre os braços e solta um Grito Selvagem do Caos, tão alto que reverbera por todo o reino!"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_698@BUTTON_0"
 msgstr "\"Pela minha alma juro: seremos Irmãos!\""
@@ -62283,7 +62283,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_793@BODY_HEADER"
 msgstr "Com um grito de guerra que sacode a Abismo, {Ysariel.Name} desce do alto: \"Vá embora, demônio imundo! Lembre-se do nosso Pacto!\" {Ysariel} grita, enquanto {Ysariel} mergulha com a brilhante espada flamejante <<o:Ysariel>> na mão!"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_793@BODY_LORE"
-msgstr "Permanece terrivelmente silencioso, pois parece que [hyperlink,GLOBAL.DemonicOverlordLoreConcept]{Balorboss}[/hyperlink] reluta em responder... Mas então {Balorboss} grita em voz alta: \"CRUD! Crud! Cruuuuuuuuud!\" ruge {Balorboss}. \"Maldito seja você, {Player.FirstName}! O Pacto de {EventRealm} me impede de matar um Irmão Juramentado <<PlayerLeader{Brother/Sister}>> de {Ysariel.FirstName}! Maldito <<P:Ysariel>>! Maldita <<o:Ysariel>> alma miserável e piedosa! É minha! MINHA! Minha, eu digo! Wuaaaaargh!\""
+msgstr "Permanece terrivelmente silencioso, pois parece que [hyperlink,GLOBAL.DemonicOverlordLoreConcept]{Balorboss}[/hyperlink] reluta em responder... Mas então {Balorboss} grita em voz alta: \"CRUD! Crud! Cruuuuuuuuud!\" ruge {Balorboss}. \"Maldito seja você, {Player.FirstName}! O Pacto de {EventRealm} me impede de matar um Irmão Juramentado <<PlayerLeader{Brother/Sister}>> de {Ysariel.FirstName}! Maldito <<P:Ysariel>>! Maldita sua  miserável e piedosa! É minha! MINHA! Minha, eu digo! Wuaaaaargh!\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_793@BUTTON_0"
 msgstr "\"Adeus! {Balorboss} está derrotado.\""
@@ -62466,7 +62466,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_826@TITLE"
 msgstr "Rex Acumulador: Cuidado com seus Lobos!"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_843@BODY_FOOTER"
-msgstr "{Walburgis.FirstName} está diante de você, e {Walburgis} é repugnante! Repugnante de se ver, mas tão desejável. Por <<o:Walburgis>> poder! O poder que {Walburgis} pode conceder a você? É irresistível... ou será? A escolha é sua:"
+msgstr "{Walburgis.FirstName} está diante de você, e {Walburgis} é repugnante! Repugnante de se ver, mas tão desejável. Por seu ! O poder que {Walburgis} pode conceder a você? É irresistível... ou será? A escolha é sua:"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_843@BODY_HEADER"
 msgstr "Assim, {Walburgis.Name}, {Walburgis.Title} da {WalburgisRace} e protetor da {WalburgisCapital} aparece diante de você."
@@ -62556,7 +62556,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_888@BODY_HEADER"
 msgstr "Você se aproxima de {Karissa.FirstName} que morde <<m:Karissa>> lábio com um sorriso perverso ao ver você. \"Hmm... Você tem o que é preciso? Ainda não consigo dizer, como... 'emocionante'.\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_888@BODY_LORE"
-msgstr "\"Ah. Caos,\" suspira {Karissa.FirstName}, soltando <<o:Karissa>> lábio, \"este mundo está repleto dele, porém seu verdadeiro potencial foi castrado há muito pelo domínio da Ordem. Vim romper suas correntes, e todos são bem-vindos para se juntar. Sim, todos, até você! Sim... bem... se puder suportar o calor, se puder suportar... a mim.\" Karissa dá um passo sugestivo para trás enquanto seu corpo inteiro se incendeia."
+msgstr "\"Ah. Caos,\" suspira {Karissa.FirstName}, soltando seu , \"este mundo está repleto dele, porém seu verdadeiro potencial foi castrado há muito pelo domínio da Ordem. Vim romper suas correntes, e todos são bem-vindos para se juntar. Sim, todos, até você! Sim... bem... se puder suportar o calor, se puder suportar... a mim.\" Karissa dá um passo sugestivo para trás enquanto seu corpo inteiro se incendeia."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_888@BUTTON_0"
 msgstr "\"Eu te encontrarei lá!\""
@@ -62571,7 +62571,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_888@TITLE"
 msgstr "Abertura Flamejante"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_889@BODY_FOOTER"
-msgstr "{Karissa.FirstName} pisca <<o:Karissa>> olhos e faz beicinho <<o:Karissa>> lábios em inocência fingida. \"Como gostaria de... despedaçar tudo de {GLOBAL.ObbadothLoreConcept.Hyperlink} e renascer isso—juntos—comigo?\""
+msgstr "{Karissa.FirstName} pisca seus  e faz beicinho seus  em inocência fingida. \"Como gostaria de... despedaçar tudo de {GLOBAL.ObbadothLoreConcept.Hyperlink} e renascer isso—juntos—comigo?\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_889@BODY_HEADER"
 msgstr "Ao expandir seu {GLOBAL.ChaosConcept.Hyperlink}, uma sensação quente e familiar acaricia sua mente. E com um estrondo selvagem de chamas e gargalhadas loucas, {Karissa.FirstName} aparece novamente diante de você."
@@ -62685,7 +62685,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1016@BODY_FOOTER"
 msgstr "{EventPlayer} desaba, <<o:EventPlayer>> cronosfera rolando ladeira abaixo."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1016@BODY_HEADER"
-msgstr "Com todas as ilusões e barreiras mágicas de <<m:EventPlayer>> despedaçadas, {EventPlayer} <<r:EventPlayer>> desaba sobre <<o:EventPlayer>> joelhos."
+msgstr "Com todas as ilusões e barreiras mágicas de <<m:EventPlayer>> despedaçadas, {EventPlayer} <<r:EventPlayer>> desaba sobre seus ."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1016@BODY_LORE"
 msgstr "\"Acho que é isso,\" {EventPlayer} grita, ofegante. \"Mereço isso por tentar ser o mocinho por tanto tempo. Já cuidou de um Leviatã?\" {EventPlayer} tenta rir, mas a voz de <<m:EventPlayer>> quebra.[br/][br/]\"Mas agora nossos destinos estão muito entrelaçados; não posso partir. Que pena: nunca alcançarei aquele Império... dos Ex...\""
@@ -62721,7 +62721,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1071@BODY_HEADER"
 msgstr "Ao ver os semelhantes de <<m:EventPlayer>> espalhados e mortos, {EventPlayer} envia uma oração final à deusa <<o:EventPlayer>>."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1071@BODY_LORE"
-msgstr "\"Ó Grande Mãe,\" {EventPlayer} suplica, \"o Leviatã Arcano, ruína dos Draconianos, retornou para causar estragos em seus filhos. Lutamos arduamente para subjugá-lo, mas seu poder está além do nosso, esmagando toda resistência.\"[br/][br/]{EventPlayer.FirstName} reúne as últimas forças de <<m:EventPlayer>> para cravar <<o:EventPlayer>> cajado no chão. \"Imploro-lhe, Grande Mãe, salve os indignos de sua graça!\""
+msgstr "\"Ó Grande Mãe,\" {EventPlayer} suplica, \"o Leviatã Arcano, ruína dos Draconianos, retornou para causar estragos em seus filhos. Lutamos arduamente para subjugá-lo, mas seu poder está além do nosso, esmagando toda resistência.\"[br/][br/]{EventPlayer.FirstName} reúne as últimas forças de <<m:EventPlayer>> para cravar seu  no chão. \"Imploro-lhe, Grande Mãe, salve os indignos de sua graça!\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1071@BUTTON_0"
 msgstr "Eles estão com o Guardião da Clareira agora."
@@ -62886,7 +62886,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1187@BODY_HEADER"
 msgstr "\"{PlayerLeader.FirstName}\", a voz vacilante de {EventPlayer.FirstName} chama por você: \"Receio... que a minha sorte tenha se acabado.\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1187@BODY_LORE"
-msgstr "Então, com um suspiro silencioso, o <<G:espírito^n,{EventPlayer.FirstName}>> aparece arrastado diante do {EventStructure}, e a atenção ávida de todos os {GLOBAL.DuathadaeLoreConcept.Hyperlink} se volta para <<P:EventPlayer>>. \"Útil\", tilintam as quatro vozes em coro, enquanto o <<G:poder^n,{EventPlayer.FirstName}>> é subitamente sifonada do <<o:EventPlayer>> espírito desamparado com grande intensidade. \"F... fuja!\", engasga {EventPlayer.FirstName}."
+msgstr "Então, com um suspiro silencioso, o <<G:espírito^n,{EventPlayer.FirstName}>> aparece arrastado diante do {EventStructure}, e a atenção ávida de todos os {GLOBAL.DuathadaeLoreConcept.Hyperlink} se volta para <<P:EventPlayer>>. \"Útil\", tilintam as quatro vozes em coro, enquanto o <<G:poder^n,{EventPlayer.FirstName}>> é subitamente sifonada do seu  desamparado com grande intensidade. \"F... fuja!\", engasga {EventPlayer.FirstName}."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1187@BUTTON_0"
 msgstr "\"A missão está perdida...\""
@@ -63231,7 +63231,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_225@BODY_FOOTER"
 msgstr "\"Prepare‑se para o frio extremo,\" {EventPlayer} avisa. \"Pois é onde as criações de Artica prosperam.\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_225@BODY_HEADER"
-msgstr "No gélido {EventStructure}, {EventPlayer} aguarda suas tropas, envolto no <<o:EventPlayer>> manto."
+msgstr "No gélido {EventStructure}, {EventPlayer} aguarda suas tropas, envolto no seu ."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_225@BODY_LORE"
 msgstr "\"As terras congeladas, onde as nevascas rugem e as auroras boreais encantam o céu, sempre foram domínio de {GLOBAL.ArticaLoreConcept.Hyperlink},\" {EventPlayer} explica, enquanto afasta o vento gelado. \"Sua ligação com os Frostlings sempre pareceu ser mais profunda que a da maioria dos outros <<m:{GLOBAL.WizardKingLoreConcept.Hyperlink}>>. Não apenas nos mitos se especula sobre sua relação com as Rainhas da Geada. O sangue é mais espesso que a água; ou o gelo, neste caso.\""
@@ -63294,7 +63294,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_235@BODY_HEADER"
 msgstr "\"Sua fraqueza não me diz respeito, {EventPlayer},\" {Nekron.FirstName} retruca. \"Onde você sucumbiu, eu triunfo.\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_235@BODY_LORE"
-msgstr "\"E quanto a você, {PlayerLeader}?\" {Nekron.FirstName} pergunta, de repente dirigindo-se a você. \"Por que seguiria um 'peão quebrado'? Não me confunda com um servo de {GLOBAL.UrrathLoreConcept.Hyperlink}. Um mestre da morte pode conceder presentes eternos <<o:Nekron>> próprios, e conhece muitos amigos por todo o {GLOBAL.WorldsWithinLoreConcept.Hyperlink}, tecendo um novo Domínio...\"[br/][br/]\"Não vamos perder tempo aqui,\" {EventPlayer} interrompe {Nekron.FirstName}, \"{PlayerLeader}, esta é mais uma Ilha Encoberta a menos para explorar, pois você ouviu o que esperar de {Nekron.FirstName} '{Nekron.LastName}'.\""
+msgstr "\"E quanto a você, {PlayerLeader}?\" {Nekron.FirstName} pergunta, de repente dirigindo-se a você. \"Por que seguiria um 'peão quebrado'? Não me confunda com um servo de {GLOBAL.UrrathLoreConcept.Hyperlink}. Um mestre da morte pode conceder presentes eternos seus , e conhece muitos amigos por todo o {GLOBAL.WorldsWithinLoreConcept.Hyperlink}, tecendo um novo Domínio...\"[br/][br/]\"Não vamos perder tempo aqui,\" {EventPlayer} interrompe {Nekron.FirstName}, \"{PlayerLeader}, esta é mais uma Ilha Encoberta a menos para explorar, pois você ouviu o que esperar de {Nekron.FirstName} '{Nekron.LastName}'.\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_235@BUTTON_0"
 msgstr "Jure eliminar {Nekron} [rs_war/] e conter a praga de mortos‑vivos de <<m:EventPlayer>>."
@@ -63456,7 +63456,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_348@BODY_HEADER"
 msgstr "Com o avatar do Leviatã Arcano derrotado, a criatura colossal sucumbe lentamente a <<ge:enchantments^n,{EventPlayer.FirstName}>>, retornando ao seu sono profundo."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_348@BODY_LORE"
-msgstr "\"Está feito,\" {EventPlayer} declara, os tentáculos sob <<o:EventPlayer>> manto flutuam calmamente. \"Agora começa o tempo de vigília; enquanto alguém precisa cuidar do pobre {Symon}.\"[br/][br/]\"Mas tudo isso não deve ser problema seu, {PlayerLeader}; pelo menos não hoje. Hoje você deve descansar, recuperar-se da batalha por Evermore. Amanhã, os segredos do cosmos ainda aguardam você.\""
+msgstr "\"Está feito,\" {EventPlayer} declara, os tentáculos sob seu  flutuam calmamente. \"Agora começa o tempo de vigília; enquanto alguém precisa cuidar do pobre {Symon}.\"[br/][br/]\"Mas tudo isso não deve ser problema seu, {PlayerLeader}; pelo menos não hoje. Hoje você deve descansar, recuperar-se da batalha por Evermore. Amanhã, os segredos do cosmos ainda aguardam você.\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_348@BUTTON_0"
 msgstr "Um livro tem muitos capítulos."
@@ -63510,7 +63510,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_360@BODY_HEADER"
 msgstr "Emitindo um último e apagado grito, o Leviatã Arcano repousa sob Evermore, retornando ao seu sono profundo."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_360@BODY_LORE"
-msgstr "\"Está feito,\" {EventPlayer} declara, os tentáculos sob <<o:EventPlayer>> manto flutuam calmamente. \"Agora começa o tempo de vigília; enquanto alguém precisa cuidar do pobre {Symon}. {Symon} desabou no momento em que o Leviatã ficou em silêncio.\"[br/][br/]\"Mas tudo isso não deve ser problema seu, {PlayerLeader}; pelo menos não hoje. Hoje você deve descansar, recuperar-se da batalha por Evermore. Amanhã, os segredos do cosmos ainda aguardam você.\""
+msgstr "\"Está feito,\" {EventPlayer} declara, os tentáculos sob seu  flutuam calmamente. \"Agora começa o tempo de vigília; enquanto alguém precisa cuidar do pobre {Symon}. {Symon} desabou no momento em que o Leviatã ficou em silêncio.\"[br/][br/]\"Mas tudo isso não deve ser problema seu, {PlayerLeader}; pelo menos não hoje. Hoje você deve descansar, recuperar-se da batalha por Evermore. Amanhã, os segredos do cosmos ainda aguardam você.\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_360@BUTTON_0"
 msgstr "Um livro tem muitos capítulos."
@@ -63621,7 +63621,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_435@BODY_HEADER"
 msgstr "Com o {EnemyRace} derrotado, os {GLOBAL.PellariLoreConcept.Hyperlink} sobreviventes se reúnem ao seu redor, curiosos e agradecidos. Um deles, uma toupeira, fala."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_435@BODY_LORE"
-msgstr "\"Herói amigo, você é nosso salvador!\" {EventUnit} grita, sacudindo as próprias mãos de <<m:EventUnit>> em alegria incontrolável. \"Os Pálidos nos fazem mal. Vejam, o pobre Maple aqui teve as patas arranhadas e o pelo de Sunshine ficou todo apertado quando a enfiaram naquela jaula horrível. E então todos os outros\", a toupeira espreita a cena da destruição, mas rapidamente vira <<o:EventUnit>> cabeça de volta, sorrindo novamente."
+msgstr "\"Herói amigo, você é nosso salvador!\" {EventUnit} grita, sacudindo as próprias mãos de <<m:EventUnit>> em alegria incontrolável. \"Os Pálidos nos fazem mal. Vejam, o pobre Maple aqui teve as patas arranhadas e o pelo de Sunshine ficou todo apertado quando a enfiaram naquela jaula horrível. E então todos os outros\", a toupeira espreita a cena da destruição, mas rapidamente vira sua  de volta, sorrindo novamente."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_435@BUTTON_0"
 msgstr "Fique em silêncio, perplexo com a pergunta."
@@ -63897,7 +63897,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_627@TITLE"
 msgstr "Segredos dos Arquimagos: A Riqueza de Marinus"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_630@BODY_FOOTER"
-msgstr "\"Sou o último\", o {EventUnit} encerra <<o:EventUnit>> história. {EventUnit} também sofre da maldição Umbral."
+msgstr "\"Sou o último\", o {EventUnit} encerra sua . {EventUnit} também sofre da maldição Umbral."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_630@BODY_HEADER"
 msgstr "Dentro do {GLOBAL.ShadowRealmLoreConcept.Hyperlink} de {EventStructure} suas tropas encontram um {EventUnit} solitário, cercado por uma penumbra rastejante."
@@ -67725,10 +67725,10 @@ msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1256@TITLE"
 msgstr "{EventStackLeader.FirstName}, o Caçador de Vampiros: Consequência"
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1262@BODY_FOOTER"
-msgstr "O {EnemyUnit}, tão cego quanto <<o:EnemyUnit>> morcegos, avança em sua direção de forma ameaçadora. <<Co:EnemyUnit>> sanguinários <<m:EventUnit>> seguem o exemplo. Como {EventHero.FirstName} prosseguirá?"
+msgstr "O {EnemyUnit}, tão cego quanto seus , avança em sua direção de forma ameaçadora. <<Co:EnemyUnit>> sanguinários <<m:EventUnit>> seguem o exemplo. Como {EventHero.FirstName} prosseguirá?"
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1262@BODY_FOOTER@HERO_IS_PLAYELEA"
-msgstr "O {EnemyUnit}, tão cego quanto <<o:EnemyUnit>> morcegos, avança em sua direção de forma ameaçadora. <<Co:EnemyUnit>> sanguinários <<m:EventUnit>> seguem o exemplo. Como você prosseguirá?"
+msgstr "O {EnemyUnit}, tão cego quanto seus , avança em sua direção de forma ameaçadora. <<Co:EnemyUnit>> sanguinários <<m:EventUnit>> seguem o exemplo. Como você prosseguirá?"
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1262@BODY_HEADER"
 msgstr "{EventHero} desce na escuridão do {EventStructure}, e gritos agudos ecoam nas paredes da caverna como boas-vindas."
@@ -67737,10 +67737,10 @@ msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1262@BODY_HEADER@HERO_IS_PLAYELEA"
 msgstr "Você entra na escuridão do {EventStructure}, e gritos agudos ecoam nas paredes da caverna como boas-vindas."
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1262@BODY_LORE"
-msgstr "<<m:EventUnit>>, criados por um {EnemyUnit} desequilibrado, são a origem dos gritos. Seu horrorizado {GLOBAL.HeroConcept.Hyperlink} testemunha como o {EnemyUnit} oferece <<o:EnemyUnit>> braços ao <<m:EventUnit>>, que bebem voluntariamente <<o:EnemyUnit>> sangue. \"Bebam, meus bichos,\" {EnemyUnit} clama em agonia. \"Bebam e logo serei um {GLOBAL.ElderVampireLoreConcept.Hyperlink}!\" {EnemyUnit} então percebe a presença de suas tropas e retira <<o:EnemyUnit>> braço."
+msgstr "<<m:EventUnit>>, criados por um {EnemyUnit} desequilibrado, são a origem dos gritos. Seu horrorizado {GLOBAL.HeroConcept.Hyperlink} testemunha como o {EnemyUnit} oferece seus  ao <<m:EventUnit>>, que bebem voluntariamente seu . \"Bebam, meus bichos,\" {EnemyUnit} clama em agonia. \"Bebam e logo serei um {GLOBAL.ElderVampireLoreConcept.Hyperlink}!\" {EnemyUnit} então percebe a presença de suas tropas e retira seu ."
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1262@BODY_LORE@HERO_IS_PLAYELEA"
-msgstr "<<m:EventUnit>>, criados por um {EnemyUnit} desequilibrado, são a origem dos gritos. Você testemunha, horrorizado, como o {EnemyUnit} oferece <<o:EnemyUnit>> braços ao <<m:EventUnit>>, que bebem voluntariamente <<o:EnemyUnit>> sangue. \"Bebam, meus bichos,\" {EnemyUnit} clama em agonia. \"Bebam e logo serei um {GLOBAL.ElderVampireLoreConcept.Hyperlink}!\" {EnemyUnit} então percebe sua presença e retira <<o:EnemyUnit>> braço."
+msgstr "<<m:EventUnit>>, criados por um {EnemyUnit} desequilibrado, são a origem dos gritos. Você testemunha, horrorizado, como o {EnemyUnit} oferece seus  ao <<m:EventUnit>>, que bebem voluntariamente seu . \"Bebam, meus bichos,\" {EnemyUnit} clama em agonia. \"Bebam e logo serei um {GLOBAL.ElderVampireLoreConcept.Hyperlink}!\" {EnemyUnit} então percebe sua presença e retira seu ."
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1262@BUTTON_0"
 msgstr "Corte as asas dos morcegos! Ataque!"
@@ -68034,10 +68034,10 @@ msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1291@TITLE"
 msgstr "Preceitos do Sangrador"
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1292@BODY_FOOTER"
-msgstr "O {EnemyUnit} uiva euforicamente e <<o:EnemyUnit>> discípulos se aglomeram ao redor de <<P:EnemyUnit>>: \"Ensinem a esses espiões não convidados o que é a dor!\" Como {EventHero} responderá?"
+msgstr "O {EnemyUnit} uiva euforicamente e seus  se aglomeram ao redor de <<P:EnemyUnit>>: \"Ensinem a esses espiões não convidados o que é a dor!\" Como {EventHero} responderá?"
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1292@BODY_FOOTER@HERO_IS_PLAYELEA"
-msgstr "O {EnemyUnit} uiva euforicamente e <<o:EnemyUnit>> discípulos se aglomeram ao redor de <<P:EnemyUnit>>: \"Ensinem a esses espiões não convidados o que é a dor!\" Como você responderá?"
+msgstr "O {EnemyUnit} uiva euforicamente e seus  se aglomeram ao redor de <<P:EnemyUnit>>: \"Ensinem a esses espiões não convidados o que é a dor!\" Como você responderá?"
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1292@BODY_HEADER"
 msgstr "{EventHero} está inicialmente apreensivo com os gritos que saem do {EventStructure} abaixo de <<P:EventHero>>. Mas o riso subsequente desperta a curiosidade de <<m:EventHero>>."
@@ -68046,10 +68046,10 @@ msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1292@BODY_HEADER@HERO_IS_PLAYELEA"
 msgstr "Você está inicialmente apreensivo com os gritos que saem do {EventStructure} abaixo de você. Mas o riso subsequente desperta sua curiosidade."
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1292@BODY_LORE"
-msgstr "{EventHero.FirstName} descobre o espetáculo interior com horror. Um {EnemyUnit} instrui <<o:EnemyUnit>> acólitos nos Ensinamentos da Dor: eles beliscam, esfaqueiam, torcem e abrem um ao outro. Sangue jorra de suas feridas auto-infligidas, e gritos eufóricos ecoam de suas gargantas. O {EnemyUnit}, adornado com respingos de sangue, sorri com deleite ansioso quando {EnemyUnit} avista <<G:army^n,{EventHero.FirstName}>> e sussurra: \"Mais carne disposta?\""
+msgstr "{EventHero.FirstName} descobre o espetáculo interior com horror. Um {EnemyUnit} instrui seus  nos Ensinamentos da Dor: eles beliscam, esfaqueiam, torcem e abrem um ao outro. Sangue jorra de suas feridas auto-infligidas, e gritos eufóricos ecoam de suas gargantas. O {EnemyUnit}, adornado com respingos de sangue, sorri com deleite ansioso quando {EnemyUnit} avista <<G:army^n,{EventHero.FirstName}>> e sussurra: \"Mais carne disposta?\""
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1292@BODY_LORE@HERO_IS_PLAYELEA"
-msgstr "Você descobre o espetáculo interior com horror. Um {EnemyUnit} instrui <<o:EnemyUnit>> acólitos nos Ensinamentos da Dor: eles beliscam, esfaqueiam, torcem e abrem um ao outro. Sangue jorra de suas feridas auto-infligidas, e gritos eufóricos ecoam de suas gargantas. O {EnemyUnit}, adornado com respingos de sangue, sorri com deleite ansioso quando {EnemyUnit} avista seu exército e sussurra: \"Mais carne disposta?\""
+msgstr "Você descobre o espetáculo interior com horror. Um {EnemyUnit} instrui seus  nos Ensinamentos da Dor: eles beliscam, esfaqueiam, torcem e abrem um ao outro. Sangue jorra de suas feridas auto-infligidas, e gritos eufóricos ecoam de suas gargantas. O {EnemyUnit}, adornado com respingos de sangue, sorri com deleite ansioso quando {EnemyUnit} avista seu exército e sussurra: \"Mais carne disposta?\""
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1292@BUTTON_0"
 msgstr "\"Não há dor na morte! Derrube-os!\""
@@ -69201,7 +69201,7 @@ msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1229_257@TITLE"
 msgstr "Trapaça da Rosa de Obsidiana (TEMP)"
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1229_264@BODY_FOOTER"
-msgstr "{Husband.TitleFirstName} roça <<o:Husband>> lábio reluzente enquanto {Husband} lança secretamente um feitiço em você que faz seu sangue ferver. \"Mostre-me como um Vampiro de verdade cumprimenta seu superior.\""
+msgstr "{Husband.TitleFirstName} roça seu  reluzente enquanto {Husband} lança secretamente um feitiço em você que faz seu sangue ferver. \"Mostre-me como um Vampiro de verdade cumprimenta seu superior.\""
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1229_264@BODY_HEADER"
 msgstr "Um estranho borbulhar e fervilhar entra em sua percepção, seguido por um chiado baixo... \"Meu, meu... Que brinquedo curioso e anômalo eu aqui avisto?\""
@@ -70578,7 +70578,7 @@ msgid "DLC@THRONESOFBLOOD@TRIGGER@TOOLTIP@CRIMSON_FANE_TORMENT_01@AFFINITY_CHOIC
 msgstr "A mesma exaltação que inspira os ritualistas também beneficia {EventHero.FirstName}."
 
 msgid "DLC@THRONESOFBLOOD@TRIGGER@TOOLTIP@CRIMSON_FANE_TORMENT_01@AFFINITY_CHOICE_ORDER@FAILURE"
-msgstr "O {EnemyUnit} e <<o:EnemyUnit>> discípulos zombam da sua desaprovação escrupulosa."
+msgstr "O {EnemyUnit} e seus  zombam da sua desaprovação escrupulosa."
 
 msgid "DLC@THRONESOFBLOOD@TRIGGER@TOOLTIP@CRIMSON_FANE_TORMENT_01@AFFINITY_CHOICE_ORDER@HEADER"
 msgstr "Tente condenar os <<G:ritualistas^p,EnemyUnit>>:"
@@ -74943,7 +74943,7 @@ msgid "DLC@WAYSOFWAR@STORY_EVENT@1194_1055@BODY_HEADER"
 msgstr "Você conquistou {EventCity}. O {IntrigueVictimPlayerLeader.Title} ruge e o {IntrigueVictimPlayerRace} observa com respiração contida enquanto {IntriguePreviousRuler.Name} marcha para a sala do trono."
 
 msgid "DLC@WAYSOFWAR@STORY_EVENT@1194_1055@BODY_LORE"
-msgstr "Ali, o {IntrigueVictimPlayerLeader.Title} flutua, {GLOBAL.GodirLoreConcept.Hyperlink} poderes de caos e destruição diminuídos. {IntrigueVictimPlayerLeader} recua e mostra <<o:IntrigueVictimPlayerLeader>> presas, mas {IntriguePreviousRuler.FirstName} não hesita enquanto {IntriguePreviousRuler} avança. \"Você toma MINHA cidade, toma MEU trono, destrói MEU Império?!\" {IntriguePreviousRuler.FirstName} grita. \"Sua serpente miserável!\""
+msgstr "Ali, o {IntrigueVictimPlayerLeader.Title} flutua, {GLOBAL.GodirLoreConcept.Hyperlink} poderes de caos e destruição diminuídos. {IntrigueVictimPlayerLeader} recua e mostra suas , mas {IntriguePreviousRuler.FirstName} não hesita enquanto {IntriguePreviousRuler} avança. \"Você toma MINHA cidade, toma MEU trono, destrói MEU Império?!\" {IntriguePreviousRuler.FirstName} grita. \"Sua serpente miserável!\""
 
 msgid "DLC@WAYSOFWAR@STORY_EVENT@1194_1055@BUTTON_0"
 msgstr "Permita que {IntriguePreviousRuler.FirstName} tenha <<o:IntriguePreviousRuler>> vingança, e <<o:IntriguePreviousRuler>> título."
@@ -75198,7 +75198,7 @@ msgid "DLC@WAYSOFWAR@STORY_EVENT@1194_1140@BUTTON_1"
 msgstr "“Fique, {IntrigueVictimPlayerLeader.FirstName}. Posso usar sua orientação.”"
 
 msgid "DLC@WAYSOFWAR@STORY_EVENT@1194_1140@BUTTON_2"
-msgstr "“{IntriguePreviousRuler.Name} é indigno. Vá, <<o:IntriguePreviousRuler>> Império está perdido.”"
+msgstr "“{IntriguePreviousRuler.Name} é indigno. Vá, seu  está perdido.”"
 
 msgid "DLC@WAYSOFWAR@STORY_EVENT@1194_1140@TITLE"
 msgstr "Balanças da Justiça: Consequência"
@@ -75726,7 +75726,7 @@ msgid "DLC@WAYSOFWAR@STORY_EVENT@1194_1335@BUTTON_1"
 msgstr "\"Fique, {IntrigueVictimPlayerLeader.FirstName}. Posso usar sua orientação.\""
 
 msgid "DLC@WAYSOFWAR@STORY_EVENT@1194_1335@BUTTON_2"
-msgstr "\"{IntriguePreviousRuler.Name} é indigno. Vá, <<o:IntriguePreviousRuler>> Império está perdido.\""
+msgstr "\"{IntriguePreviousRuler.Name} é indigno. Vá, seu  está perdido.\""
 
 msgid "DLC@WAYSOFWAR@STORY_EVENT@1194_1335@TITLE"
 msgstr "Compaixão Divina: Consequência"
@@ -76251,7 +76251,7 @@ msgid "DLC@WAYSOFWAR@STORY_EVENT@1194_894@TITLE"
 msgstr "Retorno do {IntrigueVictimPlayerLeader.Title}"
 
 msgid "DLC@WAYSOFWAR@STORY_EVENT@1194_895@BODY_FOOTER"
-msgstr "Seu Império exige sua atenção. O que você faz antes de deixar {IntriguePreviousRuler.TitleName} ao <<o:IntriguePreviousRuler>> destino, como fonte arcana de poder?"
+msgstr "Seu Império exige sua atenção. O que você faz antes de deixar {IntriguePreviousRuler.TitleName} ao seu , como fonte arcana de poder?"
 
 msgid "DLC@WAYSOFWAR@STORY_EVENT@1194_895@BODY_HEADER"
 msgstr "Ao ficar diante da {GLOBAL.CageOfBindingLoreConcept.Hyperlink} que contém {IntriguePreviousRuler.TitleName}, o poder drenado quase o sobrecarrega."
@@ -76371,7 +76371,7 @@ msgid "DLC@WAYSOFWAR@STORY_EVENT@1194_947@BODY_HEADER"
 msgstr "Os {IntrigueVictimPlayerRace} têm um novo {IntrigueVictimPlayerLeader.Title}: {IntrigueVictimPlayerLeader.Name}."
 
 msgid "DLC@WAYSOFWAR@STORY_EVENT@1194_947@BODY_LORE"
-msgstr "Removido do trono de <<m:IntriguePreviousRuler>> por <<o:IntriguePreviousRuler>> próprios antigos súditos, {IntriguePreviousRuler.TitleName} é enviado para o {GLOBAL.AstralVoidLoreConcept.Hyperlink}.[br/][br/]\"Isso era inevitável\", diz {IntrigueVictimPlayerLeader.TitleName}. \"O povo exige sua libra de carne. Esperemos que isso ponha fim ao derramamento de sangue e à injustiça em {IntrigueVictimPlayerCapital}.\" {IntrigueVictimPlayerLeader} se volta para você. \"Isso não teria sido possível sem a sua ajuda.\""
+msgstr "Removido do trono de <<m:IntriguePreviousRuler>> por seus  antigos súditos, {IntriguePreviousRuler.TitleName} é enviado para o {GLOBAL.AstralVoidLoreConcept.Hyperlink}.[br/][br/]\"Isso era inevitável\", diz {IntrigueVictimPlayerLeader.TitleName}. \"O povo exige sua libra de carne. Esperemos que isso ponha fim ao derramamento de sangue e à injustiça em {IntrigueVictimPlayerCapital}.\" {IntrigueVictimPlayerLeader} se volta para você. \"Isso não teria sido possível sem a sua ajuda.\""
 
 msgid "DLC@WAYSOFWAR@STORY_EVENT@1194_947@BUTTON_0"
 msgstr "\"Precisarei de aliados de apoio neste reino. Juntem-se a mim, rumo à vitória!\""
@@ -116034,7 +116034,7 @@ msgid "STORY_EVENT@1013_1054@BODY_LORE"
 msgstr "As ruínas se abrem para uma arena de combate improvisada. Na abertura formada por um muro quebrado, está um grupo de {EventRace.Name}, liderado por um mestre de circo, apontando para {EventHero.FirstName}. \"Bem-vindos, espectadores sedentos de sangue!\" {EventUnit} sorri com a boca sem a maioria dos dentes. \"Eu comando este estabelecimento de lutas itinerante. Os gladiadores mais duros levam o ouro para casa!\" {EventUnit} levanta um saco cheio de moedas."
 
 msgid "STORY_EVENT@1013_1054@BODY_LORE@HERO_IS_PLAYERLE"
-msgstr "As ruínas se abrem para uma arena de combate improvisada. Na abertura formada por um muro quebrado, está um grupo de {EventRace.Name}, liderado por um mestre de circo, apontando para você. \"Um nobre {PlayerLeader.Title} agracia-nos com <<o:PlayerLeader>> presença! Bem‑vindo, espectador sedento de sangue!\" {EventUnit} sorri com a boca sem a maioria dos dentes. \"Eu comando este estabelecimento de lutas itinerante. Os gladiadores mais duros levam o ouro para casa!\" {EventUnit} levanta um saco cheio de moedas."
+msgstr "As ruínas se abrem para uma arena de combate improvisada. Na abertura formada por um muro quebrado, está um grupo de {EventRace.Name}, liderado por um mestre de circo, apontando para você. \"Um nobre {PlayerLeader.Title} agracia-nos com sua ! Bem‑vindo, espectador sedento de sangue!\" {EventUnit} sorri com a boca sem a maioria dos dentes. \"Eu comando este estabelecimento de lutas itinerante. Os gladiadores mais duros levam o ouro para casa!\" {EventUnit} levanta um saco cheio de moedas."
 
 msgid "STORY_EVENT@1013_1054@BUTTON_0"
 msgstr "\"Nós vamos mostrar a todos vocês com o que estão lidando.\""
@@ -117546,7 +117546,7 @@ msgid "STORY_EVENT@1013_1673@BODY_HEADER"
 msgstr "\"Paz, {PlayerLeader.TitleName},\" {EventStackLeader.Name} grita antes que suas tropas se aproximem."
 
 msgid "STORY_EVENT@1013_1673@BODY_LORE"
-msgstr "\"Sua destreza é conhecida por mim. Não vejo vitória aqui. Conceda misericórdia ao meu exército, permita que deixem o campo ilesos, e eu me renderei ao seu julgamento.\" {EventStackLeader.Name} parece tanto sincero quanto contrito em <<o:EventStackLeader>> pedido de misericórdia."
+msgstr "\"Sua destreza é conhecida por mim. Não vejo vitória aqui. Conceda misericórdia ao meu exército, permita que deixem o campo ilesos, e eu me renderei ao seu julgamento.\" {EventStackLeader.Name} parece tanto sincero quanto contrito em seu  de misericórdia."
 
 msgid "STORY_EVENT@1013_1673@BUTTON_0"
 msgstr "\"Não, todos vocês morrerão!\" [evilact/]"
@@ -118254,7 +118254,7 @@ msgid "STORY_EVENT@1013_192@BODY_FOOTER@NO_HOUSE_PLAYERL"
 msgstr "A origem do {EventItem.Name} que você descobriu é desconhecida."
 
 msgid "STORY_EVENT@1013_192@BODY_HEADER"
-msgstr "Com os piromaníacos fora, {EventHero.Name} e <<o:EventHero>> companheiros estão livres para explorar o resto das ruínas."
+msgstr "Com os piromaníacos fora, {EventHero.Name} e seus  estão livres para explorar o resto das ruínas."
 
 msgid "STORY_EVENT@1013_192@BODY_HEADER@HERO_IS_PLAYERLE"
 msgstr "Com os piromaníacos fora, você e seus companheiros estão livres para explorar o resto das ruínas."
@@ -118650,7 +118650,7 @@ msgid "STORY_EVENT@1013_201@BODY_HEADER"
 msgstr "{EventHouseBLord.Name} de {EventHouseB.Name} compartilha um pedido relativo ao seu prisioneiro, {EventHero.Name} de {EventHouse.Name}."
 
 msgid "STORY_EVENT@1013_201@BODY_LORE"
-msgstr "\"O {PlayerLeader.Title}, chegou ao meu conhecimento que capturou um herói importante de {EventHouse.Name}!\" {EventHouseBLord.TitleName} esfrega <<o:EventHouseBLord>> mãos. \"Este tal de \"[hyperlink,GLOBAL.HeroConcept]<<EventHero{hero/heroine}>>[/hyperlink]\" {EventHero.Name} matou muitos dos meus soldados. Capturar <<P:EventHero>> certamente aumentaria nossa alavancagem sobre a miserável cidade de <<m:EventHero>>. Preparamos um... tratamento especial para {EventHero.TitleName} dos {EventHero.Race}."
+msgstr "\"O {PlayerLeader.Title}, chegou ao meu conhecimento que capturou um herói importante de {EventHouse.Name}!\" {EventHouseBLord.TitleName} esfrega suas . \"Este tal de \"[hyperlink,GLOBAL.HeroConcept]<<EventHero{hero/heroine}>>[/hyperlink]\" {EventHero.Name} matou muitos dos meus soldados. Capturar <<P:EventHero>> certamente aumentaria nossa alavancagem sobre a miserável cidade de <<m:EventHero>>. Preparamos um... tratamento especial para {EventHero.TitleName} dos {EventHero.Race}."
 
 msgid "STORY_EVENT@1013_201@BUTTON_0"
 msgstr "Envie {EventHero.FirstName} ao rival <<o:EventHero>>: {EventHouseBLord.TitleName} de {EventHouseB.Name}. [evilact/]"
@@ -119157,7 +119157,7 @@ msgid "STORY_EVENT@1013_435@BUTTON_2"
 msgstr "Mande {EventHeroB.Name} de volta [goodact/] para {EventCity.Name}."
 
 msgid "STORY_EVENT@1013_435@BUTTON_3"
-msgstr "Exija tributo [gold/] pelo resgate e envie {EventHeroB.FirstName} em <<o:EventHeroB>> caminho."
+msgstr "Exija tributo [gold/] pelo resgate e envie {EventHeroB.FirstName} em seu ."
 
 msgid "STORY_EVENT@1013_435@TITLE"
 msgstr "Covil da Seda: Consequência"
@@ -122526,7 +122526,7 @@ msgid "STORY_EVENT@1064_1675@TITLE"
 msgstr "Encontro com o Diabo"
 
 msgid "STORY_EVENT@1064_1677@BODY_FOOTER"
-msgstr "\"{EventPlayer.FirstName} não está em cativeiro da {EventRace}, mas {EventPlayer} perdeu <<o:EventPlayer>> alma para o Príncipe Demônio Atyngwe e deve, por contrato, obedecer à sua vontade.\""
+msgstr "\"{EventPlayer.FirstName} não está em cativeiro da {EventRace}, mas {EventPlayer} perdeu sua  para o Príncipe Demônio Atyngwe e deve, por contrato, obedecer à sua vontade.\""
 
 msgid "STORY_EVENT@1064_1677@BODY_HEADER"
 msgstr "\"Ai, ai...\" {EventHero} ergue uma sobrancelha. \"Mesmo para {GLOBAL.GodirLoreConcept.Hyperlink}, esta mente é um labirinto de difícil navegação.\""
@@ -124047,7 +124047,7 @@ msgid "STORY_EVENT@1103_10@BODY_HEADER"
 msgstr "Enquanto suas tropas avançam para enfrentar o antigo {EventStackLeader.Name}, {EventStackLeader} os surpreende simplesmente sentando-se."
 
 msgid "STORY_EVENT@1103_10@BODY_LORE"
-msgstr "Embora sentado, o [hyperlink,GLOBAL.GiantsLoreConcept]ser primal[/hyperlink] ainda se ergue sobre seu exército, projetando uma longa sombra que engole grande parte dos arredores de <<m:EventStackLeader>>. No passado, {EventStackLeader} usou <<o:EventStackLeader>> poder tremendo para formar as montanhas e os mares. Agora, o {EventStackLeader} levanta <<o:EventStackLeader>> braços no sinal atemporal de rendição. Então, {EventStackLeader} simplesmente espera, <<o:EventStackLeader>> braços raspando o céu como duas torres sinistras."
+msgstr "Embora sentado, o [hyperlink,GLOBAL.GiantsLoreConcept]ser primal[/hyperlink] ainda se ergue sobre seu exército, projetando uma longa sombra que engole grande parte dos arredores de <<m:EventStackLeader>>. No passado, {EventStackLeader} usou seu  tremendo para formar as montanhas e os mares. Agora, o {EventStackLeader} levanta seus  no sinal atemporal de rendição. Então, {EventStackLeader} simplesmente espera, seus  raspando o céu como duas torres sinistras."
 
 msgid "STORY_EVENT@1103_10@BUTTON_0"
 msgstr "\"Morte ao {EventStackLeader}!\" [evilact/]"
@@ -124338,7 +124338,7 @@ msgid "STORY_EVENT@1103_6@BODY_HEADER"
 msgstr "Ao engajar suas tropas ao grupo de demônios, torna‑se evidente que eles estavam conjurando um portal para fugir."
 
 msgid "STORY_EVENT@1103_6@BODY_LORE"
-msgstr "O {EventStackLeader.Name}, aparente líder da reunião, lança um olhar astuto sobre seu exército. Vendo que há pouca esperança de sobrevivência, {EventStackLeader} convoca <<o:EventStackLeader>> próprias tropas a sentarem no chão e se submeterem antes de seguir o exemplo <<r:EventStackLeader>>. {EventStackLeader} observa você com esperança cautelosa."
+msgstr "O {EventStackLeader.Name}, aparente líder da reunião, lança um olhar astuto sobre seu exército. Vendo que há pouca esperança de sobrevivência, {EventStackLeader} convoca suas  tropas a sentarem no chão e se submeterem antes de seguir o exemplo <<r:EventStackLeader>>. {EventStackLeader} observa você com esperança cautelosa."
 
 msgid "STORY_EVENT@1103_6@BUTTON_0"
 msgstr "\"Mate todos eles!\" [evilact/]"
@@ -124377,7 +124377,7 @@ msgid "STORY_EVENT@1103_8@BODY_FOOTER"
 msgstr "Você deixará os monstros macabros espalharem terror ou os atacará mesmo assim?"
 
 msgid "STORY_EVENT@1103_8@BODY_HEADER"
-msgstr "À medida que suas tropas avançam para atacar {EventStackLeader.Name} e <<o:EventStackLeader>> coleção de [hyperlink,GLOBAL.AstralMonstersLoreConcept]horrores[/hyperlink], o inimigo grita e se rende."
+msgstr "À medida que suas tropas avançam para atacar {EventStackLeader.Name} e sua  de [hyperlink,GLOBAL.AstralMonstersLoreConcept]horrores[/hyperlink], o inimigo grita e se rende."
 
 msgid "STORY_EVENT@1103_8@BODY_LORE"
 msgstr "Carne ondulante e tentáculos contorcidos se entrelaçam em um grotesco espetáculo de pânico, enquanto suas armas cercam o grupo de horrores arcanos do {GLOBAL.AstralSeaLoreConcept.Hyperlink}. Apesar de assustadores em aparência, essas criaturas parecem não ter vontade de lutar. Pelo menos, não contra você..."
@@ -124401,7 +124401,7 @@ msgid "STORY_EVENT@1103_9@BODY_HEADER"
 msgstr "Em vez de enfrentar suas tropas que se aproximam, o {EventStackLeader.Name} vira <<o:EventStackLeader>> pescoço sinuoso enquanto {EventStackLeader} os observa com um olhar antigo e sábio."
 
 msgid "STORY_EVENT@1103_9@BODY_LORE"
-msgstr "\"Vejo muita força e poder diante de mim,\" a grande voz sonoro do [hyperlink,GLOBAL.DragonsLoreConcept]dragão[/hyperlink] ecoa. Há eras, {EventStackLeader} e <<o:EventStackLeader>> parentes usaram forças primitivas para moldar este reino. Agora o monstro serpentino pausa, lançando um olhar de vasta inteligência sobre seu exército. \"Eu, também, como você pode concordar, sou poderoso. Igualmente, estamos emparelhados, certo?\""
+msgstr "\"Vejo muita força e poder diante de mim,\" a grande voz sonoro do [hyperlink,GLOBAL.DragonsLoreConcept]dragão[/hyperlink] ecoa. Há eras, {EventStackLeader} e seus  usaram forças primitivas para moldar este reino. Agora o monstro serpentino pausa, lançando um olhar de vasta inteligência sobre seu exército. \"Eu, também, como você pode concordar, sou poderoso. Igualmente, estamos emparelhados, certo?\""
 
 msgid "STORY_EVENT@1103_9@BUTTON_0"
 msgstr "\"Glória, sua minhoca inchada! Ataque!\" [evilact/]"
@@ -124644,10 +124644,10 @@ msgid "STORY_EVENT@1122_132@BODY_HEADER@PLAYERLEADER_=_S"
 msgstr "Você encontra o Cavaleiro de Prata ainda guardando o {EventStructure}. O Cavaleiro aponta para uma espada de duelo cravada no tronco de uma árvore."
 
 msgid "STORY_EVENT@1122_132@BODY_LORE"
-msgstr "O Cavaleiro de Prata permanece firme, <<o:EventStackLeader>> mãos repousando nas guardas da arma de <<m:EventStackLeader>> enquanto {EventStackLeader} avalia a destreza marcial de {TriggeringStackLeader}. Uma companhia de <<m:EventUnit>> uivantes surge do {GLOBAL.AstralVoidLoreConcept.Hyperlink}, flanqueando o {EventStackLeader}, seu capitão. A voz do Cavaleiro ecoa como um chifre de prata: \"Pode passar... depois de me matar.\" {EventStackLeader} avança, convidando {TriggeringStackLeader} a fazer o mesmo."
+msgstr "O Cavaleiro de Prata permanece firme, suas  repousando nas guardas da arma de <<m:EventStackLeader>> enquanto {EventStackLeader} avalia a destreza marcial de {TriggeringStackLeader}. Uma companhia de <<m:EventUnit>> uivantes surge do {GLOBAL.AstralVoidLoreConcept.Hyperlink}, flanqueando o {EventStackLeader}, seu capitão. A voz do Cavaleiro ecoa como um chifre de prata: \"Pode passar... depois de me matar.\" {EventStackLeader} avança, convidando {TriggeringStackLeader} a fazer o mesmo."
 
 msgid "STORY_EVENT@1122_132@BODY_LORE@PLAYERLEADER_=_S"
-msgstr "O Cavaleiro de Prata permanece firme, <<o:EventStackLeader>> mãos repousando nas guardas da arma de <<m:EventStackLeader>> enquanto {EventStackLeader} avalia sua destreza marcial. Uma companhia de <<m:EventUnit>> uivantes surge do Vazio, flanqueando o {EventStackLeader}, seu capitão. A voz do Cavaleiro ecoa como um chifre de prata: \"Pode passar... depois de me matar.\" {EventStackLeader} avança, convidando você a fazer o mesmo."
+msgstr "O Cavaleiro de Prata permanece firme, suas  repousando nas guardas da arma de <<m:EventStackLeader>> enquanto {EventStackLeader} avalia sua destreza marcial. Uma companhia de <<m:EventUnit>> uivantes surge do Vazio, flanqueando o {EventStackLeader}, seu capitão. A voz do Cavaleiro ecoa como um chifre de prata: \"Pode passar... depois de me matar.\" {EventStackLeader} avança, convidando você a fazer o mesmo."
 
 msgid "STORY_EVENT@1122_132@BUTTON_0"
 msgstr "... assume a postura de arado para desviar a ponta do Cavaleiro com a lâmina de <<m:TriggeringStackLeader>> e..."
@@ -126459,7 +126459,7 @@ msgid "STORY_EVENT@1122_4@BODY_HEADER"
 msgstr "{EventHouseLord.TitleName} de {EventHouse} convoca orgulhosamente <<o:EventHouseLord>> novo bobo da corte para entreter você durante as negociações."
 
 msgid "STORY_EVENT@1122_4@BODY_LORE"
-msgstr "Entretanto, este bobo claramente não é um tolo! Enquanto {EventUnit} executa feitiços complexos de conjuração e ilusão, {EventUnit} parece excessivamente qualificado para o trabalho de <<m:EventUnit>>. {EventHouseLord.Name} aplaude e vibra de alegria, incapaz de avaliar o poder do artista. O bobo realiza outra ilusão deslumbrante com facilidade, <<o:EventUnit>> expressão à beira do tédio."
+msgstr "Entretanto, este bobo claramente não é um tolo! Enquanto {EventUnit} executa feitiços complexos de conjuração e ilusão, {EventUnit} parece excessivamente qualificado para o trabalho de <<m:EventUnit>>. {EventHouseLord.Name} aplaude e vibra de alegria, incapaz de avaliar o poder do artista. O bobo realiza outra ilusão deslumbrante com facilidade, sua  à beira do tédio."
 
 msgid "STORY_EVENT@1122_4@BUTTON_0"
 msgstr "\"Meu império [influence/] não conhece bobos tão talentosos quanto os seus, {EventHouseLord.Title}!\""
@@ -126870,7 +126870,7 @@ msgid "STORY_EVENT@1122_83@BUTTON_2"
 msgstr "Imola {EventUnit}, {EventUnitB} e a si mesmo em um pandemônio de chamas serpenteantes [chaosboon/]!"
 
 msgid "STORY_EVENT@1122_83@BUTTON_9"
-msgstr "Mate o {EventUnit}, e o {EventUnitB} concede a você <<o:EventUnitB>> segredos [chaoscrisis/]."
+msgstr "Mate o {EventUnit}, e o {EventUnitB} concede a você seus  [chaoscrisis/]."
 
 msgid "STORY_EVENT@1122_83@TITLE"
 msgstr "Pandemônico"
@@ -127851,7 +127851,7 @@ msgid "STORY_EVENT@1160_857@TITLE"
 msgstr "Mercador de Montarias: Consequência"
 
 msgid "STORY_EVENT@1160_859@BODY_FOOTER"
-msgstr "\"O horizonte me chama. Vou buscar novos [hyperlink,GLOBAL.HeroConcept]Heróis[/hyperlink] para treinar. Adeus!\" O {ShopKeeper} põe <<o:ShopKeeper>> carruagem em movimento e parte."
+msgstr "\"O horizonte me chama. Vou buscar novos [hyperlink,GLOBAL.HeroConcept]Heróis[/hyperlink] para treinar. Adeus!\" O {ShopKeeper} põe sua  em movimento e parte."
 
 msgid "STORY_EVENT@1160_859@BODY_HEADER"
 msgstr "O {ShopKeeper} arrumou o {StructureResource} {ShopKeeper} instalado em seu domínio e está pronto para partir."
@@ -128454,7 +128454,7 @@ msgid "STORY_EVENT@1167_39@BODY_HEADER"
 msgstr "O temível chefe de guerra foi eliminado. {EventStackLeader} e suas tropas não são mais uma ameaça."
 
 msgid "STORY_EVENT@1167_39@BODY_LORE"
-msgstr "Pouco depois, você recebe uma mensagem de seu odiado inimigo, {EventHouseLord.FirstName} de {EventHouse}. {EventHouseLord} informa que {EventStackLeader} agiu por <<o:EventStackLeader>> própria vontade, e que o {EventHouseLord.Title} não teve envolvimento na infeliz investida. Não importa. Sua força venceu o dia. Você amassa a carta em uma bola e a lança em uma fogueira próxima."
+msgstr "Pouco depois, você recebe uma mensagem de seu odiado inimigo, {EventHouseLord.FirstName} de {EventHouse}. {EventHouseLord} informa que {EventStackLeader} agiu por sua  vontade, e que o {EventHouseLord.Title} não teve envolvimento na infeliz investida. Não importa. Sua força venceu o dia. Você amassa a carta em uma bola e a lança em uma fogueira próxima."
 
 msgid "STORY_EVENT@1167_39@BUTTON_0"
 msgstr "Inspire todas as suas tropas! [morale/]"
@@ -128559,7 +128559,7 @@ msgid "STORY_EVENT@1167_53@BODY_HEADER"
 msgstr "O apelo desesperado de {EventHouseLord} de {EventHouse} chega até você! {EventHouseLord.FirstName} está perdendo a guerra para {RivalPlayer}!"
 
 msgid "STORY_EVENT@1167_53@BODY_LORE"
-msgstr "\"Ajude‑nos, {PlayerLeader}! Você é nossa única esperança!\" O {EventHouseLord.Title} junta <<o:EventHouseLord>> mãos. \"Aquele agressor, {RivalPlayer}, pretende tomar minhas terras! Sei que não sou um dos seus vassalos, ó {PlayerLeader.Title}, mas se seu coração favorece a misericórdia e a bondade, por favor ajude‑nos contra esse tirano!\" {EventHouseLord.FirstName} cai de <<m:EventHouseLord>> joelhos, lágrimas escorrendo pelo rosto de <<m:EventHouseLord>>."
+msgstr "\"Ajude‑nos, {PlayerLeader}! Você é nossa única esperança!\" O {EventHouseLord.Title} junta suas . \"Aquele agressor, {RivalPlayer}, pretende tomar minhas terras! Sei que não sou um dos seus vassalos, ó {PlayerLeader.Title}, mas se seu coração favorece a misericórdia e a bondade, por favor ajude‑nos contra esse tirano!\" {EventHouseLord.FirstName} cai de <<m:EventHouseLord>> joelhos, lágrimas escorrendo pelo rosto de <<m:EventHouseLord>>."
 
 msgid "STORY_EVENT@1167_53@BUTTON_0"
 msgstr "Denuncie {RivalPlayer} [relation/] em apoio a {EventHouse}. [allegiance/]"
@@ -128652,7 +128652,7 @@ msgid "STORY_EVENT@1167_562@BUTTON_1"
 msgstr "\"O único poder [influence/] que tolero neste reino é o meu próprio.\" [morale/]"
 
 msgid "STORY_EVENT@1167_562@BUTTON_2"
-msgstr "Sugue <<o:EventHero>> força, insolente {EventHero.FirstName}, para se fortalecer. [xp/]"
+msgstr "Sugue sua , insolente {EventHero.FirstName}, para se fortalecer. [xp/]"
 
 msgid "STORY_EVENT@1167_562@BUTTON_3"
 msgstr "\"Você não pode caçar o {EventStackLeader}, {EventHero.FirstName}. Pelo menos, não hoje.\""
@@ -131400,7 +131400,7 @@ msgid "STORY_EVENT@991_6580@BODY_HEADER"
 msgstr "Com mais ouro tomado das ruínas, a voz do fantasma retorna enfurecida."
 
 msgid "STORY_EVENT@991_6580@BODY_LORE"
-msgstr "\"Pare! Pare! Por que não morrem, saqueadores implacáveis? Não sofremos o suficiente...\" O fantasma soa desesperado, derrotado. \"{EventGiantKing} ansiava por golems incansáveis para atender <<o:EventGiantKing>> ordens, sem descanso, vontade ou necessidades,\" a voz continua. \"Quando as forjas falharam às exigências de <<m:EventGiantKing>>, {EventGiantKing} recorreu à magia perversa, tentando transformar nossos corpos numa raça de servos golem. Em vez disso... nos tornamos isto!\" O fantasma revela o rosto de <<m:EventHero>>, metade carne fantasmagórica e metade metal."
+msgstr "\"Pare! Pare! Por que não morrem, saqueadores implacáveis? Não sofremos o suficiente...\" O fantasma soa desesperado, derrotado. \"{EventGiantKing} ansiava por golems incansáveis para atender suas , sem descanso, vontade ou necessidades,\" a voz continua. \"Quando as forjas falharam às exigências de <<m:EventGiantKing>>, {EventGiantKing} recorreu à magia perversa, tentando transformar nossos corpos numa raça de servos golem. Em vez disso... nos tornamos isto!\" O fantasma revela o rosto de <<m:EventHero>>, metade carne fantasmagórica e metade metal."
 
 msgid "STORY_EVENT@991_6580@BUTTON_0"
 msgstr "\"Unam‑se! Sem piedade para os impiedosos!\""
@@ -132618,7 +132618,7 @@ msgid "STORY_EVENT@993_7348@BODY_HEADER"
 msgstr "As chamas que {EventLeaderDefeated} antes chamava de <<m:EventLeaderDefeated>> próprias envolvem {EventLeaderDefeated.TitleName}, rugindo enquanto {EventLeaderDefeated} some nelas."
 
 msgid "STORY_EVENT@993_7348@BODY_LORE"
-msgstr "O {EventLeaderDefeated.Title} foi derrotado, <<o:EventLeaderDefeated>> exércitos se dispersam e sucumbem a lutas internas. Agora você empunha o poder de comandar as legiões de <<m:EventLeaderDefeated>>, ou de bani‑las."
+msgstr "O {EventLeaderDefeated.Title} foi derrotado, seus  se dispersam e sucumbem a lutas internas. Agora você empunha o poder de comandar as legiões de <<m:EventLeaderDefeated>>, ou de bani‑las."
 
 msgid "STORY_EVENT@993_7348@BUTTON_0"
 msgstr "A vitória é nossa!"
@@ -138843,7 +138843,7 @@ msgid "TRIGGER@TOOLTIP@ANCIENT_TOMB_UNDEAD_01@AFFINITY_CHOICE_SHADOW@HEADER"
 msgstr "Enfraqueça o <<g:vínculo^n,EnemyUnit>> com a terra dos vivos"
 
 msgid "TRIGGER@TOOLTIP@ANCIENT_TOMB_UNDEAD_01@AFFINITY_CHOICE_SHADOW@SUCCESS"
-msgstr "{EnemyUnit} suspira e geme enquanto <<o:EnemyUnit>> poder se esvai."
+msgstr "{EnemyUnit} suspira e geme enquanto seu  se esvai."
 
 msgid "TRIGGER@TOOLTIP@ANCIENT_TOMB_UNDEAD_02@AFFINITY_CHOICE_SHADOW@FAILURE"
 msgstr "Você não pode impedir que os mortos se levantem."
