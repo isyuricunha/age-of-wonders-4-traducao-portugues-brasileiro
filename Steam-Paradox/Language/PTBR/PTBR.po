@@ -96885,7 +96885,7 @@ msgid "INTERFACE@STRATEGIC_MAP@ANCIENT_WONDER"
 msgstr "Maravilha Ancestral"
 
 msgid "INTERFACE@STRATEGIC_MAP@ANCIENT_WONDER_DESCRIPTION"
-msgstr "Uma Maravilha Ancestral é um {GLOBAL.LocationConcept.Hyperlink} que contém aventura e recompensas. Só pode ser explorada por um único {GLOBAL.ArmyConcept.Hyperlink} liderado por um {GLOBAL.HeroConcept.Hyperlink}.[br/][br/]Quando concluída, pode ser anexada por uma {GLOBAL.CityConcept.Hyperlink}. Ao ser anexada, fornecerá {GLOBAL.CityIncomeConcept.Hyperlink} e <<m:{GLOBAL.UnitConcept.Hyperlink}>> especiais no {GLOBAL.RequestMilitaryAidConcept.Hyperlink}. Uma Maravilha Ancestral anexada conta como um tipo de {GLOBAL.ProvinceImprovementConcept.Hyperlink}.[br/][br/]Maravilhas Ancestrais podem ser [siteBronze/]Bronze, [siteSilver/]Silver, ou [siteGold/]Gold, dependendo da raridade, dificuldade e valor."
+msgstr "Uma Maravilha Ancestral é um {GLOBAL.LocationConcept.Hyperlink} que contém aventura e recompensas. Só pode ser explorada por um único {GLOBAL.ArmyConcept.Hyperlink} liderado por um {GLOBAL.HeroConcept.Hyperlink}.[br/][br/]Quando concluída, pode ser anexada por uma {GLOBAL.CityConcept.Hyperlink}. Ao ser anexada, fornecerá {GLOBAL.CityIncomeConcept.Hyperlink} e <<m:{GLOBAL.UnitConcept.Hyperlink}>> especiais no {GLOBAL.RequestMilitaryAidConcept.Hyperlink}. Uma Maravilha Ancestral anexada conta como um tipo de {GLOBAL.ProvinceImprovementConcept.Hyperlink}.[br/][br/]Maravilhas Ancestrais podem ser [siteBronze/]Bronze, [siteSilver/]Prata ou [siteGold/]Ouro, dependendo da raridade, dificuldade e valor."
 
 msgid "INTERFACE@STRATEGIC_MAP@ANCIENT_WONDER_HYPERLINK"
 msgstr "[hyperlink,GLOBAL.AncientWonderConcept]Maravilha Ancestral[/hyperlink]"
@@ -133884,7 +133884,7 @@ msgid "TOME_AUTHOR@INIOCH"
 msgstr "Inioch, Imperador da Corte Élfica"
 
 msgid "TOME_AUTHOR@ISTARNECH"
-msgstr "Istarnech Gold-Curser, o Rei Traidor."
+msgstr "Istarnech Maldizador de Ouro, o Rei Traidor."
 
 msgid "TOME_AUTHOR@JULIA"
 msgstr "Julia da Casa Inioch, Rainha Druida dos Altos Elfos"
