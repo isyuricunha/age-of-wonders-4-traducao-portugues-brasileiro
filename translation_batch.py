@@ -139,7 +139,7 @@ def cmd_build_po() -> None:
         pt = work[k]["pt"]
         if not pt:
             continue
-        esc = lambda s: s.replace("\\", "\\\\").replace('"', '\\"').replace("\n", "\\n")
+        esc = lambda s: s.replace("\\", "\\\\").replace('"', '\\"').replace("\n", "\\n").replace("\t", "\\t")
         out.append(f'msgid "{esc(k)}"')
         out.append(f'msgstr "{esc(pt)}"')
         out.append("")
