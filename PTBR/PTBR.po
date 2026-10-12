@@ -99744,7 +99744,7 @@ msgid "INTERFACE@TEXT@MORTAL_CHAMPION_DESCRIPTION"
 msgstr "Campeões Mortais são os heróis escolhidos de seu povo. É preciso dedicação e determinação para se destacar entre os demais seres poderosos deste universo. Subestimar esses Governantes seria um erro fatal."
 
 msgid "INTERFACE@TEXT@MOVEMENT_COST"
-msgstr "custo de {MovementCost} <<m:{GLOBAL.MovePointConcept.Hyperlink}>>"
+msgstr "Custo de {MovementCost} <<m:{GLOBAL.MovePointConcept.Hyperlink}>>"
 
 msgid "INTERFACE@TEXT@MULTIPLAYER_BOARD"
 msgstr "Tabuleiro Multijogador"
