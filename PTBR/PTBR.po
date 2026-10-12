@@ -13875,7 +13875,7 @@ msgid "CULTURE_MYSTIC@SOOTHING_BREEZE@NAME_CHAMPION"
 msgstr "Brisa Calmante Campeão"
 
 msgid "CULTURE_MYSTIC@SPELL_ARCANISTS@HERO_SKILL_1@ABILITY_DESCRIPTION"
-msgstr "Conceda aos seus Feitiços a Sobrecarga de Conjuração neste Turno."
+msgstr "Conceda aos seus <<m:{GLOBAL.SpellConcept.Hyperlink}>> a [hyperlink,GLOBAL.SpellOverchargeConcept]Sobrecarga de Conjuração[/hyperlink] neste {GLOBAL.TurnConcept.Hyperlink}."
 
 msgid "CULTURE_MYSTIC@SPELL_ARCANISTS@HERO_SKILL_1@COMBAT_PROPERTY_DESCRIPTION"
 msgstr "Os <<m:{GLOBAL.SpellConcept.Hyperlink}>> do proprietário estão Sobrecarregados, ganhando efeito aumentado."
