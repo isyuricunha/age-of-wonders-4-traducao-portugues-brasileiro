@@ -135,3 +135,23 @@ replaced strings get flagged for revision.
 - Unmaker/Unmakers = Desfazedor/Desfazedores (a facção; dentro de tokens como `{GLOBAL.UnmakersLoreConcept.Hyperlink}` permanece verbatim).
 - The Fracturing (o cataclismo, conceito) = A Fraturação; as fraturas físicas = Fraturas; o arco de história "Echoes of the Fracturing" = "Ecos da Fratura" (padrão das chaves de evento).
 - The Undone = Os Desfeitos (facção rival nos eventos).
+
+## Pronoun constructs (<<o:>> <<p:>> <<P:>> <<Cp:>> <<r:>>)
+
+These markup constructs resolve to engine-internal English words (his, he, him, He,
+himself/herself). The game ships pronouns in English only (he/him, she/her) and
+exposes no po key to localize them, so they render English inside PT text.
+
+Policy: rewrite the PT sentence to avoid the construct while keeping the referenced
+variable verbatim in the string. The possessive <<o:X>> becomes "seu/sua" agreeing
+with the possessed noun (PT possessives do not mark the owner's gender). Subject,
+object and reflexive forms are rewritten around the entity (name or title
+repetition, "em pessoa", phrasing without clitics).
+
+Each dropped construct makes the validator report a deliberate token mismatch;
+the mismatch list must match the rewrite log, never grow silently.
+
+Mire Crocodile spirit lore names (Primal Fury), translated 2026-10: Deep-Maw =
+Goela Profunda, High-Squall = Alto Bramido, Loom-Frost = Geada Gigante,
+Fell-Fang = Presa Mortal, Under-Atter = Peçonha do Subsolo. Serpent = Espiral de
+Terra and Wolf = Mae do Juramento were already translated.
