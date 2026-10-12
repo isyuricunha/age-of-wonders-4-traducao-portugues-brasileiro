@@ -96489,7 +96489,7 @@ msgid "INTERFACE@SETTINGS_INTERFACE@BORDERS"
 msgstr "Fronteiras"
 
 msgid "INTERFACE@SETTINGS_INTERFACE@BORDERS_TOOLTIP"
-msgstr "Defina quais fronteiras devem ser exibidas no Mapa-Múndi.\n\nOff - Nenhuma fronteira será exibida no Mapa-Múndi\nDomains - As fronteiras serão mostradas apenas ao redor de Cidades e Postos Avançados\nAll - As fronteiras serão exibidas ao redor de Domínios, Regiões e Províncias"
+msgstr "Defina quais fronteiras devem ser exibidas no Mapa-Múndi.\n\nNenhuma - Nenhuma fronteira será exibida no Mapa-Múndi\nDomínios - As fronteiras serão mostradas apenas ao redor de Cidades e Postos Avançados\nTudo - As fronteiras serão exibidas ao redor de Domínios, Regiões e Províncias"
 
 msgid "INTERFACE@SETTINGS_INTERFACE@CITY_LABELS"
 msgstr "Rótulos de Cidades"
