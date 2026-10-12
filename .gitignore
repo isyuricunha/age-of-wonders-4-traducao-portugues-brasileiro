@@ -4,3 +4,4 @@ __pycache__/
 # resolved decisions of each batch)
 translation-work.json
 /batches/*.json
+messages.mo
