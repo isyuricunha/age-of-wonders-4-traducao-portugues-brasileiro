@@ -85332,7 +85332,7 @@ msgid "HERO_SKILLS@RANGER@KNOCKBACK_RETALIATIONS@NAME"
 msgstr "Retaliações com Recuo"
 
 msgid "HERO_SKILLS@RANGER@KNOCKBACK_SNAPSHOT@DESCRIPTION"
-msgstr "{GLOBAL.PROPERTIES.HS_RANGER_SNAPSHOT_ABILITY.Hyperlink} agora empurra alvos 1 hexágono e pode ser usado dentro de um {GLOBAL.ZoneOfControlConcept.Hyperlink} inimigo."
+msgstr "{GLOBAL.PROPERTIES.HS_RANGER_SNAPSHOT_ABILITY.Hyperlink} agora empurra alvos 1 hexágono e pode ser usado dentro de uma {GLOBAL.ZoneOfControlConcept.Hyperlink} inimiga."
 
 msgid "HERO_SKILLS@RANGER@KNOCKBACK_SNAPSHOT@MODIFIER_DESCRIPTION"
 msgstr "Empurra alvos 1 hexágono."
@@ -132741,10 +132741,10 @@ msgid "STORY_EVENT@SHARED_STRING@VARIABLE_TEXT@TAG_ONLY@MANA"
 msgstr "[mana/]"
 
 msgid "TACTICAL@ABILITY@AFFECTED_LINE_OF_SIGHT"
-msgstr "Afectado pelas regras de {GLOBAL.LineOfSightConcept.Hyperlink}."
+msgstr "Afetado pelas regras de {GLOBAL.LineOfSightConcept.Hyperlink}."
 
 msgid "TACTICAL@ABILITY@BLOCKED_WHEN_ENGAGED"
-msgstr "Não pode ser usado quando estiver dentro de um {GLOBAL.ZoneOfControlConcept.Hyperlink} inimigo."
+msgstr "Não pode ser usado quando estiver dentro de uma {GLOBAL.ZoneOfControlConcept.Hyperlink} inimiga."
 
 msgid "TACTICAL@ABILITY@NEVER_IN_LAVA"
 msgstr "Não pode ser usado em batalhas de Lava."
@@ -136767,7 +136767,7 @@ msgid "TOME_REVELRY@UNIT_ABILITY_CHAMPION@NAME"
 msgstr "Canções Campeãs"
 
 msgid "TOME_ROCK@ABILITY1@DESCRIPTION"
-msgstr "Esta unidade encerra seu turno e entra em {GLOBAL.DefenseModeConcept}:[bulletlist][bullet/]Unidade ganha {GLOBAL.PROPERTIES.STONE_SKIN.Hyperlink}.[bullet/]Unidade cura +{TURN_TO_STONE_HEAL>NumHitpointsToRestore} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>.[bullet/]Estende o {GLOBAL.ZoneOfControlConcept.Hyperlink} da unidade a todos os hexágonos adjacentes.[bullet/]Unidade torna‑se imune a {GLOBAL.FlankingConcept.Hyperlink}.[/bulletlist]"
+msgstr "Esta unidade encerra seu turno e entra em {GLOBAL.DefenseModeConcept}:[bulletlist][bullet/]Unidade ganha {GLOBAL.PROPERTIES.STONE_SKIN.Hyperlink}.[bullet/]Unidade cura +{TURN_TO_STONE_HEAL>NumHitpointsToRestore} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>.[bullet/]Estende a {GLOBAL.ZoneOfControlConcept.Hyperlink} da unidade a todos os hexágonos adjacentes.[bullet/]Unidade torna‑se imune a {GLOBAL.FlankingConcept.Hyperlink}.[/bulletlist]"
 
 msgid "TOME_ROCK@ABILITY1@NAME"
 msgstr "Modo de Defesa: Transformar em Pedra"
