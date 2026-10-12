@@ -5994,7 +5994,7 @@ msgid "COLONYUPGRADES_STRATEGIC@PROVINCE_IMPROVEMENT_HERBALIST@DESCRIPTION"
 msgstr "[bulletlist][bullet/]{foodbaseamount} {GLOBAL.FoodConcept.Hyperlink}.[bullet/]{manabaseamount} {GLOBAL.ManaConcept.Hyperlink}.[bullet/]Por cada {GLOBAL.ProvinceConcept.Hyperlink} adjacente com Floresta ou Pântano:[bulletlist][bullet/]{foodamount} {GLOBAL.FoodConcept.Hyperlink}.[bullet/]{manaamount} {GLOBAL.ManaConcept.Hyperlink}.[/bulletlist][bullet/]Exército amigável <<m:{GLOBAL.ArmyConcept.Hyperlink}>> na Cidade {GLOBAL.DomainConcept.Hyperlink} [hyperlink,GLOBAL.WorldMapRegeneration]regenera[/hyperlink] um adicional de {Regenbonus} <<m:{GLOBAL.HitPointConcept.Hyperlink}>> por {GLOBAL.TurnConcept.Hyperlink}.[bullet/]Conta como um {GLOBAL.ConduitConcept.Hyperlink}.[/bulletlist]"
 
 msgid "COLONYUPGRADES_STRATEGIC@PROVINCE_IMPROVEMENT_HERBALIST@EFFECT"
-msgstr "[hyperlink,GLOBAL.WorldMapRegeneration]Regenera[/hyperlink] um adicional {Regenbonus} <<m:{GLOBAL.HitPointConcept.Hyperlink}>> por {GLOBAL.TurnConcept.Hyperlink}."
+msgstr "[hyperlink,GLOBAL.WorldMapRegeneration]Regenera[/hyperlink] +{Regenbonus} <<m:{GLOBAL.HitPointConcept.Hyperlink}>> adicionais por {GLOBAL.TurnConcept.Hyperlink}."
 
 msgid "COLONYUPGRADES_STRATEGIC@PROVINCE_IMPROVEMENT_HERBALIST@NAME"
 msgstr "[conduit/] Herborista"
