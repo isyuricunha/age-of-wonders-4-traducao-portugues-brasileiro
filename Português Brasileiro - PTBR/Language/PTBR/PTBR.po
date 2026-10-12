@@ -139761,10 +139761,10 @@ msgid "TRIGGER@TOOLTIP@PLAYER_RESEARCH_INCOME_PROGRESS_LOSS"
 msgstr "{Player.Name} perde {Value} {Resource.Name} por turno. ({STR_TMLIcon}{ResearchSkill} muda de {INT_Before} [turn/] para {INT_After} [turn/].)"
 
 msgid "TRIGGER@TOOLTIP@POPULATION_INSTANT_FINISH"
-msgstr "{Player.Name} recebe {Value} {Resource.Name} em {City.Name}. ({City.Name} ganha {INT_ColonistGain} [population/]population.)"
+msgstr "{Player.Name} recebe {Value} {Resource.Name} em {City.Name}. ({City.Name} ganha {INT_ColonistGain} [population/] População.)"
 
 msgid "TRIGGER@TOOLTIP@POPULATION_PROGRESS"
-msgstr "{Player.Name} recebe {Value} {Resource.Name} em {City.Name}. (Próxima [population/]população muda de {INT_Previous} [turn/] para {INT_Current} [turn/].)"
+msgstr "{Player.Name} recebe {Value} {Resource.Name} em {City.Name}. (Próxima [population/] população muda de {INT_Previous} [turn/] para {INT_Current} [turn/].)"
 
 msgid "TRIGGER@TOOLTIP@POP_GAIN"
 msgstr "{Player.Name} ganha {Value}[population/] população em {City.Name}."
