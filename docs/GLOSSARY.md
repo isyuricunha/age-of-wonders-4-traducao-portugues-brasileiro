@@ -130,3 +130,8 @@ replaced strings get flagged for revision.
 - Se o validador barrar um ajuste, e a versão nova fizer mais sentido: mantém-se a versão nova e reescreve-se a frase para que cada token apareça exatamente uma vez, com a grafia exata da origem. Não se volta à ordem truncada do EN.
 - Mover token/variável dentro da frase é sempre livre (o validador compara conjuntos ordenados; ordem nunca dispara mismatch).
 - Nunca deixar a frase SEM o token. Nunca duplicar. Nunca renomear (adicionar `.Hyperlink` ou mudar maiúscula/minúscula cria um token diferente).
+
+## Rise from Ruin (DLC)
+- Unmaker/Unmakers = Desfazedor/Desfazedores (a facção; dentro de tokens como `{GLOBAL.UnmakersLoreConcept.Hyperlink}` permanece verbatim).
+- The Fracturing (o cataclismo, conceito) = A Fraturação; as fraturas físicas = Fraturas; o arco de história "Echoes of the Fracturing" = "Ecos da Fratura" (padrão das chaves de evento).
+- The Undone = Os Desfeitos (facção rival nos eventos).
