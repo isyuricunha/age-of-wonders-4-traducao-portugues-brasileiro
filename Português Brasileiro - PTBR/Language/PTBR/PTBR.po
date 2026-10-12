@@ -534,7 +534,7 @@ msgid "ACHIEVEMENTS@LOCKED_DESCRIPTION033"
 msgstr "Complete todos os níveis da Torre do Feiticeiro em uma Cidade do Trono de Nível 4."
 
 msgid "ACHIEVEMENTS@LOCKED_DESCRIPTION034"
-msgstr "Tenha mais de 20 Pontos de Recrutamento disponíveis no Ajuntamento dos Suseranos."
+msgstr "Tenha mais de 20 Pontos de Recrutamento disponíveis na Mobilização."
 
 msgid "ACHIEVEMENTS@LOCKED_DESCRIPTION035"
 msgstr "Renegocie sua liberdade após se tornar um vassalo."
@@ -879,7 +879,7 @@ msgid "ACHIEVEMENTS@UNLOCKED_DESCRIPTION033"
 msgstr "Complete todos os níveis da Torre do Feiticeiro em uma Cidade do Trono de Nível 4."
 
 msgid "ACHIEVEMENTS@UNLOCKED_DESCRIPTION034"
-msgstr "Tenha mais de 20 Pontos de Recrutamento disponíveis no Ajuntamento dos Suseranos."
+msgstr "Tenha mais de 20 Pontos de Recrutamento disponíveis na Mobilização."
 
 msgid "ACHIEVEMENTS@UNLOCKED_DESCRIPTION035"
 msgstr "Renegocie sua liberdade após se tornar vassalo."
@@ -3675,7 +3675,7 @@ msgid "ARCHETYPE_SUPPORT@HERO_ADJECTIVE_24@NAME"
 msgstr "o Abençoado^z"
 
 msgid "ARCHETYPE_SUPPORT@HERO_ADJECTIVE_25@NAME"
-msgstr "o Mestre do Ajuntamento^z"
+msgstr "o Mestre da Mobilização^z"
 
 msgid "ARCHETYPE_SUPPORT@HERO_ADJECTIVE_26@NAME"
 msgstr "o Farol^z"
@@ -4614,7 +4614,7 @@ msgid "CAMPAIGN@NATURE_REALM@DIPLOMACY_MODIFIERS@RELATION@NIMUE_RELATION"
 msgstr "Ódio aos invasores que avançam"
 
 msgid "CAMPAIGN@NATURE_REALM@DIPLOMACY_MODIFIERS@RELATION@NIMUE_THRALLS"
-msgstr "Escravos da Deusa Sereia"
+msgstr "Servos da Deusa Sereia"
 
 msgid "CAMPAIGN@NATURE_REALM@DIPLOMACY_MODIFIERS@RELATION@OPEN_CONSULATE"
 msgstr "Você e {EventPlayerLeader} ganharão um [hyperlink,GLOBAL.MutualConsulateConcept]Vínculo do Feiticeiro[/hyperlink]."
@@ -5175,7 +5175,7 @@ msgid "COLONYUPGRADES_STRATEGIC@ASTRAL_FORTIFIER@NAME"
 msgstr "Fortificador Astral"
 
 msgid "COLONYUPGRADES_STRATEGIC@ASTRAL_VICTORY_STRUCTURE_1@DESCRIPTION"
-msgstr "[bulletlist][bullet/]+{amount} {GLOBAL.AstralConcept.Hyperlink}[bullet/]custo de pesquisa Astral -{amount2}% {GLOBAL.KnowledgeConcept.Hyperlink}.[bullet/]Necessário para o {GLOBAL.MagicVictoryConcept.Hyperlink}.[bullet/]Uma vez construído, revelará sua localização a todos os outros <<m:{GLOBAL.EmpireConcept.Hyperlink}>>.[/bulletlist]"
+msgstr "[bulletlist][bullet/]+{amount} {GLOBAL.AstralConcept.Hyperlink}[bullet/]Custo de pesquisa Astral -{amount2}% {GLOBAL.KnowledgeConcept.Hyperlink}.[bullet/]Necessário para o {GLOBAL.MagicVictoryConcept.Hyperlink}.[bullet/]Uma vez construído, revelará sua localização a todos os outros <<m:{GLOBAL.EmpireConcept.Hyperlink}>>.[/bulletlist]"
 
 msgid "COLONYUPGRADES_STRATEGIC@ASTRAL_VICTORY_STRUCTURE_1@NAME"
 msgstr "[magicvictory/] Semente de Astral"
@@ -5661,7 +5661,7 @@ msgid "COLONYUPGRADES_STRATEGIC@NATURE_FORTIFIER@NAME"
 msgstr "Fortificador de Natureza"
 
 msgid "COLONYUPGRADES_STRATEGIC@NATURE_VICTORY_STRUCTURE_1@DESCRIPTION"
-msgstr "[bulletlist][bullet/]+{amount} {GLOBAL.NatureConcept.Hyperlink}[bullet/]custo de pesquisa da Natureza -{amount2}% {GLOBAL.KnowledgeConcept.Hyperlink}.[bullet/]Necessário para o {GLOBAL.MagicVictoryConcept.Hyperlink}.[bullet/]Quando construído, revelará sua localização a todos os outros <<m:{GLOBAL.EmpireConcept.Hyperlink}>>.[/bulletlist]"
+msgstr "[bulletlist][bullet/]+{amount} {GLOBAL.NatureConcept.Hyperlink}[bullet/]Custo de pesquisa da Natureza -{amount2}% {GLOBAL.KnowledgeConcept.Hyperlink}.[bullet/]Necessário para o {GLOBAL.MagicVictoryConcept.Hyperlink}.[bullet/]Quando construído, revelará sua localização a todos os outros <<m:{GLOBAL.EmpireConcept.Hyperlink}>>.[/bulletlist]"
 
 msgid "COLONYUPGRADES_STRATEGIC@NATURE_VICTORY_STRUCTURE_1@NAME"
 msgstr "[magicvictory/] Semente de Natureza"
@@ -7314,7 +7314,7 @@ msgid "COMBATPROPERTIES_TACTICAL@SLEEPER_IN_SHADOW_RALLY@DESCRIPTION"
 msgstr "As habilidades de apoio dos atacantes concedem um efeito {GLOBAL.PROPERTIES.RALLYING.Hyperlink}."
 
 msgid "COMBATPROPERTIES_TACTICAL@SLEEPER_IN_SHADOW_RALLY@NAME"
-msgstr "Apoio de Ajuntamento"
+msgstr "Apoio de Mobilização"
 
 msgid "COMBATPROPERTIES_TACTICAL@SLEEPER_IN_SHADOW_SLOWED@DESCRIPTION"
 msgstr "O Rei Morto inflige {GLOBAL.PROPERTIES.SLOWED.Hyperlink} nos acertos."
@@ -9696,7 +9696,7 @@ msgid "CULTURE_DARK@CITY_NAME_50@NAME"
 msgstr "Grag-Túr^N"
 
 msgid "CULTURE_DARK@CULL_THE_WEAK@DESCRIPTION"
-msgstr "[bulletlist][bullet/]ataques de {GLOBAL.RangedConcept.Hyperlink} e {GLOBAL.MagicConcept.Hyperlink} têm {chance}% de chance base de infligir {GLOBAL.PROPERTIES.WEAKENED.Hyperlink}.[bullet/]ataques de {GLOBAL.MeleeConcept.Hyperlink} contra unidades com {GLOBAL.PROPERTIES.WEAKENED.Hyperlink}:[bulletlist][bullet/]Causam +{CULL_THE_WEAK_DAMAGE>ResolvedMultiplier}% de dano.[bullet/]Curam o atacante em {healing} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>, uma vez por turno.[/bulletlist][/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+msgstr "[bulletlist][bullet/]Ataques de {GLOBAL.RangedConcept.Hyperlink} e {GLOBAL.MagicConcept.Hyperlink} têm {chance}% de chance base de infligir {GLOBAL.PROPERTIES.WEAKENED.Hyperlink}.[bullet/]Ataques de {GLOBAL.MeleeConcept.Hyperlink} contra unidades com {GLOBAL.PROPERTIES.WEAKENED.Hyperlink}:[bulletlist][bullet/]Causam +{CULL_THE_WEAK_DAMAGE>ResolvedMultiplier}% de dano.[bullet/]Curam o atacante em {healing} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>, uma vez por turno.[/bulletlist][/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
 
 msgid "CULTURE_DARK@CULL_THE_WEAK@NAME"
 msgstr "Eliminar os Fracos"
@@ -9720,19 +9720,19 @@ msgid "CULTURE_DARK@CULTOFTYRANNY@CULT_OF_TYRANNY@GROUP_DESCRIPTION"
 msgstr "[bulletlist][bullet/]{GLOBAL.PROPERTIES.AURA_OF_TYRANNY.Hyperlink}[bullet/]Os ataques ganham chance base de {CULT_OF_TYRANNY_RESISTANCE>ResolvedStrength}% de infligir {GLOBAL.PROPERTIES.STATUS_VULNERABILITY.Hyperlink} e curar esta unidade em {CULT_OF_TYRANNY_HEALING>NumHitpointsToRestore} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>.[/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
 
 msgid "CULTURE_DARK@CULTOFTYRANNY@CULT_OF_TYRANNY@MODIFIER_DESCRIPTION"
-msgstr "Chance base de {CULT_OF_TYRANNY_RESISTANCE>ResolvedStrength}% de:[bulletlist][bullet/]Infligir {GLOBAL.PROPERTIES.STATUS_VULNERABILITY.Hyperlink} por {STATUS_VULNERABILITY_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept.Hyperlink}>>.[bullet/]Curar a si mesmo por {CULT_OF_TYRANNY_HEALING>NumHitpointsToRestore} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>.[/bulletlist]"
+msgstr "Chance base de {CULT_OF_TYRANNY_RESISTANCE>ResolvedStrength}% de:[bulletlist][bullet/]Infligir {GLOBAL.PROPERTIES.STATUS_VULNERABILITY.Hyperlink} por {STATUS_VULNERABILITY_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept.Hyperlink}>>.[bullet/]Curar a si mesma por {CULT_OF_TYRANNY_HEALING>NumHitpointsToRestore} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>.[/bulletlist]"
 
 msgid "CULTURE_DARK@CULTOFTYRANNY@CULT_OF_TYRANNY@MODIFIER_NAME"
 msgstr "Explorar Vulnerabilidade"
 
 msgid "CULTURE_DARK@CULTOFTYRANNY@CULT_OF_TYRANNY@MODIFIER_PROPERTY_DESCRIPTION"
-msgstr "Os ataques da unidade têm chance base de {CULT_OF_TYRANNY_RESISTANCE>ResolvedStrength}% de:[bulletlist][bullet/]Infligir {GLOBAL.PROPERTIES.STATUS_VULNERABILITY.Hyperlink} por {STATUS_VULNERABILITY_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept.Hyperlink}>>.[bullet/]Curar a si mesmo por {CULT_OF_TYRANNY_HEALING>NumHitpointsToRestore} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>.[/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+msgstr "Os ataques da unidade têm chance base de {CULT_OF_TYRANNY_RESISTANCE>ResolvedStrength}% de:[bulletlist][bullet/]Infligir {GLOBAL.PROPERTIES.STATUS_VULNERABILITY.Hyperlink} por {STATUS_VULNERABILITY_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept.Hyperlink}>>.[bullet/]Curar a si mesma por {CULT_OF_TYRANNY_HEALING>NumHitpointsToRestore} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>.[/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
 
 msgid "CULTURE_DARK@CULTOFTYRANNY@CULT_OF_TYRANNY@NAME"
 msgstr "Culto da Tirania"
 
 msgid "CULTURE_DARK@CULTOFTYRANNY@CULT_OF_TYRANNY@PREVIEW_OVERRIDE"
-msgstr "{GLOBAL.PROPERTIES.STATUS_VULNERABILITY.Hyperlink} {effectDuration}[turn/][br/]Cure a si mesmo +{Heal} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>"
+msgstr "{GLOBAL.PROPERTIES.STATUS_VULNERABILITY.Hyperlink} {effectDuration}[turn/][br/]Cure a si mesma +{Heal} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>"
 
 msgid "CULTURE_DARK@CULTOFTYRANNY@CULT_OF_TYRANNY@PROPERTY_DESCRIPTION"
 msgstr "{StatusResistanceCount} {GLOBAL.StatusResistanceConcept.Hyperlink}."
@@ -15633,7 +15633,7 @@ msgid "DIPLOMACY@HOUSE_DIPLOMATIC_STATE@VASSALAGE_LEVEL_-3"
 msgstr "Negando Tributário"
 
 msgid "DIPLOMACY@HOUSE_DIPLOMATIC_STATE@VASSALAGE_LEVEL_-3_DESCRIPTION"
-msgstr "[bulletlist][bullet/]A {GLOBAL.IndependentCityConcept.Hyperlink} não compartilha nenhuma renda.[bullet/]Não compartilha nenhum <<m:{GLOBAL.MagicMaterialConcept.Hyperlink}>>.[bullet/]Não contribui nada para o Ajuntamento dos Vassalos.[bullet/]Os custos de [hyperlink,GLOBAL.IndependentCityTradeConcept]Comércio[/hyperlink] aumentam em {tradingCost}%.[/bulletlist]"
+msgstr "[bulletlist][bullet/]A {GLOBAL.IndependentCityConcept.Hyperlink} não compartilha nenhuma renda.[bullet/]Não compartilha nenhum <<m:{GLOBAL.MagicMaterialConcept.Hyperlink}>>.[bullet/]Não contribui nada para o Mobilização.[bullet/]Os custos de [hyperlink,GLOBAL.IndependentCityTradeConcept]Comércio[/hyperlink] aumentam em {tradingCost}%.[/bulletlist]"
 
 msgid "DIPLOMACY@HOUSE_DIPLOMATIC_STATE@VASSALAGE_LEVEL_-3_HYPERLINK"
 msgstr "[rs_vassalage-3/] [hyperlink,GLOBAL.PactOfVassalageLvl-3Concept]Tributo Negado[/hyperlink]"
@@ -19689,7 +19689,7 @@ msgid "DLC@ARCHONPROPHECY@HERO_SKILLS@BATTLESAINT@RALLYING_FERVOR@DESCRIPTION_AB
 msgstr "Conjurador perde todas as pilhas de {GLOBAL.PROPERTIES.FERVOR.Hyperlink} e a unidade alvo ganha:[bulletlist][bullet/]+{CLERICS_FERVOR_HEAL>NumHitpointsToRestore}{GLOBAL.TemporaryHitPointConcept.Hyperlink} por pilha de {GLOBAL.PROPERTIES.FERVOR.Hyperlink} consumida.[bullet/]+{value} {GLOBAL.PROPERTIES.RALLYING.Hyperlink} por pilha de {GLOBAL.PROPERTIES.FERVOR.Hyperlink} consumida.[/bulletlist][br/]Não gera {GLOBAL.PROPERTIES.FERVOR.Hyperlink}."
 
 msgid "DLC@ARCHONPROPHECY@HERO_SKILLS@BATTLESAINT@RALLYING_FERVOR@NAME"
-msgstr "Fervor de Ajuntamento"
+msgstr "Fervor de Mobilização"
 
 msgid "DLC@ARCHONPROPHECY@HERO_SKILLS@BATTLESAINT@REVIVE@DESCRIPTION"
 msgstr "Cadáver aliado alvo é revivido com {REVIVE_RESURRECT_EFFECT>ResolvedHitPoints}% de seu máximo {GLOBAL.PROPERTIES.ANCIENT_OF_EARTH_STAT_BONUS.Hyperlink}."
@@ -21633,7 +21633,7 @@ msgid "DLC@ARCHONPROPHECY@STORY_EVENT@1167_942@BODY_HEADER"
 msgstr "Você chega à Cidade Murada. Seu portão está trancado. Figuras sombrias marcham ao longo de suas altas muralhas. O caminho está fechado."
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@1167_942@BODY_LORE"
-msgstr "A coroa flutuante sobre a cidade o atrai. Seu brilho aquece seu coração e incita uma promessa inspiradora em sua alma. Você vê entalhes nas muralhas da cidade. Imagens desbotadas de seu {EventRace} e... de você mesmo! Esta é sua terra. Esta cidade lhe pertence. Contudo, você não é o seu <<PlayerLeader{senhor/senhora}>>. Inimigos, espiando você das imponentes fortificações, bloqueiam seu caminho."
+msgstr "A coroa flutuante sobre a cidade o atrai. Seu brilho aquece seu coração e incita uma promessa inspiradora em sua alma. Você vê entalhes nas muralhas da cidade. Imagens desbotadas de seu {EventRace} e... seus! Esta é sua terra. Esta cidade lhe pertence. Contudo, você não é o seu <<PlayerLeader{senhor/senhora}>>. Inimigos, espiando você das imponentes fortificações, bloqueiam seu caminho."
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@1167_942@BUTTON_0"
 msgstr "\\\"Pelas espadas dos {EventRace}, conquistarei meu Paraíso!\\\""
@@ -22533,7 +22533,7 @@ msgid "DLC@ARCHONPROPHECY@STORY_EVENT@1194_1881@TITLE"
 msgstr "Sangue de Inioch"
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@1194_1883@BODY_FOOTER"
-msgstr "{Sundren.FirstName} intervém. \\\"O Alto Conselho dos Arcontes está cego a qualquer outra interpretação. Como podem ter tanta certeza de a quem pertence este 'Sangue do Traidor'? Existem outros caminhos para a salvação além do fogo sagrado e da lâmina.\\\""
+msgstr "{Sundren.FirstName} intervém. \\\"O Alto Conselho dos Arcontes está cego a qualquer outra interpretação. Como podem ter tanta certeza sobre a quem pertence este 'Sangue do Traidor'? Existem outros caminhos para a salvação além do fogo sagrado e da lâmina.\\\""
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@1194_1883@BODY_HEADER"
 msgstr "Você coletou múltiplos Aspectos das Afinidades no {EventRealm}. {Anon.FirstName} aparece diante de você novamente."
@@ -24051,7 +24051,7 @@ msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8205@BUTTON_7"
 msgstr "\\\"Deixe suas terras para que meu povo as ocupe.\\\""
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8205@BUTTON_8"
-msgstr "\\\"Não desejo recompensa maior do que que suas almas sejam salvas.\\\" [goodact/]"
+msgstr "\\\"Não desejo recompensa maior do que suas almas sejam salvas.\\\" [goodact/]"
 
 msgid "DLC@ARCHONPROPHECY@STORY_EVENT@991_8205@BUTTON_9"
 msgstr "\\\"Assim seja!\\\""
@@ -26103,7 +26103,7 @@ msgid "DLC@ARCHONPROPHECY@TUTORIAL@MONUMENTS_AND_WONDERSTONE@TITLE02"
 msgstr "[wonderstone/]Pedra de Maravilha"
 
 msgid "DLC@ARCHONPROPHECY@TUTORIAL@MONUMENTS_AND_WONDERSTONE_PAGE01@DESCRIPTION"
-msgstr "<<m:{GLOBAL.ArchitectConcept.Hyperlink}>> pode construir <<m:{GLOBAL.ArchitectMonumentConcept.Hyperlink}>>:[br/] poderosos <<m:{GLOBAL.ProvinceImprovementConcept.Hyperlink}>> dedicados ao <<m:{GLOBAL.AffinityConcept.Hyperlink}>>."
+msgstr "<<m:{GLOBAL.ArchitectConcept.Hyperlink}>> pode construir <<m:{GLOBAL.ArchitectMonumentConcept.Hyperlink}>>:[br/] Poderosos <<m:{GLOBAL.ProvinceImprovementConcept.Hyperlink}>> dedicados ao <<m:{GLOBAL.AffinityConcept.Hyperlink}>>."
 
 msgid "DLC@ARCHONPROPHECY@TUTORIAL@MONUMENTS_AND_WONDERSTONE_PAGE01@INSTRUCTIONS"
 msgstr "Uma vez construído, <<m:{GLOBAL.ArchitectMonumentConcept.Hyperlink}>> começa no nível I e pode ser aprimorado até o nível IV.[br/]Cada nível construído concede às suas unidades {GLOBAL.PROPERTIES.AFFINITY_INCARNATE_UNIT_PROPERTY.Hyperlink}, enquanto níveis superiores concedem <<m:{GLOBAL.AffinityConcept.Hyperlink}>> e fortalecem a cidade à qual estão anexados."
@@ -27324,13 +27324,13 @@ msgid "DLC@DRAGONLORDS@DRAGON_TRANSFORMATION@MAJOR_ASTRAL@NAME"
 msgstr "Sopro da Tempestade"
 
 msgid "DLC@DRAGONLORDS@DRAGON_TRANSFORMATION@MAJOR_CHAOS@DESCRIPTION"
-msgstr "Esta unidade ganha:[bulletlist][bullet/]+{DRAGON_MAJOR_STAT_BONUS>BONUS>HitPoints} <<m:{GLOBAL.HitPointConcept.Hyperlink}>>[bullet/]Seu ataque de sopro:[bulletlist][bullet/]Aumenta de tamanho.[bullet/]Torna-se parte {GLOBAL.FireDamageConcept.Hyperlink} se não for um Dragão do Caos.[bullet/]Causa +{CHAOS_DRAGON_MAJOR_MOD_DAMAGE>ResolvedMultiplier}% de dano adicional.[bullet/]Sempre inflige {GLOBAL.PROPERTIES.BURNING.Hyperlink}.[bullet/]deixa os hexágonos afetados {GLOBAL.OnFireConcept.Hyperlink}.[/bulletlist][/bulletlist]"
+msgstr "Esta unidade ganha:[bulletlist][bullet/]+{DRAGON_MAJOR_STAT_BONUS>BONUS>HitPoints} <<m:{GLOBAL.HitPointConcept.Hyperlink}>>[bullet/]Seu ataque de sopro:[bulletlist][bullet/]Aumenta de tamanho.[bullet/]Torna-se parte {GLOBAL.FireDamageConcept.Hyperlink} se não for um Dragão do Caos.[bullet/]Causa +{CHAOS_DRAGON_MAJOR_MOD_DAMAGE>ResolvedMultiplier}% de dano adicional.[bullet/]Sempre inflige {GLOBAL.PROPERTIES.BURNING.Hyperlink}.[bullet/]Deixa os hexágonos afetados {GLOBAL.OnFireConcept.Hyperlink}.[/bulletlist][/bulletlist]"
 
 msgid "DLC@DRAGONLORDS@DRAGON_TRANSFORMATION@MAJOR_CHAOS@NAME"
 msgstr "Sopro Infernal"
 
 msgid "DLC@DRAGONLORDS@DRAGON_TRANSFORMATION@MAJOR_CHAOS_SHADOW@DESCRIPTION"
-msgstr "Esta unidade ganha:[bulletlist][bullet/]+{DRAGON_MAJOR_STAT_BONUS>BONUS>HitPoints} <<m:{GLOBAL.HitPointConcept.Hyperlink}>>[bullet/]Seu ataque de sopro:[bulletlist][bullet/]Aumenta de tamanho.[bullet/]Torna-se parte {GLOBAL.FireDamageConcept.Hyperlink} se não for um Dragão do Caos.[bullet/]Ataques de sopro causam +{CHAOS_DRAGON_MAJOR_MOD_DAMAGE>ResolvedMultiplier}% de dano.[bullet/]Sempre inflige {GLOBAL.PROPERTIES.GHOSTFIRE.Hyperlink}.[bullet/]deixa os hexágonos afetados {GLOBAL.OnFireConcept.Hyperlink}.[/bulletlist][/bulletlist]"
+msgstr "Esta unidade ganha:[bulletlist][bullet/]+{DRAGON_MAJOR_STAT_BONUS>BONUS>HitPoints} <<m:{GLOBAL.HitPointConcept.Hyperlink}>>[bullet/]Seu ataque de sopro:[bulletlist][bullet/]Aumenta de tamanho.[bullet/]Torna-se parte {GLOBAL.FireDamageConcept.Hyperlink} se não for um Dragão do Caos.[bullet/]Ataques de sopro causam +{CHAOS_DRAGON_MAJOR_MOD_DAMAGE>ResolvedMultiplier}% de dano.[bullet/]Sempre inflige {GLOBAL.PROPERTIES.GHOSTFIRE.Hyperlink}.[bullet/]Deixa os hexágonos afetados {GLOBAL.OnFireConcept.Hyperlink}.[/bulletlist][/bulletlist]"
 
 msgid "DLC@DRAGONLORDS@DRAGON_TRANSFORMATION@MAJOR_MATERIUM@DESCRIPTION"
 msgstr "Esta unidade ganha:[bulletlist][bullet/]+{DRAGON_MAJOR_STAT_BONUS>BONUS>HitPoints} <<m:{GLOBAL.HitPointConcept.Hyperlink}>>[bullet/]Seu ataque de sopro:[bulletlist][bullet/]Aumenta de tamanho.[bullet/]Torna-se parte {GLOBAL.PhysicalDamageConcept.Hyperlink} se não for um Dragão de Materium.[bullet/]Inflige garantidamente {GLOBAL.PROPERTIES.WEAKENED.Hyperlink}.[bullet/]Inflige garantidamente {GLOBAL.PROPERTIES.SUNDERED_DEFENSE.Hyperlink}.[bullet/]Dissipa todos os <<m:{GLOBAL.PositiveStatusEffectConcept.Hyperlink}>> nos inimigos.[/bulletlist][/bulletlist]"
@@ -27471,7 +27471,7 @@ msgid "DLC@DRAGONLORDS@DRAGON_TRANSFORMATION@NATURE_TRANSFORMATION@PROPERTY_DESC
 msgstr "No final do turno desta unidade, ganha {GLOBAL.PROPERTIES.OBSCURED.Hyperlink} até ser movida e cria {GLOBAL.ObscuringConcept.Hyperlink} flora nos espaços adjacentes.[br/]Não funciona em batalhas aquáticas."
 
 msgid "DLC@DRAGONLORDS@DRAGON_TRANSFORMATION@NATURE_TRANSFORMATION@PROPERTY_NAME"
-msgstr "Crescimento Fey"
+msgstr "Crescimento Feérico"
 
 msgid "DLC@DRAGONLORDS@DRAGON_TRANSFORMATION@ORDER_ELDER@DESCRIPTION"
 msgstr "Esta unidade ganha:[bulletlist][bullet/]+{DRAGON_MAJOR_STAT_BONUS>BONUS>HitPoints} <<m:{GLOBAL.HitPointConcept.Hyperlink}>>[br/]+{DRAGON_MAJOR_STAT_BONUS>BONUS>DEFENSE>Armor} {GLOBAL.DefenseConcept.Hyperlink}[br/]+{DRAGON_MAJOR_STAT_BONUS>BONUS>DEFENSE>Resistance}{GLOBAL.ResistanceConcept.Hyperlink}[bullet/]Todas as unidades aliadas em combate recebem {GLOBAL.PROPERTIES.CONTROL_LOSS_IMMUNITY.Hyperlink}[bullet/]No início do turno desta unidade, todas as unidades aliadas recebem +{ORDER_DRAGON_ELDER_EFFECT_MORALE>Morale Change} {GLOBAL.UnitMoraleConcept.Hyperlink}[/bulletlist]"
@@ -29034,7 +29034,7 @@ msgid "DLC@ELDRITCHREALMS@COSMIC_HAPPENING@ASTEROID_VARIABLES@STARSEEDS"
 msgstr "sementes da Árvore-Mundo"
 
 msgid "DLC@ELDRITCHREALMS@COSMIC_HAPPENING@ASTEROID_VARIABLES@XORNS_JAVELIN"
-msgstr "o cometa Lança de Xorn"
+msgstr "O Cometa Lança de Xorn"
 
 msgid "DLC@ELDRITCHREALMS@COSMIC_HAPPENING@BUTTON_CUSTOM_TEXT_NO_TERRAFORM"
 msgstr "Nenhuma de suas províncias foi afetada pelo {EventEffect}."
@@ -31356,7 +31356,7 @@ msgid "DLC@ELDRITCHREALMS@HERO_SKILL@SKILL06@DESCRIPTION"
 msgstr "{GLOBAL.AbsorbingConcept.Hyperlink} ou {GLOBAL.MigratingConcept.Hyperlink} uma {GLOBAL.CityConcept.Hyperlink} concede {amount} <<m:{GLOBAL.ThrallConcept.Hyperlink}>>."
 
 msgid "DLC@ELDRITCHREALMS@HERO_SKILL@SKILL06@NAME"
-msgstr "Escravos Capturados"
+msgstr "Servos Capturados"
 
 msgid "DLC@ELDRITCHREALMS@HERO_SKILL@SKILL07@AB_DESCRIPTION"
 msgstr "Unidade inimiga alvo tem {chance}% de chance base de ser afetada por:[bulletlist][bullet/]{GLOBAL.PROPERTIES.INSANITY.Hyperlink} por {duration} <<m:{GLOBAL.TurnConcept}>>.[bullet/]{amount} {GLOBAL.PROPERTIES.SUNDERED_DEFENSE.Hyperlink} por {duration3} <<m:{GLOBAL.TurnConcept}>>.[bullet/]{amount2} {GLOBAL.PROPERTIES.SUNDERED_RESISTANCE.Hyperlink} por {duration3} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist]"
@@ -34371,7 +34371,7 @@ msgid "DLC@ELDRITCHREALMS@STORY_EVENT@991_6030@BODY_LORE@FINAL_RAID"
 msgstr "\\\"Venham, crianças travessas, venham chorar[br/]De {GLOBAL.DuathaLoreConcept.Hyperlink} que tomaram com pesar[br/]Nosso {EventRelicName}, ladrões amaldiçoados[br/]Seu próprio {EventBodyPart} arrancaremos, dilaceraremos[br/]Trituraremos, fatiamos, escavaremos e estrangularemos[br/]Para sempre morrerão\\\""
 
 msgid "DLC@ELDRITCHREALMS@STORY_EVENT@991_6030@BODY_LORE@ILANDRA_WAKING_SLEEP"
-msgstr "\\\"Despertem agora, crianças, abram os olhos[br/]Os Fey nunca lhes mentiriam[br/]Sigam-nos através da névoa[br/]Onde dor e sofrimento deixam de existir[br/]Abracem lá, crianças, não chorem[br/]O sono eterno de nossa Rainha Adormecida.\\\""
+msgstr "\\\"Despertem agora, crianças, abram os olhos[br/]Os Feéricos nunca lhes mentiriam[br/]Sigam-nos através da névoa[br/]Onde dor e sofrimento deixam de existir[br/]Abracem lá, crianças, não chorem[br/]O sono eterno de nossa Rainha Adormecida.\\\""
 
 msgid "DLC@ELDRITCHREALMS@STORY_EVENT@991_6030@BODY_LORE@LUTH_AERIAL"
 msgstr "\\\"Venham, crianças, não têm nada a temer[br/]Existe uma terra, longe daqui[br/]Rapidamente trazida pelos ventos da alegria[br/]Para {GLOBAL.DuathaLoreConcept.Hyperlink}, onde ninguém ouvirá[br/]Seus gritos e clamores que ecoam claramente[br/]Na escuridão vocês morrerão, meus queridos.\\\""
@@ -34389,7 +34389,7 @@ msgid "DLC@ELDRITCHREALMS@STORY_EVENT@991_6030@BUTTON_2"
 msgstr "\\\"Abramos os portões [siegehealthdamage/] para atrair os {EventRace} para nossas linhas defensivas!\\\""
 
 msgid "DLC@ELDRITCHREALMS@STORY_EVENT@991_6030@BUTTON_3"
-msgstr "\\\"A magia Fey é um enigma curioso... para estudar e suprimir.\\\""
+msgstr "\\\"A magia feérica é um enigma curioso... para estudar e suprimir.\\\""
 
 msgid "DLC@ELDRITCHREALMS@STORY_EVENT@991_6030@BUTTON_4"
 msgstr "\\\"Sou o único cujos sussurros podem perturbar a mente dos meus súditos!\\\""
@@ -34749,7 +34749,7 @@ msgid "DLC@ELDRITCHREALMS@STORY_EVENT@991_6267@BODY_HEADER"
 msgstr "O mundo ao seu redor silencia, e sombras profundas encobrem sua visão. Antes que possa reagir, uma lâmina fria de metal pressiona contra sua garganta."
 
 msgid "DLC@ELDRITCHREALMS@STORY_EVENT@991_6267@BODY_LORE"
-msgstr "\\\"É melhor não se mexer!\\\" uma voz sussurra na escuridão e uma mão gelada toca sua têmpora. \\\"Você ainda parece ser você mesmo, {PlayerLeader}. Muito bem.\\\"[br/][br/]A lâmina é recolhida e a figura elegante de {EventHero} revela <<r:EventHero>>, ainda segurando {EventItem}. \\\"Da noite sem fim retorno para oferecer minha ajuda nesta hora de desgraça de Athla,\\\" diz {EventHero.FirstName} com um sutil gesto de saudação."
+msgstr "\\\"É melhor não se mexer!\\\" uma voz sussurra na escuridão e uma mão gelada toca sua têmpora. \\\"Você ainda parece ser você, {PlayerLeader}. Muito bem.\\\"[br/][br/]A lâmina é recolhida e a figura elegante de {EventHero} revela <<r:EventHero>>, ainda segurando {EventItem}. \\\"Da noite sem fim retorno para oferecer minha ajuda nesta hora de desgraça de Athla,\\\" diz {EventHero.FirstName} com um sutil gesto de saudação."
 
 msgid "DLC@ELDRITCHREALMS@STORY_EVENT@991_6267@BUTTON_0"
 msgstr "Aceitar <<g:ajuda^n,EventHero.FirstName>>. [unit/]"
@@ -35058,7 +35058,7 @@ msgid "DLC@ELDRITCHREALMS@STORY_EVENT@991_6347@TITLE"
 msgstr "A Queda do Guardião da Clareira"
 
 msgid "DLC@ELDRITCHREALMS@STORY_EVENT@991_6349@BODY_FOOTER"
-msgstr "<<Cg:lágrimas^p,EventPlayer.FirstName>> se dispersam no ar, formando uma névoa que se agarra à figura esguia de <<o:EventPlayer>>. Por fim, <<p:EventPlayer>> desaparece dentro dela, partindo como um verdadeiro Fey."
+msgstr "<<Cg:lágrimas^p,EventPlayer.FirstName>> se dispersam no ar, formando uma névoa que se agarra à figura esguia de <<o:EventPlayer>>. Por fim, <<p:EventPlayer>> desaparece dentro dela, partindo como um verdadeiro Feéricos."
 
 msgid "DLC@ELDRITCHREALMS@STORY_EVENT@991_6349@BODY_FOOTER@JOINED_UMBRAL"
 msgstr "Tentáculos negros surgem do chão sob {EventPlayer}, formando um {EventStructure}. Eles agarram o {EventPlayerType} caído, arrastando violentamente <<P:EventPlayer>> para o {GLOBAL.ShadowRealmLoreConcept.Hyperlink}."
@@ -37758,7 +37758,7 @@ msgid "DLC@EMPIRESANDASHES@CULTURE_REAVER@SKILL5@PROP_DESCRIPTION"
 msgstr "A unidade tem:[bulletlist][bullet/]{GLOBAL.PROPERTIES.FEDERATE_SOLDIER.Hyperlink}[/bulletlist]"
 
 msgid "DLC@EMPIRESANDASHES@CULTURE_REAVER@SKILL6@DESCRIPTION"
-msgstr "Cura a unidade amiga alvo:[bulletlist][bullet/]unidades {GLOBAL.PROPERTIES.FEDERATE_SOLDIER.Hyperlink}:[bulletlist][bullet/]+{REVITALIZING_ALLIANCE_BASE_HEAL>NumHitpointsToRestore} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>[bullet/]+{REVITALIZING_ALLIANCE_SOLDIER_MOD>BoostPerUnit} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>> para cada {GLOBAL.PROPERTIES.FEDERATE_LEVY.Hyperlink} aliado em batalha.[/bulletlist][bullet/]unidades {GLOBAL.PROPERTIES.FEDERATE_LEVY.Hyperlink}:[bulletlist][bullet/]+{REVITALIZING_ALLIANCE_BASE_HEAL>NumHitpointsToRestore} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>[bullet/]+{REVITALIZING_ALLIANCE_LEVY_MOD>BoostPerUnit} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>> para cada {GLOBAL.PROPERTIES.FEDERATE_SOLDIER.Hyperlink} aliado em batalha.[/bulletlist][/bulletlist][br/]Este efeito salta para {REVITALIZING_ALLIANCE_TARGETER>MaxJumps} alvos adicionais dentro de {REVITALIZING_ALLIANCE_TARGETER>MaxDistance} hexágonos."
+msgstr "Cura a unidade amiga alvo:[bulletlist][bullet/]Unidades {GLOBAL.PROPERTIES.FEDERATE_SOLDIER.Hyperlink}:[bulletlist][bullet/]+{REVITALIZING_ALLIANCE_BASE_HEAL>NumHitpointsToRestore} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>[bullet/]+{REVITALIZING_ALLIANCE_SOLDIER_MOD>BoostPerUnit} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>> para cada {GLOBAL.PROPERTIES.FEDERATE_LEVY.Hyperlink} aliado em batalha.[/bulletlist][bullet/]Unidades {GLOBAL.PROPERTIES.FEDERATE_LEVY.Hyperlink}:[bulletlist][bullet/]+{REVITALIZING_ALLIANCE_BASE_HEAL>NumHitpointsToRestore} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>[bullet/]+{REVITALIZING_ALLIANCE_LEVY_MOD>BoostPerUnit} <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>> para cada {GLOBAL.PROPERTIES.FEDERATE_SOLDIER.Hyperlink} aliado em batalha.[/bulletlist][/bulletlist][br/]Este efeito salta para {REVITALIZING_ALLIANCE_TARGETER>MaxJumps} alvos adicionais dentro de {REVITALIZING_ALLIANCE_TARGETER>MaxDistance} hexágonos."
 
 msgid "DLC@EMPIRESANDASHES@CULTURE_REAVER@SKILL6@NAME"
 msgstr "Aliança Revitalizante"
@@ -38013,7 +38013,7 @@ msgid "DLC@EMPIRESANDASHES@INTERFACE@AFFLICTING_MIASMA@HYPERLINK"
 msgstr "[hyperlink,GLOBAL.AfflictingMiasmaHazard]Miasma Afligente[/hyperlink]"
 
 msgid "DLC@EMPIRESANDASHES@INTERFACE@GAINING_WARSPOILS@DESCRIPTION"
-msgstr "Espólios de Guerra são obtidos por:[br/][br/]Matar <<m:{GLOBAL.UnitConcept.Hyperlink}>> pertencente a <<m:{GLOBAL.IndependentCityConcept.Hyperlink}>>, <<m:{GLOBAL.DwellingConcept.Hyperlink}>> ou <<m:{GLOBAL.EmpireConcept.Hyperlink}>>.[bulletlist][bullet/]{GLOBAL.UnitTierConcept.Hyperlink} Unidades I concedem {T1Reward}[warspoils/].[bullet/]{GLOBAL.UnitTierConcept.Hyperlink} Unidades II concedem {T2Reward}[warspoils/].[bullet/]{GLOBAL.UnitTierConcept.Hyperlink} Unidades III concedem {T3Reward}[warspoils/].[bullet/]{GLOBAL.UnitTierConcept.Hyperlink} Unidades IV concedem {T4Reward}[warspoils/].[bullet/]{GLOBAL.UnitTierConcept.Hyperlink} Unidades V concedem {T5Reward}[warspoils/].[bullet/]<<m:{GLOBAL.HeroConcept.Hyperlink}>> concede {HeroReward}[warspoils/] por nível.[/bulletlist][br/][br/]Conquistar <<m:{GLOBAL.CityConcept.Hyperlink}>>[bulletlist][bullet/] concede {WarspoilsConquestBase}[warspoils/] + {PopWarspoilsConquest}[warspoils/] por cada {GLOBAL.PopulationConcept.Hyperlink} que a cidade conquistada possuía.[/bulletlist][br/]{GLOBAL.PillagingConcept.Hyperlink} Províncias concedem +{PillageReward}[warspoils/]."
+msgstr "Espólios de Guerra são obtidos por:[br/][br/]Matar <<m:{GLOBAL.UnitConcept.Hyperlink}>> pertencente a <<m:{GLOBAL.IndependentCityConcept.Hyperlink}>>, <<m:{GLOBAL.DwellingConcept.Hyperlink}>> ou <<m:{GLOBAL.EmpireConcept.Hyperlink}>>.[bulletlist][bullet/]{GLOBAL.UnitTierConcept.Hyperlink} Unidades I concedem {T1Reward}[warspoils/].[bullet/]{GLOBAL.UnitTierConcept.Hyperlink} Unidades II concedem {T2Reward}[warspoils/].[bullet/]{GLOBAL.UnitTierConcept.Hyperlink} Unidades III concedem {T3Reward}[warspoils/].[bullet/]{GLOBAL.UnitTierConcept.Hyperlink} Unidades IV concedem {T4Reward}[warspoils/].[bullet/]{GLOBAL.UnitTierConcept.Hyperlink} Unidades V concedem {T5Reward}[warspoils/].[bullet/]<<m:{GLOBAL.HeroConcept.Hyperlink}>> concede {HeroReward}[warspoils/] por nível.[/bulletlist][br/][br/]Conquistar <<m:{GLOBAL.CityConcept.Hyperlink}>>[bulletlist][bullet/] Concede {WarspoilsConquestBase}[warspoils/] + {PopWarspoilsConquest}[warspoils/] por cada {GLOBAL.PopulationConcept.Hyperlink} que a cidade conquistada possuía.[/bulletlist][br/]{GLOBAL.PillagingConcept.Hyperlink} Províncias concedem +{PillageReward}[warspoils/]."
 
 msgid "DLC@EMPIRESANDASHES@INTERFACE@GAINING_WARSPOILS@HYPERLINK"
 msgstr "[hyperlink,GLOBAL.GainingWarspoilsConcept]Obtendo Espólios de Guerra[/hyperlink]"
@@ -39192,7 +39192,7 @@ msgid "DLC@EMPIRESANDASHES@STORY_EVENT@1140_886@BODY_HEADER"
 msgstr "Seu controle crescente sobre o <<m:EventStructure>> provocou distúrbios no reino que não passaram despercebidos. Agora, {Edward.TitleName} se aproxima."
 
 msgid "DLC@EMPIRESANDASHES@STORY_EVENT@1140_886@BODY_LORE"
-msgstr "\\\"O que está fazendo, {PlayerLeader.Name}? Não pense que não sinto os distúrbios no {GLOBAL.AstralFlowsLoreConcept.Hyperlink}! Se acha que pode usar alguma magia arcana amaldiçoada para me deter, não está apenas sendo tolo, é tão mau quanto qualquer outro {GLOBAL.WizardKingLoreConcept.Hyperlink}!\\\"[br/]{Laryssa.FirstName} tenta intervir. \\\"Edward, por favor, você não é você mesmo...\\\" Por um momento surge uma dúvida e dor em seus olhos. Então, um brilho vermelho e furioso retorna."
+msgstr "\\\"O que está fazendo, {PlayerLeader.Name}? Não pense que não sinto os distúrbios no {GLOBAL.AstralFlowsLoreConcept.Hyperlink}! Se acha que pode usar alguma magia arcana amaldiçoada para me deter, não está apenas sendo tolo, é tão mau quanto qualquer outro {GLOBAL.WizardKingLoreConcept.Hyperlink}!\\\"[br/]{Laryssa.FirstName} tenta intervir. \\\"Edward, por favor, esse não é você...\\\" Por um momento surge uma dúvida e dor em seus olhos. Então, um brilho vermelho e furioso retorna."
 
 msgid "DLC@EMPIRESANDASHES@STORY_EVENT@1140_886@BUTTON_0"
 msgstr "\\\"Que assim seja!\\\""
@@ -39924,7 +39924,7 @@ msgid "DLC@EMPIRESANDASHES@STORY_EVENT@1167_126@BUTTON_2"
 msgstr "\\\"Suas preocupações foram anotadas. Eu recrutarei [gold/] mais um {EventUnit}.\\\" [unit/]"
 
 msgid "DLC@EMPIRESANDASHES@STORY_EVENT@1167_126@BUTTON_3"
-msgstr "“Erga as armas você mesmo! É seu dever ao senhor e à terra!”"
+msgstr "“Erga as armas em pessoa! É seu dever ao senhor e à terra!”"
 
 msgid "DLC@EMPIRESANDASHES@STORY_EVENT@1167_126@BUTTON_4"
 msgstr "“Eu cuidarei das estratégias. Você cuida das colheitas.”"
@@ -40089,7 +40089,7 @@ msgid "DLC@EMPIRESANDASHES@STORY_EVENT@1167_80@TITLE"
 msgstr "Construtos Contidos"
 
 msgid "DLC@EMPIRESANDASHES@STORY_EVENT@1167_81@BODY_FOOTER"
-msgstr "Enquanto suas tropas limpam o {EventStructure}, você permite a si mesmo pegar um dos tesouros das máquinas. Qual deles?"
+msgstr "Enquanto suas tropas limpam o {EventStructure}, você se permite pegar um dos tesouros das máquinas. Qual deles?"
 
 msgid "DLC@EMPIRESANDASHES@STORY_EVENT@1167_81@BODY_HEADER"
 msgstr "Pela primeira vez em séculos, o silêncio retorna ao antigo {EventStructure}. Os construtos finalmente permanecem imóveis e em paz."
@@ -40116,7 +40116,7 @@ msgid "DLC@EMPIRESANDASHES@STORY_EVENT@1167_81@TITLE"
 msgstr "Construtos Contidos: Consequência"
 
 msgid "DLC@EMPIRESANDASHES@STORY_EVENT@1167_82@BODY_FOOTER"
-msgstr "Um {EnemyUnit} de voz aguda rosna:[br/]\\\"O que anda sem pernas de manhã, [br/]quatro pernas à tarde, [br/]e asas à noite? Responda-me!\\\""
+msgstr "Um {EnemyUnit} de voz aguda rosna:[br/]\\\"O que anda sem pernas de manhã, [br/]Quatro pernas à tarde, [br/]E asas à noite? Responda-me!\\\""
 
 msgid "DLC@EMPIRESANDASHES@STORY_EVENT@1167_82@BODY_HEADER"
 msgstr "{EventHero} atravessa o portão do {EventStructure} e é engolido por um mar de folhas exuberantes e ventos quentes."
@@ -40890,7 +40890,7 @@ msgid "DLC@EMPIRESANDASHES@STORY_EVENT@991_5334@BODY_HEADER"
 msgstr "{EventHero} aparece diante de você mais uma vez, para falar sobre um assunto de grande importância."
 
 msgid "DLC@EMPIRESANDASHES@STORY_EVENT@991_5334@BODY_LORE"
-msgstr "\\\"Para restaurar a paz,\\\" explica {EventHero.FirstName}, \\\"não apenas Manuhari deve ser considerado, mas também a marcha de destruição de [hyperlink,GLOBAL.EdwardLoreConcept]Edward[/hyperlink] através do {GLOBAL.AstralSeaLoreConcept.Hyperlink}.\\\" {EventHero.FirstName} hesita, mas então continua: \\\"Isso não é como o [hyperlink,GLOBAL.EdwardLoreConcept]Edward[/hyperlink] que eu conhecia. Acredito—deve ser—que algo o está afetando, tornando-o irado e cego à razão. Logo antes de o conflito com o {NativeRace} escalar, Edward estudava alguns dos artefatos deles. Se eu pudesse aprender mais sobre sua magia ancestral...\\\""
+msgstr "\\\"Para restaurar a paz,\\\" explica {EventHero.FirstName}, \\\"não apenas Manuhari deve ser considerado, mas também a marcha de destruição de [hyperlink,GLOBAL.EdwardLoreConcept]Edward[/hyperlink] através do {GLOBAL.AstralSeaLoreConcept.Hyperlink}.\\\" {EventHero.FirstName} hesita, mas então continua: \\\"Isso não é como o [hyperlink,GLOBAL.EdwardLoreConcept]Edward[/hyperlink] que eu conhecia. Acredito—deve ser—que algo o está afetando, tornando-o irado e cego à razão. Logo antes do conflito com o {NativeRace} escalar, Edward estudava alguns dos artefatos deles. Se eu pudesse aprender mais sobre sua magia ancestral...\\\""
 
 msgid "DLC@EMPIRESANDASHES@STORY_EVENT@991_5334@BUTTON_0"
 msgstr "Concorde em encontrar este \\\"{NativeHero.FirstName}\\\"."
@@ -41388,7 +41388,7 @@ msgid "DLC@EMPIRESANDASHES@STORY_REALM_MISSION_01@BRIEFING_02@DESCRIPTION"
 msgstr "O Dreadnought Edward Portsmith e a Feiticeira Laryssa comandaram a vanguarda das máquinas de guerra do Commonwealth. Depois de caírem no Mar Astral, ficaram à deriva entre os mundos, assombrados por horrores ocultos. Só a magia de Laryssa, combinada com a engenhosidade de Edward, protegeu os náufragos das correntes mágicas."
 
 msgid "DLC@EMPIRESANDASHES@STORY_REALM_MISSION_01@BRIEFING_03@DESCRIPTION"
-msgstr "Depois de o que pareceu uma eternidade de tormento, os remanescentes à deriva do Commonwealth perceberam uma mudança nas correntes e encontraram um reino que surgiu do nada. Os sobreviventes encontraram seus habitantes — um povo antigo e sábio chamado Krazura. As negociações foram desafiadoras, mas os sobreviventes foram autorizados a se recuperar de suas provações."
+msgstr "Depois do que pareceu uma eternidade de tormento, os remanescentes à deriva do Commonwealth perceberam uma mudança nas correntes e encontraram um reino que surgiu do nada. Os sobreviventes encontraram seus habitantes — um povo antigo e sábio chamado Krazura. As negociações foram desafiadoras, mas os sobreviventes foram autorizados a se recuperar de suas provações."
 
 msgid "DLC@EMPIRESANDASHES@STORY_REALM_MISSION_01@BRIEFING_04@DESCRIPTION"
 msgstr "No entanto, a mente de Edward não parecia se recuperar. Com o tempo, seu ressentimento contra os Reis‑Feiticeiros cresceu, e ele jurou libertar todo o Mar Astral de sua maldição. Começou a viajar para outros reinos para libertá‑los, deixando devastação em seu rastro enquanto condenava e caçava quem quisesse apoiar ou até mesmo tolerar o domínio de qualquer Rei‑Feiticeiro."
@@ -43221,7 +43221,7 @@ msgid "DLC@GIANTKINGS@EXPLORATIONSITES_STRATEGIC@STRUCTURE_GIANTTHRONE@NAME_OVER
 msgstr "Salas de Recrutamento"
 
 msgid "DLC@GIANTKINGS@EXPLORATIONSITES_STRATEGIC@STRUCTURE_GIANTTHRONE@NAME_OVERRIDE@DEMIGIANT_3"
-msgstr "Trono de Ajuntamento"
+msgstr "Trono de Mobilização"
 
 msgid "DLC@GIANTKINGS@EXPLORATIONSITES_STRATEGIC@STRUCTURE_GIANTTHRONE@NAME_OVERRIDE@LITHORINE_1"
 msgstr "Trono Cintilante"
@@ -48021,7 +48021,7 @@ msgid "DLC@GIANTKINGS@STORY_EVENT@991_7821@BODY_HEADER"
 msgstr "Um silêncio inquietante recai sobre suas cidades enquanto linhas e mais linhas de Soldados de Argila surgem da terra."
 
 msgid "DLC@GIANTKINGS@STORY_EVENT@991_7821@BODY_LORE"
-msgstr "Eles não dizem palavra, nem as armas encantadas que flutuam em seus flancos. Mas está claro que esta Última Legião de Myrrida tem um único propósito: eliminar de o reino qualquer pessoa que tenha raízes em seu antigo reino perdido — exceto nas terras de {EventPlayer}. Neste momento de maior perigo, a traição do {EventPlayer.Title} da {EventRace} se revela. Foi <<P:EventPlayer>> quem desencadeou a Última Legião!"
+msgstr "Eles não dizem palavra, nem as armas encantadas que flutuam em seus flancos. Mas está claro que esta Última Legião de Myrrida tem um único propósito: eliminar do reino qualquer pessoa que tenha raízes em seu antigo reino perdido — exceto nas terras de {EventPlayer}. Neste momento de maior perigo, a traição do {EventPlayer.Title} da {EventRace} se revela. Foi <<P:EventPlayer>> quem desencadeou a Última Legião!"
 
 msgid "DLC@GIANTKINGS@STORY_EVENT@991_7821@BUTTON_0"
 msgstr "\\\"Assim que vencermos a tempestade, {EventPlayer} pagará por isso!\\\""
@@ -51021,13 +51021,13 @@ msgid "DLC@PRIMALFURY@META_EMPIRE@REALM_TRAIT@PRIMAL_DISPUTE@RELATION_MODIFIER2"
 msgstr "Rejeitou a visão dela sobre a Disputa Primitiva"
 
 msgid "DLC@PRIMALFURY@MINOR_FACTION@UPGRADE_SET@FEY@DESCRIPTION"
-msgstr "Estes são os Seguidores dos Fey, que integraram a natureza mística e volúvel dos Fey em sua sociedade, tornando-se territoriais e imprevisíveis."
+msgstr "Estes são os Seguidores dos Feéricos, que integraram a natureza mística e volúvel dos Feéricos em sua sociedade, tornando-se territoriais e imprevisíveis."
 
 msgid "DLC@PRIMALFURY@MINOR_FACTION@UPGRADE_SET@FEY@NAME"
-msgstr "Seguidores dos Fey"
+msgstr "Seguidores dos Feéricos"
 
 msgid "DLC@PRIMALFURY@MINOR_FACTION@UPGRADE_SET@FEY_TRAIT@NAME"
-msgstr "Seguidor dos Fey"
+msgstr "Seguidor dos Feéricos"
 
 msgid "DLC@PRIMALFURY@MINOR_FACTION@UPGRADE_SET@STORMS@DESCRIPTION"
 msgstr "Estes são os Mestres das Tempestades, um povo aquático que transforma uma brisa em uma tempestade. Eles adoram encharcar suas vítimas antes de bombardeá‑las com magia de relâmpago."
@@ -53823,7 +53823,7 @@ msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@UNIT_PROPERTY@CRITICAL_MOMENTUM@NAME"
 msgstr "Impulso Crítico"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@UNIT_PROPERTY@DISTRIBUTE_LOOT@DESCRIPTION"
-msgstr "Alvo unidade amiga:[bulletlist][bullet/]ganha {GLOBAL.PROPERTIES.LOOTED_POWER.Hyperlink}.[/bulletlist]"
+msgstr "Alvo unidade amiga:[bulletlist][bullet/]Ganha {GLOBAL.PROPERTIES.LOOTED_POWER.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@UNIT_PROPERTY@DISTRIBUTE_LOOT@NAME"
 msgstr "Distribuir Saque"
@@ -54219,7 +54219,7 @@ msgid "DLC@RISEFROMRUIN@EXPLORATIONSITES_STRATEGIC@ANCIENT_WONDERS@BARREN_WELLSP
 msgstr "[bulletlist][bullet/]+{amount} {GLOBAL.CityStabilityConcept.Hyperlink} por {GLOBAL.ProvinceConcept.Hyperlink} com {GLOBAL.SandConcept.Hyperlink} ou {GLOBAL.AstralBarrensConcept.Hyperlink} na {GLOBAL.CityConcept.Hyperlink} {GLOBAL.DomainConcept.Hyperlink}.[bullet/]Adiciona a unidade {GLOBAL.UNITS.GRIMBEAK_CROW.Hyperlink} ao {GLOBAL.RequestMilitaryAidConcept.Hyperlink}.[bullet/]Desbloqueia a ação Restaurar que transforma esta {GLOBAL.AncientWonderConcept.Hyperlink} em um {GLOBAL.STRUCTURES.HIDDEN_WELLSPRING.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@EXPLORATIONSITES_STRATEGIC@ANCIENT_WONDERS@BARREN_WELLSPRING@LORE"
-msgstr "Por alguma razão antinatural, as águas intermináveis deste {GLOBAL.STRUCTURES.HIDDEN_WELLSPRING.Hyperlink} que antes fluíam do reino Fey secaram, provocando perturbações em cascata na harmonia mágica que antes sustentava. A seca transformou campos férteis e verdes em desertos áridos, onde tudo murcha exceto o caos e a turbulência."
+msgstr "Por alguma razão antinatural, as águas intermináveis deste {GLOBAL.STRUCTURES.HIDDEN_WELLSPRING.Hyperlink} que antes fluíam do reino Feéricos secaram, provocando perturbações em cascata na harmonia mágica que antes sustentava. A seca transformou campos férteis e verdes em desertos áridos, onde tudo murcha exceto o caos e a turbulência."
 
 msgid "DLC@RISEFROMRUIN@EXPLORATIONSITES_STRATEGIC@ANCIENT_WONDERS@BARREN_WELLSPRING@NAME"
 msgstr "Fonte Estéril"
@@ -57027,10 +57027,10 @@ msgid "DLC@RISEFROMRUIN@TSR_GWL@SECTOR_TREMOR"
 msgstr "Os setores afetados pelo {GLOBAL.STRUCTURES.GREAT_WORM_INFESTATION.Hyperlink} sofrerão {GLOBAL.PROPERTIES.TSR_RFR_GWL_WORM_PROPERTY.Hyperlink}."
 
 msgid "DLC@RISEFROMRUIN@TSR_GWL@TOOLTIP_RALLY_FRACTURED"
-msgstr "A unidade {GLOBAL.UNITS.FRACTURED_SCORPION.Hyperlink} poderá ser recrutada através do [hyperlink,GLOBAL.RequestMilitaryAidConcept]Ajuntamento dos Vassalos[/hyperlink]."
+msgstr "A unidade {GLOBAL.UNITS.FRACTURED_SCORPION.Hyperlink} poderá ser recrutada através do [hyperlink,GLOBAL.RequestMilitaryAidConcept]Mobilização[/hyperlink]."
 
 msgid "DLC@RISEFROMRUIN@TSR_GWL@TOOLTIP_RALLY_NOMADS"
-msgstr "A unidade {GLOBAL.UNITS.SAND_SCORPION.Hyperlink} poderá ser recrutada através do [hyperlink,GLOBAL.RequestMilitaryAidConcept]Ajuntamento dos Vassalos[/hyperlink]."
+msgstr "A unidade {GLOBAL.UNITS.SAND_SCORPION.Hyperlink} poderá ser recrutada através do [hyperlink,GLOBAL.RequestMilitaryAidConcept]Mobilização[/hyperlink]."
 
 msgid "DLC@RISEFROMRUIN@TSR_GWL@TRIBE_NAME_01"
 msgstr "Duna Marchante"
@@ -57516,7 +57516,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@ABILITIES_WILDLIFE@ABILITY10@NAME"
 msgstr "Explosão Cintilante"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@ABILITIES_WILDLIFE@ABILITY11@DESCRIPTION"
-msgstr "Unidade alvo:[bulletlist][bullet/]Sofre dano.[bullet/]Ganha {GLOBAL.PROPERTIES.INSANITY.Hyperlink} e {GLOBAL.PROPERTIES.TWISTED_BRAND_ON_DEATH.Hyperlink} até o fim da batalha.[/bulletlist][br/]Não afeta Heróis, Fey ou unidades de Cerco."
+msgstr "Unidade alvo:[bulletlist][bullet/]Sofre dano.[bullet/]Ganha {GLOBAL.PROPERTIES.INSANITY.Hyperlink} e {GLOBAL.PROPERTIES.TWISTED_BRAND_ON_DEATH.Hyperlink} até o fim da batalha.[/bulletlist][br/]Não afeta Heróis, Feéricos ou unidades de Cerco."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@ABILITIES_WILDLIFE@ABILITY11@NAME"
 msgstr "Marca Retorcida"
@@ -57525,7 +57525,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@ABILITIES_WILDLIFE@ABILITY11@PROP_DESCRIPTION"
 msgstr "Quando esta unidade morre, transforma‑se em um {GLOBAL.UNITS.EVENING_SPRITE.Hyperlink} sob controle inimigo.[br/][br/]Se esta unidade sobreviver ao combate, evolui e pode ser mantida por um custo de {GLOBAL.ManaConcept.Hyperlink}."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@ABILITIES_WILDLIFE@ABILITY11@PROP_NAME"
-msgstr "Marca Fey"
+msgstr "Marca Feéricos"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@ABILITIES_WILDLIFE@ABILITY12@DESCRIPTION"
 msgstr "Em uma linha de {RENDING_MIST_UNIT_TARGETER_LINE>AREA>Length}-hex de comprimento e {RENDING_MIST_UNIT_TARGETER_LINE>AREA>Width}-hex de largura:[bulletlist][bullet/]Unidades sofrem dano.[bullet/]Unidades ganham {amount} {GLOBAL.PROPERTIES.SUNDERED_RESISTANCE.Hyperlink}.[bullet/]Crie {GLOBAL.MistConcept.Hyperlink}.[/bulletlist]"
@@ -57534,7 +57534,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@ABILITIES_WILDLIFE@ABILITY12@NAME"
 msgstr "Névoa Dilacerante"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@ABILITIES_WILDLIFE@ABILITY13@MOD_NAME"
-msgstr "Truques Fey"
+msgstr "Truques Feéricos"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@ABILITIES_WILDLIFE@ABILITY14@MOD_DESCRIPTION"
 msgstr "+{MIST_SLAYER>DAMAGE>Blight} {GLOBAL.BlightDamageConcept.Hyperlink} e +{MIST_SLAYER>DAMAGE>Frost} {GLOBAL.FrostDamageConcept.Hyperlink} por {GLOBAL.PROPERTIES.CLINGING_MIST.Hyperlink} no alvo."
@@ -57924,7 +57924,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@CRISIS@1252_249@SUB_HEADER_INVERTED"
 msgstr "Proteja os Marcos, para que o Leviatã desperte completamente..."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@CRISIS@1252_680@DESCRIPTION"
-msgstr "Os rebeldes {GLOBAL.PellariLoreConcept.Hyperlink} e seus aliados Fey estão sob ataque pelos servos {GLOBAL.GodirLoreConcept.Hyperlink} do {GLOBAL.DuathadaeLoreConcept.Hyperlink}. Ham Binger tornou‑se a figura principal desta resistência e deve ser protegido a todo custo."
+msgstr "Os rebeldes {GLOBAL.PellariLoreConcept.Hyperlink} e seus aliados Feéricos estão sob ataque pelos servos {GLOBAL.GodirLoreConcept.Hyperlink} do {GLOBAL.DuathadaeLoreConcept.Hyperlink}. Ham Binger tornou‑se a figura principal desta resistência e deve ser protegido a todo custo."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@CRISIS@1252_680@NAME"
 msgstr "Tocas Sitadas"
@@ -57954,7 +57954,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@DISPLAYNAME"
 msgstr "Age of Wonders 4: Segredos dos Arquimagos"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@DUATHA_SHROUDED_ARCANUM@AFFINITY_CHOICE_ASTRAL@FAILURE"
-msgstr "Os torrentes enfeitiçados escapam ao seu controle enquanto as névoas Fey se intensificam."
+msgstr "Os torrentes enfeitiçados escapam ao seu controle enquanto as névoas Feéricos se intensificam."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@DUATHA_SHROUDED_ARCANUM@AFFINITY_CHOICE_ASTRAL@HEADER"
 msgstr "Você estende a mão para subjugar a aura enfeitiçada deste lugar:"
@@ -58113,7 +58113,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@LANDMARK@MISTFLOW_GARDENS@NAME_1"
 msgstr "As Cataratas da Névoa"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@LANDMARK@MISTFLOW_GARDENS@NAME_2"
-msgstr "Fonte do Toque Fey"
+msgstr "Fonte do Toque Feéricos"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@LANDMARK@MISTFLOW_GARDENS@NAME_3"
 msgstr "Pântano da Névoa"
@@ -58320,7 +58320,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@LORDS@DISCIPLE_SPRING_CITY@NAME"
 msgstr "Fim das Lãs"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@LORDS@DISCIPLE_SPRING_RACE@BIO"
-msgstr "A Discípula de Ilandra assumiu a tarefa de defender o {GLOBAL.PellariLoreConcept.Hyperlink}, tornando-se um exemplar entre seu povo. Pois é raro ver um dos seres animalísticos de {GLOBAL.DuathaLoreConcept.Hyperlink} ascender à condição de Godir. Como nativa do reino, Tia Lobelia goza da afeição dos {GLOBAL.DuathadaeLoreConcept.Hyperlink}, que consideram suas ações com muito mais benevolência, ao menos em comparação com as outras discípulas do Círculo de Witherbloom. [br/][br/]As línguas antigas dizem que os Pellari Nervosos já estavam lá quando os Fey surgiram. E quando estes tomaram o controle e se tornaram os favoritos de Duatha, as coelhinhas temerosas sobreviveram recuando profundamente para os Burrow Downs. Para elas, o medo não é covardia, mas sobrevivência."
+msgstr "A Discípula de Ilandra assumiu a tarefa de defender o {GLOBAL.PellariLoreConcept.Hyperlink}, tornando-se um exemplar entre seu povo. Pois é raro ver um dos seres animalísticos de {GLOBAL.DuathaLoreConcept.Hyperlink} ascender à condição de Godir. Como nativa do reino, Tia Lobelia goza da afeição dos {GLOBAL.DuathadaeLoreConcept.Hyperlink}, que consideram suas ações com muito mais benevolência, ao menos em comparação com as outras discípulas do Círculo de Witherbloom. [br/][br/]As línguas antigas dizem que os Pellari Nervosos já estavam lá quando os Feéricos surgiram. E quando estes tomaram o controle e se tornaram os favoritos de Duatha, as coelhinhas temerosas sobreviveram recuando profundamente para os Burrow Downs. Para elas, o medo não é covardia, mas sobrevivência."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@LORDS@DISCIPLE_SUMMER@NAME"
 msgstr "Kana-Grump^P"
@@ -58353,7 +58353,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@LORDS@HAM_CITY@NAME"
 msgstr "Lollburrow^N"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@LORDS@HAM_RACE@BIO"
-msgstr "Amarrado e feito prisioneiro, nosso jovial Ham Binger foi levado perante o {GLOBAL.DuathadaeLoreConcept.Hyperlink}. Mas, pouco antes de ser devorado, uma estranha magia Fey o arrebatou... mais uma vez. Em sua defesa, desta vez nem ele sabe como aconteceu. Contudo, agora ele se tornou o Escolhido dos Fey e o líder da rebelião de Burrow Downs. [br/][br/]Os Pellari Escavadores receberam Ham de patas abertas. Transformado pela magia Fey, ele abraçou plenamente a vida entre os {GLOBAL.PellariLoreConcept.Hyperlink}. Faz muito tempo que o Guardião da Toca não se sente pertencente. E assim, seus dias de fuga acabaram; é hora de defender seu lar."
+msgstr "Amarrado e feito prisioneiro, nosso jovial Ham Binger foi levado perante o {GLOBAL.DuathadaeLoreConcept.Hyperlink}. Mas, pouco antes de ser devorado, uma estranha magia feérica o arrebatou... mais uma vez. Em sua defesa, desta vez nem ele sabe como aconteceu. Contudo, agora ele se tornou o Escolhido dos Feéricos e o líder da rebelião de Burrow Downs. [br/][br/]Os Pellari Escavadores receberam Ham de patas abertas. Transformado pela magia feérica, ele abraçou plenamente a vida entre os {GLOBAL.PellariLoreConcept.Hyperlink}. Faz muito tempo que o Guardião da Toca não se sente pertencente. E assim, seus dias de fuga acabaram; é hora de defender seu lar."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@LORDS@HAM_RACE@NAME"
 msgstr "Pellari Escavadores"
@@ -58674,7 +58674,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@MEGAWONDERS_STRATEGIC@LEVIATHAN_PART_03@NAME"
 msgstr "Tentáculos do Leviatã^p"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@MEGAWONDERS_STRATEGIC@MISTFLOW_GARDEN@LORE"
-msgstr "\\\"Estes Jardins da Névoa Fluente são locais de comunhão para o povo Fey. Dentro deles, a energia de {GLOBAL.DuathaLoreConcept.Hyperlink} está viva, tornando-os terreno ideal para todo tipo de rituais. Eu mesmo fui julgado em um deles pelo {GLOBAL.DuathadaeLoreConcept.Hyperlink}. Mas o que se seguiu... é uma história para outro dia.\\\"[br/][br/]— Ham Binger, Além da Névoa dos Fey."
+msgstr "\\\"Estes Jardins da Névoa Fluente são locais de comunhão para o povo Feéricos. Dentro deles, a energia de {GLOBAL.DuathaLoreConcept.Hyperlink} está viva, tornando-os terreno ideal para todo tipo de rituais. Eu mesmo fui julgado em um deles pelo {GLOBAL.DuathadaeLoreConcept.Hyperlink}. Mas o que se seguiu... é uma história para outro dia.\\\"[br/][br/]— Ham Binger, Além da Névoa dos Feéricos."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@MEGAWONDERS_STRATEGIC@MISTFLOW_GARDENS@DESCRIPTION"
 msgstr "<<m:{GLOBAL.ProvinceConcept.Hyperlink}>> adjacente a este Marco ganha:[bulletlist][bullet/]{foodbonus} {GLOBAL.FoodConcept.Hyperlink} e {manabonus} {GLOBAL.ManaConcept.Hyperlink}.[bullet/]Um {GLOBAL.ConduitConcept.Hyperlink} na Província concede {happinessbonus} {GLOBAL.CityStabilityConcept.Hyperlink} e {foodbonus2} {GLOBAL.FoodConcept.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.MISTY.Hyperlink}.[/bulletlist][br/]Uma {GLOBAL.CityConcept.Hyperlink} com {amount} <<m:{GLOBAL.ProvinceConcept.Hyperlink}>> adjacente a este Marco ganha:[bulletlist][bullet/]Permite recrutar {GLOBAL.PROPERTIES.FEY.Hyperlink} <<m:{GLOBAL.UnitConcept.Hyperlink}>> de Nível I, II e III.[/bulletlist]"
@@ -59100,7 +59100,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@SECRET_SPELLS@02@PROP_NAME"
 msgstr "Era do Gelo"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@SECRET_SPELLS@03@DESCRIPTION"
-msgstr "Convoque um {GLOBAL.UNITS.MISBORN_MISTLING.Hyperlink}, um Fey transformado e monstruoso que prefere força bruta a truques feéricos."
+msgstr "Convoque um {GLOBAL.UNITS.MISBORN_MISTLING.Hyperlink}, um Feéricos transformado e monstruoso que prefere força bruta a truques feéricos."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@SECRET_SPELLS@03@NAME"
 msgstr "Contorção de Thulyana"
@@ -59523,7 +59523,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1167_1490@BODY_LORE"
 msgstr "Dentro, seu exército descobre um festival eterno de hedonismo e devassidão em homenagem a [hyperlink,GLOBAL.CinrenLoreConcept]Cinren Toliath[/hyperlink]. Seus seguidores aplaudem e cantam, enchendo cálices com um líquido potente, vermelho como sangue, jorrado de fontes de prata. Eles erguem seus copos ao avistar {EventHero.FirstName} e oferecem amigavelmente aos guerreiros <<o:EventHero>> suas bebidas. Antes que {EventHero.FirstName} possa intervir, um deles engole o líquido."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1167_1490@BODY_LORE@HERO_IS_CREATOR"
-msgstr "O festival de hedonismo e devassidão que você mesmo iniciou há uma eternidade ainda perdura. Seus seguidores ficam delirantes ao perceber que seu {PlayerLeader.Title} retornou. Você se junta brevemente às suas festas antes de, lamentavelmente, voltar sua atenção ao verdadeiro propósito de sua jornada aqui. Você ergue o cálice intocado sobre o assento que leva seu nome e bebe."
+msgstr "O festival de hedonismo e devassidão que você iniciou há uma eternidade ainda perdura. Seus seguidores ficam delirantes ao perceber que seu {PlayerLeader.Title} retornou. Você se junta brevemente às suas festas antes de, lamentavelmente, voltar sua atenção ao verdadeiro propósito de sua jornada aqui. Você ergue o cálice intocado sobre o assento que leva seu nome e bebe."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1167_1490@BODY_LORE@HERO_IS_PLAYELEA"
 msgstr "Dentro, seu exército descobre um festival eterno de hedonismo e devassidão em homenagem a [hyperlink,GLOBAL.CinrenLoreConcept]Cinren Toliath[/hyperlink]. Seus seguidores aclamam e cantam, enchendo taças com um líquido potente, vermelho como sangue, jorrado de fontes de prata. Eles erguem seus copos ao avistarem você e oferecem amigavelmente aos seus guerreiros suas bebidas. Antes que você possa intervir, um deles engole o líquido."
@@ -59793,7 +59793,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1167_1497@BODY_LORE@HERO_IS_PLAYERL
 msgstr "\\\"Idiotas. Idiotas como seu Mestre, Belbedor, o Arrogante, que acreditou que poderia conquistar {GLOBAL.DuathaLoreConcept.Hyperlink}. Nossa masmorra agora é sua morada, até que meus semelhantes o devorem.\\\" Ela cospe sangue. \\\"Você derrubou a abominação, mas o feitiço do seu Mestre está marcado por nós. Ele só produz <<m:EventUnit>>.\\\" Ela ofega: \\\"A última risada... é nossa,\\\" e morre com um sorriso nos lábios."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1167_1497@BUTTON_0"
-msgstr "Saqueie [gold/] os Fey em busca de relíquias e joias."
+msgstr "Saqueie [gold/] os Feéricos em busca de relíquias e joias."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1167_1497@BUTTON_2"
 msgstr "Pegue o {EventItem} [item/] que o Capitão Duathadae segura."
@@ -59916,7 +59916,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1167_1508@BODY_HEADER@HERO_IS_PLAYE
 msgstr "O {EventStructure} pulsa com energia tênue. Um {EnemyUnit} coloca <<o:EnemyUnit>> garra emplumada na estrutura enquanto <<p:EnemyUnit>> percebe você."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1167_1508@BODY_LORE"
-msgstr "\\\"Os <<m:EventStructure>> são meras ferramentas,\\\" proclama o {EnemyUnit}. \\\"O verdadeiro tesouro que guardamos dentro. Só quem resolver este enigma pode passar: [br/][br/]Na escuridão eu sou obtido, [br/]para que eu possa brilhar ao sol. [br/]Sou usado pelos lordes, [br/]Guardado em tesouros de dragões, [br/]Mas para que um mundo melhor exista, [br/]Seu coração deveria ser feito de mim. [br/]O que sou eu?\\\""
+msgstr "\\\"Os <<m:EventStructure>> são meras ferramentas,\\\" proclama o {EnemyUnit}. \\\"O verdadeiro tesouro que guardamos dentro. Só quem resolver este enigma pode passar: [br/][br/]Na escuridão eu sou obtido, [br/]Para que eu possa brilhar ao sol. [br/]Sou usado pelos lordes, [br/]Guardado em tesouros de dragões, [br/]Mas para que um mundo melhor exista, [br/]Seu coração deveria ser feito de mim. [br/]O que sou eu?\\\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1167_1508@BUTTON_0"
 msgstr "\\\"Você é ouro.\\\" [gold/]"
@@ -60519,7 +60519,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1224_1800@BODY_LORE"
 msgstr "Parece que muitas das descobertas mais importantes dos Desfazedores foram feitas por ele. Mas seu experimento final liberou [hyperlink,GLOBAL.FractureLoreConcept]energia devoradora[/hyperlink]. Percebendo o perigo, Bhajif partiu para avisar outros Desfazedores. A voz moribunda de um dos guardiões o surpreende: \\\"Se você vir o Erranstar, diga a ele que Aqueles que ficaram para trás mantiveram sua promessa até o fim. Mesmo após gerações.\\\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1224_1800@BUTTON_0"
-msgstr "Pegue para si mesmo. [item/]"
+msgstr "Pegue para você. [item/]"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1224_1800@BUTTON_2"
 msgstr "Faça engenharia reversa dele. [knowledge/]"
@@ -61587,7 +61587,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_1285@BODY_HEADER"
 msgstr "A torre diante de você está envolta em uma torrente furiosa de estações corrompidas. E em seu portão, ruge uma horrível abominação..."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_1285@BODY_LORE"
-msgstr "\\\"Feiti-ço, ach!\\\" tosse o abominável {EventUnit}. \\\"Magbar mata feiti-ço, ach-khu! Você faz os [hyperlink,GLOBAL.DuathadaeLoreConcept]deuses das estações[/hyperlink] murcharem, e eles comem você. Você distorce a magia Fey, fazendo as estações estragarem, você deixa Magbar todo feio, feio e triste! Grrr-kuu, Magbar mata! Ach-khuuu, eu mato você!\\\""
+msgstr "\\\"Feiti-ço, ach!\\\" tosse o abominável {EventUnit}. \\\"Magbar mata feiti-ço, ach-khu! Você faz os [hyperlink,GLOBAL.DuathadaeLoreConcept]deuses das estações[/hyperlink] murcharem, e eles comem você. Você distorce a magia feérica, fazendo as estações estragarem, você deixa Magbar todo feio, feio e triste! Grrr-kuu, Magbar mata! Ach-khuuu, eu mato você!\\\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_1285@BUTTON_0"
 msgstr "Ataque o {EventUnit}."
@@ -61614,7 +61614,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_1286@BODY_HEADER"
 msgstr "Quando a torrente sazonal atinge seu clímax, {FeyGuideName} agita-se em angústia irritada. \\\"Pare, não fenda o que rasteja e sofre!\\\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_1286@BODY_LORE"
-msgstr "Encolhido, Magbar olha para {FeyGuideName}, todo agitado. \\\"Nascido da calamidade, torcido da justiça; mãos de feiticeiro acenderam o rancor Fey. As estações foram rasgadas, seu ciclo interrompido; {GLOBAL.DuathadaeLoreConcept.Hyperlink} assim arranha e lamenta. Mas não por ódio consertamos este destino; não, lute o certo, desfaz o desprezo. Espíritos da névoa, ergam‑se! Desfaçam as mentiras; abracem seu rancor, mas façam‑no com sabedoria.\\\""
+msgstr "Encolhido, Magbar olha para {FeyGuideName}, todo agitado. \\\"Nascido da calamidade, torcido da justiça; mãos de feiticeiro acenderam o rancor Feéricos. As estações foram rasgadas, seu ciclo interrompido; {GLOBAL.DuathadaeLoreConcept.Hyperlink} assim arranha e lamenta. Mas não por ódio consertamos este destino; não, lute o certo, desfaz o desprezo. Espíritos da névoa, ergam‑se! Desfaçam as mentiras; abracem seu rancor, mas façam‑no com sabedoria.\\\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_1286@BUTTON_0"
 msgstr "Aproveite as estações para seu poder. [mana/]"
@@ -61710,7 +61710,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_1310@BODY_HEADER"
 msgstr "Avançando pela vegetação selvagem e nebulosa, todos param diante de um lamento rosnante e horrendo, clamando: \\\"Khuuu! Dores e mentiras, espetos e gritos!\\\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_1310@BODY_LORE"
-msgstr "\\\"Khuuu! Por que mentiras dizem a Magbar, a mim?\\\" lamenta a voz rosnante das profundezas da névoa, \\\"Quando eu mostro a vocês as terras lindas dos Fey e das fadas! Vocês sorriem e dão presentes, acariciam e falam doces. Mas machuca os amigos de Magbar quando Magbar vai dormir. Kuhuhu, Magbar está com dor!\\\""
+msgstr "\\\"Khuuu! Por que mentiras dizem a Magbar, a mim?\\\" lamenta a voz rosnante das profundezas da névoa, \\\"Quando eu mostro a vocês as terras lindas dos Feéricos e das fadas! Vocês sorriem e dão presentes, acariciam e falam doces. Mas machuca os amigos de Magbar quando Magbar vai dormir. Kuhuhu, Magbar está com dor!\\\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_1310@BUTTON_3"
 msgstr "Persiga a voz horrenda."
@@ -62670,7 +62670,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1013@BODY_HEADER"
 msgstr "Os {GLOBAL.AstralFlowsLoreConcept.Hyperlink} começam a convergir perto de {EventCity}, onde o {EventStructure} repousa em sono encantado. Eles trazem os ecos de <<ge:voz^n,{EventPlayer.FirstName}>>:"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1013@BODY_LORE"
-msgstr "\\\"Disperse, âncora Astral,[br/]deixe o mana fluir livremente.[br/]Banhe o adormecido no mar[br/]com os fragmentos de sua estrela cadente.[br/]Quão desencantador!\\\""
+msgstr "\\\"Disperse, âncora Astral,[br/]Deixe o mana fluir livremente.[br/]Banhe o adormecido no mar[br/]Com os fragmentos de sua estrela cadente.[br/]Quão desencantador!\\\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1013@BUTTON_0"
 msgstr "Apresse‑se na criação de novas âncoras Astrais."
@@ -62886,7 +62886,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1187@BODY_HEADER"
 msgstr "\"{PlayerLeader.FirstName}\", a voz vacilante de {EventPlayer.FirstName} chama por você: \"Receio... que a minha sorte tenha se acabado.\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1187@BODY_LORE"
-msgstr "Então, com um suspiro silencioso, o <<G:espírito^n,{EventPlayer.FirstName}>> aparece arrastado diante do {EventStructure}, e a atenção ávida de todos os {GLOBAL.DuathadaeLoreConcept.Hyperlink} se volta para <<P:EventPlayer>>. \"Útil\", tilintam as quatro vozes em coro, enquanto o <<G:poder^n,{EventPlayer.FirstName}>> é subitamente sifonado do <<o:EventPlayer>> espírito desamparado com grande intensidade. \"F... fuja!\", engasga {EventPlayer.FirstName}."
+msgstr "Então, com um suspiro silencioso, o <<G:espírito^n,{EventPlayer.FirstName}>> aparece arrastado diante do {EventStructure}, e a atenção ávida de todos os {GLOBAL.DuathadaeLoreConcept.Hyperlink} se volta para <<P:EventPlayer>>. \"Útil\", tilintam as quatro vozes em coro, enquanto o <<G:poder^n,{EventPlayer.FirstName}>> é subitamente sifonada do <<o:EventPlayer>> espírito desamparado com grande intensidade. \"F... fuja!\", engasga {EventPlayer.FirstName}."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1187@BUTTON_0"
 msgstr "\"A missão está perdida...\""
@@ -62910,7 +62910,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1206@TITLE"
 msgstr "Todas as Cores da Esperança"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1227@BODY_FOOTER"
-msgstr "À beira de um frenesi, {FeyGuideName} deve abraçar uma das estações para a próxima fase da vida Fey de <<o:FeyGuideName>>. Para onde você conduzirá a luta volátil de <<o:FeyGuideName>>?"
+msgstr "À beira de um frenesi, {FeyGuideName} deve abraçar uma das estações para a próxima fase da vida Feéricos de <<o:FeyGuideName>>. Para onde você conduzirá a luta volátil de <<o:FeyGuideName>>?"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1227@BODY_HEADER"
 msgstr "Refletindo sobre os inúmeros perigos e escapadas nas Burrow Downs, você é arrastado para uma discussão de {FeyGuideName} — com <<r:FeyGuideName>>!"
@@ -63525,7 +63525,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_417@BODY_FOOTER"
 msgstr "Enquanto <<ge:chatter^n,{FeyGuideName}>> continua sem parar, você reflete sobre o caminho perigoso à frente. Felizmente, trouxe alguns especialistas..."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_417@BODY_HEADER"
-msgstr "Ainda confuso com a enxurrada de sensações dentro do {EventStructure}, você ouve a voz tagarela do seu guia Fey, {FeyGuideName}, pulando ao seu redor."
+msgstr "Ainda confuso com a enxurrada de sensações dentro do {EventStructure}, você ouve a voz tagarela do seu guia Feéricos, {FeyGuideName}, pulando ao seu redor."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_417@BODY_LORE"
 msgstr "\\\"Sem tempo para dormir, sem tempo para espreitar! Apresse‑se, Mestre Feiticeiro, não desperdice seu fôlego. Nas profundezas de {GLOBAL.DuathaLoreConcept.Hyperlink}, o lento encontra a morte.\\\" As palavras escapam de <<ge:mouth^n,{FeyGuideName}>> como água de uma fonte. Ansiosa, batendo as asas para cima e para baixo, o pequeno espírito aguarda uma reação. \\\"Não devemos ficar na névoa. Eles veem, encontram, distorcem. [hyperlink,GLOBAL.DuathadaeLoreConcept]Nossos senhores[/hyperlink], adoram brincar. Somos peões e devemos obedecer.\\\""
@@ -63591,7 +63591,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_428@BODY_HEADER"
 msgstr "\\\"Rápido, Mestre Feiticeiro, ao abrigo, vá, vá! <<ge:friends^p,{FeyGuideName}>> habitam perto em sua toca aconchegante.\\\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_428@BODY_LORE"
-msgstr "Enquanto {FeyGuideName} (por movimentos e gestos) continua a apressar você, <<p:{FeyGuideName}>> conta mais sobre esses 'amigos' que esperam adiante: \\\"{GLOBAL.PellariLoreConcept.Hyperlink} têm pelos, penas, garras; cauda, focinho, bico, pata. Vieram dos mais antigos sonhos de Duatha. Trouxeram-lhe alegria, ela lhes deu nomes. Mas, ah, coisas terríveis fizeram os Fey, que desgraça...! Os {GLOBAL.PellariLoreConcept.Hyperlink} que restam nas cavernas agora se escondem.\\\""
+msgstr "Enquanto {FeyGuideName} (por movimentos e gestos) continua a apressar você, <<p:{FeyGuideName}>> conta mais sobre esses 'amigos' que esperam adiante: \\\"{GLOBAL.PellariLoreConcept.Hyperlink} têm pelos, penas, garras; cauda, focinho, bico, pata. Vieram dos mais antigos sonhos de Duatha. Trouxeram-lhe alegria, ela lhes deu nomes. Mas, ah, coisas terríveis fizeram os Feéricos, que desgraça...! Os {GLOBAL.PellariLoreConcept.Hyperlink} que restam nas cavernas agora se escondem.\\\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_428@BUTTON_0"
 msgstr "Diga a {FeyGuideName} para liderar o caminho."
@@ -64026,7 +64026,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_683@BODY_HEADER"
 msgstr "Na manhã cedo e enevoada, um errante {GLOBAL.PellariLoreConcept.Hyperlink} ensanguentado aparece diante de você em grande aflição. Ao deixar <<P:EventUnit>> entrar em sua nova corte, <<p:EventUnit>> rapidamente relata as más notícias de <<o:EventUnit>>..."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_683@BODY_LORE"
-msgstr "\\\"<<PlayerLeader{Mestre/Mestra}>> Herói, a notícia de sua chegada heroica se espalhou rapidamente depois que nossos {GLOBAL.PellariLoreConcept.Hyperlink} parentes retornaram às suas tocas,\\\" geme a criatura pobre e ensanguentada. \\\"Mas lá, a maioria encontrou nosso refúgio sitiado, sitiado eu digo! Oh desgraça, aqueles sinistros Discípulos dos [hyperlink,GLOBAL.DuathadaeLoreConcept]Senhores Fey das Trevas[/hyperlink] agora perseguem nosso valente líder, Senhor {EventPlayer}, com vingança! Pois <<p:EventPlayer>>, depois de libertar <<r:EventPlayer>> de forma tão ousada das garras deles, tornou-se o campeão de nossas lutas.\\\""
+msgstr "\\\"<<PlayerLeader{Mestre/Mestra}>> Herói, a notícia de sua chegada heroica se espalhou rapidamente depois que nossos {GLOBAL.PellariLoreConcept.Hyperlink} parentes retornaram às suas tocas,\\\" geme a criatura pobre e ensanguentada. \\\"Mas lá, a maioria encontrou nosso refúgio sitiado, sitiado eu digo! Oh desgraça, aqueles sinistros Discípulos dos [hyperlink,GLOBAL.DuathadaeLoreConcept]Senhores Feéricos das Trevas[/hyperlink] agora perseguem nosso valente líder, Senhor {EventPlayer}, com vingança! Pois <<p:EventPlayer>>, depois de libertar <<r:EventPlayer>> de forma tão ousada das garras deles, tornou-se o campeão de nossas lutas.\\\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_683@BUTTON_0"
 msgstr "Vá até {FeyGuideName} para exigir mais explicações."
@@ -64041,7 +64041,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_684@BODY_HEADER"
 msgstr "{FeyGuideName} ri baixinho enquanto você se volta para <<P:{FeyGuideName}>> em busca de respostas. \\\"A verdade era conhecida, o caminho foi mostrado; {EventPlayer.FirstName} ainda precisa ser resgatado, não é?\\\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_684@BODY_LORE"
-msgstr "\\\"Quando {EventPlayer.FirstName} chegou, às terras de {GLOBAL.DuathaLoreConcept.Hyperlink}; os [hyperlink,GLOBAL.DuathadaeLoreConcept]Senhores Fey[/hyperlink] o aprisionaram,\\\" ri baixinho {FeyGuideName}, \\\"Eles acorrentaram <<P:EventPlayer>>, depois o levaram a julgamento, com zombaria! Mas, sim, veja, nosso {GLOBAL.GeassadaeLoreConcept.Hyperlink} desejou que {EventPlayer.FirstName} escapasse! Assim, <<P:EventPlayer>> foi tocado, pela doce Milina, para liderar a fuga dos {GLOBAL.PellariLoreConcept.Hyperlink}. Milina, ó Milina, minha senhora, nossa divina! Foi ela quem fez {FeyGuideName} procurar você, a tempo.\\\""
+msgstr "\\\"Quando {EventPlayer.FirstName} chegou, às terras de {GLOBAL.DuathaLoreConcept.Hyperlink}; os [hyperlink,GLOBAL.DuathadaeLoreConcept]Senhores Feéricos[/hyperlink] o aprisionaram,\\\" ri baixinho {FeyGuideName}, \\\"Eles acorrentaram <<P:EventPlayer>>, depois o levaram a julgamento, com zombaria! Mas, sim, veja, nosso {GLOBAL.GeassadaeLoreConcept.Hyperlink} desejou que {EventPlayer.FirstName} escapasse! Assim, <<P:EventPlayer>> foi tocado, pela doce Milina, para liderar a fuga dos {GLOBAL.PellariLoreConcept.Hyperlink}. Milina, ó Milina, minha senhora, nossa divina! Foi ela quem fez {FeyGuideName} procurar você, a tempo.\\\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_684@BUTTON_0"
 msgstr "Aceite esta missão em total apoio à causa Pellari!"
@@ -64068,7 +64068,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_688@BUTTON_7"
 msgstr "Questione [knowledge/] {EventPlayer} por que <<p:EventPlayer>> está aqui."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_689@BUTTON_4"
-msgstr "Aceite esta missão, relutante; já chega de artimanhas Fey."
+msgstr "Aceite esta missão, relutante; já chega de artimanhas Feéricos."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_702@BODY_FOOTER"
 msgstr "\\\"Fuja antes de <<g:thunder^n,{FeyGodName}>>,\\\" ameaça {EventPlayer.FirstName}. \\\"Você e esses pequenos roedores de terra serão engolidos pela névoa antes do esplendor de mim, '{GLOBAL.GodirLoreConcept.Hyperlink}'. Tenho meus olhos postos em você...\\\""
@@ -64635,7 +64635,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_REALM_03@CB@DISCIPLES_VS_PLAYER"
 msgstr "Invadido o Domínio dos Duathadae"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_REALM_03@CLAIM_FEY_COURT_QUEST@OBJECTIVE"
-msgstr "{INT_0}/{INT_1} Províncias da Corte Fey Reclamadas"
+msgstr "{INT_0}/{INT_1} Províncias da Corte Feéricos Reclamadas"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_REALM_03@COURT_OPTION@DISCRUPT_RITUAL_CHECK@FAILURE"
 msgstr "As efígies se livram do seu feitiço e o ritual continua."
@@ -64653,7 +64653,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_REALM_03@DAWNUSK_UNIT_PROPERTY@NAME"
 msgstr "Dawnusk^M"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_REALM_03@DESCRIPTION"
-msgstr "Seguindo o guia Fey Dawnusk, você viaja ao reino Fey {GLOBAL.DuathaLoreConcept.Hyperlink} para resgatar Ham Binger do {GLOBAL.DuathadaeLoreConcept.Hyperlink}."
+msgstr "Seguindo o guia Feéricos Dawnusk, você viaja ao reino Feéricos {GLOBAL.DuathaLoreConcept.Hyperlink} para resgatar Ham Binger do {GLOBAL.DuathadaeLoreConcept.Hyperlink}."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_REALM_03@DESTROY_MISTWALKER_CAMP_QUEST@INFO_OBJECTIVE"
 msgstr "Abra jaulas de criaturas para reforçar suas fileiras."
@@ -65316,13 +65316,13 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_REALM_MISSION_03@BRIEFING_01@DESCRIPTION"
 msgstr "Enquanto a Grande Guerra Umbral rugia, exaurindo o Godir de Magehaven e seus aliados, outras forças, tanto esquecidas quanto novas, agitavam‑se nas sombras, silenciosamente aproveitando a oportunidade para desafiar o equilíbrio de poder estabelecido. Entre as forças emergentes, destacavam‑se os Caminhantes da Névoa, servos dos Duathadae, temidos por suas incursões — chamadas de Tributo das Estações — por todo o Mar Astral."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_REALM_MISSION_03@BRIEFING_02@DESCRIPTION"
-msgstr "Os Caminhantes da Névoa tornaram‑se mais ativos do que nunca, arrastando as populações de mundos inteiros para seu reino Fey de Duatha. E, ao contrário do passado, eles não deixavam mais as terras saqueadas, estabelecendo presenças permanentes que vigiam as névoas em expansão. Rumores sobre o Godir, capturado e convertido pelos senhores Fey para executar suas ordens sinistras, eram sussurrados com medo, até mesmo nas torres intocáveis de Magehaven."
+msgstr "Os Caminhantes da Névoa tornaram‑se mais ativos do que nunca, arrastando as populações de mundos inteiros para seu reino Feéricos de Duatha. E, ao contrário do passado, eles não deixavam mais as terras saqueadas, estabelecendo presenças permanentes que vigiam as névoas em expansão. Rumores sobre o Godir, capturado e convertido pelos senhores Feéricos para executar suas ordens sinistras, eram sussurrados com medo, até mesmo nas torres intocáveis de Magehaven."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_REALM_MISSION_03@BRIEFING_03@DESCRIPTION"
 msgstr "Na esteira desses rumores, um pequeno espírito chamado Dawnusk surgiu de Duatha, buscando nos Mundos Interiores um Godir que atendesse seu pedido de ajuda. Pois o lendário aventureiro e contador de histórias Ham Binger havia sido vítima do Tributo das Estações e levado perante os Duathadae para julgamento."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_REALM_MISSION_03@BRIEFING_04@DESCRIPTION"
-msgstr "Em tempos de medo, a confiança nas palavras de um Fey era escassa, e Dawnusk precisou contar com sua magia Fey evasiva para escapar da ira de inúmeros Feiticeiros que tentariam capturá‑lo ou matá‑lo. Mas, finalmente, o espírito encontrou um Godir ousado disposto a adentrar o reino Fey e resgatar Ham Binger.[br/][br/]Então, respiraram fundo, avançaram por uma fenda Fey e mergulharam nas névoas de Duatha..."
+msgstr "Em tempos de medo, a confiança nas palavras de um Feérico era escassa, e Dawnusk precisou contar com sua magia feérica evasiva para escapar da ira de inúmeros Feiticeiros que tentariam capturá‑lo ou matá‑lo. Mas, finalmente, o espírito encontrou um Godir ousado disposto a adentrar o reino Feéricos e resgatar Ham Binger.[br/][br/]Então, respiraram fundo, avançaram por uma fenda Feéricos e mergulharam nas névoas de Duatha..."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@TOME_ABJURATION@ABILITY_01@DESCRIPTION"
 msgstr "Unidade aliada alvo ganha:[bulletlist][bullet/]{amount} {GLOBAL.PROPERTIES.GRACE.Hyperlink}[bullet/]{amount} {GLOBAL.PROPERTIES.STATUS_PROTECTION.Hyperlink} por {STATUS_PROTECTION_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist]"
@@ -65736,10 +65736,10 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@TOME_SPRITE@SPI@NAME"
 msgstr "[forester/] Bosques Feéricos"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@TOME_SPRITE@TOME@GAMEPLAY"
-msgstr "Use os poderes dos pequenos Fey para apoiar suas unidades e confundir seus inimigos."
+msgstr "Use os poderes dos pequenos Feéricos para apoiar suas unidades e confundir seus inimigos."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@TOME_SPRITE@TOME@LORE_DESCRIPTION"
-msgstr "\\\"Para os Fey, o mundo se curva a leis estranhas. Enigmático, mas os enche de magia poderosa. E é igualmente surpreendente o que fazem com esse poder. Por tudo que lhe é caro, não tire uma soneca nos bosques dos Fey. Já vi esses Sprites fazerem truques que fariam o Allfather corar.\\\""
+msgstr "\\\"Para os Feéricos, o mundo se curva a leis estranhas. Enigmático, mas os enche de magia poderosa. E é igualmente surpreendente o que fazem com esse poder. Por tudo que lhe é caro, não tire uma soneca nos bosques dos Feéricos. Já vi esses Sprites fazerem truques que fariam o Allfather corar.\\\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@TOME_SPRITE@TOME@NAME"
 msgstr "Tomo do Sprite"
@@ -67227,7 +67227,7 @@ msgid "DLC@THRONESOFBLOOD@ONBOARDING_OBJECTIVES@VAMPIRE_CASTLE@FINISHER@PAGE02@D
 msgstr "Seu Castelo também permite que você comece a coletar <<m:{GLOBAL.ThrallConcept.Hyperlink}>>, que pode sacrificar para lançar o poderoso ritual <<m:{GLOBAL.SpellConcept.Hyperlink}>>."
 
 msgid "DLC@THRONESOFBLOOD@ONBOARDING_OBJECTIVES@VAMPIRE_CASTLE@FINISHER@PAGE02@INSTRUCTIONS"
-msgstr "Você pode aumentar a velocidade com que ganha escravos aumentando a renda de {GLOBAL.FoodConcept.Hyperlink} da sua {GLOBAL.ThroneCityConcept.Hyperlink}.[br/][br/]Você pode desbloquear mais <<m:{GLOBAL.SpellConcept.Hyperlink}>> ao melhorar seu castelo."
+msgstr "Você pode aumentar a velocidade com que ganha servos aumentando a renda de {GLOBAL.FoodConcept.Hyperlink} da sua {GLOBAL.ThroneCityConcept.Hyperlink}.[br/][br/]Você pode desbloquear mais <<m:{GLOBAL.SpellConcept.Hyperlink}>> ao melhorar seu castelo."
 
 msgid "DLC@THRONESOFBLOOD@ONBOARDING_OBJECTIVES@VAMPIRE_CASTLE@FINISHER@SUMMARY"
 msgstr "Tutorial sobre o seu Castelo Vampiro concluído"
@@ -68154,7 +68154,7 @@ msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1295@BUTTON_2"
 msgstr "Alie-se a {EventHeroA} [morale/]. Seu império deve crescer pela espada. [unitprod/]"
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1295@BUTTON_3"
-msgstr "\\\"Parem com essa rivalidade infantil. Banqueteiem-se com alguns escravos [thralls/] ao invés. Saúde!\\\""
+msgstr "\\\"Parem com essa rivalidade infantil. Banqueteiem-se com alguns servos [thralls/] ao invés. Saúde!\\\""
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1295@BUTTON_4"
 msgstr "Nenhum deles parece entender a arte da política. Ignore-os."
@@ -68268,7 +68268,7 @@ msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1303@BUTTON_4"
 msgstr "Anuncie esta descoberta para reforçar o orgulho [happiness/] da sua {EventRace}."
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1303@BUTTON_5"
-msgstr "Apresente sua linhagem para vincular mais escravos [thralls/] à sua vontade."
+msgstr "Apresente sua linhagem para vincular mais servos [thralls/] à sua vontade."
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1303@BUTTON_6"
 msgstr "Aceite este conhecimento como prova da sua devoção [devotion/]."
@@ -68277,46 +68277,46 @@ msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1303@TITLE"
 msgstr "Lenda dos <<PlayerLeader{Archsires/Archdams}>>: Consequência"
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1304@BODY_FOOTER"
-msgstr "Tantos escravos de sobra! Certamente pode encontrar um uso melhor para eles do que entupir seu [hyperlink,GLOBAL.STRUCTURE_UPGRADES.LORD_CASTLE_FOUNDATION]Castelo Vampiro[/hyperlink]?"
+msgstr "Tantos servos de sobra! Certamente pode encontrar um uso melhor para eles do que entupir seu [hyperlink,GLOBAL.STRUCTURE_UPGRADES.LORD_CASTLE_FOUNDATION]Castelo Vampiro[/hyperlink]?"
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1304@BODY_HEADER"
-msgstr "Escravos se reúnem em sua fortaleza em {EventCity}. Eles se aglomeram em multidões, ocupando suas masmorras mais profundas e laboratórios mais mortíferos."
+msgstr "Servos se reúnem em sua fortaleza em {EventCity}. Eles se aglomeram em multidões, ocupando suas masmorras mais profundas e laboratórios mais mortíferos."
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1304@BODY_LORE"
-msgstr "Escravos são um símbolo da sua influência sobre os povos menores. Despojados de suas vontades e desejos, obedecem a todas as suas ordens sem pausa ou objeção. Mas para os vampiros, escravos não devem ficar ociosos. Os príncipes vampiros mais astutos e seus consortes enviaram hordas de escravos para executar seus sombrios desígnios. Muitos dos seus ainda não foram usados, assim como seu potencial."
+msgstr "Servos são um símbolo da sua influência sobre os povos menores. Despojados de suas vontades e desejos, obedecem a todas as suas ordens sem pausa ou objeção. Mas para os vampiros, escravos não devem ficar ociosos. Os príncipes vampiros mais astutos e seus consortes enviaram hordas de escravos para executar seus sombrios desígnios. Muitos dos seus ainda não foram usados, assim como seu potencial."
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1304@BUTTON_0"
-msgstr "Esfolar escravos [thralls/] para entreter [morale/] seu coven."
+msgstr "Esfolar servos [thralls/] para entreter [morale/] seu coven."
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1304@BUTTON_1"
-msgstr "Gaste escravos [thralls/] para ganhar o favor de senhores menores. [allegiance/]"
+msgstr "Gaste servos [thralls/] para ganhar o favor de senhores menores. [allegiance/]"
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1304@BUTTON_10"
-msgstr "[nature/] Envie escravos [thralls/] aos seus açougueiros. [food/]"
+msgstr "[nature/] Envie servos [thralls/] aos seus açougueiros. [food/]"
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1304@BUTTON_11"
-msgstr "[shadow/] Drene escravos [thralls/] para aprender [knowledge/] mais sobre o Cosmos."
+msgstr "[shadow/] Drene servos [thralls/] para aprender [knowledge/] mais sobre o Cosmos."
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1304@BUTTON_12"
-msgstr "Muitos escravos? Isso não existe. Traga-me mais! [thralls/]"
+msgstr "Muitos servos? Isso não existe. Traga-me mais! [thralls/]"
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1304@BUTTON_2"
-msgstr "Desfile seus escravos [thralls/] para exibir seu senhorio. [influence/]"
+msgstr "Desfile seus servos [thralls/] para exibir seu senhorio. [influence/]"
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1304@BUTTON_3"
-msgstr "[chaos/] Envie escravos [thralls/] para trabalhar nas forjas [unitprod/] de suas ferrarias."
+msgstr "[chaos/] Envie servos [thralls/] para trabalhar nas forjas [unitprod/] de suas ferrarias."
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1304@BUTTON_4"
-msgstr "[arcana/] Gaste escravos [thralls/] para extrair mana [mana/] do Mar Astral."
+msgstr "[arcana/] Gaste servos [thralls/] para extrair mana [mana/] do Mar Astral."
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1304@BUTTON_5"
-msgstr "[order/] Desloque escravos [thralls/] como coletores de impostos [gold/]."
+msgstr "[order/] Desloque servos [thralls/] como coletores de impostos [gold/]."
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1304@BUTTON_9"
-msgstr "[matter/] Envie escravos [thralls/] para escavar em suas pedreiras. [structureprod/]"
+msgstr "[matter/] Envie servos [thralls/] para escavar em suas pedreiras. [structureprod/]"
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1167_1304@TITLE"
-msgstr "Multidões de Escravos"
+msgstr "Multidões de Servos"
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1194_1919@BODY_FOOTER"
 msgstr "<<Co:Emperor>> cript está dito estar sob o monte encharcado de sangue de um coração despedaçado. Encontre-o, pois quem o abrir decidirá o futuro de toda a espécie vampírica."
@@ -69195,7 +69195,7 @@ msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1229_257@BUTTON_1"
 msgstr "Dê a Rosa ao Príncipe Consorte Wtorakh (TEMP)"
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1229_257@BUTTON_2"
-msgstr "Nenhum! Pegue para si mesmo. (TEMP)"
+msgstr "Nenhum! Pegue para você. (TEMP)"
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1229_257@TITLE"
 msgstr "Trapaça da Rosa de Obsidiana (TEMP)"
@@ -69498,10 +69498,10 @@ msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1229_305@BUTTON_0"
 msgstr "\\\"Eu sou o ajuste.\\\""
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1229_305@BUTTON_1"
-msgstr "... Alimente-se de seus escravos por sangue. (DEPRECATED)"
+msgstr "... Alimente-se de seus servos por sangue. (DEPRECATED)"
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1229_305@BUTTON_2"
-msgstr "... Alimente-se de seus escravos por glória. (DEPRECATED)"
+msgstr "... Alimente-se de seus servos por glória. (DEPRECATED)"
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1229_305@TITLE"
 msgstr "Peregrinação Sepulcral"
@@ -70143,7 +70143,7 @@ msgid "DLC@THRONESOFBLOOD@STORY_REALM_MISSION_01@KILL_CONSORT@CUSTOM_PREDICTION"
 msgstr "Com o Sangue da Consorte, você pode entrar no {EventStructure}."
 
 msgid "DLC@THRONESOFBLOOD@STORY_REALM_MISSION_01@MAIN_QUEST@CUSTOM_PREDICTION_01@AVENGE_SIRE"
-msgstr "Você herda os Escravos restantes da casa do seu Arqui‑pai. (OBSOLETO)"
+msgstr "Você herda os Servos restantes da casa do seu Arqui‑pai. (OBSOLETO)"
 
 msgid "DLC@THRONESOFBLOOD@STORY_REALM_MISSION_01@MAIN_QUEST@CUSTOM_PREDICTION_01@REMEMBER_THIS"
 msgstr "{EventLeader.Name} lembrará disso e lhe oferecerá uma nova missão."
@@ -74745,7 +74745,7 @@ msgid "DLC@WAYSOFWAR@STORY_EVENT@1167_627@BODY_HEADER"
 msgstr "Você reflete sobre suas ações passadas, muitas das quais se opuseram aos valores de {PlayerOath}, quando, de repente, um {EventUnit} se revela."
 
 msgid "DLC@WAYSOFWAR@STORY_EVENT@1167_627@BODY_LORE"
-msgstr "Você ouve a voz do Dragão ecoar em sua cabeça, enquanto os olhos <<o:EventUnit>> parecem perfurar seu coração. \\\"Você conduziu seu {PlayerRace} e a si mesmo ao erro, Quebrador de Juramento {PlayerLeader.FirstName}. O poder que antes possuía escorreu por entre seus dedos.\\\" O {EventUnit} sorri. \\\"Posso devolver-lhe esse poder, se assim desejar.\\\""
+msgstr "Você ouve a voz do Dragão ecoar em sua cabeça, enquanto os olhos <<o:EventUnit>> parecem perfurar seu coração. \\\"Você conduziu seu {PlayerRace} e a você ao erro, Quebrador de Juramento {PlayerLeader.FirstName}. O poder que antes possuía escorreu por entre seus dedos.\\\" O {EventUnit} sorri. \\\"Posso devolver-lhe esse poder, se assim desejar.\\\""
 
 msgid "DLC@WAYSOFWAR@STORY_EVENT@1167_627@BUTTON_0"
 msgstr "\\\"Não irei decepcionar você, {EventUnit}! Por Discórdia!\\\""
@@ -75975,7 +75975,7 @@ msgid "DLC@WAYSOFWAR@STORY_EVENT@1194_784@BODY_HEADER"
 msgstr "Você reivindica o Contrato entre {IntrigueVictimPlayerLeader.FirstName} e {IntrigueCulpritPlayerLeader.FirstName} e canaliza seu poder."
 
 msgid "DLC@WAYSOFWAR@STORY_EVENT@1194_784@BODY_LORE"
-msgstr "O Contrato pulsa com energias [hyperlink,GLOBAL.ChaosConcept]Caóticas[/hyperlink], com o poder de prender até {GLOBAL.GodirLoreConcept.Hyperlink} aos acordos escritos nele. Você percebe que pode canalizar essa potência mágica bruta para si mesmo."
+msgstr "O Contrato pulsa com energias [hyperlink,GLOBAL.ChaosConcept]Caóticas[/hyperlink], com o poder de prender até {GLOBAL.GodirLoreConcept.Hyperlink} aos acordos escritos nele. Você percebe que pode canalizar essa potência mágica bruta para você."
 
 msgid "DLC@WAYSOFWAR@STORY_EVENT@1194_784@BUTTON_0"
 msgstr "Convoque um exército de soldados Obbadothan [unit/] ao seu lado."
@@ -76788,7 +76788,7 @@ msgid "DLC@WAYSOFWAR@TOME_PROSPERITY@TOME@GAMEPLAY_DESCRIPTION"
 msgstr "Traga prosperidade ao seu império e conceda às suas unidades {GLOBAL.PROPERTIES.GRACE.Hyperlink} de cura."
 
 msgid "DLC@WAYSOFWAR@TOME_PROSPERITY@TOME@LORE_DESCRIPTION"
-msgstr "\\\"Campos de ouro revelam[br/]a graça eterna interior[br/]como uma chuva purificadora.\\\""
+msgstr "\\\"Campos de ouro revelam[br/]A graça eterna interior[br/]Como uma chuva purificadora.\\\""
 
 msgid "DLC@WAYSOFWAR@TOME_PROSPERITY@TOME@NAME"
 msgstr "Tomo da Prosperidade"
@@ -77322,7 +77322,7 @@ msgid "DLC@WITCHOFTHEWAVES@LORDS_FIRSTNAME_1@NAME"
 msgstr "Mael^F"
 
 msgid "DLC@WITCHOFTHEWAVES@MOUNT@DESCRIPTION"
-msgstr "A unidade tem:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink}[bullet/]O tipo de unidade {GLOBAL.PROPERTIES.CAVALRY_GROUP.Hyperlink}[bullet/]movimento {GLOBAL.PROPERTIES.AMPHIBIOUS_MOVEMENT.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.SLIPPERY.Hyperlink}[bullet/]+{amount1} {GLOBAL.LightningResistanceConcept.Hyperlink}[bullet/]+{amount2} {GLOBAL.FrostResistanceConcept.Hyperlink}[/bulletlist]"
+msgstr "A unidade tem:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink}[bullet/]O tipo de unidade {GLOBAL.PROPERTIES.CAVALRY_GROUP.Hyperlink}[bullet/]Movimento {GLOBAL.PROPERTIES.AMPHIBIOUS_MOVEMENT.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.SLIPPERY.Hyperlink}[bullet/]+{amount1} {GLOBAL.LightningResistanceConcept.Hyperlink}[bullet/]+{amount2} {GLOBAL.FrostResistanceConcept.Hyperlink}[/bulletlist]"
 
 msgid "DLC@WITCHOFTHEWAVES@MOUNT@NAME"
 msgstr "Montaria da Égua do Mar Tempestuosa^n"
@@ -81327,7 +81327,7 @@ msgid "FEY_INVASION@CRISIS_EVENT@DESCRIPTION_CRISIS_DEFEATED_FINAL"
 msgstr "Você repeliu o assalto final dos {FEY_INVASION_RACE}. Eles não têm poder para retornar de seu reino feérico, tornando você o dono indiscutível e canalizador do {FEY_INVASION_RELIC_NAME}."
 
 msgid "FEY_INVASION@CRISIS_EVENT@DESCRIPTION_CRISIS_DEFEATED_OTHERPLAYER_A"
-msgstr "{FEY_INVASION_TARGET_PLAYER} dissipou as névoas em {REALM_NAME}. <<Cp:FEY_INVASION_TARGET_PLAYER>> proclama <<r:FEY_INVASION_TARGET_PLAYER>> salvador do reino, contando histórias fantásticas sobre derrotar o povo Fey assassino armado para vencer até mesmo um Godir."
+msgstr "{FEY_INVASION_TARGET_PLAYER} dissipou as névoas em {REALM_NAME}. <<Cp:FEY_INVASION_TARGET_PLAYER>> proclama <<r:FEY_INVASION_TARGET_PLAYER>> salvador do reino, contando histórias fantásticas sobre derrotar o povo Feéricos assassino armado para vencer até mesmo um Godir."
 
 msgid "FEY_INVASION@CRISIS_EVENT@DESCRIPTION_CRISIS_DEFEATED_OTHER_PLAYER_B"
 msgstr "{FEY_INVASION_TARGET_PLAYER} derrotou o {FEY_INVASION_RACE} em {REALM_NAME}. <<Cp:FEY_INVASION_TARGET_PLAYER>> proclama <<r:FEY_INVASION_TARGET_PLAYER>> salvador do reino, pois o {FEY_INVASION_RACE} nunca mais retornará para aterrorizar o reino."
@@ -81726,7 +81726,7 @@ msgid "FEY_INVASION@TOME_FEY_MIST@SKILL5@NAME"
 msgstr "Tocado pelos Feéricos"
 
 msgid "FEY_INVASION@TOME_FEY_MIST@SKILL5@PROP_DESCRIPTION"
-msgstr "Unidade:[bulletlist][bullet/]Possui {GLOBAL.PROPERTIES.FEY_GUILE.Hyperlink}[bullet/]Ignora:[bulletlist][bullet/]penalidades de visão da {GLOBAL.PROPERTIES.MISTY.Hyperlink}.[bullet/]{GLOBAL.AccuracyConcept.Hyperlink} penalidades de {GLOBAL.PROPERTIES.CLINGING_MIST.Hyperlink}.[/bulletlist][/bulletlist]"
+msgstr "Unidade:[bulletlist][bullet/]Possui {GLOBAL.PROPERTIES.FEY_GUILE.Hyperlink}[bullet/]Ignora:[bulletlist][bullet/]Penalidades de visão da {GLOBAL.PROPERTIES.MISTY.Hyperlink}.[bullet/]{GLOBAL.AccuracyConcept.Hyperlink} penalidades de {GLOBAL.PROPERTIES.CLINGING_MIST.Hyperlink}.[/bulletlist][/bulletlist]"
 
 msgid "FEY_INVASION@TRIGGER_TOOLTIP@DIRECT_TOWARDS_PLAYER"
 msgstr "Os {EventRace} direcionarão suas futuras invasões para {TargetPlayer}."
@@ -83115,7 +83115,7 @@ msgid "HERO@AMBITION@RAIDER_MINOR"
 msgstr "Saque uma província"
 
 msgid "HERO@AMBITION@SHEPHERD_MAJOR"
-msgstr "Vença um combate apenas com unidades de animais, plantas, Fey e elementais ao seu lado"
+msgstr "Vença um combate apenas com unidades de animais, plantas, Feéricos e elementais ao seu lado"
 
 msgid "HERO@AMBITION@SHEPHERD_MINOR"
 msgstr "Evolua ou promova uma unidade no exército deste herói"
@@ -86694,7 +86694,7 @@ msgid "HERO_TRAIT@COMBAT_13@NAME"
 msgstr "Inflexível"
 
 msgid "HERO_TRAIT@COMBAT_14@NAME"
-msgstr "Retalhador"
+msgstr "Retaliador"
 
 msgid "HERO_TRAIT@COMBAT_15@NAME"
 msgstr "Patrulheiro"
@@ -89304,7 +89304,7 @@ msgid "INTERFACE@END_GAME@DLC4_MISSION_02_VICTORY_TEXT"
 msgstr "Você derrotou a tempestade Umbral e exilou o general arcano da invasão!"
 
 msgid "INTERFACE@END_GAME@EXPANSION_VICTORY_TEXT"
-msgstr "Enquanto alguns impérios jazem em ruínas,[br/]você domina este mundo sob as bandeiras de alianças recém-formadas, provando que laços diplomáticos fortes podem ser mais poderosos que os maiores exércitos. Com confiança e unidade, avançamos rumo a um amanhã melhor."
+msgstr "Enquanto alguns impérios jazem em ruínas,[br/]Você domina este mundo sob as bandeiras de alianças recém-formadas, provando que laços diplomáticos fortes podem ser mais poderosos que os maiores exércitos. Com confiança e unidade, avançamos rumo a um amanhã melhor."
 
 msgid "INTERFACE@END_GAME@HEADER"
 msgstr "A jornada de {Player.Name}"
@@ -100440,7 +100440,7 @@ msgid "INTERFACE@TEXT@RAISE_UNITS"
 msgstr "Levantar Novas Unidades"
 
 msgid "INTERFACE@TEXT@RALLY_OF_LIEGES"
-msgstr "Ajuntamento dos Vassalos"
+msgstr "Mobilização"
 
 msgid "INTERFACE@TEXT@RALLY_OF_LIEGES@UNLOCK_REQUIREMENT"
 msgstr "{GLOBAL.RequestMilitaryAidConcept.Hyperlink} é desbloqueado após vassalizar um(a) {GLOBAL.IndependentCityConcept.Hyperlink} ou anexar um(a) {GLOBAL.AncientWonderConcept.Hyperlink}."
@@ -108267,7 +108267,7 @@ msgid "META_EMPIRE@TRAIT_ETERNAL_BATTLEGROUND@NAME"
 msgstr "Campo de Batalha Eterno"
 
 msgid "META_EMPIRE@TRAIT_FEY_INVASION@DESCRIPTION"
-msgstr "Este reino é afetado pelo \\\"Tributo das Estações\\\", onde misteriosos seres Fey surgem das névoas para atacar as cidades dos incautos.[bulletlist][bullet/]O Evento \\\"Tributo das Estações\\\" é garantido de ocorrer durante o meio do jogo.[/bulletlist]"
+msgstr "Este reino é afetado pelo \\\"Tributo das Estações\\\", onde misteriosos seres Feéricos surgem das névoas para atacar as cidades dos incautos.[bulletlist][bullet/]O Evento \\\"Tributo das Estações\\\" é garantido de ocorrer durante o meio do jogo.[/bulletlist]"
 
 msgid "META_EMPIRE@TRAIT_FEY_INVASION@NAME"
 msgstr "Tributo das Estações"
@@ -108309,7 +108309,7 @@ msgid "META_EMPIRE@TRAIT_HIGHLANDS@NAME"
 msgstr "Altiplanos"
 
 msgid "META_EMPIRE@TRAIT_HIGH_MAINTENANCE@DESCRIPTION"
-msgstr "Os materiais deste reino são frágeis, fáceis de trabalhar, mas difíceis de manter.[bulletlist][bullet/]A Base {GLOBAL.UnitUpkeepConcept.Hyperlink} é aumentada em {UpkeepIncrease}.[bullet/]os custos de recrutamento de {GLOBAL.UnitConcept.Hyperlink} são reduzidos em {BuildcostReduction}.[/bulletlist]"
+msgstr "Os materiais deste reino são frágeis, fáceis de trabalhar, mas difíceis de manter.[bulletlist][bullet/]A Base {GLOBAL.UnitUpkeepConcept.Hyperlink} é aumentada em {UpkeepIncrease}.[bullet/]Os custos de recrutamento de {GLOBAL.UnitConcept.Hyperlink} são reduzidos em {BuildcostReduction}.[/bulletlist]"
 
 msgid "META_EMPIRE@TRAIT_HIGH_MAINTENANCE@NAME"
 msgstr "Manutenção Alta"
@@ -108432,7 +108432,7 @@ msgid "META_EMPIRE@TRAIT_LOW_POPULATION@NAME"
 msgstr "População Baixa"
 
 msgid "META_EMPIRE@TRAIT_MAGIC_ORIGINS@DESCRIPTION"
-msgstr "A influência Astral neste reino torna criaturas de origem mágica incomumente comuns.[bulletlist][bullet/]criaturas <<m:{GLOBAL.PROPERTIES.MAGIC_ORIGIN.Hyperlink}>> são [abilityblue]Comuns[/abilityblue] neste reino.[/bulletlist]"
+msgstr "A influência Astral neste reino torna criaturas de origem mágica incomumente comuns.[bulletlist][bullet/]Criaturas <<m:{GLOBAL.PROPERTIES.MAGIC_ORIGIN.Hyperlink}>> são [abilityblue]Comuns[/abilityblue] neste reino.[/bulletlist]"
 
 msgid "META_EMPIRE@TRAIT_MAGIC_ORIGINS@NAME"
 msgstr "Origens Mágicas"
@@ -108783,7 +108783,7 @@ msgid "META_EMPIRE@WORLD_CONTENT@COSMIC_HAPPENINGS@NAME"
 msgstr "Eventos Cósmicos"
 
 msgid "META_EMPIRE@WORLD_CONTENT@FEY_INVASION@DESCRIPTION"
-msgstr "Este reino é afetado pelo \\\"Tributo das Estações\\\", onde misterosos seres Fey surgem das névoas para atacar as cidades dos incautos."
+msgstr "Este reino é afetado pelo \\\"Tributo das Estações\\\", onde misterosos seres Feéricos surgem das névoas para atacar as cidades dos incautos."
 
 msgid "META_EMPIRE@WORLD_CONTENT@FEY_INVASION@NAME"
 msgstr "Tributo das Estações"
@@ -109329,7 +109329,7 @@ msgid "NAMES_RACES@FORM_ELVEN@NOUN_2"
 msgstr "Fae"
 
 msgid "NAMES_RACES@FORM_ELVEN@NOUN_3"
-msgstr "Fey"
+msgstr "Feéricos"
 
 msgid "NAMES_RACES@FORM_GOBLINOID@ADJECTIVE_2"
 msgstr "Travesso^a"
@@ -112965,7 +112965,7 @@ msgid "SECRETSOFTHEARCHMAGES@STORY_REALM_03@TOOLTIP@ARACHNA_FEYTOUCHED_TRANSFORM
 msgstr "Os {EventRace} obtêm a transformação {GLOBAL.SPECIAL_OPERATIONS.FEYTOUCHED.Hyperlink}."
 
 msgid "SECRETSOFTHEARCHMAGES@STORY_REALM_03@TOOLTIP@ARACHNA_TRAP_ARMIES_INFO"
-msgstr "Exércitos de Mistcrawler liderados por <<m:{EventUnit}>> surgem pelo mapa para atacar as cidades da rebelião Fey. Quando tal exército conquista uma cidade, ele muda de lado para {EventPlayer}."
+msgstr "Exércitos de Mistcrawler liderados por <<m:{EventUnit}>> surgem pelo mapa para atacar as cidades da rebelião Feéricos. Quando tal exército conquista uma cidade, ele muda de lado para {EventPlayer}."
 
 msgid "SECTORDEFINITIONS_STRATEGIC@ASHLANDS@DESCRIPTION"
 msgstr "A {GLOBAL.ProvinceFeatureConcept.Hyperlink}.[br/][br/]Uma vasta extensão de poeira cinza e cinzas. Um {GLOBAL.HutConcept.Hyperlink} pode ser construído aqui.[br/]Cidades com Adaptação Desolada podem construir um {GLOBAL.FarmConcept.Hyperlink} em vez disso."
@@ -116235,7 +116235,7 @@ msgid "STORY_EVENT@1013_1059@BUTTON_2@HERO_IS_PLAYERLE"
 msgstr "\\\"Salvar almas perdidas já é uma recompensa em si. Não peço nada mais.\\\" [goodact/]"
 
 msgid "STORY_EVENT@1013_1059@BUTTON_3"
-msgstr "Reivindique rapidamente essas almas libertadas para si mesmo. [evilact/]"
+msgstr "Reivindique rapidamente essas almas libertadas para você. [evilact/]"
 
 msgid "STORY_EVENT@1013_1059@TITLE"
 msgstr "Heróis e Horrores: Consequência"
@@ -118233,7 +118233,7 @@ msgid "STORY_EVENT@1013_191@BUTTON_1"
 msgstr "Use sua destreza mágica [mana/] para proteger seu exército das chamas antes de entrar."
 
 msgid "STORY_EVENT@1013_191@BUTTON_1@HERO_IS_PLAYERLE"
-msgstr "Use sua destreza mágica [mana/] para proteger a si mesmo e seu exército das chamas antes de entrar."
+msgstr "Use sua destreza mágica [mana/] para se proteger e proteger seu exército das chamas antes de entrar."
 
 msgid "STORY_EVENT@1013_191@BUTTON_2"
 msgstr "Sair."
@@ -122562,7 +122562,7 @@ msgid "STORY_EVENT@1064_1682@BODY_HEADER"
 msgstr "Executando o ritual ensinado por {EventHero}, você recita as invocações do feitiço Fio da Mente:"
 
 msgid "STORY_EVENT@1064_1682@BODY_LORE"
-msgstr "\\\"Quando a escuridão cai[br/]e as sombras rastejam[br/], um tecelão chega aos que dormem.[br/]Teça-me um fio de sonhos e medos,[br/]uma rede que me leve às suas lágrimas.\\\""
+msgstr "\\\"Quando a escuridão cai[br/]E as sombras rastejam[br/], um tecelão chega aos que dormem.[br/]Teça-me um fio de sonhos e medos,[br/]Uma rede que me leve às suas lágrimas.\\\""
 
 msgid "STORY_EVENT@1064_1682@BUTTON_0"
 msgstr "{DarkAI}"
@@ -123516,7 +123516,7 @@ msgid "STORY_EVENT@1064_785@BODY_HEADER"
 msgstr "Das profundezas emaranhadas das matas próximas à sua cidade {EventCity.Name}, a canção gargalhante de {EventUnit.Name} atrai você."
 
 msgid "STORY_EVENT@1064_785@BODY_LORE"
-msgstr "\\\"Venha, abençoe a terra com maçãs![br/]Deixe a colheita descansar![br/]Os despojos para todos se apoderarem[br/]alimentar urso, ave, fadas e ninhos!\\\""
+msgstr "\\\"Venha, abençoe a terra com maçãs![br/]Deixe a colheita descansar![br/]Os despojos para todos se apoderarem[br/]Alimentar urso, ave, fadas e ninhos!\\\""
 
 msgid "STORY_EVENT@1064_785@BUTTON_0"
 msgstr "Deixe {EventCity.Name} oferecer sua colheita [food/] à terra. [natureboon/]"
@@ -126405,7 +126405,7 @@ msgid "STORY_EVENT@1122_45@TITLE"
 msgstr "Encontro Chique {EventHouse.Name}"
 
 msgid "STORY_EVENT@1122_46@BODY_FOOTER"
-msgstr "\\\"Ordene‑nos que purguemos suas cidades dos hereges, e seu sacrifício elevará seu povo fiel... ou a si mesmo.\\\""
+msgstr "\\\"Ordene‑nos que purguemos suas cidades dos hereges, e seu sacrifício elevará seu povo fiel... ou a você.\\\""
 
 msgid "STORY_EVENT@1122_46@BODY_HEADER"
 msgstr "Um destacamento de <<m:EventUnit>> chega ao seu tribunal. Seu capitão proclama: \\\"Finalmente! Encontramos você!\\\""
@@ -126768,7 +126768,7 @@ msgid "STORY_EVENT@1122_7@BUTTON_2"
 msgstr "\\\"Isso é, sem dúvida, um {EventItem} espetacular! Você deve estar muito orgulhoso. [influence/]\\\""
 
 msgid "STORY_EVENT@1122_7@BUTTON_3"
-msgstr "Estude seus desenhos e crie uma cópia para si mesmo."
+msgstr "Estude seus desenhos e crie uma cópia para você."
 
 msgid "STORY_EVENT@1122_7@BUTTON_4"
 msgstr "\\\"Não quero seu bugiganga frívola.\\\""
@@ -129360,7 +129360,7 @@ msgid "STORY_EVENT@1167_836@BUTTON_6"
 msgstr "Desperte do terrível encantamento e recue!"
 
 msgid "STORY_EVENT@1167_836@BUTTON_7"
-msgstr "Proteja [mana/] a si mesmo contra os ataques gelados dos condenados e sombreados."
+msgstr "Proteja-se [mana/] contra os ataques gelados dos condenados e sombreados."
 
 msgid "STORY_EVENT@1167_836@TITLE"
 msgstr "O Dorminhoco nas Sombras"
@@ -129498,7 +129498,7 @@ msgid "STORY_EVENT@1194_1476@BUTTON_0"
 msgstr "Inicie o ritual para trazer de volta um Rei Traidor."
 
 msgid "STORY_EVENT@1194_1476@BUTTON_1"
-msgstr "Use os Artefatos para governar os Filhos dos Kjörnoe você mesmo."
+msgstr "Use os Artefatos para governar os Filhos dos Kjörnoe em pessoa."
 
 msgid "STORY_EVENT@1194_1476@BUTTON_2"
 msgstr "Rejeite o culto dos Filhos dos Kjörnoe. [goodact/]"
@@ -130023,7 +130023,7 @@ msgid "STORY_EVENT@1194_41@BODY_HEADER"
 msgstr "Em um feixe de luz celestial, uma mensagem formal lhe é entregue."
 
 msgid "STORY_EVENT@1194_41@BODY_LORE"
-msgstr "\\\"Ao justo {PlayerLeader.TitleName} da {PlayerRace},[br/] desejo expressar minha aprovação ao [hyperlink,GLOBAL.OrderConcept]Caminho da Fé[/hyperlink] que você escolheu. Como {GLOBAL.GodirLoreConcept.Hyperlink}, devemos permanecer firmes contra os fora da lei e a escuridão. Portanto, peço que me aliste em seu exército, para que eu possa caminhar entre os mortais novamente e ajudá‑lo em sua missão.[br/]Que a fé e a ordem guiem você em seu caminho.[br/][br/]- {EventRuler.TitleName}.\\\""
+msgstr "\\\"Ao justo {PlayerLeader.TitleName} da {PlayerRace},[br/] Desejo expressar minha aprovação ao [hyperlink,GLOBAL.OrderConcept]Caminho da Fé[/hyperlink] que você escolheu. Como {GLOBAL.GodirLoreConcept.Hyperlink}, devemos permanecer firmes contra os fora da lei e a escuridão. Portanto, peço que me aliste em seu exército, para que eu possa caminhar entre os mortais novamente e ajudá‑lo em sua missão.[br/]Que a fé e a ordem guiem você em seu caminho.[br/][br/]- {EventRuler.TitleName}.\\\""
 
 msgid "STORY_EVENT@1194_41@BUTTON_0"
 msgstr "Aliste {EventRuler.Title} {EventRuler.FirstName} em seu exército. [unit/]"
@@ -130869,10 +130869,10 @@ msgid "STORY_EVENT@991_5701@BODY_HEADER"
 msgstr "Você afastou o {EventRace} de {EventCity}."
 
 msgid "STORY_EVENT@991_5701@BODY_LORE"
-msgstr "Os remanescentes, seguindo o rastro do terrível {EventUnit}, recuaram para as névoas que se dissipam. À medida que o ar lentamente clareia novamente, um {EventStructure} é revelado no {EventGeo}. Sem dúvida, é aqui que o {EventRace} retornou ao seu reino Fey."
+msgstr "Os remanescentes, seguindo o rastro do terrível {EventUnit}, recuaram para as névoas que se dissipam. À medida que o ar lentamente clareia novamente, um {EventStructure} é revelado no {EventGeo}. Sem dúvida, é aqui que o {EventRace} retornou ao seu reino Feéricos."
 
 msgid "STORY_EVENT@991_5701@BODY_LORE@POP_LOST"
-msgstr "Os remanescentes, seguindo o rastro do terrível {EventUnit}, recuaram para as névoas que se dissipam. À medida que o ar lentamente clareia novamente, um {EventStructure} é revelado no {EventGeo}. Será aqui que seu povo de {EventCity} foi levado? Abduzido para o reino Fey?"
+msgstr "Os remanescentes, seguindo o rastro do terrível {EventUnit}, recuaram para as névoas que se dissipam. À medida que o ar lentamente clareia novamente, um {EventStructure} é revelado no {EventGeo}. Será aqui que seu povo de {EventCity} foi levado? Abduzido para o reino Feéricos?"
 
 msgid "STORY_EVENT@991_5701@BUTTON_0"
 msgstr "Que todos se apressem!"
@@ -130887,16 +130887,16 @@ msgid "STORY_EVENT@991_5713@BODY_FOOTER@POP_LOST"
 msgstr "Você enviará seu exército para o {EventStructure} a fim de perseguir o {EventRace} e libertar seu povo?"
 
 msgid "STORY_EVENT@991_5713@BODY_HEADER"
-msgstr "Ao se aproximar do {EventStructure}, você sente uma presença cada vez menor de magia Fey."
+msgstr "Ao se aproximar do {EventStructure}, você sente uma presença cada vez menor de magia feérica."
 
 msgid "STORY_EVENT@991_5713@BODY_LORE"
-msgstr "Não há dúvida de que o {EventStructure} leva ao reino Fey, {GLOBAL.DuathaLoreConcept.Hyperlink}, e aos {EventRace} restantes. Você deve ponderar suas opções. Os {EventRace} ainda podem ser numerosos. Será difícil surpreendê‑los em seu próprio domínio errático. Não consegue afastar a sensação de que segui‑los sem um exército suficientemente grande seria suicídio."
+msgstr "Não há dúvida de que o {EventStructure} leva ao reino Feéricos, {GLOBAL.DuathaLoreConcept.Hyperlink}, e aos {EventRace} restantes. Você deve ponderar suas opções. Os {EventRace} ainda podem ser numerosos. Será difícil surpreendê‑los em seu próprio domínio errático. Não consegue afastar a sensação de que segui‑los sem um exército suficientemente grande seria suicídio."
 
 msgid "STORY_EVENT@991_5713@BUTTON_0"
 msgstr "\\\"Não tememos nada. Passaremos!\\\""
 
 msgid "STORY_EVENT@991_5713@BUTTON_1"
-msgstr "Sele a fissura para drenar as últimas gotas de magia Fey [mana/]."
+msgstr "Sele a fissura para drenar as últimas gotas de magia feérica [mana/]."
 
 msgid "STORY_EVENT@991_5713@BUTTON_2"
 msgstr "Retirada, por enquanto."
@@ -130905,16 +130905,16 @@ msgid "STORY_EVENT@991_5713@TITLE"
 msgstr "O Caminho para Duatha"
 
 msgid "STORY_EVENT@991_5714@BODY_FOOTER"
-msgstr "Os gritos de suas tropas avisam que o {EventStructure} está desmoronando. Seja o que for que pretenda fazer com a relíquia Fey, deve ser feito rapidamente!"
+msgstr "Os gritos de suas tropas avisam que o {EventStructure} está desmoronando. Seja o que for que pretenda fazer com a relíquia Feéricos, deve ser feito rapidamente!"
 
 msgid "STORY_EVENT@991_5714@BODY_FOOTER@HERO"
-msgstr "Os gritos de suas tropas alertam {EventHero} sobre o iminente colapso do {EventStructure}. Seja o que <<p:EventHero>> pretenda fazer com a relíquia Fey, deve ser feito rapidamente!"
+msgstr "Os gritos de suas tropas alertam {EventHero} sobre o iminente colapso do {EventStructure}. Seja o que <<p:EventHero>> pretenda fazer com a relíquia Feéricos, deve ser feito rapidamente!"
 
 msgid "STORY_EVENT@991_5714@BODY_HEADER"
-msgstr "Você afastou os {EventRace} restantes mais fundo no reino Fey."
+msgstr "Você afastou os {EventRace} restantes mais fundo no reino Feéricos."
 
 msgid "STORY_EVENT@991_5714@BODY_HEADER@POP_LOST"
-msgstr "Você afastou os {EventRace} restantes mais fundo no reino Fey, e seus cativos — seus cidadãos de {EventCity} — estão livres novamente."
+msgstr "Você afastou os {EventRace} restantes mais fundo no reino Feéricos, e seus cativos — seus cidadãos de {EventCity} — estão livres novamente."
 
 msgid "STORY_EVENT@991_5714@BODY_LORE"
 msgstr "Enquanto as tropas vigiam possíveis artimanhas feéricas, sua atenção se volta ao santuário arbóreo situado no centro da aldeia. Em seu coração repousa uma relíquia de outro mundo, ecoando os sussurros de uma entidade distante quando você se aproxima o suficiente para tocá‑la. A relíquia irradia grande poder, mas também ameaça."
@@ -130941,10 +130941,10 @@ msgid "STORY_EVENT@991_5737@BODY_HEADER"
 msgstr "Uma sensação de inquietação invade as profundezas da sua torre do feiticeiro, quando um emissário dos {EventRace} surge de uma súbita névoa."
 
 msgid "STORY_EVENT@991_5737@BODY_LORE"
-msgstr "\\\"Sou {EventHero}, descendente do grande Corvo Tharic e servo dos {GLOBAL.DuathadaeLoreConcept.Hyperlink}. Nossos senhores,\\\" diz <<p:EventHero>>, \\\"não toleram a perda dos presentes que nos concederam.\\\" O Fey levanta uma bainha com marcas ornamentais que retratam o {EventRelic}. \\\"Felizmente para você, {PlayerLeader}, os {GLOBAL.DuathadaeLoreConcept.Hyperlink} são generosos com suas oferendas,\\\" continua {EventHero} enquanto <<p:EventHero>> brevemente altera <<o:EventHero>> rosto para um semblante {EventUnit}."
+msgstr "\\\"Sou {EventHero}, descendente do grande Corvo Tharic e servo dos {GLOBAL.DuathadaeLoreConcept.Hyperlink}. Nossos senhores,\\\" diz <<p:EventHero>>, \\\"não toleram a perda dos presentes que nos concederam.\\\" O Feéricos levanta uma bainha com marcas ornamentais que retratam o {EventRelic}. \\\"Felizmente para você, {PlayerLeader}, os {GLOBAL.DuathadaeLoreConcept.Hyperlink} são generosos com suas oferendas,\\\" continua {EventHero} enquanto <<p:EventHero>> brevemente altera <<o:EventHero>> rosto para um semblante {EventUnit}."
 
 msgid "STORY_EVENT@991_5737@BUTTON_0"
-msgstr "Devolva a relíquia Fey e peça ao {EventRace} que ataque {TargetPlayerA}."
+msgstr "Devolva a relíquia Feéricos e peça ao {EventRace} que ataque {TargetPlayerA}."
 
 msgid "STORY_EVENT@991_5737@BUTTON_2"
 msgstr "Negue a devolução do ídolo."
@@ -130959,7 +130959,7 @@ msgid "STORY_EVENT@991_5737@TITLE"
 msgstr "Uma Oferta Inesperada"
 
 msgid "STORY_EVENT@991_5738@BODY_FOOTER"
-msgstr "O tempo de negociações acabou. Como você se preparará para o ataque final dos Fey?"
+msgstr "O tempo de negociações acabou. Como você se preparará para o ataque final dos Feéricos?"
 
 msgid "STORY_EVENT@991_5738@BODY_HEADER"
 msgstr "A névoa crescente de {EventRace} anuncia o início iminente da batalha por {EventCity}."
@@ -133374,7 +133374,7 @@ msgid "TOME_AMPLIFICATION@SKILL5@NAME"
 msgstr "Amplificar Mentes"
 
 msgid "TOME_AMPLIFICATION@SKILL6@DESCRIPTION"
-msgstr "Faz os ataques das unidades encantadas:[bulletlist][bullet/]causarem +{LIGHTNING_FOCUS_EXTRA_DAMAGE>DAMAGE>Shock} {GLOBAL.LightningDamageConcept.Hyperlink}.[bullet/]Concedem chance base de {ELECTRIFIED_RESISTANCE>ResolvedStrength}% de infligir {GLOBAL.PROPERTIES.ELECTRIFIED.Hyperlink}, um efeito de dano ao longo do tempo.[/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+msgstr "Faz os ataques das unidades encantadas:[bulletlist][bullet/]Causarem +{LIGHTNING_FOCUS_EXTRA_DAMAGE>DAMAGE>Shock} {GLOBAL.LightningDamageConcept.Hyperlink}.[bullet/]Concedem chance base de {ELECTRIFIED_RESISTANCE>ResolvedStrength}% de infligir {GLOBAL.PROPERTIES.ELECTRIFIED.Hyperlink}, um efeito de dano ao longo do tempo.[/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
 
 msgid "TOME_AMPLIFICATION@SKILL6@NAME"
 msgstr "Foco de Relâmpago"
@@ -133872,7 +133872,7 @@ msgid "TOME_AUTHOR@GLOOM"
 msgstr "Gloom Hooknail, Dama Sombria dos Goblins Corrompidos"
 
 msgid "TOME_AUTHOR@HAM"
-msgstr "Ham Binger, Escolhido dos Fey"
+msgstr "Ham Binger, Escolhido dos Feéricos"
 
 msgid "TOME_AUTHOR@HAR'ACRAN"
 msgstr "Har'Acran, Rainha das Dunas"
@@ -134550,7 +134550,7 @@ msgid "TOME_CRYOMANCY@UNIT1@ABILITY1@DESCRIPTION"
 msgstr "Cause dano à unidade inimiga alvo."
 
 msgid "TOME_CRYOMANCY@UNIT1@ABILITY1@ENHANCED_DESCRIPTION"
-msgstr "Explosão Congelante:[bulletlist][bullet/]Causa um adicional {FREEZING_BLAST_ENHANCED_DAMAGE>DAMAGE>Frost}{GLOBAL.FrostDamageConcept.Hyperlink}.[bullet/]não tem tempo de recarga.[/bulletlist]"
+msgstr "Explosão Congelante:[bulletlist][bullet/]Causa um adicional {FREEZING_BLAST_ENHANCED_DAMAGE>DAMAGE>Frost}{GLOBAL.FrostDamageConcept.Hyperlink}.[bullet/]Não tem tempo de recarga.[/bulletlist]"
 
 msgid "TOME_CRYOMANCY@UNIT1@ABILITY1@ENHANCED_NAME"
 msgstr "Explosão Congelante Aprimorada"
@@ -141948,7 +141948,7 @@ msgid "UNITPROPERTIES@CLEANSING_FIRE_REFLECTION@NAME"
 msgstr "Reflexão de Fogo Purificador"
 
 msgid "UNITPROPERTIES@CLINGING_MIST@DESCRIPTION"
-msgstr "[bulletlist][bullet/]ataques {GLOBAL.MeleeConcept.Hyperlink}, {GLOBAL.RangedConcept.Hyperlink} e {GLOBAL.MagicConcept.Hyperlink} que visam esta unidade sofrem -{amount}% {GLOBAL.AccuracyConcept.Hyperlink}.[bullet/]Pode acumular até {stacks} vezes.[/bulletlist][br/][br/]Névoa Pegajosa {GLOBAL.OpposingStatusEffectsConcept.Hyperlink} {GLOBAL.PROPERTIES.MARKED.Hyperlink}"
+msgstr "[bulletlist][bullet/]Ataques {GLOBAL.MeleeConcept.Hyperlink}, {GLOBAL.RangedConcept.Hyperlink} e {GLOBAL.MagicConcept.Hyperlink} que visam esta unidade sofrem -{amount}% {GLOBAL.AccuracyConcept.Hyperlink}.[bullet/]Pode acumular até {stacks} vezes.[/bulletlist][br/][br/]Névoa Pegajosa {GLOBAL.OpposingStatusEffectsConcept.Hyperlink} {GLOBAL.PROPERTIES.MARKED.Hyperlink}"
 
 msgid "UNITPROPERTIES@CLINGING_MIST@MOD_DESCRIPTION"
 msgstr "Alvo ganha {GLOBAL.PROPERTIES.CLINGING_MIST.Hyperlink} por {amount} <<m:{GLOBAL.TurnConcept}>>."
@@ -142635,7 +142635,7 @@ msgid "UNITPROPERTIES@UNIQUE_EVENT_DEPETRIFIED@PROPERTY@NAME"
 msgstr "Despetrificado"
 
 msgid "UNITPROPERTIES@UNIQUE_EVENT_DIVINEENFORCER@PROPERTY@DESCRIPTION"
-msgstr "Esta unidade possui:[bulletlist][bullet/]ataques {GLOBAL.MeleeConcept.Hyperlink} infligem {GLOBAL.PROPERTIES.CONDEMNED.Hyperlink}.[/bulletlist]"
+msgstr "Esta unidade possui:[bulletlist][bullet/]Ataques {GLOBAL.MeleeConcept.Hyperlink} infligem {GLOBAL.PROPERTIES.CONDEMNED.Hyperlink}.[/bulletlist]"
 
 msgid "UNITPROPERTIES@UNIQUE_EVENT_DIVINEENFORCER@PROPERTY@NAME"
 msgstr "Executor Divino"
@@ -142647,7 +142647,7 @@ msgid "UNITPROPERTIES@UNIQUE_EVENT_FORESTWARDEN@PROPERTY@NAME"
 msgstr "Guardião da Floresta"
 
 msgid "UNITPROPERTIES@UNIQUE_EVENT_FORMIDABLEHUNTER@PROPERTY@DESCRIPTION"
-msgstr "Esta unidade possui:[bulletlist][bullet/]ataques {GLOBAL.RangedConcept.Hyperlink} causam +{PHYSICAL_DAMAGE_MODIFIER>DAMAGE>Physical} {GLOBAL.PhysicalDamageConcept}.[bullet/]ataques {GLOBAL.MeleeConcept.Hyperlink} causam +{PHYSICAL_DAMAGE_MODIFIER>DAMAGE>Physical} {GLOBAL.PhysicalDamageConcept}.[/bulletlist]"
+msgstr "Esta unidade possui:[bulletlist][bullet/]Ataques {GLOBAL.RangedConcept.Hyperlink} causam +{PHYSICAL_DAMAGE_MODIFIER>DAMAGE>Physical} {GLOBAL.PhysicalDamageConcept}.[bullet/]Ataques {GLOBAL.MeleeConcept.Hyperlink} causam +{PHYSICAL_DAMAGE_MODIFIER>DAMAGE>Physical} {GLOBAL.PhysicalDamageConcept}.[/bulletlist]"
 
 msgid "UNITPROPERTIES@UNIQUE_EVENT_FORMIDABLEHUNTER@PROPERTY@NAME"
 msgstr "Caçador Formidável"
@@ -142671,13 +142671,13 @@ msgid "UNITPROPERTIES@UNIQUE_EVENT_HEARTOFIRON@PROPERTY@NAME"
 msgstr "Coração de Ferro"
 
 msgid "UNITPROPERTIES@UNIQUE_EVENT_HORROR@PROPERTY@DESCRIPTION"
-msgstr "Esta unidade tem:[bulletlist][bullet/]ataques {GLOBAL.MeleeConcept.Hyperlink} infligem {GLOBAL.PROPERTIES.REMORSE.Hyperlink}.[/bulletlist]"
+msgstr "Esta unidade tem:[bulletlist][bullet/]Ataques {GLOBAL.MeleeConcept.Hyperlink} infligem {GLOBAL.PROPERTIES.REMORSE.Hyperlink}.[/bulletlist]"
 
 msgid "UNITPROPERTIES@UNIQUE_EVENT_HORROR@PROPERTY@NAME"
 msgstr "Horror Indizível"
 
 msgid "UNITPROPERTIES@UNIQUE_EVENT_OATHBREAKER@PROPERTY@DESCRIPTION"
-msgstr "Esta unidade tem:[bulletlist][bullet/]ataques {GLOBAL.MeleeConcept.Hyperlink} causam +{PHYSICAL_DAMAGE_MODIFIER>DAMAGE>Physical} {GLOBAL.PhysicalDamageConcept}.[/bulletlist]"
+msgstr "Esta unidade tem:[bulletlist][bullet/]Ataques {GLOBAL.MeleeConcept.Hyperlink} causam +{PHYSICAL_DAMAGE_MODIFIER>DAMAGE>Physical} {GLOBAL.PhysicalDamageConcept}.[/bulletlist]"
 
 msgid "UNITPROPERTIES@UNIQUE_EVENT_OATHBREAKER@PROPERTY@NAME"
 msgstr "Quebrador de Juramento"
@@ -142701,7 +142701,7 @@ msgid "UNITPROPERTIES@UNIQUE_EVENT_STARPOWERED@PROPERTY@NAME"
 msgstr "Impulsionado por Estrelas"
 
 msgid "UNITPROPERTIES@UNIQUE_EVENT_WICKEDHOMAGE@PROPERTY@DESCRIPTION"
-msgstr "Esta unidade tem:[bulletlist][bullet/]ataques {GLOBAL.MeleeConcept.Hyperlink} infligem {GLOBAL.PROPERTIES.REMORSE.Hyperlink}.[/bulletlist]"
+msgstr "Esta unidade tem:[bulletlist][bullet/]Ataques {GLOBAL.MeleeConcept.Hyperlink} infligem {GLOBAL.PROPERTIES.REMORSE.Hyperlink}.[/bulletlist]"
 
 msgid "UNITPROPERTIES@UNIQUE_EVENT_WICKEDHOMAGE@PROPERTY@NAME"
 msgstr "Homenagem Maligna"
@@ -144090,7 +144090,7 @@ msgid "UPGRADES_CORE_UNITPROPERTIES@EXTRAPLANAR@TAG_NAME"
 msgstr "[unitElemental/] {LOC.UPGRADES_CORE_UNITPROPERTIES@EXTRAPLANAR@NAME}"
 
 msgid "UPGRADES_CORE_UNITPROPERTIES@FEY@DESCRIPTION"
-msgstr "Uma unidade feérica com:[bulletlist][bullet/]+{FEY_RESISTANCES>REDUCTION>Spirit} {GLOBAL.SpiritResistanceConcept.Hyperlink}[bullet/]{FEY_RESISTANCES>REDUCTION>Blight} {GLOBAL.BlightResistanceConcept.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.FEY_GUILE.Hyperlink}[bullet/]A habilidade de ignorar:[bulletlist][bullet/]Penalidades de visão de {GLOBAL.PROPERTIES.MISTY.Hyperlink}.[bullet/]penalidades de {GLOBAL.AccuracyConcept.Hyperlink} de {GLOBAL.PROPERTIES.CLINGING_MIST.Hyperlink}.[/bulletlist][/bulletlist]"
+msgstr "Uma unidade feérica com:[bulletlist][bullet/]+{FEY_RESISTANCES>REDUCTION>Spirit} {GLOBAL.SpiritResistanceConcept.Hyperlink}[bullet/]{FEY_RESISTANCES>REDUCTION>Blight} {GLOBAL.BlightResistanceConcept.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.FEY_GUILE.Hyperlink}[bullet/]A habilidade de ignorar:[bulletlist][bullet/]Penalidades de visão de {GLOBAL.PROPERTIES.MISTY.Hyperlink}.[bullet/]Penalidades de {GLOBAL.AccuracyConcept.Hyperlink} de {GLOBAL.PROPERTIES.CLINGING_MIST.Hyperlink}.[/bulletlist][/bulletlist]"
 
 msgid "UPGRADES_CORE_UNITPROPERTIES@FEY@NAME"
 msgstr "Feérico"
@@ -144657,7 +144657,7 @@ msgid "UPGRADES_TEST_UNITPROPERTIES@THROW_NET@NAME"
 msgstr "Arremessar Rede"
 
 msgid "UPGRADES_TEST_UNITPROPERTIES@UNICORN_MOUNT@DESCRIPTION"
-msgstr "A unidade ganha:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink}[bullet/]tipo de unidade {GLOBAL.PROPERTIES.CAVALRY_GROUP.Hyperlink}[bullet/]+{amount} {GLOBAL.HitPointConcept.Hyperlink}[/bulletlist]"
+msgstr "A unidade ganha:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink}[bullet/]Tipo de unidade {GLOBAL.PROPERTIES.CAVALRY_GROUP.Hyperlink}[bullet/]+{amount} {GLOBAL.HitPointConcept.Hyperlink}[/bulletlist]"
 
 msgid "UPGRADES_TEST_UNITPROPERTIES@UNICORN_RESIST@NAME"
 msgstr "Resistência do Unicórnio"
@@ -144762,13 +144762,13 @@ msgid "UPGRADES_TEST_UNITPROPERTIES@WEAPON@INFERNAL_JUGGERNAUT"
 msgstr "Montaria de Juggernaut Infernal^n"
 
 msgid "UPGRADES_TEST_UNITPROPERTIES@WEAPON@INFERNAL_JUGGERNAUT@DESCRIPTION"
-msgstr "Unidade ganha:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink}.[bullet/]tipo de unidade {GLOBAL.PROPERTIES.CAVALRY_GROUP.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.LARGE_TARGET.Hyperlink}.[/bulletlist]"
+msgstr "Unidade ganha:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink}.[bullet/]Tipo de unidade {GLOBAL.PROPERTIES.CAVALRY_GROUP.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.LARGE_TARGET.Hyperlink}.[/bulletlist]"
 
 msgid "UPGRADES_TEST_UNITPROPERTIES@WEAPON@INFERNO_HOUND_MOUNT"
 msgstr "Montaria de Cão do Inferno^n"
 
 msgid "UPGRADES_TEST_UNITPROPERTIES@WEAPON@INFERNO_HOUND_MOUNT@DESCRIPTION"
-msgstr "Unidade ganha:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink}.[bullet/]tipo de unidade {GLOBAL.PROPERTIES.CAVALRY_GROUP.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.PACK_HUNTER.Hyperlink}.[/bulletlist]"
+msgstr "Unidade ganha:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink}.[bullet/]Tipo de unidade {GLOBAL.PROPERTIES.CAVALRY_GROUP.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.PACK_HUNTER.Hyperlink}.[/bulletlist]"
 
 msgid "UPGRADES_TEST_UNITPROPERTIES@WEAPON@JAVELIN"
 msgstr "Javalina"
@@ -144864,7 +144864,7 @@ msgid "UPGRADES_TEST_UNITPROPERTIES@WEAPON@SWIFTFOOT_RAPTOR"
 msgstr "Montaria de Raptor Pé-Leve^n"
 
 msgid "UPGRADES_TEST_UNITPROPERTIES@WEAPON@SWIFTFOOT_RAPTOR_MOUNT@DESCRIPTION"
-msgstr "Unidade ganha:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink}[bullet/]tipo de unidade {GLOBAL.PROPERTIES.CAVALRY_GROUP.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.SLIPPERY.Hyperlink}[/bulletlist]"
+msgstr "Unidade ganha:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink}[bullet/]Tipo de unidade {GLOBAL.PROPERTIES.CAVALRY_GROUP.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.SLIPPERY.Hyperlink}[/bulletlist]"
 
 msgid "UPGRADES_TEST_UNITPROPERTIES@WEAPON@SWORD"
 msgstr "Espada Longa Feudal^n"
@@ -144933,7 +144933,7 @@ msgid "UPGRADES_TEST_UNITPROPERTIES@WHIP@NAME"
 msgstr "Golpe de Chicote"
 
 msgid "UPGRADES_TEST_UNITPROPERTIES@WHITE_WOLF_MOUNT@DESCRIPTION"
-msgstr "Unidade ganha:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink}.[bullet/]tipo de unidade {GLOBAL.PROPERTIES.CAVALRY_GROUP.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.PACK_HUNTER.Hyperlink}.[bullet/]{amount2} {GLOBAL.FrostResistanceConcept.Hyperlink}[/bulletlist]"
+msgstr "Unidade ganha:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink}.[bullet/]Tipo de unidade {GLOBAL.PROPERTIES.CAVALRY_GROUP.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.PACK_HUNTER.Hyperlink}.[bullet/]{amount2} {GLOBAL.FrostResistanceConcept.Hyperlink}[/bulletlist]"
 
 msgid "UPGRADES_TEST_UNITPROPERTIES@ZEPHYR_BIRD@DESCRIPTION"
 msgstr "Unidade tem:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink}.[bullet/]O tipo de unidade {GLOBAL.PROPERTIES.CAVALRY_GROUP.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.FLYING_MOVEMENT.Hyperlink} Movimento.[bullet/]+{amount}{GLOBAL.LightningResistanceConcept.Hyperlink}[/bulletlist]"
