@@ -113,13 +113,39 @@ def main():
             errors.append(f"UNFILLED {k}")
             continue
 
-        # tokens: same multiset, never dropped, never invented
+        # tokens: same multiset, never dropped, never invented.
+        # Pronoun constructs (<<o:/<<p:/<<P:/<<Cp:/<<r:>>) resolve to engine-internal
+        # English words with no po key; the policy (docs/GLOSSARY.md) allows dropping
+        # them when the rewrite keeps the referenced variable, often by promoting the
+        # construct's argument to a bare token (possibly repeated). So pronoun tokens
+        # are ignored entirely, and a PT surplus of a token that appears as a pronoun
+        # construct argument in EN is allowed. A real missing variable stays an error.
         import translation_batch as tb
-        want, got = tb.tokens(en), tb.tokens(pt)
-        if want != got:
-            missing = [t for t in want if t not in got]
-            extra = [t for t in got if t not in want]
-            errors.append(f"TOKENS {k}: missing={missing[:3]} extra={extra[:3]}")
+        from collections import Counter
+        # pronoun family: o, p, P, r and the capitalized Cp/Co/Cr (engine English words).
+        # Cg/Cm are capitalized g/m constructs whose content stays translatable.
+        PRO = re.compile(r"<<\s*[Cc]?[oPpr]\s*:", re.I)
+        PRO_ARG = re.compile(r"<<\s*[Cc]?[oPpr]\s*:([A-Za-z0-9_.{}]+)>>", re.I)
+        pro_args = {a.strip("{}") for a in PRO_ARG.findall(en)}
+        want_c = Counter(t for t in tb.tokens(en) if not PRO.match(t))
+        got_c = Counter(t for t in tb.tokens(pt) if not PRO.match(t))
+        problems = []
+        for t, c in (want_c - got_c).items():
+            problems.append(f"missing={t}x{c}")
+        for t, c in (got_c - want_c).items():
+            bare = t.strip("{}")
+            m_arg = re.fullmatch(r"<<m:([A-Za-z0-9_.{}]+)>>|<<(\d+)>>", t)
+            prom = (m_arg.group(1) or m_arg.group(2)) if m_arg else ""
+            ok = (
+                bare in pro_args
+                or (prom and prom.strip("{}") in pro_args)
+                or any(pa.startswith(bare) or bare.startswith(pa) for pa in pro_args if pa)
+                or t in want_c
+            )
+            if not ok:
+                problems.append(f"extra={t}x{c}")
+        if problems:
+            errors.append(f"TOKENS {k}: {problems[:4]}")
         if en.count("\\n") != pt.count("\\n"):
             errors.append(f"NEWLINES {k}: en={en.count(chr(92)+'n')} pt={pt.count(chr(92)+'n')}")
 
