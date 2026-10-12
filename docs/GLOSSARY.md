@@ -125,3 +125,8 @@ replaced strings get flagged for revision.
 
 ## Demonkin
 - **Demonkin = Demonídeo.** Neologismo por analogia com os -ídeos taxonômicos reais (hominídeo, canídeo, felídeo); não está em dicionário. Decisão do usuário (2026-10-11): manter, preserva o matiz de "povo descendente de demônios". Não trocar por "demônio" ou "demoníaco" nos nomes de raça.
+
+## Regra de validação de tokens (Yuri, 2026-10-11)
+- Se o validador barrar um ajuste, e a versão nova fizer mais sentido: mantém-se a versão nova e reescreve-se a frase para que cada token apareça exatamente uma vez, com a grafia exata da origem. Não se volta à ordem truncada do EN.
+- Mover token/variável dentro da frase é sempre livre (o validador compara conjuntos ordenados; ordem nunca dispara mismatch).
+- Nunca deixar a frase SEM o token. Nunca duplicar. Nunca renomear (adicionar `.Hyperlink` ou mudar maiúscula/minúscula cria um token diferente).
