@@ -14295,6 +14295,18 @@ msgstr "Crow's Claw^N"
 msgid "DEFAULT@LORDS@BLINT@CITY_NAME"
 msgstr "Underweld^N"
 
+msgid "DEFAULT@LORDS@BRIGITTE@CITY_1"
+msgstr "Brittlebayou^N"
+
+msgid "DEFAULT@LORDS@BRIGITTE@CITY_2"
+msgstr "Croaking Cauldron^N"
+
+msgid "DEFAULT@LORDS@BRIGITTE@CITY_3"
+msgstr "Swamp Sorrow^N"
+
+msgid "DEFAULT@LORDS@BRIGITTE@RACE_BIO"
+msgstr "Cursed by a powerful witch, the once-human Brigitte Brittles was turned into a frog. With her wits and a clever plan, she took revenge on the old hag, casting her into her own cauldron. With the grimoires of the witch, she performed a ritual that infused her with human essence. Yet her knowledge was incomplete, and she remains forever bound to her haunches.[br/][br/]Those who follow her were once sacrificial frogs, used by the old hag as ingredients in her concoctions. Now infused with humanoid essence by the new Wildmire Witch, these amphibious folks continue to perform the same rituals with their dead."
+
 msgid "DEFAULT@LORDS@DAFAL@CITY_NAME"
 msgstr "Solport^N"
 
@@ -56675,7 +56687,7 @@ msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@SKILL2@NAME"
 msgstr "Desertification"
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@SKILL3@DESCRIPTION"
-msgstr "Target race becomes one with the desert, granting them:[bulletlist][bullet/]{GLOBAL.PROPERTIES.SAND_WALK.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.SAND_CAMOUFLAGE.Hyperlink}[bullet/]When on {GLOBAL.SandConcept.Hyperlink} terrain gain:[bulletlist][bullet/]Very Fast Movement in combat.[bullet/]+{amount}% {GLOBAL.FlankingConcept.Hyperlink} damage.[/bulletlist][/bulletlist]"
+msgstr "Target race becomes one with the desert, granting them:[bulletlist][bullet/]{GLOBAL.PROPERTIES.SAND_WALK.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.SAND_CAMOUFLAGE.Hyperlink}[bullet/]When on {GLOBAL.SandConcept.Hyperlink} terrain gain:[bulletlist][bullet/]{GLOBAL.PROPERTIES.FAST_MOVEMENT.Hyperlink}[bullet/]+{amount}% {GLOBAL.FlankingConcept.Hyperlink} damage[/bulletlist][/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@SKILL3@MOD_DESCRIPTION"
 msgstr "Unit deals +{DUNESTALKERS_FLANK_DAMAGE>ResolvedMultiplier}% damage when {GLOBAL.FlankingConcept.Hyperlink}."
@@ -56684,7 +56696,7 @@ msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@SKILL3@NAME"
 msgstr "Dunestalkers"
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@SKILL3@PROP_DESCRIPTION"
-msgstr "Unit has:[bulletlist][bullet/]{GLOBAL.PROPERTIES.SAND_WALK.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.SAND_CAMOUFLAGE.Hyperlink}[bullet/]When on {GLOBAL.SandConcept.Hyperlink} terrain gain:[bulletlist][bullet/]Very Fast Movement in combat.[bullet/]+{amount}% {GLOBAL.FlankingConcept.Hyperlink} damage.[/bulletlist][/bulletlist]"
+msgstr "Unit has:[bulletlist][bullet/]{GLOBAL.PROPERTIES.SAND_WALK.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.SAND_CAMOUFLAGE.Hyperlink}[bullet/]When on {GLOBAL.SandConcept.Hyperlink} terrain gain:[bulletlist][bullet/]{GLOBAL.PROPERTIES.FAST_MOVEMENT.Hyperlink}[bullet/]+{amount}% {GLOBAL.FlankingConcept.Hyperlink} damage[/bulletlist][/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@TOME_SAND_STALKER@SKILL4@DESCRIPTION"
 msgstr "Conjure a {GLOBAL.SandstormConcept.Hyperlink} in a {SANDSTORM_POSITION_TARGETER_CIRCLE>AREA>Radius}-hex radius that lasts for {SANDSTORM_PLACE_MARKER>Duration} <<m:{GLOBAL.TurnConcept}>>."
@@ -58289,7 +58301,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@LEVIATHAN_CRISIS@TOOLTIP@LANDMARK_DORMANT_INFO"
 msgstr "The {EventStructure} has entered a dormant state, disabling all its adjacency effects."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@LEVIATHAN_CRISIS@TOOLTIP@LANDMARK_DORMANT_VICTORY_FORESHDAOW_INFO"
-msgstr "When {LEV_NUM_DORMANT_MAX} Landmarks are dormant for {LEV_VICTORY_TIMER} turns, the Leviathan will enter a deep slumber again and you win the mission."
+msgstr "When {LEV_NUM_DORMANT_MAX} Landmarks are dormant for {LEV_VICTORY_TIMER} turns, the Leviathan will enter a deep slumber again and you win the mission. A single anchor city cannot bind multiple Landmarks."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@LEVIATHAN_CRISIS@TOOLTIP@SPAWN_ARMIES"
 msgstr "Armies spawn near each awakened Leviathan Landmark to attack all players. Each army targets a different player. The armies attacking you are marked."
@@ -58430,7 +58442,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@LORDS@DISCIPLE_SUMMER_CITY@NAME"
 msgstr "Paunch^N"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@LORDS@DISCIPLE_SUMMER_RACE@BIO"
-msgstr "Kana and Grump were once two chieftains of the Blood Clan, distant, degenerate descendants of [hyperlink,GLOBAL.MyrridaLoreConcept]Myrrida's[/hyperlink]mighty[hyperlink,GLOBAL.GiantKingLoreConcept]Giant Kings[/hyperlink]. In a feud, the two rival tribes fought each other to extinction. Only Grump survived; he devoured the body of Kana and grafted her head onto himself in the delirium of battle. Thus, they became one, the Twineater. [br/][br/]Lured to {GLOBAL.DuathaLoreConcept.Hyperlink}, Kana-Grump became the Disciple of Ventrogh in the Circle of Witherbloom, leading the Voracious Vermin. Those known to be the most ravenous inhabitants of the realm, insatiable creatures willing to devour even themselves under the orders of their gluttonous master. The rodent pest have eagerly taken up the task of hunting rebels beneath Duatha's surface. A place they call, in hungry whispers, Marrow Downs."
+msgstr "Kana and Grump were once two chieftains of the Blood Clan, distant, degenerate descendants of [hyperlink,GLOBAL.MyrridaLoreConcept]Myrrida's[/hyperlink] mighty [hyperlink,GLOBAL.GiantKingLoreConcept]Giant Kings[/hyperlink]. In a feud, the two rival tribes fought each other to extinction. Only Grump survived; he devoured the body of Kana and grafted her head onto himself in the delirium of battle. Thus, they became one, the Twineater. [br/][br/]Lured to {GLOBAL.DuathaLoreConcept.Hyperlink}, Kana-Grump became the Disciple of Ventrogh in the Circle of Witherbloom, leading the Voracious Vermin. Those known to be the most ravenous inhabitants of the realm, insatiable creatures willing to devour even themselves under the orders of their gluttonous master. The rodent pest have eagerly taken up the task of hunting rebels beneath Duatha's surface. A place they call, in hungry whispers, Marrow Downs."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@LORDS@DISCIPLE_SUMMER_RACE@NAME"
 msgstr "Voracious Vermin"
@@ -58754,7 +58766,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@MEGAWONDERS_STRATEGIC@LEVIATHAN_PARTS@LORE"
 msgstr "\"First, it brought the night. The light was eclipsed by its gargantuan shape, still veiled behind the overcast sky. Tentacles pierced the clouds, heralding the arrival of the beast. And then it fell. There was no sky—only the Leviathan. And its grotesque body, plunging like the end of all things.\"[br/][br/]— Sumuskira the Grovetender, Tales of the Elder: As cited by Reskar Scapeshaper"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@MEGAWONDERS_STRATEGIC@LEVIATHAN_PART_01@DESCRIPTION"
-msgstr "<<m:{GLOBAL.ProvinceConcept.Hyperlink}>> adjacent to this Landmark gain:[bulletlist][bullet/]{IntHappinessPenalty} {GLOBAL.CityStabilityConcept.Hyperlink} and {IntKnowledgeBonus} {GLOBAL.KnowledgeConcept.Hyperlink}.[bullet/]The {combatenchantment} {GLOBAL.CombatEnchantmentConcept.Hyperlink}.[/bulletlist][br/]A {GLOBAL.CityConcept.Hyperlink} with {amount} <<m:{GLOBAL.ProvinceConcept.Hyperlink}>> adjacent to this Landmark gains:[bulletlist][bullet/]{IntKnowledgeBonus2} {GLOBAL.KnowledgeConcept.Hyperlink}[bullet/]Allows recruitment of <<m:{GLOBAL.UNITS.ASTRAL_WISP_UNIT.Hyperlink}>>, <<m:{GLOBAL.UNITS.ASTRAL_SERPENT_UNIT.Hyperlink}>>, and <<m:{GLOBAL.UNITS.ASTRAL_SIPHONER_UNIT.Hyperlink}>>.[bullet/]On new round this Landmark is bound, putting it in a dormant state where its other adjacency effects are disabled.[/bulletlist]"
+msgstr "<<m:{GLOBAL.ProvinceConcept.Hyperlink}>> adjacent to this Landmark gain:[bulletlist][bullet/]{IntHappinessPenalty} {GLOBAL.CityStabilityConcept.Hyperlink} and {IntKnowledgeBonus} {GLOBAL.KnowledgeConcept.Hyperlink}.[bullet/]The {combatenchantment} {GLOBAL.CombatEnchantmentConcept.Hyperlink}.[/bulletlist][br/]A {GLOBAL.CityConcept.Hyperlink} with {amount} <<m:{GLOBAL.ProvinceConcept.Hyperlink}>> adjacent to this Landmark gains:[bulletlist][bullet/]{IntKnowledgeBonus2} {GLOBAL.KnowledgeConcept.Hyperlink}[bullet/]Allows recruitment of <<m:{GLOBAL.UNITS.ASTRAL_WISP_UNIT.Hyperlink}>>, <<m:{GLOBAL.UNITS.ASTRAL_SERPENT_UNIT.Hyperlink}>>, and <<m:{GLOBAL.UNITS.ASTRAL_SIPHONER_UNIT.Hyperlink}>>.[bullet/]On new turn, this Landmark is bound, putting it in a dormant state where its other adjacency effects are disabled.[/bulletlist]"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@MEGAWONDERS_STRATEGIC@LEVIATHAN_PART_01@NAME"
 msgstr "Leviathan Eyes^p"
@@ -59210,13 +59222,13 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@SECRET_SPELLS@05@NAME"
 msgstr "Frikka's Revelation"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@SECRET_SPELLS@06@DESCRIPTION"
-msgstr "Infuse target race with feline essence gaining:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink}[bullet/]+{YAKA'S_FELINE_INFUSION_EVASION>ResolvedAccuracyModifier}% {GLOBAL.EvasionConcept.Hyperlink} against {GLOBAL.RangedConcept.Hyperlink} attacks.[/bulletlist]"
+msgstr "Infuse target race with feline essence gaining:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink}[bullet/]+{YAKA'S_FELINE_INFUSION_EVASION>ResolvedAccuracyModifier}% {GLOBAL.EvasionConcept.Hyperlink} against {GLOBAL.RangedConcept.Hyperlink} and {GLOBAL.MagicConcept.Hyperlink} attacks.[/bulletlist]"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@SECRET_SPELLS@06@NAME"
 msgstr "Yaka's Feline Infusion"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@SECRET_SPELLS@06@PROP_DESCRIPTION"
-msgstr "Unit has:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink}[bullet/]+{YAKA'S_FELINE_INFUSION_EVASION>ResolvedAccuracyModifier}% {GLOBAL.EvasionConcept.Hyperlink} against {GLOBAL.RangedConcept.Hyperlink} attacks.[/bulletlist]"
+msgstr "Unit has:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink}[bullet/]+{YAKA'S_FELINE_INFUSION_EVASION>ResolvedAccuracyModifier}% {GLOBAL.EvasionConcept.Hyperlink} against {GLOBAL.RangedConcept.Hyperlink} and {GLOBAL.MagicConcept.Hyperlink} attacks.[/bulletlist]"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@SECRET_SPELLS@07@DESCRIPTION"
 msgstr "Target friendly city is destroyed. Then for each population of the destroyed city:[bulletlist][bullet/]Gain +{amount} {GLOBAL.KnowledgeConcept.Hyperlink}.[bullet/]Gain +{amount2} {GLOBAL.SoulConcept.Hyperlink}.[bullet/]Gain a random Skeleton unit.[bulletlist][bullet/]Each skeleton gained has a small chance of being a {GLOBAL.UNITS.CORRUPT_SOUL.Hyperlink} instead.[/bulletlist]"
@@ -60653,7 +60665,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1224_1803@BODY_HEADER@HERO_IS_PLAYE
 msgstr "You arrive at the structure, surrounded by shards of glass floating everywhere—like a labyrinth of broken mirrors."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1224_1803@BODY_LORE"
-msgstr "<<p:{EventHero}>> catches a strange movement out of the corner of <<o:{EventHero}>> eye. When <<p:{EventHero}>> turns, <<o:{EventHero}>> own reflection is looking at <<P:{EventHero}>> through one of the shattered fragments. An unsettling feeling washes over <<P:{EventHero}>>, as if something else was staring back from the other side of the mirror. And then... it is. <<Co:{EventHero}>> reflection begins to move on its own, advancing toward <<P:{EventHero}>> with menace."
+msgstr "<<Cp:{EventHero}>> catches a strange movement out of the corner of <<o:{EventHero}>> eye. When <<p:{EventHero}>> turns, <<o:{EventHero}>> own reflection is looking at <<P:{EventHero}>> through one of the shattered fragments. An unsettling feeling washes over <<P:{EventHero}>>, as if something else was staring back from the other side of the mirror. And then... it is. <<Co:{EventHero}>> reflection begins to move on its own, advancing toward <<P:{EventHero}>> with menace."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1224_1803@BODY_LORE@HERO_IS_CREATOR"
 msgstr "You catch a strange movement out of the corner of your eye. When you turn, your own reflection is looking at you through one of the shattered fragments. It feels as if something else was staring back from the other side of the mirror. And then... it is. Your reflection begins to move on its own, bowing to you."
@@ -60704,7 +60716,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1224_1804@BUTTON_0"
 msgstr "Absorb it [mana/], revealing the true form of the region."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1224_1804@BUTTON_2"
-msgstr "Conceal it, secret for yourself. [influence/]"
+msgstr "Conceal it, keep the secret for yourself. [influence/]"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1224_1804@BUTTON_4"
 msgstr "Redirect a piece to tame the surviving mimic."
@@ -60785,7 +60797,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1224_1806@TITLE"
 msgstr "Ysariel´s Solitude: Aftermath"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1224_1874@BODY_FOOTER"
-msgstr "The guardians of the isle remain vigilant, ensuring the structure does not fall into the wrong hands. If {eventHero} wishes to claim it, <<p:EventHero>> will have to defeat them."
+msgstr "The guardians of the isle remain vigilant, ensuring the structure does not fall into the wrong hands. If {EventHero} wishes to claim it, <<p:EventHero>> will have to defeat them."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1224_1874@BODY_FOOTER@HERO_IS_PLAYELEA"
 msgstr "The guardians of the isle remain vigilant, ensuring the structure does not fall into the wrong hands. If you wish to claim it, you will have to defeat them."
@@ -61022,7 +61034,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_1064@TITLE"
 msgstr "Balorboss Demands Sacrifice"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_1069@BODY_FOOTER"
-msgstr "\"Protect all the Chain Cities, my <<PlayerLeader{Brother/Sister}>>\" urges Ysariel. \"And do not besiege any of them. For, should they fall, then the chain they hold shall shatter...\""
+msgstr "\"Protect the Chain Cities, my <<PlayerLeader{Brother/Sister}>>\" urges Ysariel. \"At least one must hold! Though, do not besiege the others. For if the city is razed, its chain shall shatter...\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_1069@BODY_HEADER"
 msgstr "As you venture deeper into the Pit, a sight like no other enters your awareness: A gargantuan Hellion chained down in a Pit of eternal torment! Then, {Ysariel.FirstName} again reaches out to you."
@@ -61052,7 +61064,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_1070@TITLE"
 msgstr "TEMP TITLE"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_1089@BODY_FOOTER@ORDER_BOUND"
-msgstr "\"Protect all the Chain Cities,\" urges Ysariel. \"If you are still up to the task {GLOBAL.GodirLoreConcept.Hyperlink}... Dare not to besiege any of them! Lest it shatter their chain.\""
+msgstr "\"Protect the Chain Cities,\" urges Ysariel. \"If you are still up to the task {GLOBAL.GodirLoreConcept.Hyperlink}... \"At least one must hold! But don't besiege the others. For if the city is razed, its chain shall shatter...\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_1089@BUTTON_5"
 msgstr "\"I shall do this for the greater good [goodact/] of all.\""
@@ -62330,7 +62342,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_790@BODY_HEADER@YSARIEL_BOUND"
 msgstr "\"Oh, crud! You? Stand against me? [hyperlink,GLOBAL.DemonicOverlordLoreConcept]{Balorboss}[/hyperlink]? Get out of here! Go on, shoo!\" bellows {Balorboss}, before stopping with a hellish grunt. \"Wait. You are... actually... 'pactbound' to that brat, {Ysariel.FirstName}?\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_790@BODY_LORE"
-msgstr "\"Bwahahaha! You got guts, kiddo!\" grunts [hyperlink,GLOBAL.DemonicOverlordLoreConcept]{Balorboss}[/hyperlink]. \"I like guts in my flesh-bound minions. What say you, we make a little deal, eh? You sell me your wretched soul, and in return I shall grant you this {EventStructure} and the awesome Power of Balors! Which is mine to command! Me! For I am {Balorboss}, Demon Overlord of Overlords upon {GLOBAL.ObbadothLoreConcept.Hyperlink}, and Chiefest of all Evils!\""
+msgstr "\"Bwahahaha! You got guts, kiddo!\" grunts [hyperlink,GLOBAL.DemonicOverlordLoreConcept]{Balorboss}[/hyperlink]. \"I like guts in my flesh-bound minions. What say you, we make a little deal, eh? You sell me your wretched soul, and in return I shall grant you {EventStructure} and the awesome Power of Balors! Which is mine to command! Me! For I am {Balorboss}, Demon Overlord of Overlords upon {GLOBAL.ObbadothLoreConcept.Hyperlink}, and Chiefest of all Evils!\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_790@BODY_LORE@KARISSA_BOUND"
 msgstr "\"Bwahahaha! Oh I see,\" bellows [hyperlink,GLOBAL.DemonicOverlordLoreConcept]{Balorboss}[/hyperlink], \"You are cuckolded by my new nemesis, the [hyperlink,GLOBAL.EndailonLoreConcept]Chaos Endailon[/hyperlink]! And now you think yourself a real big-shot, eh? Well, his {Karissa.Title} may have ruined my {EventStructure}... and defeated that weakling {GLOBAL.DemonicPrinceLoreConcept.Hyperlink} who I assigned to it, earlier... and... and all: BUT I DON'T CARE!\""
@@ -62939,7 +62951,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1183@BODY_HEADER"
 msgstr "A shocked tear erupts from <<g:eyes^n,{EventPlayer.FirstName}>> as a single green sprout emerges from <<o:EventPlayer>> snout."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1183@BODY_LORE"
-msgstr "\"No, no, no,\" growls {EventPlayer.FirstName} as <<P:EventPlayer>> plucks the sprout away. But in an eyeblink, a dozen more pop from <<o:EventPlayer>> skin. {EventPlayer.FirstName} madly claws and tears as many sprouts off <<o:EventPlayer>> body as possible. But it is no good, for every sprout removed, a dozen more emerge, growing twice as fast as the previous."
+msgstr "\"No, no, no,\" growls {EventPlayer.FirstName} as <<p:EventPlayer>> plucks the sprout away. But in an eyeblink, a dozen more pop from <<o:EventPlayer>> skin. {EventPlayer.FirstName} madly claws and tears as many sprouts off <<o:EventPlayer>> body as possible. But it is no good, for every sprout removed, a dozen more emerge, growing twice as fast as the previous."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1183@BUTTON_0"
 msgstr "Take the magic compost to grow your crops. [food/]"
@@ -62969,25 +62981,25 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1185@BUTTON_1"
 msgstr "Grind this feather into a potent concoction. [mana/]"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1185@BUTTON_2"
-msgstr "Absorb this feather into the greater Astral aura. [astral/]"
+msgstr "Absorb this feather into the greater Astral aura. [arcana/]"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1185@TITLE"
 msgstr "<<ge:End^n,EventPlayer.FirstName>>"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1187@BODY_FOOTER"
-msgstr "Footer"
+msgstr "Thus, a thick mist pours out from the {EventStructure} that drowns all the realm and any {GLOBAL.PellariLoreConcept.Hyperlink} scrambling in panic before its swelling tide."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1187@BODY_HEADER"
-msgstr "Header"
+msgstr "\"{PlayerLeader.FirstName},\" the fading voice of {EventPlayer.FirstName} calls out to you, \"I fear... my fortune has run out.\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1187@BODY_LORE"
-msgstr "Lore"
+msgstr "Then, with a silent gasp, <<G:spirit^n,{EventPlayer.FirstName}>> appears dragged before the {EventStructure} and the eager attention of all the {GLOBAL.DuathadaeLoreConcept.Hyperlink} are drawn upon <<P:EventPlayer>>. \"Useful\" chime the four voices in chorus, as <<G:power^n,{EventPlayer.FirstName}>> is suddenly siphoned off <<o:EventPlayer>> helpless spirit with great intensity. \"F... flee!\" chokes {EventPlayer.FirstName}."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1187@BUTTON_0"
-msgstr "Oh no!"
+msgstr "\"The mission is lost...\""
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1187@TITLE"
-msgstr "WIP Ham Defeated Event"
+msgstr "Mist-Drowned Fortune"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1206@BODY_FOOTER"
 msgstr "As mists faded and clouds parted before the shimmering sun, a bright rainbow graced down upon the {EventStructure}. Thus, Pellari rejoiced; the Burrow Downs were saved, at last."
@@ -62996,7 +63008,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1206@BODY_HEADER"
 msgstr "In this way, the fearful {GLOBAL.DuathadaeLoreConcept.Hyperlink} were warded off and {EventPlayer} emerged before the reclaimed {EventStructure}."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1206@BODY_LORE"
-msgstr "All around the {EventStructure}, {GLOBAL.PellariLoreConcept.Hyperlink} and Fey alike raised songs of hope and warding as {EventPlayer.FirstName} scaled its steps. At its summit, <<p:EventPlayer>> emerged alongside {FeyGuideName} to channel [hyperlink,GLOBAL.DuathaLoreConcept]Duatha's dreaming spirit[/hyperlink] through the gifts of the {GLOBAL.GeassadaeLoreConcept.Hyperlink} to slowly unravel the realm's afflicted nightmare. Powerless against these mounting forces, the[hyperlink,GLOBAL.DuathadaeLoreConcept]Duathadae's servants[/hyperlink] dissipated like mists before the sun."
+msgstr "All around the {EventStructure}, {GLOBAL.PellariLoreConcept.Hyperlink} and Fey alike raised songs of hope and warding as {EventPlayer.FirstName} scaled its steps. At its summit, <<p:EventPlayer>> emerged alongside {FeyGuideName} to channel [hyperlink,GLOBAL.DuathaLoreConcept]Duatha's dreaming spirit[/hyperlink] through the gifts of the {GLOBAL.GeassadaeLoreConcept.Hyperlink} to slowly unravel the realm's afflicted nightmare. Powerless against these mounting forces, the [hyperlink,GLOBAL.DuathadaeLoreConcept]Duathadae's servants[/hyperlink] dissipated like mists before the sun."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1252_1206@BUTTON_0"
 msgstr "Rejoice!"
@@ -65156,10 +65168,10 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_REALM_MISSION_02@KARISSA_QUEST@CUSTOM_PRE
 msgstr "From now on, you can only declare war on any new {GLOBAL.EmpireConcept.Hyperlink} that you meet.[bulletlist][bullet/]For each {GLOBAL.EmpireConcept.Hyperlink} you declare war on, you gain +1 {GLOBAL.ChaosConcept.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_REALM_MISSION_02@KARISSA_QUEST@CUSTOM_PREDICTION@DESTROY_CHAINS"
-msgstr "You are tasked with razing and dismantling all five Chain Cities surrounding {EventRealm}.[bulletlist][bullet/]If any city is destroyed, its nearby chain will break.[bullet/]If all five chains are broken, the Hellion shall be unleashed![bulletlist/]"
+msgstr "You are tasked with razing and dismantling all five Chain Cities surrounding {EventRealm}.[bulletlist][bullet/]If any city is destroyed, its nearby chain will break.[bullet/]If all five chains are broken, the Hellion shall be unleashed![/bulletlist]"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_REALM_MISSION_02@KARISSA_QUEST@CUSTOM_PREDICTION@JOIN_KARISSA"
-msgstr "You join {Karissa} on her rampant crusade to destroy {EventRealm}.[bulletlist][bullet/]If Karissa is defeated, the mission is lost![bulletlist/]"
+msgstr "You join {Karissa} on her rampant crusade to destroy {EventRealm}.[bulletlist][bullet/]If Karissa is defeated, the mission is lost![/bulletlist]"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_REALM_MISSION_02@KARISSA_QUEST@CUSTOM_PREDICTION@KARISSA_TESTS_PLAYER"
 msgstr "{Karissa} playfully tests your devotion to Chaos...[bulletlist][bullet/]{Karissa.FirstName} will continue <<o:Karissa>> wild crusade for Chaos without you, for now.[bullet/]Failing this test will forfeit any chance of collaboration and initiate a solitary path of evil.[/bulletlist]"
@@ -65279,7 +65291,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_REALM_MISSION_02@QUEST_PROTECT_CHAINS@CHA
 msgstr "A Chain City has been destroyed, thus its nearby chain is irreparably broken!"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_REALM_MISSION_02@QUEST_PROTECT_CHAINS@OBJECTIVE_00_EXPLAINER"
-msgstr "Protect at least the Chain of Hatred."
+msgstr "At least the Chain of Hatred must be protected."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_REALM_MISSION_02@QUEST_PROTECT_CHAINS@OBJECTIVE_01"
 msgstr "Chain of Hatred: Protected"
@@ -65390,7 +65402,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_REALM_MISSION_02@VICTORY_TEXT"
 msgstr "You have triumphed in the Azh'Ruun Pit and changed Obbadoth forever."
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_REALM_MISSION_02@YSARIEL_QUEST@CUSTOM_PREDICTION@PROTECT_CHAINS"
-msgstr "You are tasked with protecting the Circle of Chain Cities surrounding {EventRealm}. [bulletlist][bullet/]If any city is destroyed, its nearby Chain will break.[bullet/]If the {EventStructure} is razed, the mission is lost![bullet/]If all five Chains are broken, the beast will escape and the mission is lost![bulletlist/]"
+msgstr "You are tasked with protecting the Circle of Chain Cities surrounding {EventRealm}. [bulletlist][bullet/]If any city is destroyed, its nearby chain will break.[bullet/]At least the {EventStructure} must remain protected, if it is razed, the mission is lost![/bulletlist]"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@STORY_REALM_MISSION_02@YSARIEL_QUEST@CUSTOM_PREDICTION_01@YSARIELBOUND"
 msgstr "You sign an Unbreakable Pact with {PactProposer}.[bulletlist][bullet/]{PactProposer.FirstName} can be called upon to aid you in moments of crisis.[bullet/]If {PactProposer.FirstName} is defeated, the mission is lost![/bulletlist]"
@@ -65453,13 +65465,13 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@TOME_ABJURATION@SKILL04@PROP_DESCRIPTION"
 msgstr "Unit has:[bulletlist][bullet/]{GLOBAL.PROPERTIES.BATTLE_SHIELD.Hyperlink}[/bulletlist]"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@TOME_ABJURATION@SKILL05@DESCRIPTION"
-msgstr "Enchanted units gain:[bulletlist][bullet/]+{MAGE_ARMOR_DEFENSE>DEF_MOD>Armor} {GLOBAL.DefenseConcept.Hyperlink}[/bulletlist]"
+msgstr "Enchanted units gain:[bulletlist][bullet/]+{MAGE_ARMOR_DEFENSE>DEF_MOD>Armor} {GLOBAL.DefenseConcept.Hyperlink}[bullet/]+{MAGE_ARMOR_RESISTANCE>Resistance} {GLOBAL.StatusResistanceConcept.Hyperlink}[/bulletlist]"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@TOME_ABJURATION@SKILL05@NAME"
 msgstr "Mage Armor"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@TOME_ABJURATION@SKILL05@PROP_DESCRIPTION"
-msgstr "Unit has:[bulletlist][bullet/]+{MAGE_ARMOR_DEFENSE>DEF_MOD>Armor} {GLOBAL.DefenseConcept.Hyperlink}.[/bulletlist]"
+msgstr "Unit has:[bulletlist][bullet/]+{MAGE_ARMOR_DEFENSE>DEF_MOD>Armor} {GLOBAL.DefenseConcept.Hyperlink}[bullet/]+{MAGE_ARMOR_RESISTANCE>Resistance} {GLOBAL.StatusResistanceConcept.Hyperlink}[/bulletlist]"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@TOME_ABJURATION@SKILL06@DESCRIPTION"
 msgstr "Target owned city or non-hostile free city:[bulletlist][bullet/]Gains +{amount} {GLOBAL.CityStabilityConcept.Hyperlink}.[bullet/]Gains +{amount2} {GLOBAL.FortificationHealthConcept.Hyperlink} if not under siege.[bullet/]If targeting a free city with an owned {GLOBAL.DiplomaticTokenConcept.Hyperlink}, gain +{amount3} {GLOBAL.HouseInfluenceConcept.Hyperlink} per turn."
@@ -65468,7 +65480,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@TOME_ABJURATION@SKILL06@NAME"
 msgstr "City Wards"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@TOME_ABJURATION@SPI@DESCRIPTION"
-msgstr "[bulletlist][bullet/]+{amount} {GLOBAL.CityStabilityConcept.Hyperlink}[bullet/]Per adjacent {GLOBAL.ConduitConcept.Hyperlink}:[bulletlist][bullet/]+{amount2} {GLOBAL.CityStabilityConcept.Hyperlink}[bullet/]+{amount3} {GLOBAL.FortificationHealthConcept.Hyperlink}[/bulletlist][bullet/]Counts as a {GLOBAL.ConduitConcept.Hyperlink}[/bulletlist]"
+msgstr "[bulletlist][bullet/]+{amount} {GLOBAL.CityStabilityConcept.Hyperlink}[bullet/]+{amount4} {GLOBAL.UnitProductionConcept.Hyperlink}[bullet/]Per adjacent {GLOBAL.ConduitConcept.Hyperlink} or {GLOBAL.ResearchPostConcept.Hyperlink}:[bulletlist][bullet/]+{amount2} {GLOBAL.CityStabilityConcept.Hyperlink}[bullet/]+{amount3} {GLOBAL.FortificationHealthConcept.Hyperlink}[/bulletlist][bullet/]Counts as a {GLOBAL.ConduitConcept.Hyperlink}[/bulletlist]"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@TOME_ABJURATION@SPI@NAME"
 msgstr "[conduit/] Glyph Tower"
@@ -65507,7 +65519,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@TOME_BURNING_PASSION@SKILL03@PROP_DESCRIPTION"
 msgstr "Unit has:[bulletlist][bullet/]{GLOBAL.PROPERTIES.BLAZING_AURA.Hyperlink}[/bulletlist]"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@TOME_BURNING_PASSION@SKILL04@DESCRIPTION"
-msgstr "Enchanted unit's base attacks gain:[bulletlist][bullet/]A base {STRENGTH_SAPPING_PROJECTILES_RESISTANCE>ResolvedStrength}% chance of inflicting {GLOBAL.PROPERTIES.WEAKENED.Hyperlink} for {WEAKENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>. On success gain {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink} for {STRENGTHENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+msgstr "Enchanted units attacks gain:[bulletlist][bullet/]+{STRENGTH_SAPPING_PROJECTILES_EXTRA_DAMAGE>DAMAGE>Fire} {GLOBAL.FireDamageConcept.Hyperlink}.[bullet/]Base attacks have a base {STRENGTH_SAPPING_PROJECTILES_RESISTANCE>ResolvedStrength}% chance of inflicting {GLOBAL.PROPERTIES.WEAKENED.Hyperlink} for {WEAKENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>. On success gain {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink} for {STRENGTHENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@TOME_BURNING_PASSION@SKILL04@MODIFIER_DESCRIPTION"
 msgstr "Base {STRENGTH_SAPPING_PROJECTILES_RESISTANCE>ResolvedStrength}% chance of inflicting {GLOBAL.PROPERTIES.WEAKENED.Hyperlink} for {WEAKENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>. On a success gain {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink} for {STRENGTHENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>."
@@ -65516,7 +65528,7 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@TOME_BURNING_PASSION@SKILL04@NAME"
 msgstr "Strength Sapping Imbuement"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@TOME_BURNING_PASSION@SKILL04@PROP_DESCRIPTION"
-msgstr "Unit's base attacks have:[bulletlist][bullet/]A base {STRENGTH_SAPPING_PROJECTILES_RESISTANCE>ResolvedStrength}% chance of inflicting {GLOBAL.PROPERTIES.WEAKENED.Hyperlink} for {WEAKENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>. On success gain {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink} for {STRENGTHENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+msgstr "Unit's attacks:[bulletlist][bullet/]+{STRENGTH_SAPPING_PROJECTILES_EXTRA_DAMAGE>DAMAGE>Fire} {GLOBAL.FireDamageConcept.Hyperlink}.[bullet/]Base attacks have a base {STRENGTH_SAPPING_PROJECTILES_RESISTANCE>ResolvedStrength}% chance of inflicting {GLOBAL.PROPERTIES.WEAKENED.Hyperlink} for {WEAKENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>. On success gain {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink} for {STRENGTHENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@TOME_BURNING_PASSION@SKILL05@DESCRIPTION"
 msgstr "Target friendly unit gains:[bulletlist][bullet/]{GLOBAL.PROPERTIES.BERSERK.Hyperlink} for {THRILL_OF_COMBAT_STATUS_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]{amount} {GLOBAL.PROPERTIES.INFERNAL_MIGHT.Hyperlink} for {INFERNAL_BLAZE_DESCRIPTION>NumTurns}<<m:{GLOBAL.TurnConcept}>>.[/bulletlist]"
@@ -76957,13 +76969,13 @@ msgid "DLC@WAYSOFWAR@TOME_SHADES@SHADOW_BLADES@DAMAGE_MODIFIER_DESCRIPTION"
 msgstr "+{SHADOW_BLADES_DAMAGE_MULTIPLIER>ResolvedMultiplier}% damage against target's that are {GLOBAL.PROPERTIES.BLINDED.Hyperlink}."
 
 msgid "DLC@WAYSOFWAR@TOME_SHADES@SHADOW_BLADES@DESCRIPTION"
-msgstr "Makes attacks of enchanted units:[bulletlist][bullet/]Deal +{SHADOW_BLADES_EXTRA_DAMAGE>DAMAGE>Frost}{GLOBAL.FrostDamageConcept.Hyperlink} when {GLOBAL.FlankingConcept.Hyperlink}.[bullet/]Always flank {GLOBAL.PROPERTIES.BLINDED.Hyperlink} units.[/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+msgstr "Attacks of enchanted units:[bulletlist][bullet/]Deal +{SHADOW_BLADES_EXTRA_DAMAGE>DAMAGE>Frost}{GLOBAL.FrostDamageConcept.Hyperlink} when {GLOBAL.FlankingConcept.Hyperlink} or attacking {GLOBAL.PROPERTIES.BLINDED.Hyperlink} units.[/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
 
 msgid "DLC@WAYSOFWAR@TOME_SHADES@SHADOW_BLADES@NAME"
 msgstr "Shadow Weapons"
 
 msgid "DLC@WAYSOFWAR@TOME_SHADES@SHADOW_BLADES@PROPERTY_DESCRIPTION"
-msgstr "This unit's attacks:[bulletlist][bullet/]Deal +{SHADOW_BLADES_EXTRA_DAMAGE>DAMAGE>Frost}{GLOBAL.FrostDamageConcept.Hyperlink} when {GLOBAL.FlankingConcept.Hyperlink}.[bullet/]Always flank {GLOBAL.PROPERTIES.BLINDED.Hyperlink} units.[/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+msgstr "This unit's attacks:[bulletlist][bullet/]Deal +{SHADOW_BLADES_EXTRA_DAMAGE>DAMAGE>Frost}{GLOBAL.FrostDamageConcept.Hyperlink} when {GLOBAL.FlankingConcept.Hyperlink} or attacking {GLOBAL.PROPERTIES.BLINDED.Hyperlink} units.[/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
 
 msgid "DLC@WAYSOFWAR@TOME_SHADES@SHADOW_BLESSED@DESCRIPTION"
 msgstr "Wreathes target race in swirling shadows, granting them:[bulletlist][bullet/]+{SHADOW_BLESSED_EVASION>ResolvedAccuracyModifier}% {GLOBAL.EvasionConcept.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.ELUSIVE.Hyperlink}.[bullet/]When this unit's <<m:{GLOBAL.HitPointConcept.Hyperlink}>> drop below {LIVING_SHADOWS_THRESHOLD>ResolvedTriggerProportion}%:[bulletlist][bullet/]It becomes {GLOBAL.PROPERTIES.OBSCURED.Hyperlink} for {LIVING_SHADOWS_OBSCURED>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[bullet/]Adjacent enemies have a base {BLINDED_RESISTANCE>ResolvedStrength}% chance of becoming {GLOBAL.PROPERTIES.BLINDED.Hyperlink} for {BLINDED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist][/bulletlist]"
@@ -77421,6 +77433,87 @@ msgstr "Purging Staff"
 msgid "DLC@WAYSOFWAR@WEAPON@OATHSWORN_SWORD"
 msgstr "Sword^n"
 
+msgid "DLC@WITCHOFTHEWAVES@DISPLAYDESCRIPTION"
+msgstr "Take dominion over the primal forces of the ocean with the Age of Wonders 4: Singer of Storms pack. Traverse the screaming winds upon your loyal Seamare, and master the tempest's fury to prove your dominance!"
+
+msgid "DLC@WITCHOFTHEWAVES@DISPLAYNAME"
+msgstr "Age of Wonders 4: Singer of Storms"
+
+msgid "DLC@WITCHOFTHEWAVES@FORM_TRAITS@STORM_SEAMARE_MOUNTS@BIO"
+msgstr "They descend upon the sea like an oncoming tempest, mounted on Storm Seamares."
+
+msgid "DLC@WITCHOFTHEWAVES@FORM_TRAITS@STORM_SEAMARE_MOUNTS@EFEFCT_01@DESCRIPTION"
+msgstr "Ruler starts with a Storm Seamare Mount."
+
+msgid "DLC@WITCHOFTHEWAVES@FORM_TRAITS@STORM_SEAMARE_MOUNTS@EFEFCT_02@DESCRIPTION"
+msgstr "Gain {GLOBAL.PROPERTIES.AMPHIBIOUS_MOVEMENT.Hyperlink} movement."
+
+msgid "DLC@WITCHOFTHEWAVES@FORM_TRAITS@STORM_SEAMARE_MOUNTS@LORE"
+msgstr "[helpcolor]Mounted units are more common and gain a Storm Seamare mount.[/helpcolor]"
+
+msgid "DLC@WITCHOFTHEWAVES@FORM_TRAITS@STORM_SEAMARE_MOUNTS@NAME"
+msgstr "Storm Seamare Mounts"
+
+msgid "DLC@WITCHOFTHEWAVES@LORDS_FIRSTNAME_1@NAME"
+msgstr "Mael^F"
+
+msgid "DLC@WITCHOFTHEWAVES@MOUNT@DESCRIPTION"
+msgstr "Unit has:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink}[bullet/]The {GLOBAL.PROPERTIES.CAVALRY_GROUP.Hyperlink} unit type[bullet/]{GLOBAL.PROPERTIES.AMPHIBIOUS_MOVEMENT.Hyperlink} Movement[bullet/]{GLOBAL.PROPERTIES.SLIPPERY.Hyperlink}[bullet/]+{amount1} {GLOBAL.LightningResistanceConcept.Hyperlink}[bullet/]+{amount2} {GLOBAL.FrostResistanceConcept.Hyperlink}[/bulletlist]"
+
+msgid "DLC@WITCHOFTHEWAVES@MOUNT@NAME"
+msgstr "Storm Seamare Mount^n"
+
+msgid "DLC@WITCHOFTHEWAVES@ORBS@NAME"
+msgstr "Tempest Orb^n"
+
+msgid "DLC@WITCHOFTHEWAVES@RACE1@CITY@NAME_1"
+msgstr "Billow Cove^N"
+
+msgid "DLC@WITCHOFTHEWAVES@RACE1@CITY@NAME_2"
+msgstr "Tempest's Cathedral^N"
+
+msgid "DLC@WITCHOFTHEWAVES@RACE1@CITY@NAME_3"
+msgstr "Thunderfugue^N"
+
+msgid "DLC@WITCHOFTHEWAVES@RACETRAITS_WORLD@TRAIT@BIO"
+msgstr "Their society knows how to pull power and secrets from the watery depths."
+
+msgid "DLC@WITCHOFTHEWAVES@RACETRAITS_WORLD@TRAIT@EFFECT01@DESCRIPTION"
+msgstr "{GLOBAL.RiverConcept.Hyperlink}, {GLOBAL.CoastConcept.Hyperlink}, and {GLOBAL.UndergroundWaterConcept.Hyperlink} provinces grant +{amount} {GLOBAL.FoodConcept.Hyperlink} +{amount1} {GLOBAL.ManaConcept.Hyperlink} and +{amount2} {GLOBAL.KnowledgeConcept.Hyperlink}."
+
+msgid "DLC@WITCHOFTHEWAVES@RACETRAITS_WORLD@TRAIT@EFFECT02@DESCRIPTION"
+msgstr "At the start of water combat, a random water themed unit joins you in battle.[bulletlist][bullet/]Tier of the unit is based on the {GLOBAL.ThroneCityConcept.Hyperlink} tier.[/bulletlist]"
+
+msgid "DLC@WITCHOFTHEWAVES@RACETRAITS_WORLD@TRAIT@EFFECT03@DESCRIPTION"
+msgstr "Enables drafting of various water themed units in cities."
+
+msgid "DLC@WITCHOFTHEWAVES@RACETRAITS_WORLD@TRAIT@LORE"
+msgstr "Their society knows how to pull power and secrets from the watery depths."
+
+msgid "DLC@WITCHOFTHEWAVES@RACETRAITS_WORLD@TRAIT@NAME"
+msgstr "Tidecallers"
+
+msgid "DLC@WITCHOFTHEWAVES@RACE_BIO_1"
+msgstr "Her mother was the ocean, her father the storm. Mael was born from the fury of a tempest, there where the sea meets the sky. Sailors swear she is the voice that follows the lightning, the Singer of Storms. And so they chant her song when black clouds darken their sails, praying for her mercy.[br/][br/]If you have ever crossed the sea, you have heard the tale of those who ride the waves, belting out the oncoming storm. The story of a civilization who harmonize and magically amplify their voices to sing with the tempest—or to summon it. Some even say that this is why the primordial appears in the likeness of an Elf, drawn by the devotion of the Storm Choir."
+
+msgid "DLC@WITCHOFTHEWAVES@RACE_NAMES@RACE1@NAME"
+msgstr "Choristers of the Storm"
+
+msgid "DLC@WITCHOFTHEWAVES@TEMPESTS_CHORUS@COMBAT_DESCRIPTION"
+msgstr "When an enemy unit gains {GLOBAL.PROPERTIES.ELECTRIFIED.Hyperlink}, they sustain an extra {TEMPESTS_CHORUS_DAMAGE>DAMAGE>Shock} {GLOBAL.LightningDamageConcept.Hyperlink}."
+
+msgid "DLC@WITCHOFTHEWAVES@TEMPESTS_CHORUS@DESCRIPTION"
+msgstr "When an enemy unit gains {GLOBAL.PROPERTIES.ELECTRIFIED.Hyperlink}, they sustain an extra {TEMPESTS_CHORUS_DAMAGE>DAMAGE>Shock} {GLOBAL.LightningDamageConcept.Hyperlink}.[br/][br/]Removed if this unit leaves the battle."
+
+msgid "DLC@WITCHOFTHEWAVES@TEMPESTS_CHORUS@NAME"
+msgstr "Tempest's Chorus"
+
+msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
+msgstr "@@@@@@@@@@@@@@@@"
+
+msgid "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
+msgstr "@@"
+
 msgid "EEVENT@RANDOMNAME@PETS_MATERIUM_1@NAME"
 msgstr "Brick^M"
 
@@ -77677,7 +77770,7 @@ msgid "EMPIRE_DEVELOPMENT@ASTRAL@TELEPORTATION_MASTERY@NAME"
 msgstr "Teleportation Mastery"
 
 msgid "EMPIRE_DEVELOPMENT@ASTRAL@TOWER_OF_ENLIGHTENMENT@DESCRIPTION"
-msgstr "Each {GLOBAL.WizardTowerConcept.Hyperlink} Upgrade grants {stability} {GLOBAL.CityStabilityConcept.Hyperlink} and {mana} {GLOBAL.ManaConcept.Hyperlink}.[br/][br/]For Elder Vampires, Vampire Castle upgrades grant this bonus instead."
+msgstr "All {GLOBAL.WizardTowerConcept.Hyperlink} <<m:{GLOBAL.CityStructureConcept.Hyperlink}>> grant {stability} {GLOBAL.CityStabilityConcept.Hyperlink}, {food} {GLOBAL.FoodConcept.Hyperlink}, and {knowledge} {GLOBAL.KnowledgeConcept.Hyperlink} income.[br/][br/]For Elder Vampires, Vampire Castle upgrades grant this bonus instead."
 
 msgid "EMPIRE_DEVELOPMENT@ASTRAL@TOWER_OF_ENLIGHTENMENT@NAME"
 msgstr "Tower of Enlightenment"
@@ -77708,6 +77801,12 @@ msgstr "<<m:{GLOBAL.PROPERTIES.BATTLE_MAGE.Hyperlink}>> and <<m:{GLOBAL.PROPERTI
 
 msgid "EMPIRE_DEVELOPMENT@ASTRAL@WARCASTER_ACADEMIES@NAME"
 msgstr "Warcaster Academies"
+
+msgid "EMPIRE_DEVELOPMENT@CHAOS@ASPIRE_TO_GLORY@DESCRIPTION"
+msgstr "Your non-{GLOBAL.PROPERTIES.HERO.Hyperlink} <<m:{GLOBAL.UnitConcept.Hyperlink}>> gain {critchance} {GLOBAL.CriticalHitChanceConcept.Hyperlink} on their attacks per Rank of the target higher than themselves, to a maximum of {maximumpercentage}."
+
+msgid "EMPIRE_DEVELOPMENT@CHAOS@ASPIRE_TO_GLORY@NAME"
+msgstr "Aspire to Glory"
 
 msgid "EMPIRE_DEVELOPMENT@CHAOS@BATTLEFIELD_LOOTING@DESCRIPTION"
 msgstr "Gain {GoldIncome} {GLOBAL.GoldConcept.Hyperlink} per [hyperlink,GLOBAL.UnitTierConcept]Unit Tier[/Hyperlink] of the <<m:{GLOBAL.UnitConcept.Hyperlink}>> killed in {GLOBAL.CombatConcept.Hyperlink}."
@@ -77826,6 +77925,12 @@ msgstr "Reign of Destruction"
 msgid "EMPIRE_DEVELOPMENT@CHAOS@REQUIREMENT"
 msgstr "[empirechaos/]"
 
+msgid "EMPIRE_DEVELOPMENT@CHAOS@RESILIENT_HORDES@NAME"
+msgstr "Resilient Hordes"
+
+msgid "EMPIRE_DEVELOPMENT@CHAOS@RESLIENT_HORDES@DESCRIPTION"
+msgstr "Your Tier 1 <<m:{GLOBAL.UnitConcept.Hyperlink}>> gain {hpbonus} maximum <<m:{GLOBAL.HitPointConcept.Hyperlink}>>, {defensebonus} {GLOBAL.DefenseConcept.Hyperlink}, and {GLOBAL.ResistanceConcept.Hyperlink}.[br/]Your Tier 2 <<m:{GLOBAL.UnitConcept.Hyperlink}>> gain {hpbonus2} maximum <<m:{GLOBAL.HitPointConcept.Hyperlink}>>, {defensebonus2} {GLOBAL.DefenseConcept.Hyperlink}, and {GLOBAL.ResistanceConcept.Hyperlink}."
+
 msgid "EMPIRE_DEVELOPMENT@CHAOS@RITE_OF_CHOSEN_WARRIORS@DESCRIPTION"
 msgstr "Your <<m:{GLOBAL.UnitConcept.Hyperlink}>> all immediately gain enough {GLOBAL.ExperienceConcept.Hyperlink} to level up.[br/][br/]Does not affect <<m:{GLOBAL.HeroConcept.Hyperlink}>> and units above [medalPlatinum/]Legendary rank."
 
@@ -77860,7 +77965,7 @@ msgid "EMPIRE_DEVELOPMENT@CHAOS@RITE_OF_WAR@NAME"
 msgstr "Rite of War"
 
 msgid "EMPIRE_DEVELOPMENT@CHAOS@SPECIALIZED_TROOPS@DESCRIPTION"
-msgstr "{GLOBAL.ResearchConcept.Hyperlink} skills that unlock <<m:{GLOBAL.UnitConcept.Hyperlink}>> cost {discountPercentage} {GLOBAL.KnowledgeConcept.Hyperlink}."
+msgstr "{GLOBAL.UnitConcept.Hyperlink} {GLOBAL.ResearchConcept.Hyperlink} skills cost {discountPercentage} {GLOBAL.KnowledgeConcept.Hyperlink}.[br/]<<m:{GLOBAL.UnitConcept.Hyperlink}>> unlocked through {GLOBAL.ResearchConcept.Hyperlink} cost {goldpercentage} {GLOBAL.GoldConcept.Hyperlink} to draft in your <<m:{GLOBAL.CityConcept.Hyperlink}>>."
 
 msgid "EMPIRE_DEVELOPMENT@CHAOS@SPECIALIZED_TROOPS@NAME"
 msgstr "Specialized Troops"
@@ -78082,7 +78187,7 @@ msgid "EMPIRE_DEVELOPMENT@MATERIUM@FORMULA_ARCHIVES@NAME"
 msgstr "Formula Archives"
 
 msgid "EMPIRE_DEVELOPMENT@MATERIUM@GROWING_WORKFORCE@DESCRIPTION"
-msgstr "<<m:{GLOBAL.QuarryConcept.Hyperlink}>> grant {foodIncome} {GLOBAL.FoodConcept.Hyperlink} income."
+msgstr "<<m:{GLOBAL.QuarryConcept.Hyperlink}>> grant {foodIncome} {GLOBAL.FoodConcept.Hyperlink} and {stabilityincome} {GLOBAL.CityStabilityConcept.Hyperlink} income."
 
 msgid "EMPIRE_DEVELOPMENT@MATERIUM@GROWING_WORKFORCE@NAME"
 msgstr "Growing Workforce"
@@ -78148,7 +78253,7 @@ msgid "EMPIRE_DEVELOPMENT@MATERIUM@MASTER_MASONS@NAME"
 msgstr "Master Masons"
 
 msgid "EMPIRE_DEVELOPMENT@MATERIUM@METROPOLITAN_PLANS@DESCRIPTION"
-msgstr "Skills that unlock <<m:{GLOBAL.CitySpellConcept.Hyperlink}>> and <<m:{GLOBAL.CityStructureConcept.Hyperlink}>> cost {discount} {GLOBAL.KnowledgeConcept.Hyperlink}."
+msgstr "<<m:{GLOBAL.CitySpellConcept.Hyperlink}>> and <<m:{GLOBAL.CityStructureConcept.Hyperlink}>> {GLOBAL.ResearchConcept.Hyperlink} cost {discount} {GLOBAL.KnowledgeConcept.Hyperlink}.[br/]<<m:{GLOBAL.CityStructureConcept.Hyperlink}>> unlocked through {GLOBAL.ResearchConcept.Hyperlink} cost {golddiscount} {GLOBAL.GoldConcept.Hyperlink} to build."
 
 msgid "EMPIRE_DEVELOPMENT@MATERIUM@METROPOLITAN_PLANS@NAME"
 msgstr "Metropolitan Plans"
@@ -78415,7 +78520,7 @@ msgid "EMPIRE_DEVELOPMENT@NATURE@RITE_EXPANSIVE_GROWTH@NAME"
 msgstr "Rite of Expansive Growth"
 
 msgid "EMPIRE_DEVELOPMENT@NATURE@RITE_OF_AWAKENING@DESCRIPTION"
-msgstr "Instantly gain {ResearchBonus}{GLOBAL.KnowledgeConcept.Hyperlink} and {ManaBonus}{GLOBAL.ManaConcept.Hyperlink} for each {GLOBAL.PopulationConcept.Hyperlink} in your empire's <<m:{GLOBAL.CityConcept.Hyperlink}>>."
+msgstr "Instantly gain {ResearchBonus}{GLOBAL.KnowledgeConcept.Hyperlink}, {ManaBonus}{GLOBAL.ManaConcept.Hyperlink}, and {GoldBonus}{GLOBAL.GoldConcept.Hyperlink} for each {GLOBAL.PopulationConcept.Hyperlink} in your empire's <<m:{GLOBAL.CityConcept.Hyperlink}>>."
 
 msgid "EMPIRE_DEVELOPMENT@NATURE@RITE_OF_AWAKENING@NAME"
 msgstr "Rite of Awakening"
@@ -78423,11 +78528,23 @@ msgstr "Rite of Awakening"
 msgid "EMPIRE_DEVELOPMENT@NATURE@RITE_OF_EXPANSIVE_GROWTH@NAME"
 msgstr "Rite of Expansive Growth"
 
+msgid "EMPIRE_DEVELOPMENT@NATURE@RITE_OF_NATURES_GUARDIANS@ANIMAL_GUARDIAN@DESCRIPTION"
+msgstr "All other friendly {GLOBAL.PROPERTIES.ANIMAL.Hyperlink} <<m:{GLOBAL.UnitConcept.Hyperlink}>> in the {GLOBAL.ArmyConcept.Hyperlink} gain {defensebonus} {GLOBAL.DefenseConcept.Hyperlink} and {GLOBAL.ResistanceConcept.Hyperlink}."
+
+msgid "EMPIRE_DEVELOPMENT@NATURE@RITE_OF_NATURES_GUARDIANS@ANIMAL_GUARDIAN@NAME"
+msgstr "Animal Guardian"
+
 msgid "EMPIRE_DEVELOPMENT@NATURE@RITE_OF_NATURES_GUARDIANS@DESCRIPTION"
-msgstr "Immediately summon an army of {GLOBAL.PROPERTIES.ANIMAL.Hyperlink} and {GLOBAL.PROPERTIES.PLANT.Hyperlink} units at each of your <<m:{GLOBAL.CityConcept.Hyperlink}>>."
+msgstr "Immediately summon a {GLOBAL.UNITS.WHITE_WOLF.Hyperlink} with {GLOBAL.PROPERTIES.RESURGENCE.Hyperlink} and {GLOBAL.PROPERTIES.ANIMAL_GUARDIAN.Hyperlink} and an {GLOBAL.UNITS.ENTWINED_SCOURGE_UNIT.Hyperlink} with {GLOBAL.PROPERTIES.RESURGENCE.Hyperlink} and {GLOBAL.PROPERTIES.PLANT_GUARDIAN.Hyperlink} in your {GLOBAL.ThroneCityConcept.Hyperlink}."
 
 msgid "EMPIRE_DEVELOPMENT@NATURE@RITE_OF_NATURES_GUARDIANS@NAME"
 msgstr "Rite of Nature's Guardians"
+
+msgid "EMPIRE_DEVELOPMENT@NATURE@RITE_OF_NATURES_GUARDIANS@PLANT_GUARDIAN@DESCRIPTION"
+msgstr "All other friendly {GLOBAL.PROPERTIES.PLANT.Hyperlink} <<m:{GLOBAL.UnitConcept.Hyperlink}>> in the {GLOBAL.ArmyConcept.Hyperlink} gain {defensebonus} {GLOBAL.DefenseConcept.Hyperlink} and {GLOBAL.ResistanceConcept.Hyperlink}."
+
+msgid "EMPIRE_DEVELOPMENT@NATURE@RITE_OF_NATURES_GUARDIANS@PLANT_GUARDIAN@NAME"
+msgstr "Plant Guardian"
 
 msgid "EMPIRE_DEVELOPMENT@NATURE@RITE_OF_THE_GUARDIAN_SPIRIT@DESCRIPTION"
 msgstr "Immediately summon a {GLOBAL.UNITS.SPIRIT_WOLF.Hyperlink} with {GLOBAL.PROPERTIES.GUARDIAN_SPIRIT.Hyperlink} and {GLOBAL.PROPERTIES.RESURGENCE.Hyperlink} at your {GLOBAL.ThroneCityConcept.Hyperlink}."
@@ -78466,7 +78583,7 @@ msgid "EMPIRE_DEVELOPMENT@NATURE@SPIRIT_WISDOM@NAME"
 msgstr "Spirit Wisdom"
 
 msgid "EMPIRE_DEVELOPMENT@NATURE@SYMBIOTIC_ARMIES@DESCRIPTION"
-msgstr "Your non-Racial units gain {hitpointAmount}{GLOBAL.HitPointConcept.Hyperlink} and {moraleAmount}{GLOBAL.UnitMoraleConcept.Hyperlink} for each Racial unit in the same army."
+msgstr "Your non-Racial <<m:{GLOBAL.UnitConcept.Hyperlink}>> gain {hitpointAmount}{GLOBAL.HitPointConcept.Hyperlink} and {xpAmount}{GLOBAL.ExperienceConcept.Hyperlink} per {GLOBAL.TurnConcept.Hyperlink} for each Racial Unit in the same {GLOBAL.ArmyConcept.Hyperlink}."
 
 msgid "EMPIRE_DEVELOPMENT@NATURE@SYMBIOTIC_ARMIES@NAME"
 msgstr "Symbiotic Armies"
@@ -78491,6 +78608,15 @@ msgstr "The maximum {GLOBAL.PopulationConcept.Hyperlink} of your cities is raise
 
 msgid "EMPIRE_DEVELOPMENT@NATURE@VAST_GATHERINGS@NAME"
 msgstr "Vast Gatherings"
+
+msgid "EMPIRE_DEVELOPMENT@NATURE@WELLSUPPLIED@DESCRIPTION"
+msgstr "Your <<m:{GLOBAL.UnitConcept.Hyperlink}>> gain {GLOBAL.PROPERTIES.WELL_SUPPLIED.Hyperlink} at the start of their {GLOBAL.TurnConcept.Hyperlink} in the {GLOBAL.WorldMapConcept.Hyperlink} if they are within your {GLOBAL.DomainConcept.Hyperlink}, which lasts for {turn} [turn/] Turns outside of your Domain."
+
+msgid "EMPIRE_DEVELOPMENT@NATURE@WELLSUPPLIED@NAME"
+msgstr "Well Supplied"
+
+msgid "EMPIRE_DEVELOPMENT@NATURE@WELLSUPPLIED@PROPERTY_DESCRIPTION"
+msgstr "This unit has:[bulletlist][bullet/]{hp} Maximum <<m:{GLOBAL.HitPointConcept.Hyperlink}>>.[bullet/]{healingpercentage} healing received in {GLOBAL.CombatConcept.Hyperlink}.[/bulletlist]"
 
 msgid "EMPIRE_DEVELOPMENT@NATURE@WILD_EXPANSION@DESCRIPTION"
 msgstr "Whenever one of your <<m:{GLOBAL.CityConcept.Hyperlink}>> gains {GLOBAL.PopulationConcept.Name}, it summons an {GLOBAL.PROPERTIES.ANIMAL.Hyperlink} {GLOBAL.UnitConcept.Hyperlink} under your control, depending on the city's province."
@@ -78718,7 +78844,7 @@ msgid "EMPIRE_DEVELOPMENT@ORDER@RITE_OF_WEALTH@NAME"
 msgstr "Rite of Wealth"
 
 msgid "EMPIRE_DEVELOPMENT@ORDER@SHARED_PROSPERITY@DESCRIPTION"
-msgstr "{GLOBAL.GoldConcept.Hyperlink} <<m:{GLOBAL.CityStructureConcept.Hyperlink}>> grant {stabilityAmount} {GLOBAL.CityStabilityConcept.Hyperlink} income."
+msgstr "{GLOBAL.GoldConcept.Hyperlink} <<m:{GLOBAL.CityStructureConcept.Hyperlink}>> grant {stabilityAmount} {GLOBAL.CityStabilityConcept.Hyperlink} and {productionAmount} {GLOBAL.StructureProductionConcept.Hyperlink} income."
 
 msgid "EMPIRE_DEVELOPMENT@ORDER@SHARED_PROSPERITY@NAME"
 msgstr "Shared Prosperity"
@@ -83499,6 +83625,9 @@ msgstr "Domination"
 msgid "HERO_ITEM@EAGLE_BOW@NAME"
 msgstr "Eagle Bow^n"
 
+msgid "HERO_ITEM@FLYING_BROOM@NAME"
+msgstr "Flying Broom"
+
 msgid "HERO_ITEM@FORGED_BY@CREATOR"
 msgstr "Forged by {Creator}."
 
@@ -86164,7 +86293,7 @@ msgid "HERO_SKILLS@WARLOCK@CHAOS_MAGIC_SINGEL@DESCRIPTION"
 msgstr "Magic attacks:[bulletlist][bullet/]Inflict +{CHAOS_MAGIC_EXTRA_DAMAGE>DAMAGE>Blight} {GLOBAL.BlightDamageConcept.Hyperlink} damage per {GLOBAL.NegativeStatusEffectConcept.Hyperlink} on target[/bulletlist]"
 
 msgid "HERO_SKILLS@WARLOCK@CLAIM_SOUL@DESCRIPTION"
-msgstr "Deals damage to target unit."
+msgstr "Deals damage to target unit, ignoring Resistance."
 
 msgid "HERO_SKILLS@WARLOCK@CLAIM_SOUL@MODIFIER_DESCRIPTION"
 msgstr "[bulletlist][bullet/]Heal caster for {CLAIM_SOUL_HEAL>NumHitpointsToRestore} {GLOBAL.TemporaryHitPointConcept.Hyperlink}.[bullet/]Target non-hero unit is immediately revived as a {GLOBAL.WightbornConcept.Hyperlink} on the caster's side until the end of combat.[bullet/]Caster Refreshes all ability cooldowns.[/bulletlist]"
@@ -100693,6 +100822,9 @@ msgstr "Requires any of:"
 msgid "INTERFACE@TEXT@REQUIRES_CITY_TIER"
 msgstr "Recruitable in cities with Town Hall <<R:{RequiredCityTier}>>"
 
+msgid "INTERFACE@TEXT@REQUIRES_WATER_PROVINCE"
+msgstr "A water province"
+
 msgid "INTERFACE@TEXT@RESEARCH"
 msgstr "Research"
 
@@ -105249,6 +105381,9 @@ msgstr "Talya^F"
 msgid "LORDS@HERO_FIRSTNAME_2@NAME"
 msgstr "Zaethyl^F"
 
+msgid "LORDS@HERO_FIRSTNAME_35@NAME"
+msgstr "Brigitte^F"
+
 msgid "LORDS@HERO_FIRSTNAME_3@NAME"
 msgstr "Agatha^F"
 
@@ -105320,6 +105455,9 @@ msgstr "the Risen"
 
 msgid "LORDS@HERO_SECONDNAME_2@NAME"
 msgstr "Silverleaf^z"
+
+msgid "LORDS@HERO_SECONDNAME_35@NAME"
+msgstr "Brittles^z"
 
 msgid "LORDS@HERO_SECONDNAME_3@NAME"
 msgstr "the Weaver^z"
@@ -105488,6 +105626,12 @@ msgstr "^m"
 
 msgid "LORDS@HERO_TITLE_34@NAME"
 msgstr "Godhammer"
+
+msgid "LORDS@HERO_TITLE_35@NAME"
+msgstr "Wildmire Witch"
+
+msgid "LORDS@HERO_TITLE_35@NAME@GENDER"
+msgstr "^f"
 
 msgid "LORDS@HERO_TITLE_5@NAME"
 msgstr "Frost Queen"
@@ -110993,6 +111137,9 @@ msgstr "Grants {UnitProperty.Name} to every Unowned {GLOBAL.UnitConcept.Hyperlin
 msgid "PROPERTY@SECTOR_UNIT_PROPERTY@VALUE_EVERY_UNIT_OWN"
 msgstr "Grants {UnitProperty.Name} to every Owned {GLOBAL.UnitConcept.Hyperlink} inside this {GLOBAL.DomainConcept.Hyperlink}."
 
+msgid "PROPERTY@STAT_MODIFIER@HEALTH"
+msgstr "{Value.Sign} [hp/]"
+
 msgid "PROPERTY@STRUCTURE_UNIT_PROPERTY@VALUE_EVERY_UNIT"
 msgstr "Grants {UnitProperty.Name} to every {GLOBAL.UnitConcept.Hyperlink} produced in this {GLOBAL.CityConcept.Hyperlink}."
 
@@ -112547,6 +112694,9 @@ msgstr "Ratty Munchkin"
 msgid "RACE_NAMES@RACE35@NAME"
 msgstr "Human Paladins"
 
+msgid "RACE_NAMES@RACE35@WITCH@NAME"
+msgstr "Haunchbounds"
+
 msgid "RACE_NAMES@RACE36@NAME"
 msgstr "Starsailing Fae"
 
@@ -113008,6 +113158,9 @@ msgstr "{EventStructure} unlocks the {RallyUnit} for the {GLOBAL.RequestMilitary
 
 msgid "SECRETSOFTHEARCHMAGES@STORY_REALM_01@TOOLTIP@ENWTINED_SCOURGE_UMBRAL"
 msgstr "The {EventUnit} becomes an {GLOBAL.PROPERTIES.UMBRAL_DEMON.Hyperlink}."
+
+msgid "SECRETSOFTHEARCHMAGES@STORY_REALM_01@TOOLTIP@FAILED_SHROUDED_ISLE_HAPPENING"
+msgstr "The 'Secrets of the Archmages' quest ends."
 
 msgid "SECRETSOFTHEARCHMAGES@STORY_REALM_01@TOOLTIP@HERO_ISLES_HINT"
 msgstr "You require a {GLOBAL.HeroConcept.Hyperlink} to enter Shrouded Isles."
@@ -133781,7 +133934,7 @@ msgid "TOME_ASTRAL_CONVERGENCE@SKILL2@NAME"
 msgstr "Explosive Manifestation"
 
 msgid "TOME_ASTRAL_CONVERGENCE@SKILL3@DESCRIPTION"
-msgstr "[bulletlist][bullet/]At the start of combat, gain {castingpoints}.[bullet/]During combat, all enemy <<m:{GLOBAL.UnitConcept.Hyperlink}>> suffer {resistancepenalty}.[/bulletlist]"
+msgstr "[bulletlist][bullet/]At the start of combat, gain {castingpoints} <<m:{GLOBAL.CombatCastingPointConcept.Hyperlink}>>.[bullet/]During combat, all enemy <<m:{GLOBAL.UnitConcept.Hyperlink}>> suffer {resistancepenalty} {GLOBAL.ResistanceConcept.Hyperlink}.[/bulletlist]"
 
 msgid "TOME_ASTRAL_CONVERGENCE@SKILL3@NAME"
 msgstr "Arcane Accumulation"
@@ -135353,7 +135506,7 @@ msgid "TOME_FERTILITY@SKILL5@NAME"
 msgstr "Animate Flora"
 
 msgid "TOME_FERTILITY@SKILL6@DESCRIPTION"
-msgstr "When an enchanted unit uses an Attack or Support ability, a random friendly unit within {distance} hexes of it heals for {healAmount} {GLOBAL.TemporaryHitPointConcept.Hyperlink}."
+msgstr "Makes Attack or Support abilities of enchanted units:[bulletlist][bullet/]Heal a random friendly unit within {distance} hexes of it for {healAmount} {GLOBAL.TemporaryHitPointConcept.Hyperlink}.[/bulletlist]"
 
 msgid "TOME_FERTILITY@SKILL6@NAME"
 msgstr "Staves of Life"
@@ -142190,6 +142343,12 @@ msgstr "Unit deals +{FLANKER_DAMAGE>ResolvedMultiplier}% damage when {GLOBAL.Fla
 msgid "UNITPROPERTIES@FLANKER@NAME"
 msgstr "Flanker"
 
+msgid "UNITPROPERTIES@FLYING_STAFF@DESCRIPTION"
+msgstr "Gain {GLOBAL.PROPERTIES.FLYING_MOVEMENT.Hyperlink} movement.[br/][br/]Blocked by <<m:{GLOBAL.RaceTransformationConcept.Hyperlink}>> that remove mounts."
+
+msgid "UNITPROPERTIES@FLYING_STAFF@NAME"
+msgstr "Flying Staff"
+
 msgid "UNITPROPERTIES@FOREST_CAMOUFLAGE@DESCRIPTION"
 msgstr "This unit cannot be detected when standing on Forest hexes."
 
@@ -143666,6 +143825,9 @@ msgstr "This unit is Flying:[bulletlist][bullet/]It has +{FLYING_MOVEMENT_VISION
 msgid "UNIT_UPGRADES_CORE@FLYING@NAME"
 msgstr "Flying"
 
+msgid "UNIT_UPGRADES_CORE@FLYING_STAFF@NAME_TOOLTIP"
+msgstr "{GLOBAL.EQUIPMENT_UPGRADES.FLYING_STAFF_UPGRADE.Hyperlink}"
+
 msgid "UNIT_UPGRADES_CORE@FOREST_WALK@DESCRIPTION"
 msgstr "Moving through Forests costs {amount2} <<m:{GLOBAL.MovePointConcept.Hyperlink}>> instead of {amount1}."
 
@@ -144928,6 +145090,9 @@ msgstr "Staff of Necromancy^n"
 
 msgid "UPGRADES_TEST_UNITPROPERTIES@WEAPON@STAG_MOUNT"
 msgstr "Stag Mount^n"
+
+msgid "UPGRADES_TEST_UNITPROPERTIES@WEAPON@STORM_SEA_MARE_MOUNT"
+msgstr "Storm Sea Mare"
 
 msgid "UPGRADES_TEST_UNITPROPERTIES@WEAPON@SWIFTFOOT_RAPTOR"
 msgstr "Swiftfoot Raptor Mount^n"
