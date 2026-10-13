@@ -72171,7 +72171,7 @@ msgid "DLC@WAYSOFWAR@CULTURE_OATHSWORN@CITY_NAME_08@NAME"
 msgstr "Celebay^N"
 
 msgid "DLC@WAYSOFWAR@CULTURE_OATHSWORN@CITY_NAME_09@NAME"
-msgstr "Commandent^N"
+msgstr "Mandamento^N"
 
 msgid "DLC@WAYSOFWAR@CULTURE_OATHSWORN@CITY_NAME_10@NAME"
 msgstr "Crossguard^N"
