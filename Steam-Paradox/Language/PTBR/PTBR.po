@@ -69042,10 +69042,10 @@ msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1224_641@BODY_HEADER@HERO_IS_PLAYERLE"
 msgstr "Uma procissão de espíritos se forma diante de você. Contudo, quem a lidera não parece uma alma de forma alguma."
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1224_641@BODY_LORE"
-msgstr "A marcha avança em duas longas fileiras, cada peregrino fantasmagórico segurando uma vela acesa. Todos, exceto um, a figura na frente. Cadavérico e sombrio, {PilgrimHero} carrega um estandarte pesado, sua voz oca chama {EventHero}:\n\"Misericórdia, carregue meu fardo, ainda que por um momento.\""
+msgstr "A marcha avança em duas longas fileiras, cada peregrino fantasmagórico segurando uma vela acesa. Todos, exceto um, a figura na frente. Cadavérico e sombrio, {PilgrimHero} carrega um estandarte pesado, sua voz oca chama por {EventHero}:\n\"Misericórdia, carregue meu fardo, ainda que por um momento.\""
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1224_641@BODY_LORE@HERO_IS_PLAYERLE"
-msgstr "A marcha avança em duas longas fileiras, cada peregrino fantasmagórico segurando uma vela acesa. Todos, exceto um, a figura na frente. Cadavérico e sombrio, {PilgrimHero} carrega um estandarte pesado, sua voz oca chama você:\n\"Misericórdia, carregue meu fardo, ainda que por um momento.\""
+msgstr "A marcha avança em duas longas fileiras, cada peregrino fantasmagórico segurando uma vela acesa. Todos, exceto um, a figura na frente. Cadavérico e sombrio, {PilgrimHero} carrega um estandarte pesado, sua voz oca chama por você:\n\"Misericórdia, carregue meu fardo, ainda que por um momento.\""
 
 msgid "DLC@THRONESOFBLOOD@STORY_EVENT@1224_641@BUTTON_0"
 msgstr "Ajude o porta‑estandarte."
