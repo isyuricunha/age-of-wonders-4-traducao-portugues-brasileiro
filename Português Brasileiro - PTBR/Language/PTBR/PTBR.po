@@ -15747,7 +15747,7 @@ msgid "DIPLOMACY@HOUSE_NEGOTIATION@TOOLTIP_CANNOTAFFORDCOST"
 msgstr "[fireCol]Não há ouro suficiente para os custos de negociação![/fireCol]"
 
 msgid "DIPLOMACY@HOUSE_NEGOTIATION@TOOLTIP_COOLDOWN"
-msgstr "[fireCol]A {FreeCityType.Hyperlink} não negociará neste momento. Aguarde {Cooldown}[turn/] [hyperlink,GLOBAL.TurnConcept]turno(s)[/hyperlink] para negociar![/fireCol]"
+msgstr "[fireCol]A {FreeCityType.Hyperlink} não negociará neste momento. Aguarde por {Cooldown}[turn/] [hyperlink,GLOBAL.TurnConcept]turno(s)[/hyperlink] para negociar![/fireCol]"
 
 msgid "DIPLOMACY@HOUSE_NEGOTIATION@TOOLTIP_FIXEDRELATION"
 msgstr "[fireCol]A {FreeCityType.Hyperlink} não negociará. Sua relação com ele(a) está fixa![/fireCol]"
@@ -15765,7 +15765,7 @@ msgid "DIPLOMACY@HOUSE_TRADE@CANNOTAFFORD_INSTANT"
 msgstr "[fireCol]Não pode pagar os custos desta troca![/fireCol]"
 
 msgid "DIPLOMACY@HOUSE_WAR@COOLDOWN"
-msgstr "[fireCol]Não pode declarar guerra ainda. Aguarde {Cooldown}<<m:{GLOBAL.TurnConcept.Hyperlink}>>.[/fireCol]"
+msgstr "[fireCol]Não pode declarar guerra ainda. Aguarde por {Cooldown}<<m:{GLOBAL.TurnConcept.Hyperlink}>>.[/fireCol]"
 
 msgid "DIPLOMACY@HOUSE_WAR_CHANCE@DESCRIPTION"
 msgstr "Por causa do seu {GLOBAL.IndependentCityRelationConcept.Hyperlink} com a {GLOBAL.IndependentCityConcept.Hyperlink}, há chance de a Cidade declarar {GLOBAL.IndependentCityWarConcept.Hyperlink} contra você no início de cada {GLOBAL.TurnConcept.Hyperlink}.[br/][br/]Você não sofrerá penalidades por isso, mas a Cidade pode começar a enviar exércitos para atacá-lo quando a guerra for declarada."
@@ -94014,7 +94014,7 @@ msgid "INTERFACE@MODAL_HOSTILE_ACTION@DESCRIPTION_FIXED"
 msgstr "Você atualmente compartilha relações fixas com {STR_targetPlayer} e, portanto, não pode declarar guerra contra eles."
 
 msgid "INTERFACE@MODAL_HOSTILE_ACTION@DESCRIPTION_INDEPENDENT"
-msgstr "Você está prestes a declarar {GLOBAL.IndependentCityWarConcept.Hyperlink} contra {STR_targetPlayer}. Isso conta como um ato [evilact/] [hyperlink,GLOBAL.AlignmentConcept]malévolo[/hyperlink]! Tem certeza de que deseja declarar guerra?"
+msgstr "Você está prestes a declarar {GLOBAL.IndependentCityWarConcept.Hyperlink} contra {STR_targetPlayer}. Isso conta como um [evilact/] ato [hyperlink,GLOBAL.AlignmentConcept]malévolo[/hyperlink]! Tem certeza de que deseja declarar guerra?"
 
 msgid "INTERFACE@MODAL_HOSTILE_ACTION@DESCRIPTION_NEUTRAL"
 msgstr "Você está prestes a declarar guerra a {STR_targetPlayer}. Tem certeza?"
@@ -101901,7 +101901,7 @@ msgid "INTERFACE@TOOLTIP@ALREADY_AT_WAR_OVERLORD"
 msgstr "Você já está em guerra com o Suserano desta {FreeCityType.Hyperlink}."
 
 msgid "INTERFACE@TOOLTIP@DECLARE_WAR_ON_HOUSE"
-msgstr "Declare {GLOBAL.IndependentCityWarConcept.Hyperlink} na {GLOBAL.IndependentCityConcept.Hyperlink}.[br/]Isso conta como um [evilact/] [hyperlink,GLOBAL.AlignmentConcept]malévolo[/hyperlink]!"
+msgstr "Declare {GLOBAL.IndependentCityWarConcept.Hyperlink} à {GLOBAL.IndependentCityConcept.Hyperlink}.[br/]Isso conta como um [evilact/] ato [hyperlink,GLOBAL.AlignmentConcept]malévolo[/hyperlink]!"
 
 msgid "INTERFACE@TOOLTIP@DECLARE_WAR_ON_VASSAL_HOUSE"
 msgstr "A {GLOBAL.IndependentCityConcept.Hyperlink} está em estado de [hyperlink,GLOBAL.PvEVassalConcept]Vassalagem[/hyperlink], portanto {GLOBAL.WarConcept.Hyperlink} deve ser declarada sobre seu suserano."
@@ -111426,7 +111426,7 @@ msgid "QUEST@WAR_QUEST@STACK_ENCOUNTER_01@ASTRAL_SUCCESS"
 msgstr "Depois de revelar suas verdadeiras intenções, os \"comerciantes\" se dispersam nas selvas."
 
 msgid "QUEST@WAR_QUEST@STACK_ENCOUNTER_01@DECLARE_WAR"
-msgstr "Declarar {GLOBAL.IndependentCityWarConcept.Hyperlink} contra a traiçoeira {EventHouse} não conta como um [evilact/] [hyperlink,GLOBAL.AlignmentConcept]ato maligno[/hyperlink]!"
+msgstr "Declarar {GLOBAL.IndependentCityWarConcept.Hyperlink} contra a traiçoeira {EventHouse} não conta como um [evilact/] ato [hyperlink,GLOBAL.AlignmentConcept]malévolo[/hyperlink]!"
 
 msgid "QUEST@WAR_QUEST@STACK_ENCOUNTER_01@NATURE_FAILURE"
 msgstr "Os comerciantes entram no seu reino e roubam informações."
