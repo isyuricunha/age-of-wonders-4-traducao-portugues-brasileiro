@@ -26202,7 +26202,7 @@ msgid "DLC@ARCHONPROPHECY@WILDLIFE@GRIFFON_UNIT_02@NAME"
 msgstr "Grifo^n"
 
 msgid "DLC@ARCHONPROPHECY@WILDLIFE@REVENANT_UNIT_01@NAME"
-msgstr "Anjo Caído^n"
+msgstr "Anjo Caído dos Gigantes^n"
 
 msgid "DLC@ARCHONPROPHECY@WILDLIFE@REVENANT_UNIT_02@NAME"
 msgstr "Titã Morto-Vivo^m"
@@ -102366,7 +102366,7 @@ msgid "ITEM@INFUSION@ABILITY_APPLYHASTENED@ADJ_01"
 msgstr "Acelerando^a"
 
 msgid "ITEM@INFUSION@ABILITY_ASSASSINSDAGGER@ADJ_01"
-msgstr "de Assassino^a"
+msgstr "de Assassino^z"
 
 msgid "ITEM@INFUSION@ABILITY_ASSASSINSDAGGER@POST_01"
 msgstr "do Assassino^z"
@@ -102408,7 +102408,7 @@ msgid "ITEM@INFUSION@ABILITY_DISPEL@POST_01"
 msgstr "da Dispersão^z"
 
 msgid "ITEM@INFUSION@ABILITY_FINGEROFDEATH@ADJ_01"
-msgstr "do Ceifador^a"
+msgstr "do Ceifador^z"
 
 msgid "ITEM@INFUSION@ABILITY_FINGEROFDEATH@POST_01"
 msgstr "de Ceifa^z"
@@ -102615,7 +102615,7 @@ msgid "ITEM@INFUSION@ABILITY_SUMMON@POST_02"
 msgstr "do Invocador^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUMMONSPIDER@ADJ_01"
-msgstr "da Aranha^a"
+msgstr "da Aranha^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUMMONUNDEAD@ADJ_01"
 msgstr "Invocação de Mortos^a"
@@ -102624,7 +102624,7 @@ msgid "ITEM@INFUSION@ABILITY_SUMMON_ANIMAL@POST_01"
 msgstr "de Invocação Animal^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUMMON_CROCODILE@ADJ_01"
-msgstr "do Crocodilo^a"
+msgstr "do Crocodilo^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUMMON_CROCODILE@POST_01"
 msgstr "do Crocodilo^z"
@@ -102633,7 +102633,7 @@ msgid "ITEM@INFUSION@ABILITY_SUMMON_CROCODILE@POST_02"
 msgstr "de Invocação de Crocodilo^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUMMON_CROW@ADJ_01"
-msgstr "do Corvo^a"
+msgstr "do Corvo^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUMMON_CROW@POST_01"
 msgstr "do Corvo^z"
@@ -102645,7 +102645,7 @@ msgid "ITEM@INFUSION@ABILITY_SUMMON_FLORA@POST_01"
 msgstr "de Invocação de Flora^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUMMON_MAMMOTH@ADJ_01"
-msgstr "do Mamute^a"
+msgstr "do Mamute^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUMMON_MAMMOTH@POST_01"
 msgstr "do Mamute^z"
@@ -102663,10 +102663,10 @@ msgid "ITEM@INFUSION@ABILITY_SUMMON_ROSEKNIGHTN@ADJ_01"
 msgstr "Estrangulado pela Rosa^a"
 
 msgid "ITEM@INFUSION@ABILITY_SUMMON_SABRETOOTH@ADJ_01"
-msgstr "do Dente-de-Sabre^a"
+msgstr "do Dente-de-Sabre^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUMMON_SABRETOOTH@ADJ_02"
-msgstr "do Smilodon^a"
+msgstr "do Smilodon^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUMMON_SABRETOOTH@POST_01"
 msgstr "do Dente-de-Sabre^z"
@@ -102675,10 +102675,10 @@ msgid "ITEM@INFUSION@ABILITY_SUMMON_SABRETOOTH@POST_02"
 msgstr "de Invocação do Dente-de-Sabre^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUMMON_SERPENT@ADJ_01"
-msgstr "da Serpente^a"
+msgstr "da Serpente^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUMMON_SERPENT@ADJ_02"
-msgstr "da Cobra^a"
+msgstr "da Cobra^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUMMON_SERPENT@POST_01"
 msgstr "da Serpente^z"
@@ -102687,7 +102687,7 @@ msgid "ITEM@INFUSION@ABILITY_SUMMON_SERPENT@POST_02"
 msgstr "de Invocação de Serpente^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUMMON_SPIDER@ADJ_02"
-msgstr "da Aracnídea^a"
+msgstr "da Aracnídea^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUMMON_SPIDER@POST_01"
 msgstr "de Invocação de Aranha^z"
@@ -102717,10 +102717,10 @@ msgid "ITEM@INFUSION@ABILITY_SUMMON_VINE@POST_01"
 msgstr "de Invocação de Videira^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUMMON_WOLF@ADJ_01"
-msgstr "do Lobo^a"
+msgstr "do Lobo^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUMMON_WOLF@ADJ_02"
-msgstr "do Lupino^a"
+msgstr "do Lupino^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUMMON_WOLF@POST_01"
 msgstr "dos Lobos^z"
@@ -102741,7 +102741,7 @@ msgid "ITEM@INFUSION@ABILITY_SUNDERING_CURSE@POST_02"
 msgstr "da Maldição Despedaçadora^z"
 
 msgid "ITEM@INFUSION@ABILITY_TRACKERS_MARK@ADJ_01"
-msgstr "do Rastreador^a"
+msgstr "do Rastreador^z"
 
 msgid "ITEM@INFUSION@ABILITY_TRACKERS_MARK@ADJ_02"
 msgstr "Marcação^a"
@@ -102801,7 +102801,7 @@ msgid "ITEM@INFUSION@AUTODEFENSEMODE@ADJ_01"
 msgstr "Defensivo^a"
 
 msgid "ITEM@INFUSION@AUTODEFENSEMODE@ADJ_02"
-msgstr "do Guardião^a"
+msgstr "do Guardião^z"
 
 msgid "ITEM@INFUSION@AUTODEFENSEMODE@ADJ_03"
 msgstr "Vigilante^a"
@@ -102816,10 +102816,10 @@ msgid "ITEM@INFUSION@AUTODEFENSEMODE@POST_02"
 msgstr "do Guardião^z"
 
 msgid "ITEM@INFUSION@BERSERKER@ADJ_01"
-msgstr "do Berserker^a"
+msgstr "do Berserker^z"
 
 msgid "ITEM@INFUSION@BERSERKING@ADJ_01"
-msgstr "do Berserker^a"
+msgstr "do Berserker^z"
 
 msgid "ITEM@INFUSION@BERSERKING@ADJ_02"
 msgstr "Furioso^a"
@@ -102849,7 +102849,7 @@ msgid "ITEM@INFUSION@BOLSTERING@ADJ_01"
 msgstr "Reforço^a"
 
 msgid "ITEM@INFUSION@CARETAKER@ADJ_01"
-msgstr "do Pastor^a"
+msgstr "do Pastor^z"
 
 msgid "ITEM@INFUSION@CARETAKER@POST_01"
 msgstr "do Pastor^z"
@@ -102903,10 +102903,10 @@ msgid "ITEM@INFUSION@DAMAGETYPE_BLIGHT@NOUN_01"
 msgstr "Portador da Praga^n"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_BLIGHT_T4@ADJ_01"
-msgstr "de Arachna^a"
+msgstr "de Arachna^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_FIRE@ADJ_01"
-msgstr "do Pirocâncer^a"
+msgstr "do Pirocâncer^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_FIRE@ADJ_02"
 msgstr "Fogo^a"
@@ -102927,7 +102927,7 @@ msgid "ITEM@INFUSION@DAMAGETYPE_FIRE_SPIRIT@ADJ_01"
 msgstr "Radiante^a"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_FIRE_T4@ADJ_01"
-msgstr "de Yaka^a"
+msgstr "de Yaka^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_FROST@ADJ_01"
 msgstr "Gelado^a"
@@ -102948,7 +102948,7 @@ msgid "ITEM@INFUSION@DAMAGETYPE_FROST_BLIGHT@ADJ_01"
 msgstr "Chamador da Morte^a"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_FROST_T4@ADJ_01"
-msgstr "de Artica^a"
+msgstr "de Artica^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_LIGHTNING@ADJ_01"
 msgstr "Relâmpago^a"
@@ -102957,13 +102957,13 @@ msgid "ITEM@INFUSION@DAMAGETYPE_LIGHTNING@ADJ_02"
 msgstr "Choque^a"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_LIGHTNING@ADJ_03"
-msgstr "do Feiticeiro^a"
+msgstr "do Feiticeiro^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_LIGHTNING@NOUN_01"
 msgstr "Invocador de Faíscas^n"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_LIGHTNING_T4@ADJ_01"
-msgstr "da Tempestade^a"
+msgstr "da Tempestade^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_MAGICAL@ADJ_01"
 msgstr "Mágico^a"
@@ -103050,7 +103050,7 @@ msgid "ITEM@INFUSION@EXPOSING_LIGHT@POST_01"
 msgstr "da Luz Exposta^z"
 
 msgid "ITEM@INFUSION@FLANKER@ADJ_01"
-msgstr "do Flanqueador^a"
+msgstr "do Flanqueador^z"
 
 msgid "ITEM@INFUSION@FLANKER@POST_01"
 msgstr "do Flanqueamento^z"
@@ -103071,7 +103071,7 @@ msgid "ITEM@INFUSION@HEAVYCHARGE@ADJ_01"
 msgstr "Carregando^a"
 
 msgid "ITEM@INFUSION@HEAVYCHARGE@ADJ_02"
-msgstr "do Touro de Carga^a"
+msgstr "do Touro de Carga^z"
 
 msgid "ITEM@INFUSION@HEAVYCHARGE@POST_01"
 msgstr "do Touro^z"
@@ -103122,10 +103122,10 @@ msgid "ITEM@INFUSION@INCREASEARMYXP@POST_01"
 msgstr "da Mentoria^z"
 
 msgid "ITEM@INFUSION@INCREASECASTINGPOINTS@ADJ_01"
-msgstr "do Feiticeiro^a"
+msgstr "do Feiticeiro^z"
 
 msgid "ITEM@INFUSION@INCREASECASTINGPOINTS@ADJ_02"
-msgstr "do Mago^a"
+msgstr "do Mago^z"
 
 msgid "ITEM@INFUSION@INCREASECASTINGPOINTS@POST_01"
 msgstr "do Conjurador Mundial^z"
@@ -103167,7 +103167,7 @@ msgid "ITEM@INFUSION@INCREASERANGE@ADJ_01"
 msgstr "Atirador^a"
 
 msgid "ITEM@INFUSION@INCREASERANGE@ADJ_02"
-msgstr "De Longo Alcance^a"
+msgstr "De Longo Alcance^z"
 
 msgid "ITEM@INFUSION@INCREASERANGE@ADJ_03"
 msgstr "Patrulheiro^a"
@@ -103392,7 +103392,7 @@ msgid "ITEM@INFUSION@INSPIRINGKILLER@POST_02"
 msgstr "da Missa do Assassino^z"
 
 msgid "ITEM@INFUSION@JUGGERNAUT@ADJ_01"
-msgstr "do Juggernaut^a"
+msgstr "do Juggernaut^z"
 
 msgid "ITEM@INFUSION@JUGGERNAUT@NOUN_01"
 msgstr "Juggernaut^n"
@@ -103401,7 +103401,7 @@ msgid "ITEM@INFUSION@JUGGERNAUT@POST_01"
 msgstr "do Juggernaut^z"
 
 msgid "ITEM@INFUSION@KILLINGMOMENTUM@ADJ_01"
-msgstr "do Assassino^a"
+msgstr "do Assassino^z"
 
 msgid "ITEM@INFUSION@KILLINGMOMENTUM@POST_01"
 msgstr "do Momentum de Matar^z"
@@ -103434,7 +103434,7 @@ msgid "ITEM@INFUSION@MOUNTAINWALKING@ADJ_01"
 msgstr "Caminhada Montanhosa^a"
 
 msgid "ITEM@INFUSION@MOUNTAINWALKING@ADJ_02"
-msgstr "do Caminhante de Penhasco^a"
+msgstr "do Caminhante de Penhasco^z"
 
 msgid "ITEM@INFUSION@MOUNTAINWALKING@NOUN_01"
 msgstr "Andarilho dos Picos^n"
@@ -103449,16 +103449,16 @@ msgid "ITEM@INFUSION@MOUNTAINWALKING@POST_02"
 msgstr "do Montanhista^z"
 
 msgid "ITEM@INFUSION@MOVEMENTSPEED@ADJ_01"
-msgstr "do Corredor^a"
+msgstr "do Corredor^z"
 
 msgid "ITEM@INFUSION@MOVEMENTSPEED@ADJ_02"
-msgstr "do Atleta^a"
+msgstr "do Atleta^z"
 
 msgid "ITEM@INFUSION@MOVEMENTSPEED@ADJ_03"
 msgstr "Ágil^a"
 
 msgid "ITEM@INFUSION@MOVEMENTSPEED@ADJ_04"
-msgstr "do Andarilho do Vento^a"
+msgstr "do Andarilho do Vento^z"
 
 msgid "ITEM@INFUSION@MOVEMENTSPEED@NOUN_01"
 msgstr "Surto Veloz^n"
@@ -103494,7 +103494,7 @@ msgid "ITEM@INFUSION@RAISE_ZOMBIE_ON_KILL@ADJ_02"
 msgstr "Necromântico^a"
 
 msgid "ITEM@INFUSION@RAISE_ZOMBIE_ON_KILL@ADJ_03"
-msgstr "do Ghul^a"
+msgstr "do Ghul^z"
 
 msgid "ITEM@INFUSION@RAISE_ZOMBIE_ON_KILL@ADJ_04"
 msgstr "Reanimador^a"
@@ -103515,7 +103515,7 @@ msgid "ITEM@INFUSION@RAISE_ZOMBIE_ON_KILL@POST_02"
 msgstr "de Criação de Zumbis^z"
 
 msgid "ITEM@INFUSION@RAISE_ZOMBIE_ON_KILL_T4@ADJ_05"
-msgstr "de Nekron^a"
+msgstr "de Nekron^z"
 
 msgid "ITEM@INFUSION@REDUCEARMYUPKEEP@ADJ_01"
 msgstr "Frugal^a"
@@ -103608,7 +103608,7 @@ msgid "ITEM@INFUSION@RETALIATION_REFLECTION@ADJ_02"
 msgstr "Retributivo^a"
 
 msgid "ITEM@INFUSION@SIEGEUNIT@ADJ_01"
-msgstr "Do Vencedor^a"
+msgstr "Do Vencedor^z"
 
 msgid "ITEM@INFUSION@SIEGEUNIT@ADJ_02"
 msgstr "Quebra-Muros^a"
@@ -103635,7 +103635,7 @@ msgid "ITEM@INFUSION@SLAYER@POST_01"
 msgstr "da Matança^z"
 
 msgid "ITEM@INFUSION@SLAYER_ANIMAL@ADJ_01"
-msgstr "do Caçador^a"
+msgstr "do Caçador^z"
 
 msgid "ITEM@INFUSION@SLAYER_ANIMAL@POST_01"
 msgstr "da Matança de Animais^z"
@@ -103758,7 +103758,7 @@ msgid "ITEM@INFUSION@SLIPAWAY@ADJ_02"
 msgstr "Escorregadio^a"
 
 msgid "ITEM@INFUSION@SLIPAWAY@ADJ_03"
-msgstr "do Escapista^a"
+msgstr "do Escapista^z"
 
 msgid "ITEM@INFUSION@SLIPAWAY@POST_01"
 msgstr "de Fuga^z"
@@ -103884,7 +103884,7 @@ msgid "ITEM@INFUSION@TRUESIGHT@POST_01"
 msgstr "da Visão Verdadeira^z"
 
 msgid "ITEM@INFUSION@UMBRALMALADY_IMMUNITY@ADJ_01"
-msgstr "do Arauto da Aurora^a"
+msgstr "do Arauto da Aurora^z"
 
 msgid "ITEM@INFUSION@UMBRALMALADY_IMMUNITY@NOUN_01"
 msgstr "Navio da Luz^n"
@@ -103920,7 +103920,7 @@ msgid "ITEM@INFUSION@UNIVERSALCAMOUFLAGE@POST_01"
 msgstr "da Camuflagem^z"
 
 msgid "ITEM@INFUSION@UNLEASH_THE_HOUNDS@ADJ_01"
-msgstr "do Mestre dos Cães^a"
+msgstr "do Mestre dos Cães^z"
 
 msgid "ITEM@INFUSION@UNLEASH_THE_HOUNDS@POST_01"
 msgstr "do Cão^z"
@@ -103977,7 +103977,7 @@ msgid "ITEM@INFUSION@ZEAL@POST_01"
 msgstr "do Zelote^z"
 
 msgid "ITEM@INFUSIONINCREASECASTINGPOINTS@ADJ_03"
-msgstr "do Conjurador^a"
+msgstr "do Conjurador^z"
 
 msgid "ITEM@TYPE@AMULET@NOUN_01"
 msgstr "Amuleto^n"

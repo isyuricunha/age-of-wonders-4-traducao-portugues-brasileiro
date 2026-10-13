@@ -26202,7 +26202,7 @@ msgid "DLC@ARCHONPROPHECY@WILDLIFE@GRIFFON_UNIT_02@NAME"
 msgstr "Grifo^n"
 
 msgid "DLC@ARCHONPROPHECY@WILDLIFE@REVENANT_UNIT_01@NAME"
-msgstr "Anjo Caído^n"
+msgstr "Anjo Caído dos Gigantes^n"
 
 msgid "DLC@ARCHONPROPHECY@WILDLIFE@REVENANT_UNIT_02@NAME"
 msgstr "Titã Morto-Vivo^m"
