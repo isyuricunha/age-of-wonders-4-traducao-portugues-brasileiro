@@ -77835,7 +77835,7 @@ msgid "EMPIRE_DEVELOPMENT@CHAOS@SPOILS_OF_DESTRUCTION@NAME"
 msgstr "Despojos da Destruição"
 
 msgid "EMPIRE_DEVELOPMENT@CHAOS@SWIFT_RAIDERS@DESCRIPTION"
-msgstr "{GLOBAL.PillagingConcept.Hyperlink} a {GLOBAL.ProvinceConcept.Hyperlink} leva {Duration}[turn/] turnos e concede {resourcebonus} recompensas adicionais.[br/]{GLOBAL.PillagingConcept.Hyperlink} <<m:{GLOBAL.UnitConcept.Hyperlink}>> são curados em {Healamount} <<m:{GLOBAL.HitPointConcept.Hyperlink}>>."
+msgstr "{GLOBAL.PillagingConcept.Hyperlink} à {GLOBAL.ProvinceConcept.Hyperlink} leva {Duration}[turn/] turno(s) e concede {resourcebonus} de recompensas adicionais.[br/]As <<m:{GLOBAL.UnitConcept.Hyperlink}>> de {GLOBAL.PillagingConcept.Hyperlink} são curadas em {Healamount} <<m:{GLOBAL.HitPointConcept.Hyperlink}>>."
 
 msgid "EMPIRE_DEVELOPMENT@CHAOS@SWIFT_RAIDERS@NAME"
 msgstr "Saqueadores Habilidosos"
