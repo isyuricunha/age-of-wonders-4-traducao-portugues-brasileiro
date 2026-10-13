@@ -51585,10 +51585,10 @@ msgid "DLC@PRIMALFURY@STORY_EVENT@1167_202@TITLE"
 msgstr "Ira do Tigre: Consequência"
 
 msgid "DLC@PRIMALFURY@STORY_EVENT@1167_203@BODY_FOOTER"
-msgstr "O {PlayerSpirit} sente fome. {PlayerSpirit.LoreName} se alimenta de [hyperlink,GLOBAL.ManaConcept][mana/]Mana[/hyperlink]. Você a provou. Para saciar a <<G:fome^n,{PlayerSpirit.LoreName}>>, construa [hyperlink,GLOBAL.ConduitConcept][conduit/]Condutos[/hyperlink]!"
+msgstr "O {PlayerSpirit} sente fome. {PlayerSpirit.LoreName} se alimenta de [hyperlink,GLOBAL.ManaConcept][mana/]Mana[/hyperlink]. Você a provou. Para saciar a fome de {PlayerSpirit.LoreName}, construa [hyperlink,GLOBAL.ConduitConcept][conduit/]Condutos[/hyperlink]!"
 
 msgid "DLC@PRIMALFURY@STORY_EVENT@1167_203@BODY_HEADER"
-msgstr "Com seu <<in:EventNumber>> {EventStructure} reivindicado e {EventImprovement} construído, o mundo imediatamente silencia. O {PlayerSpirit} está próximo. Deitado à espera..."
+msgstr "Com a {EventStructure} reivindicada e o {EventImprovement} construído, o mundo silencia de imediato. O {PlayerSpirit} está próximo. Deitado à espera..."
 
 msgid "DLC@PRIMALFURY@STORY_EVENT@1167_203@BODY_LORE"
 msgstr "É como se a Natureza própria prendesse a respiração para testemunhar o que acontecerá. {PlayerSpirit.LoreName} de repente arrasta você para uma visão. Submerso(a) em um lago frio e negro, tudo o que sente é uma fome insaciável. Fragmentos de cristal, restos de uma mordida anterior que chispeiam e crepitam com energia mágica, ficam presos entre seus dentes infinitos. Você prova... feitiçaria! Está mastigando cristais de mana."
@@ -111477,7 +111477,7 @@ msgid "QUESTOBJECTIVES@TEXT@ABSORB_CITY"
 msgstr "{City.Name} Absorvida, Migrada ou Vassalizada"
 
 msgid "QUESTOBJECTIVES@TEXT@BUILD_SECTOR_IMPROVEMENT"
-msgstr "Melhoria {STR_Improvement_Name} construída"
+msgstr "Melhoria construída: {STR_Improvement_Name}"
 
 msgid "QUESTOBJECTIVES@TEXT@CAPTURE_CITY"
 msgstr "{City.Name} Capturada"
