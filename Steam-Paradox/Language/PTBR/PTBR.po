@@ -15594,7 +15594,7 @@ msgid "DIPLOMACY@HOUSE_DIPLOMATIC_STATE@NEUTRAL"
 msgstr "Neutro"
 
 msgid "DIPLOMACY@HOUSE_DIPLOMATIC_STATE@NEUTRAL_BUTTON"
-msgstr "Fazer Paz"
+msgstr "Fazer as Pazes"
 
 msgid "DIPLOMACY@HOUSE_DIPLOMATIC_STATE@NEUTRAL_BUTTON_DESCRIPTION"
 msgstr "Fazer [rs_neutral/] [hyperlink,GLOBAL.DSNeutralConcept]Paz[/hyperlink] com o {GLOBAL.IndependentCityConcept.Hyperlink} para retomar [hyperlink,GLOBAL.NegotiationConcept]negociações[/hyperlink]"
@@ -17874,7 +17874,7 @@ msgid "DIPLOMATICSTATES_DEFINITIONS@OPTION_NEUTRAL@DESCRIPTION"
 msgstr "Ambos os Governantes concordam em encerrar a guerra e declarar uma trégua, prometendo cessar toda ação hostil."
 
 msgid "DIPLOMATICSTATES_DEFINITIONS@OPTION_NEUTRAL@NAME"
-msgstr "Fazer Paz"
+msgstr "Fazer as Pazes"
 
 msgid "DIPLOMATICSTATES_DEFINITIONS@OPTION_OVERLORD@AI_DESC"
 msgstr "Renda-se a mim e sobreviva como meu leal vassalo. Juntos, o mundo será nosso."
