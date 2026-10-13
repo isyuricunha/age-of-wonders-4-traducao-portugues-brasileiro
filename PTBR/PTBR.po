@@ -51591,7 +51591,7 @@ msgid "DLC@PRIMALFURY@STORY_EVENT@1167_203@BODY_HEADER"
 msgstr "Com seu <<in:EventNumber>> {EventStructure} reivindicado e {EventImprovement} construído, o mundo imediatamente silencia. O {PlayerSpirit} está próximo. Deitado à espera..."
 
 msgid "DLC@PRIMALFURY@STORY_EVENT@1167_203@BODY_LORE"
-msgstr "É como se a Natureza própria prendesse a respiração para testemunhar o que acontecerá. {PlayerSpirit.LoreName} de repente arrasta você para uma visão. Submerso em um lago frio e negro, tudo o que sente é uma fome insaciável. Fragmentos de cristal, restos de uma mordida anterior que chispeiam e crepitam com energia mágica, ficam presos entre seus dentes infinitos. Você prova... feitiçaria! Está mastigando cristais de mana."
+msgstr "É como se a Natureza própria prendesse a respiração para testemunhar o que acontecerá. {PlayerSpirit.LoreName} de repente arrasta você para uma visão. Submerso(a) em um lago frio e negro, tudo o que sente é uma fome insaciável. Fragmentos de cristal, restos de uma mordida anterior que chispeiam e crepitam com energia mágica, ficam presos entre seus dentes infinitos. Você prova... feitiçaria! Está mastigando cristais de mana."
 
 msgid "DLC@PRIMALFURY@STORY_EVENT@1167_203@BUTTON_0"
 msgstr "\"Meu domínio será seu banquete, {PlayerSpirit.LoreName}! Condutos o fortalecerão!\""
