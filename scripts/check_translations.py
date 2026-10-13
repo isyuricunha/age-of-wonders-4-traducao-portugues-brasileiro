@@ -120,12 +120,15 @@ def main():
         # construct's argument to a bare token (possibly repeated). So pronoun tokens
         # are ignored entirely, and a PT surplus of a token that appears as a pronoun
         # construct argument in EN is allowed. A real missing variable stays an error.
+        # pronoun/ordinal family: o, p, P, r, capitalized Cp/Co/Cr, g and in.
+        # These render engine-internal English (His/Her/Himself, "{entity}'s word",
+        # "third"): the policy (docs/GLOSSARY.md) allows dropping them when the
+        # rewrite keeps the referenced variable. Cg/Cm are capitalized g/m
+        # constructs whose content stays translatable.
         import translation_batch as tb
         from collections import Counter
-        # pronoun family: o, p, P, r and the capitalized Cp/Co/Cr (engine English words).
-        # Cg/Cm are capitalized g/m constructs whose content stays translatable.
-        PRO = re.compile(r"<<\s*[Cc]?[oPpr]\s*:", re.I)
-        PRO_ARG = re.compile(r"<<\s*[Cc]?[oPpr]\s*:([A-Za-z0-9_.{}]+)>>", re.I)
+        PRO = re.compile(r"<<\s*(?:C?[oPpr]|C?g|in)\s*:", re.I)
+        PRO_ARG = re.compile(r"<<\s*(?:C?[oPpr]|C?g|in)\s*:([A-Za-z0-9_.{}]+)>>", re.I)
         pro_args = {a.strip("{}") for a in PRO_ARG.findall(en)}
         want_c = Counter(t for t in tb.tokens(en) if not PRO.match(t))
         got_c = Counter(t for t in tb.tokens(pt) if not PRO.match(t))
