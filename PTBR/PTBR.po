@@ -90120,10 +90120,10 @@ msgid "INTERFACE@EXTERNAL_EVENT@YOU_DISALLOW_CLAIMED_SECTORS_WITH"
 msgstr "Você não permite mais construção em províncias reivindicadas"
 
 msgid "INTERFACE@EXTERNAL_EVENT@YOU_FOUND_THE_CITY"
-msgstr "{City.Name} fundada"
+msgstr "Fundação de {City.Name}"
 
 msgid "INTERFACE@EXTERNAL_EVENT@YOU_FOUND_THE_CITY@SETTING"
-msgstr "[white]Nome da Cidade[/white] fundada"
+msgstr "Fundação de [white]Nome da Cidade[/white]"
 
 msgid "INTERFACE@EXTERNAL_EVENT@YOU_LOST_THE_CITY"
 msgstr "{City} perdida"
