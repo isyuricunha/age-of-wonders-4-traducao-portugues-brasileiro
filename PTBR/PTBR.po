@@ -102363,7 +102363,7 @@ msgid "INTROVIDEO@INTRO_009"
 msgstr "modelarão a nova Era das Maravilhas."
 
 msgid "ITEM@INFUSION@ABILITY_APPLYHASTENED@ADJ_01"
-msgstr "Acelerando^a"
+msgstr "Acelerando^z"
 
 msgid "ITEM@INFUSION@ABILITY_ASSASSINSDAGGER@ADJ_01"
 msgstr "de Assassino^z"
@@ -102372,22 +102372,22 @@ msgid "ITEM@INFUSION@ABILITY_ASSASSINSDAGGER@POST_01"
 msgstr "do Assassino^z"
 
 msgid "ITEM@INFUSION@ABILITY_ASTRALBLESSING@ADJ_01"
-msgstr "Abençoado Astral^a"
+msgstr "Abençoado Astral^z"
 
 msgid "ITEM@INFUSION@ABILITY_ASTRALBLESSING@POST_01"
 msgstr "da Bênção Astral^z"
 
 msgid "ITEM@INFUSION@ABILITY_CONFUREELEMENTAL@ADJ_01"
-msgstr "Conjurando^a"
+msgstr "Conjurando^z"
 
 msgid "ITEM@INFUSION@ABILITY_CONJUREELEMENTAL@POST_01"
 msgstr "do Elemental^z"
 
 msgid "ITEM@INFUSION@ABILITY_CONSUMECHAOS@ADJ_01"
-msgstr "Consumidor de Caos^a"
+msgstr "Consumidor de Caos^z"
 
 msgid "ITEM@INFUSION@ABILITY_CONSUMECHAOS@ADJ_02"
-msgstr "Devorador de Caos^a"
+msgstr "Devorador de Caos^z"
 
 msgid "ITEM@INFUSION@ABILITY_CONSUMECHAOS@NOUN_01"
 msgstr "Devorador de Caos^n"
@@ -102396,7 +102396,7 @@ msgid "ITEM@INFUSION@ABILITY_CONSUMECHAOS@POST_01"
 msgstr "do Consumidor de Caos^z"
 
 msgid "ITEM@INFUSION@ABILITY_CRUSHINGANGUISH@ADJ_01"
-msgstr "Desesperado^a"
+msgstr "Desesperado^z"
 
 msgid "ITEM@INFUSION@ABILITY_CRUSHINGANGUISH@POST_01"
 msgstr "do Desespero^z"
@@ -102423,7 +102423,7 @@ msgid "ITEM@INFUSION@ABILITY_FLAMESTRIKE@POST_01"
 msgstr "de Golpe de Chamas^z"
 
 msgid "ITEM@INFUSION@ABILITY_FREEZINGBLAST@ADJ_01"
-msgstr "Congelante^a"
+msgstr "Congelante^z"
 
 msgid "ITEM@INFUSION@ABILITY_FREEZINGBLAST@POST_01"
 msgstr "de Congelamento^z"
@@ -102432,7 +102432,7 @@ msgid "ITEM@INFUSION@ABILITY_FROSTBREATH@POST_01"
 msgstr "de Sopro de Gelo^z"
 
 msgid "ITEM@INFUSION@ABILITY_GRANTDEFENSE@ADJ_01"
-msgstr "Escudo^a"
+msgstr "Escudo^z"
 
 msgid "ITEM@INFUSION@ABILITY_GRANTDEFENSE@POST_01"
 msgstr "de Escudo^z"
@@ -102447,7 +102447,7 @@ msgid "ITEM@INFUSION@ABILITY_HEAL@POST_01"
 msgstr "de Cura^z"
 
 msgid "ITEM@INFUSION@ABILITY_HEALDISPEL@ADJ_01"
-msgstr "Curativo^a"
+msgstr "Curativo^z"
 
 msgid "ITEM@INFUSION@ABILITY_HEALDISPEL@POST_01"
 msgstr "do Curador^z"
@@ -102456,13 +102456,13 @@ msgid "ITEM@INFUSION@ABILITY_HEALREGENERATION@POST_01"
 msgstr "do Curandeiro^z"
 
 msgid "ITEM@INFUSION@ABILITY_HINDERINGBLIZZARDS@ADJ_01"
-msgstr "Obstrução^a"
+msgstr "Obstrução^z"
 
 msgid "ITEM@INFUSION@ABILITY_HINDERINGBLIZZARDS@ADJ_02"
-msgstr "Congelado^a"
+msgstr "Congelado^z"
 
 msgid "ITEM@INFUSION@ABILITY_HINDERINGBLIZZARDS@ADJ_03"
-msgstr "Glacial^a"
+msgstr "Glacial^z"
 
 msgid "ITEM@INFUSION@ABILITY_HINDERINGBLIZZARDS@NOUN_01"
 msgstr "Fúria Gélida^n"
@@ -102471,7 +102471,7 @@ msgid "ITEM@INFUSION@ABILITY_HINDERINGBLIZZARDS@POST_01"
 msgstr "da Nevasca^z"
 
 msgid "ITEM@INFUSION@ABILITY_INCREASEMORALE@ADJ_01"
-msgstr "Inspirador^a"
+msgstr "Inspirador^z"
 
 msgid "ITEM@INFUSION@ABILITY_INCREASEMORALE@POST_01"
 msgstr "de Triunfo^z"
@@ -102486,10 +102486,10 @@ msgid "ITEM@INFUSION@ABILITY_LIGHTNINGBREATH@POST_01"
 msgstr "de Sopro de Relâmpago^z"
 
 msgid "ITEM@INFUSION@ABILITY_LIGHTNINGSTRIKE@ADJ_01"
-msgstr "Chamado ao Relâmpago^a"
+msgstr "Chamado ao Relâmpago^z"
 
 msgid "ITEM@INFUSION@ABILITY_LIGHTNINGSTRIKE@ADJ_02"
-msgstr "Invocação da Tempestade^a"
+msgstr "Invocação da Tempestade^z"
 
 msgid "ITEM@INFUSION@ABILITY_LIGHTNINGSTRIKE@NOUN_01"
 msgstr "Tecelão de Volts^n"
@@ -102507,19 +102507,19 @@ msgid "ITEM@INFUSION@ABILITY_MASSHEAL@POST_01"
 msgstr "de Cura em Massa^z"
 
 msgid "ITEM@INFUSION@ABILITY_MIASMASHOT@ADJ_01"
-msgstr "Miasmático^a"
+msgstr "Miasmático^z"
 
 msgid "ITEM@INFUSION@ABILITY_MIASMASHOT@POST_01"
 msgstr "de Disparo de Miasma^z"
 
 msgid "ITEM@INFUSION@ABILITY_MINDCONTROL@ADJ_01"
-msgstr "Controlador Mental^a"
+msgstr "Controlador Mental^z"
 
 msgid "ITEM@INFUSION@ABILITY_MINDCONTROL@POST_01"
 msgstr "de Controle Mental^z"
 
 msgid "ITEM@INFUSION@ABILITY_OVERDRAW@ADJ_01"
-msgstr "Sobrecarga^a"
+msgstr "Sobrecarga^z"
 
 msgid "ITEM@INFUSION@ABILITY_OVERDRAW@POST_01"
 msgstr "de Sobrecarga^z"
@@ -102531,7 +102531,7 @@ msgid "ITEM@INFUSION@ABILITY_PHASE@POST_01"
 msgstr "de Fase^z"
 
 msgid "ITEM@INFUSION@ABILITY_POISONBREATH@ADJ_01"
-msgstr "Pútrido^a"
+msgstr "Pútrido^z"
 
 msgid "ITEM@INFUSION@ABILITY_POISONBREATH@POST_01"
 msgstr "de Sopro Pútrido^z"
@@ -102543,7 +102543,7 @@ msgid "ITEM@INFUSION@ABILITY_POLYMORPH@POST_01"
 msgstr "de Polimorfia^z"
 
 msgid "ITEM@INFUSION@ABILITY_POWERCLEAVING@ADJ_01"
-msgstr "Corte Poderoso^a"
+msgstr "Corte Poderoso^z"
 
 msgid "ITEM@INFUSION@ABILITY_POWERCLEAVING@NOUN_01"
 msgstr "Cortador Poderoso^n"
@@ -102552,19 +102552,19 @@ msgid "ITEM@INFUSION@ABILITY_POWERCLEAVING@POST_01"
 msgstr "de Corte^z"
 
 msgid "ITEM@INFUSION@ABILITY_PROVOCATION@ADJ_01"
-msgstr "Provocador^a"
+msgstr "Provocador^z"
 
 msgid "ITEM@INFUSION@ABILITY_PROVOCATION@POST_01"
 msgstr "de Provocação^z"
 
 msgid "ITEM@INFUSION@ABILITY_QUAKE@ADJ_01"
-msgstr "Abalador^a"
+msgstr "Abalador^z"
 
 msgid "ITEM@INFUSION@ABILITY_QUAKE@NOUN_01"
 msgstr "Portador de Abalos^n"
 
 msgid "ITEM@INFUSION@ABILITY_RAISEUNDEAD@ADJ_01"
-msgstr "Chamador de Túmulos^a"
+msgstr "Chamador de Túmulos^z"
 
 msgid "ITEM@INFUSION@ABILITY_RAISEUNDEAD@NOUN_01"
 msgstr "Chamador de Túmulos^n"
@@ -102573,7 +102573,7 @@ msgid "ITEM@INFUSION@ABILITY_RAISE_UNDEAD@POST_01"
 msgstr "de Levantamento de Mortos-Vivos^z"
 
 msgid "ITEM@INFUSION@ABILITY_REGENERATION@ADJ_01"
-msgstr "Regenerador^a"
+msgstr "Regenerador^z"
 
 msgid "ITEM@INFUSION@ABILITY_REGENERATION@POST_01"
 msgstr "de Regeneração^z"
@@ -102582,7 +102582,7 @@ msgid "ITEM@INFUSION@ABILITY_RESURRECTION@POST_01"
 msgstr "de Ressurreição^z"
 
 msgid "ITEM@INFUSION@ABILITY_SEDUCE@ADJ_01"
-msgstr "Sedutor^a"
+msgstr "Sedutor^z"
 
 msgid "ITEM@INFUSION@ABILITY_SEDUCE@POST_01"
 msgstr "do Sedutor^z"
@@ -102594,7 +102594,7 @@ msgid "ITEM@INFUSION@ABILITY_SONGOFREVELRY@POST_01"
 msgstr "de Folia^z"
 
 msgid "ITEM@INFUSION@ABILITY_STUNNING_FLASH@ADJ_01"
-msgstr "Atordoante^a"
+msgstr "Atordoante^z"
 
 msgid "ITEM@INFUSION@ABILITY_STUNNING_FLASH@POST_01"
 msgstr "de Atordoamento^z"
@@ -102603,7 +102603,7 @@ msgid "ITEM@INFUSION@ABILITY_STUNNING_FLASH@POST_02"
 msgstr "de Clarão Atordoante^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUMMON@ADJ_01"
-msgstr "Invocação^a"
+msgstr "Invocação^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUMMON@NOUN_01"
 msgstr "Invocador^n"
@@ -102618,7 +102618,7 @@ msgid "ITEM@INFUSION@ABILITY_SUMMONSPIDER@ADJ_01"
 msgstr "da Aranha^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUMMONUNDEAD@ADJ_01"
-msgstr "Invocação de Mortos^a"
+msgstr "Invocação de Mortos^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUMMON_ANIMAL@POST_01"
 msgstr "de Invocação Animal^z"
@@ -102660,7 +102660,7 @@ msgid "ITEM@INFUSION@ABILITY_SUMMON_ROSEKNIGHT@POST_02"
 msgstr "do Amor Imortal^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUMMON_ROSEKNIGHTN@ADJ_01"
-msgstr "Estrangulado pela Rosa^a"
+msgstr "Estrangulado pela Rosa^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUMMON_SABRETOOTH@ADJ_01"
 msgstr "do Dente-de-Sabre^z"
@@ -102699,7 +102699,7 @@ msgid "ITEM@INFUSION@ABILITY_SUMMON_SPIDER_STRONG@POST_01"
 msgstr "da Mãe da Ninhada^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUMMON_UMBRALDEMON@ADJ_01"
-msgstr "Umbral^a"
+msgstr "Umbral^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUMMON_UMBRALDEMON@POST_01"
 msgstr "do Demônio Umbral^z"
@@ -102732,7 +102732,7 @@ msgid "ITEM@INFUSION@ABILITY_SUMMON_ZOMBIE@POST_01"
 msgstr "de Zumbis^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUNDERING_CURSE@ADJ_01"
-msgstr "Amaldiçoado^a"
+msgstr "Amaldiçoado^z"
 
 msgid "ITEM@INFUSION@ABILITY_SUNDERING_CURSE@POST_01"
 msgstr "de Maldição^z"
@@ -102744,7 +102744,7 @@ msgid "ITEM@INFUSION@ABILITY_TRACKERS_MARK@ADJ_01"
 msgstr "do Rastreador^z"
 
 msgid "ITEM@INFUSION@ABILITY_TRACKERS_MARK@ADJ_02"
-msgstr "Marcação^a"
+msgstr "Marcação^z"
 
 msgid "ITEM@INFUSION@ABILITY_TRACKERS_MARK@POST_01"
 msgstr "do Rastreador^z"
@@ -102753,7 +102753,7 @@ msgid "ITEM@INFUSION@ABILITY_TRACKERS_MARK@POST_02"
 msgstr "da Marca do Rastreador^z"
 
 msgid "ITEM@INFUSION@ABILITY_WHIRLWIND@ADJ_01"
-msgstr "Chamavento^a"
+msgstr "Chamavento^z"
 
 msgid "ITEM@INFUSION@ABILITY_WHIRLWIND@NOUN_01"
 msgstr "Chamavento^n"
@@ -102765,25 +102765,25 @@ msgid "ITEM@INFUSION@ABILITY_WHIRLWIND@POST_01"
 msgstr "do Redemoinho^z"
 
 msgid "ITEM@INFUSION@ACCURACY@ADJ_01"
-msgstr "Preciso^a"
+msgstr "Preciso^z"
 
 msgid "ITEM@INFUSION@ACCURACY@POST_01"
 msgstr "de Precisão^z"
 
 msgid "ITEM@INFUSION@ASTRALMEMBRANE@ADJ_01"
-msgstr "Astral^a"
+msgstr "Astral^z"
 
 msgid "ITEM@INFUSION@ASTRALMEMBRANE@POST_01"
 msgstr "da Membrana Astral^z"
 
 msgid "ITEM@INFUSION@ATTACKADJACENT@ADJ_01"
-msgstr "Explosivo^a"
+msgstr "Explosivo^z"
 
 msgid "ITEM@INFUSION@ATTACKADJACENT@ADJ_02"
-msgstr "Estilhaçante^a"
+msgstr "Estilhaçante^z"
 
 msgid "ITEM@INFUSION@ATTACKADJACENT@ADJ_03"
-msgstr "Desenfreado^a"
+msgstr "Desenfreado^z"
 
 msgid "ITEM@INFUSION@ATTACKADJACENT@POST_01"
 msgstr "de Explosão^z"
@@ -102798,13 +102798,13 @@ msgid "ITEM@INFUSION@ATTUNEMENT_STARBLADES@POST_01"
 msgstr "de Lâminas Estelares^z"
 
 msgid "ITEM@INFUSION@AUTODEFENSEMODE@ADJ_01"
-msgstr "Defensivo^a"
+msgstr "Defensivo^z"
 
 msgid "ITEM@INFUSION@AUTODEFENSEMODE@ADJ_02"
 msgstr "do Guardião^z"
 
 msgid "ITEM@INFUSION@AUTODEFENSEMODE@ADJ_03"
-msgstr "Vigilante^a"
+msgstr "Vigilante^z"
 
 msgid "ITEM@INFUSION@AUTODEFENSEMODE@NOUN_01"
 msgstr "do Defensor Inabalável^z"
@@ -102822,10 +102822,10 @@ msgid "ITEM@INFUSION@BERSERKING@ADJ_01"
 msgstr "do Berserker^z"
 
 msgid "ITEM@INFUSION@BERSERKING@ADJ_02"
-msgstr "Furioso^a"
+msgstr "Furioso^z"
 
 msgid "ITEM@INFUSION@BERSERKING@ADJ_03"
-msgstr "Enfurecedor^a"
+msgstr "Enfurecedor^z"
 
 msgid "ITEM@INFUSION@BERSERKING@POST_01"
 msgstr "do Berserker^z"
@@ -102834,10 +102834,10 @@ msgid "ITEM@INFUSION@BERSERKING@POST_02"
 msgstr "da Raiva^z"
 
 msgid "ITEM@INFUSION@BLOOD_SIGIL@ADJ_01"
-msgstr "Sanguíneo^a"
+msgstr "Sanguíneo^z"
 
 msgid "ITEM@INFUSION@BLOOD_SIGIL@ADJ_02"
-msgstr "Carmesim^a"
+msgstr "Carmesim^z"
 
 msgid "ITEM@INFUSION@BLOOD_SIGIL@NOUN_01"
 msgstr "Caçador de Sangue^n"
@@ -102846,7 +102846,7 @@ msgid "ITEM@INFUSION@BLOOD_SIGIL@POST_01"
 msgstr "do Reinado Carmesim^z"
 
 msgid "ITEM@INFUSION@BOLSTERING@ADJ_01"
-msgstr "Reforço^a"
+msgstr "Reforço^z"
 
 msgid "ITEM@INFUSION@CARETAKER@ADJ_01"
 msgstr "do Pastor^z"
@@ -102855,10 +102855,10 @@ msgid "ITEM@INFUSION@CARETAKER@POST_01"
 msgstr "do Pastor^z"
 
 msgid "ITEM@INFUSION@CASCADEDAMAGE@ADJ_01"
-msgstr "Cascata^a"
+msgstr "Cascata^z"
 
 msgid "ITEM@INFUSION@CASCADEDAMAGE@ADJ_02"
-msgstr "Transbordante^a"
+msgstr "Transbordante^z"
 
 msgid "ITEM@INFUSION@CASCADEDAMAGE@NOUN_01"
 msgstr "Cascata^n"
@@ -102867,10 +102867,10 @@ msgid "ITEM@INFUSION@CASCADEDAMAGE@POST_01"
 msgstr "da Cascata^z"
 
 msgid "ITEM@INFUSION@CLEANSINGFIRE_ATTACK@ADJ_01"
-msgstr "Purificador^a"
+msgstr "Purificador^z"
 
 msgid "ITEM@INFUSION@CLEANSINGFIRE_ATTACK@ADJ_02"
-msgstr "Purgador^a"
+msgstr "Purgador^z"
 
 msgid "ITEM@INFUSION@CLEANSINGFIRE_ATTACK@NOUN_01"
 msgstr "Incendiário^n"
@@ -102879,7 +102879,7 @@ msgid "ITEM@INFUSION@CLEANSINGFIRE_ATTACK@POST_01"
 msgstr "da Purga^z"
 
 msgid "ITEM@INFUSION@CREATE_SPLITTERLING_ON_KILL@ADJ_01"
-msgstr "Corruptor^a"
+msgstr "Corruptor^z"
 
 msgid "ITEM@INFUSION@CREATE_SPLITTERLING_ON_KILL@NOUN_01"
 msgstr "Corruptor^n"
@@ -102891,13 +102891,13 @@ msgid "ITEM@INFUSION@CREATE_SPLITTERLING_ON_KILL@POST_02"
 msgstr "da Corrupção^z"
 
 msgid "ITEM@INFUSION@DAMAGESECONDARYTARGET@ADJ_01"
-msgstr "Saltitante^a"
+msgstr "Saltitante^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_BLIGHT@ADJ_01"
-msgstr "Corrompido^a"
+msgstr "Corrompido^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_BLIGHT@ADJ_02"
-msgstr "Contaminado^a"
+msgstr "Contaminado^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_BLIGHT@NOUN_01"
 msgstr "Portador da Praga^n"
@@ -102909,10 +102909,10 @@ msgid "ITEM@INFUSION@DAMAGETYPE_FIRE@ADJ_01"
 msgstr "do Pirocâncer^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_FIRE@ADJ_02"
-msgstr "Fogo^a"
+msgstr "Fogo^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_FIRE@ADJ_03"
-msgstr "Marca^a"
+msgstr "Marca^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_FIRE@NOUN_01"
 msgstr "Incendiário^n"
@@ -102921,40 +102921,40 @@ msgid "ITEM@INFUSION@DAMAGETYPE_FIRE@NOUN_02"
 msgstr "Portador de Chamas^n"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_FIRE_LIGHTNING@ADJ_01"
-msgstr "Fogo Arcano^a"
+msgstr "Fogo Arcano^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_FIRE_SPIRIT@ADJ_01"
-msgstr "Radiante^a"
+msgstr "Radiante^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_FIRE_T4@ADJ_01"
 msgstr "de Yaka^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_FROST@ADJ_01"
-msgstr "Gelado^a"
+msgstr "Gelado^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_FROST@ADJ_02"
-msgstr "Frio^a"
+msgstr "Frio^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_FROST@ADJ_03"
-msgstr "Gélido^a"
+msgstr "Gélido^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_FROST@ADJ_04"
-msgstr "Congelado^a"
+msgstr "Congelado^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_FROST@NOUN_01"
 msgstr "Portador de Gelo^n"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_FROST_BLIGHT@ADJ_01"
-msgstr "Chamador da Morte^a"
+msgstr "Chamador da Morte^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_FROST_T4@ADJ_01"
 msgstr "de Artica^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_LIGHTNING@ADJ_01"
-msgstr "Relâmpago^a"
+msgstr "Relâmpago^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_LIGHTNING@ADJ_02"
-msgstr "Choque^a"
+msgstr "Choque^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_LIGHTNING@ADJ_03"
 msgstr "do Feiticeiro^z"
@@ -102966,40 +102966,40 @@ msgid "ITEM@INFUSION@DAMAGETYPE_LIGHTNING_T4@ADJ_01"
 msgstr "da Tempestade^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_MAGICAL@ADJ_01"
-msgstr "Mágico^a"
+msgstr "Mágico^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_MAGICAL@ADJ_02"
-msgstr "Infundido^a"
+msgstr "Infundido^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_PHYSICALMELEE@ADJ_01"
-msgstr "Impactante^a"
+msgstr "Impactante^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_PHYSICALMELEE@ADJ_02"
-msgstr "Pesado^a"
+msgstr "Pesado^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_PHYSICALMELEE@ADJ_03"
-msgstr "Brutal^a"
+msgstr "Brutal^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_PHYSICALRANGED@ADJ_01"
-msgstr "Precisão^a"
+msgstr "Precisão^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_PHYSICALRANGED@ADJ_02"
-msgstr "Perfurante^a"
+msgstr "Perfurante^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_SPIRIT@ADJ_01"
-msgstr "Espiritual^a"
+msgstr "Espiritual^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_SPIRIT@ADJ_02"
-msgstr "Iluminado^a"
+msgstr "Iluminado^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_SPIRIT@ADJ_03"
-msgstr "Abençoado^a"
+msgstr "Abençoado^z"
 
 msgid "ITEM@INFUSION@DAMAGETYPE_SPIRIT_T4@ADJ_01"
-msgstr "Arcon^a"
+msgstr "Arcon^z"
 
 msgid "ITEM@INFUSION@DECREASEACCRANGEDATTACKERS@ADJ_01"
-msgstr "Véu de Salvas^a"
+msgstr "Véu de Salvas^z"
 
 msgid "ITEM@INFUSION@DECREASEACCRANGEDATTACKERS@NOUN_01"
 msgstr "Ruína dos Raios^n"
@@ -103011,16 +103011,16 @@ msgid "ITEM@INFUSION@DECREASEACCRANGEDATTACKERS@POST_02"
 msgstr "da Proteção de Flechas^z"
 
 msgid "ITEM@INFUSION@DEFENSE@ADJ_01"
-msgstr "Reforçado^a"
+msgstr "Reforçado^z"
 
 msgid "ITEM@INFUSION@DEFENSE@ADJ_02"
-msgstr "Almofadado^a"
+msgstr "Almofadado^z"
 
 msgid "ITEM@INFUSION@DEFENSE@ADJ_03"
-msgstr "Resistente^a"
+msgstr "Resistente^z"
 
 msgid "ITEM@INFUSION@DEMOLISHER@ADJ_01"
-msgstr "Demolidor^a"
+msgstr "Demolidor^z"
 
 msgid "ITEM@INFUSION@DEMOLISHER@NOUN_01"
 msgstr "Demolidor^n"
@@ -103032,19 +103032,19 @@ msgid "ITEM@INFUSION@DEMOLISHER@POST_02"
 msgstr "do Demolidor^z"
 
 msgid "ITEM@INFUSION@DISEASE@ADJ_01"
-msgstr "Infestado^a"
+msgstr "Infestado^z"
 
 msgid "ITEM@INFUSION@DISEASE@ADJ_02"
-msgstr "Doente^a"
+msgstr "Doente^z"
 
 msgid "ITEM@INFUSION@DISEASE@POST_01"
 msgstr "das Pragas^z"
 
 msgid "ITEM@INFUSION@EXPOSING_LIGHT@ADJ_01"
-msgstr "Expondo^a"
+msgstr "Expondo^z"
 
 msgid "ITEM@INFUSION@EXPOSING_LIGHT@ADJ_02"
-msgstr "Iluminando^a"
+msgstr "Iluminando^z"
 
 msgid "ITEM@INFUSION@EXPOSING_LIGHT@POST_01"
 msgstr "da Luz Exposta^z"
@@ -103056,19 +103056,19 @@ msgid "ITEM@INFUSION@FLANKER@POST_01"
 msgstr "do Flanqueamento^z"
 
 msgid "ITEM@INFUSION@FRENZY@ADJ_01"
-msgstr "Frenético^a"
+msgstr "Frenético^z"
 
 msgid "ITEM@INFUSION@HEALTH@ADJ_01"
-msgstr "Robusto^a"
+msgstr "Robusto^z"
 
 msgid "ITEM@INFUSION@HEALTH_MEDIUM@ADJ_01"
-msgstr "Saudável^a"
+msgstr "Saudável^z"
 
 msgid "ITEM@INFUSION@HEALTH_STRONG@ADJ_01"
-msgstr "Revigorante^a"
+msgstr "Revigorante^z"
 
 msgid "ITEM@INFUSION@HEAVYCHARGE@ADJ_01"
-msgstr "Carregando^a"
+msgstr "Carregando^z"
 
 msgid "ITEM@INFUSION@HEAVYCHARGE@ADJ_02"
 msgstr "do Touro de Carga^z"
@@ -103080,25 +103080,25 @@ msgid "ITEM@INFUSION@HEAVYCHARGE@POST_02"
 msgstr "da Investida^z"
 
 msgid "ITEM@INFUSION@HEXFRONTATTACK@ADJ_01"
-msgstr "Varredor^a"
+msgstr "Varredor^z"
 
 msgid "ITEM@INFUSION@HEXFRONTATTACK@ADJ_02"
-msgstr "Arqueado^a"
+msgstr "Arqueado^z"
 
 msgid "ITEM@INFUSION@HEXFRONTATTACK@NOUN_01"
 msgstr "Tiro de Arco^n"
 
 msgid "ITEM@INFUSION@HEXLINEATTACK@ADJ_01"
-msgstr "Alcance^a"
+msgstr "Alcance^z"
 
 msgid "ITEM@INFUSION@HEXLINEATTACK@ADJ_02"
-msgstr "Longo^a"
+msgstr "Longo^z"
 
 msgid "ITEM@INFUSION@HEXLINEATTACK@ADJ_03"
-msgstr "Golpe à Distância^a"
+msgstr "Golpe à Distância^z"
 
 msgid "ITEM@INFUSION@HEXLINEATTACK@ADJ_04"
-msgstr "Estendido^a"
+msgstr "Estendido^z"
 
 msgid "ITEM@INFUSION@HEXLINEATTACK@NOUN_01"
 msgstr "Golpe à Distância^n"
@@ -103107,16 +103107,16 @@ msgid "ITEM@INFUSION@HYPERAWARENESS@POST_01"
 msgstr "da Hiperconsciência^z"
 
 msgid "ITEM@INFUSION@IGNORESTATUSRESISTANCE@ADJ_01"
-msgstr "Perfurante^a"
+msgstr "Perfurante^z"
 
 msgid "ITEM@INFUSION@IGNORESTATUSRESISTANCE@ADJ_02"
-msgstr "Adepto^a"
+msgstr "Adepto^z"
 
 msgid "ITEM@INFUSION@IGNORESTATUSRESISTANCE@POST_01"
 msgstr "da Maldição^z"
 
 msgid "ITEM@INFUSION@INCREASEARMYXP@ADJ_01"
-msgstr "Motivador^a"
+msgstr "Motivador^z"
 
 msgid "ITEM@INFUSION@INCREASEARMYXP@POST_01"
 msgstr "da Mentoria^z"
@@ -103131,76 +103131,76 @@ msgid "ITEM@INFUSION@INCREASECASTINGPOINTS@POST_01"
 msgstr "do Conjurador Mundial^z"
 
 msgid "ITEM@INFUSION@INCREASECRITCHANCE@ADJ_01"
-msgstr "Afiado^a"
+msgstr "Afiado^z"
 
 msgid "ITEM@INFUSION@INCREASECRITCHANCE@ADJ_02"
-msgstr "Buscador^a"
+msgstr "Buscador^z"
 
 msgid "ITEM@INFUSION@INCREASECRITCHANCE@ADJ_03"
-msgstr "Focalizado^a"
+msgstr "Focalizado^z"
 
 msgid "ITEM@INFUSION@INCREASECRITCHANCE@ADJ_04"
-msgstr "Fino^a"
+msgstr "Fino^z"
 
 msgid "ITEM@INFUSION@INCREASECRITDAMAGE_MEDIUM@ADJ_01"
-msgstr "Mortal^a"
+msgstr "Mortal^z"
 
 msgid "ITEM@INFUSION@INCREASECRITDAMAGE_STRONG@ADJ_01"
-msgstr "Letal^a"
+msgstr "Letal^z"
 
 msgid "ITEM@INFUSION@INCREASEMAGICDAMAGE_MEDIUM@ADJ_01"
-msgstr "Sobrecarregado^a"
+msgstr "Sobrecarregado^z"
 
 msgid "ITEM@INFUSION@INCREASEMAGICDAMAGE_MEDIUM@ADJ_02"
-msgstr "Amplificador^a"
+msgstr "Amplificador^z"
 
 msgid "ITEM@INFUSION@INCREASEMAGICDAMAGE_MEDIUM@NOUN_01"
 msgstr "Amplificador^n"
 
 msgid "ITEM@INFUSION@INCREASEMAGICDAMAGE_WEAK@ADJ_01"
-msgstr "Carregado^a"
+msgstr "Carregado^z"
 
 msgid "ITEM@INFUSION@INCREASEMAGICDAMAGE_WEAK@ADJ_02"
-msgstr "Canalizador^a"
+msgstr "Canalizador^z"
 
 msgid "ITEM@INFUSION@INCREASERANGE@ADJ_01"
-msgstr "Atirador^a"
+msgstr "Atirador^z"
 
 msgid "ITEM@INFUSION@INCREASERANGE@ADJ_02"
 msgstr "De Longo Alcance^z"
 
 msgid "ITEM@INFUSION@INCREASERANGE@ADJ_03"
-msgstr "Patrulheiro^a"
+msgstr "Patrulheiro^z"
 
 msgid "ITEM@INFUSION@INCREASERANGE@POST_01"
 msgstr "da Estepe^z"
 
 msgid "ITEM@INFUSION@INFLICT@ADJ_01"
-msgstr "Infligidor^a"
+msgstr "Infligidor^z"
 
 msgid "ITEM@INFUSION@INFLICT_BLEEDING@ADJ_01"
-msgstr "Sangrento^a"
+msgstr "Sangrento^z"
 
 msgid "ITEM@INFUSION@INFLICT_BLEEDING@ADJ_02"
-msgstr "Sangramento^a"
+msgstr "Sangramento^z"
 
 msgid "ITEM@INFUSION@INFLICT_BLEEDING@NOUN_01"
 msgstr "Sangueiro^n"
 
 msgid "ITEM@INFUSION@INFLICT_BLINDED@ADJ_01"
-msgstr "Cegante^a"
+msgstr "Cegante^z"
 
 msgid "ITEM@INFUSION@INFLICT_BLINDED@NOUN_01"
 msgstr "Ceifador^n"
 
 msgid "ITEM@INFUSION@INFLICT_BLOOD_PARASITE@ADJ_01"
-msgstr "Parasitário^a"
+msgstr "Parasitário^z"
 
 msgid "ITEM@INFUSION@INFLICT_BLOOD_PARASITE@ADJ_02"
-msgstr "Infestante^a"
+msgstr "Infestante^z"
 
 msgid "ITEM@INFUSION@INFLICT_BLOOD_PARASITE@ADJ_03"
-msgstr "Sangue-tóxico^a"
+msgstr "Sangue-tóxico^z"
 
 msgid "ITEM@INFUSION@INFLICT_BLOOD_PARASITE@POST_01"
 msgstr "de Parasitas de Sangue^z"
@@ -103212,142 +103212,142 @@ msgid "ITEM@INFUSION@INFLICT_BLOOD_PARASITE@POST_03"
 msgstr "do Sangue Infestado^z"
 
 msgid "ITEM@INFUSION@INFLICT_BURNING@ADJ_01"
-msgstr "Queimando^a"
+msgstr "Queimando^z"
 
 msgid "ITEM@INFUSION@INFLICT_BURNING@ADJ_02"
-msgstr "Escaldante^a"
+msgstr "Escaldante^z"
 
 msgid "ITEM@INFUSION@INFLICT_CONDEMNED@ADJ_01"
-msgstr "Condenador^a"
+msgstr "Condenador^z"
 
 msgid "ITEM@INFUSION@INFLICT_DECAYING@ADJ_01"
-msgstr "Decompondo^a"
+msgstr "Decompondo^z"
 
 msgid "ITEM@INFUSION@INFLICT_DECAYING@ADJ_02"
-msgstr "Apodrecendo^a"
+msgstr "Apodrecendo^z"
 
 msgid "ITEM@INFUSION@INFLICT_DECAYING@ADJ_03"
-msgstr "Deteriorando^a"
+msgstr "Deteriorando^z"
 
 msgid "ITEM@INFUSION@INFLICT_DECAYING@NOUN_01"
 msgstr "Portador de Podridão^n"
 
 msgid "ITEM@INFUSION@INFLICT_DESPAIR@ADJ_01"
-msgstr "Desanimador^a"
+msgstr "Desanimador^z"
 
 msgid "ITEM@INFUSION@INFLICT_DESPAIR@ADJ_02"
-msgstr "Melancólico^a"
+msgstr "Melancólico^z"
 
 msgid "ITEM@INFUSION@INFLICT_DESPAIR@ADJ_03"
-msgstr "Desmoralizante^a"
+msgstr "Desmoralizante^z"
 
 msgid "ITEM@INFUSION@INFLICT_DISEASED@ADJ_01"
-msgstr "Contagioso^a"
+msgstr "Contagioso^z"
 
 msgid "ITEM@INFUSION@INFLICT_DISEASED@ADJ_02"
-msgstr "Infeccioso^a"
+msgstr "Infeccioso^z"
 
 msgid "ITEM@INFUSION@INFLICT_DISEASED@ADJ_03"
-msgstr "Contaminado^a"
+msgstr "Contaminado^z"
 
 msgid "ITEM@INFUSION@INFLICT_DISTRACTED@ADJ_01"
-msgstr "Distraente^a"
+msgstr "Distraente^z"
 
 msgid "ITEM@INFUSION@INFLICT_DISTRACTED@ADJ_02"
-msgstr "Perturbador^a"
+msgstr "Perturbador^z"
 
 msgid "ITEM@INFUSION@INFLICT_DISTRACTED@POST_01"
 msgstr "de Distração^z"
 
 msgid "ITEM@INFUSION@INFLICT_ELECTRIFIED@ADJ_01"
-msgstr "Eletrificado^a"
+msgstr "Eletrificado^z"
 
 msgid "ITEM@INFUSION@INFLICT_ELECTRIFIED@ADJ_02"
-msgstr "Chocante^a"
+msgstr "Chocante^z"
 
 msgid "ITEM@INFUSION@INFLICT_FROZEN@ADJ_01"
-msgstr "Congelado^a"
+msgstr "Congelado^z"
 
 msgid "ITEM@INFUSION@INFLICT_FROZEN@ADJ_02"
-msgstr "Congelado^a"
+msgstr "Congelado^z"
 
 msgid "ITEM@INFUSION@INFLICT_FROZEN@ADJ_03"
-msgstr "Frio^a"
+msgstr "Frio^z"
 
 msgid "ITEM@INFUSION@INFLICT_IMMOBILIZED@ADJ_01"
-msgstr "Imobilizante^a"
+msgstr "Imobilizante^z"
 
 msgid "ITEM@INFUSION@INFLICT_IMMOBILIZED@ADJ_02"
-msgstr "Debilitante^a"
+msgstr "Debilitante^z"
 
 msgid "ITEM@INFUSION@INFLICT_INSANITY@ADJ_01"
-msgstr "Insano^a"
+msgstr "Insano^z"
 
 msgid "ITEM@INFUSION@INFLICT_INSANITY@ADJ_02"
-msgstr "Enlouquecedor^a"
+msgstr "Enlouquecedor^z"
 
 msgid "ITEM@INFUSION@INFLICT_INSANITY@ADJ_03"
-msgstr "Alucinante^a"
+msgstr "Alucinante^z"
 
 msgid "ITEM@INFUSION@INFLICT_KNOCKBACK@ADJ_01"
-msgstr "Desafiador^a"
+msgstr "Desafiador^z"
 
 msgid "ITEM@INFUSION@INFLICT_KNOCKBACK@ADJ_02"
-msgstr "Tremor^a"
+msgstr "Tremor^z"
 
 msgid "ITEM@INFUSION@INFLICT_MARKED@ADJ_01"
 msgstr "Marcando^ a"
 
 msgid "ITEM@INFUSION@INFLICT_MARKED@ADJ_02"
-msgstr "Etiquetando^a"
+msgstr "Etiquetando^z"
 
 msgid "ITEM@INFUSION@INFLICT_POISONED@ADJ_01"
-msgstr "Envenenado^a"
+msgstr "Envenenado^z"
 
 msgid "ITEM@INFUSION@INFLICT_SLOWED@ADJ_01"
-msgstr "Lentificador^a"
+msgstr "Lentificador^z"
 
 msgid "ITEM@INFUSION@INFLICT_STATUSVULNERABILITY@ADJ_01"
-msgstr "Distraente^a"
+msgstr "Distraente^z"
 
 msgid "ITEM@INFUSION@INFLICT_STUNNED@ADJ_01"
-msgstr "Atordoante^a"
+msgstr "Atordoante^z"
 
 msgid "ITEM@INFUSION@INFLICT_STUNNED@ADJ_02"
-msgstr "Cambaleante^a"
+msgstr "Cambaleante^z"
 
 msgid "ITEM@INFUSION@INFLICT_SUNDEREDDEFENSE@ADJ_01"
-msgstr "Despedacante^a"
+msgstr "Despedacante^z"
 
 msgid "ITEM@INFUSION@INFLICT_SUNDEREDRESISTANCE@ADJ_01"
-msgstr "Despedacante^a"
+msgstr "Despedacante^z"
 
 msgid "ITEM@INFUSION@INFLICT_TAUNTED@ADJ_01"
-msgstr "Provocante^a"
+msgstr "Provocante^z"
 
 msgid "ITEM@INFUSION@INFLICT_TAUNTED@ADJ_02"
-msgstr "Desdenhoso^a"
+msgstr "Desdenhoso^z"
 
 msgid "ITEM@INFUSION@INFLICT_TAUNTED@ADJ_03"
-msgstr "Zombeteiro^a"
+msgstr "Zombeteiro^z"
 
 msgid "ITEM@INFUSION@INFLICT_TAUNTED@ADJ_04"
-msgstr "Provocador^a"
+msgstr "Provocador^z"
 
 msgid "ITEM@INFUSION@INFLICT_TAUNTED@ADJ_05"
-msgstr "Ofensivo^a"
+msgstr "Ofensivo^z"
 
 msgid "ITEM@INFUSION@INFLICT_TORMENT@ADJ_01"
-msgstr "Tormentoso^a"
+msgstr "Tormentoso^z"
 
 msgid "ITEM@INFUSION@INFLICT_TORMENT@ADJ_02"
-msgstr "Agonizante^a"
+msgstr "Agonizante^z"
 
 msgid "ITEM@INFUSION@INFLICT_TORMENT@ADJ_03"
-msgstr "Torturante^a"
+msgstr "Torturante^z"
 
 msgid "ITEM@INFUSION@INFLICT_TORMENT@ADJ_04"
-msgstr "Assediador^a"
+msgstr "Assediador^z"
 
 msgid "ITEM@INFUSION@INFLICT_TORMENT@NOUN_01"
 msgstr "Torturador^n"
@@ -103362,28 +103362,28 @@ msgid "ITEM@INFUSION@INFLICT_TORMENT@POST_03"
 msgstr "de Tormento^z"
 
 msgid "ITEM@INFUSION@INFLICT_VULNERABILITY@ADJ_02"
-msgstr "Entorpecente^a"
+msgstr "Entorpecente^z"
 
 msgid "ITEM@INFUSION@INFLICT_WEAKENED@ADJ_01"
-msgstr "Enfraquecedor^a"
+msgstr "Enfraquecedor^z"
 
 msgid "ITEM@INFUSION@INFLICT_WET@ADJ_01"
-msgstr "Encharcado^a"
+msgstr "Encharcado^z"
 
 msgid "ITEM@INFUSION@INFLICT_WET@ADJ_02"
-msgstr "Encharcado^a"
+msgstr "Encharcado^z"
 
 msgid "ITEM@INFUSION@INFLICT_WET@ADJ_03"
-msgstr "Umidificante^a"
+msgstr "Umidificante^z"
 
 msgid "ITEM@INFUSION@INFLICT_WET@ADJ_04"
-msgstr "Encharcado^a"
+msgstr "Encharcado^z"
 
 msgid "ITEM@INFUSION@INFLICT_WET@ADJ_05"
-msgstr "Úmido^a"
+msgstr "Úmido^z"
 
 msgid "ITEM@INFUSION@INSPIRINGKILLER@ADJ_01"
-msgstr "Inspirador^a"
+msgstr "Inspirador^z"
 
 msgid "ITEM@INFUSION@INSPIRINGKILLER@POST_01"
 msgstr "do Assassino^z"
@@ -103407,16 +103407,16 @@ msgid "ITEM@INFUSION@KILLINGMOMENTUM@POST_01"
 msgstr "do Momentum de Matar^z"
 
 msgid "ITEM@INFUSION@LIFEDRINKER@ADJ_01"
-msgstr "Sanguessugador^a"
+msgstr "Sanguessugador^z"
 
 msgid "ITEM@INFUSION@LIFEDRINKER@ADJ_02"
-msgstr "Sifonante^a"
+msgstr "Sifonante^z"
 
 msgid "ITEM@INFUSION@LIFEDRINKER@ADJ_03"
-msgstr "Vampírico^a"
+msgstr "Vampírico^z"
 
 msgid "ITEM@INFUSION@LIFEDRINKER@ADJ_04"
-msgstr "Sanguinário^a"
+msgstr "Sanguinário^z"
 
 msgid "ITEM@INFUSION@LIFEDRINKER@POST_01"
 msgstr "do Sanguessugador^z"
@@ -103425,13 +103425,13 @@ msgid "ITEM@INFUSION@LIFEDRINKER@POST_02"
 msgstr "do Sifonante^z"
 
 msgid "ITEM@INFUSION@LIFESTEAL@ADJ_01"
-msgstr "Roubo de Vida^a"
+msgstr "Roubo de Vida^z"
 
 msgid "ITEM@INFUSION@LIFESTEAL@ADJ_02"
-msgstr "Ceifador^a"
+msgstr "Ceifador^z"
 
 msgid "ITEM@INFUSION@MOUNTAINWALKING@ADJ_01"
-msgstr "Caminhada Montanhosa^a"
+msgstr "Caminhada Montanhosa^z"
 
 msgid "ITEM@INFUSION@MOUNTAINWALKING@ADJ_02"
 msgstr "do Caminhante de Penhasco^z"
@@ -103455,7 +103455,7 @@ msgid "ITEM@INFUSION@MOVEMENTSPEED@ADJ_02"
 msgstr "do Atleta^z"
 
 msgid "ITEM@INFUSION@MOVEMENTSPEED@ADJ_03"
-msgstr "Ágil^a"
+msgstr "Ágil^z"
 
 msgid "ITEM@INFUSION@MOVEMENTSPEED@ADJ_04"
 msgstr "do Andarilho do Vento^z"
@@ -103473,13 +103473,13 @@ msgid "ITEM@INFUSION@MOVEMENTSPEED@POST_03"
 msgstr "do Cavaleiro do Vento^z"
 
 msgid "ITEM@INFUSION@PASSTHROUGH@ADJ_01"
-msgstr "Etéreo^a"
+msgstr "Etéreo^z"
 
 msgid "ITEM@INFUSION@PASSTHROUGH@ADJ_02"
-msgstr "Espectral^a"
+msgstr "Espectral^z"
 
 msgid "ITEM@INFUSION@PASSTHROUGH@ADJ_03"
-msgstr "Incorpóreo^a"
+msgstr "Incorpóreo^z"
 
 msgid "ITEM@INFUSION@PASSTHROUGH@NOUN_01"
 msgstr "Tecelão de Véus^n"
@@ -103488,19 +103488,19 @@ msgid "ITEM@INFUSION@PASSTHROUGH@POST_01"
 msgstr "do Fantasma^z"
 
 msgid "ITEM@INFUSION@RAISE_ZOMBIE_ON_KILL@ADJ_01"
-msgstr "Erguidor^a"
+msgstr "Erguidor^z"
 
 msgid "ITEM@INFUSION@RAISE_ZOMBIE_ON_KILL@ADJ_02"
-msgstr "Necromântico^a"
+msgstr "Necromântico^z"
 
 msgid "ITEM@INFUSION@RAISE_ZOMBIE_ON_KILL@ADJ_03"
 msgstr "do Ghul^z"
 
 msgid "ITEM@INFUSION@RAISE_ZOMBIE_ON_KILL@ADJ_04"
-msgstr "Reanimador^a"
+msgstr "Reanimador^z"
 
 msgid "ITEM@INFUSION@RAISE_ZOMBIE_ON_KILL@ADJ_05"
-msgstr "Infectante^a"
+msgstr "Infectante^z"
 
 msgid "ITEM@INFUSION@RAISE_ZOMBIE_ON_KILL@NOUN_01"
 msgstr "Mortis^n"
@@ -103518,13 +103518,13 @@ msgid "ITEM@INFUSION@RAISE_ZOMBIE_ON_KILL_T4@ADJ_05"
 msgstr "de Nekron^z"
 
 msgid "ITEM@INFUSION@REDUCEARMYUPKEEP@ADJ_01"
-msgstr "Frugal^a"
+msgstr "Frugal^z"
 
 msgid "ITEM@INFUSION@REDUCEARMYUPKEEP@ADJ_02"
-msgstr "Astuto^a"
+msgstr "Astuto^z"
 
 msgid "ITEM@INFUSION@REDUCEARMYUPKEEP@ADJ_03"
-msgstr "Cordão de Bolsa^a"
+msgstr "Cordão de Bolsa^z"
 
 msgid "ITEM@INFUSION@REDUCEARMYUPKEEP@NOUN_01"
 msgstr "Ruína da Carga^n"
@@ -103533,13 +103533,13 @@ msgid "ITEM@INFUSION@REDUCEARMYUPKEEP@POST_01"
 msgstr "da Frugalidade^z"
 
 msgid "ITEM@INFUSION@REFLECTION@ADJ_01"
-msgstr "Reflexivo^a"
+msgstr "Reflexivo^z"
 
 msgid "ITEM@INFUSION@REFLECTION_CLEANSINGFIRE@ADJ_01"
-msgstr "Punitivo^a"
+msgstr "Punitivo^z"
 
 msgid "ITEM@INFUSION@REFLECTION_CLEANSINGFIRE@ADJ_02"
-msgstr "Fogo Abrasador^a"
+msgstr "Fogo Abrasador^z"
 
 msgid "ITEM@INFUSION@REFLECTION_CLEANSINGFIRE@NOUN_01"
 msgstr "Retaliação^n"
@@ -103551,67 +103551,67 @@ msgid "ITEM@INFUSION@REFLECTION_CLEANSINGFIRE@POST_01"
 msgstr "da Chama Purificadora^z"
 
 msgid "ITEM@INFUSION@REGENERATION@ADJ_01"
-msgstr "Regenerador^a"
+msgstr "Regenerador^z"
 
 msgid "ITEM@INFUSION@REGENERATION@POST_01"
 msgstr "da Regeneração^z"
 
 msgid "ITEM@INFUSION@RESISTANCE@ADJ_01"
-msgstr "Escudo^a"
+msgstr "Escudo^z"
 
 msgid "ITEM@INFUSION@RESISTANCE@ADJ_02"
-msgstr "Encantado^a"
+msgstr "Encantado^z"
 
 msgid "ITEM@INFUSION@RESISTANCE@ADJ_03"
-msgstr "Resistente^a"
+msgstr "Resistente^z"
 
 msgid "ITEM@INFUSION@RESISTANCE_BLIGHT@ADJ_01"
-msgstr "Purificador^a"
+msgstr "Purificador^z"
 
 msgid "ITEM@INFUSION@RESISTANCE_BLIGHT_STRONG@ADJ_01"
-msgstr "À Prova de Peste^a"
+msgstr "À Prova de Peste^z"
 
 msgid "ITEM@INFUSION@RESISTANCE_FIRE@ADJ_01"
-msgstr "Extintor^a"
+msgstr "Extintor^z"
 
 msgid "ITEM@INFUSION@RESISTANCE_FIRE@ADJ_02"
-msgstr "Proteção de Chama^a"
+msgstr "Proteção de Chama^z"
 
 msgid "ITEM@INFUSION@RESISTANCE_FIRE_STRONG@ADJ_01"
-msgstr "À Prova de Chama^a"
+msgstr "À Prova de Chama^z"
 
 msgid "ITEM@INFUSION@RESISTANCE_FROST@ADJ_01"
-msgstr "Aquecedor^a"
+msgstr "Aquecedor^z"
 
 msgid "ITEM@INFUSION@RESISTANCE_FROST_STRONG@ADJ_01"
-msgstr "À Prova de Gelo^a"
+msgstr "À Prova de Gelo^z"
 
 msgid "ITEM@INFUSION@RESISTANCE_LIGHTNING@ADJ_01"
-msgstr "Proteção de Trovão^a"
+msgstr "Proteção de Trovão^z"
 
 msgid "ITEM@INFUSION@RESISTANCE_LIGHTNING_STRONG@ADJ_01"
-msgstr "Amortecedor^a"
+msgstr "Amortecedor^z"
 
 msgid "ITEM@INFUSION@RESISTANCE_SPIRIT@ADJ_01"
-msgstr "Desafiador^a"
+msgstr "Desafiador^z"
 
 msgid "ITEM@INFUSION@RESISTANCE_SPIRIT_STRONG@ADJ_01"
-msgstr "Santificado^a"
+msgstr "Santificado^z"
 
 msgid "ITEM@INFUSION@RETALIATION@ADJ_01"
-msgstr "Retaliador^a"
+msgstr "Retaliador^z"
 
 msgid "ITEM@INFUSION@RETALIATION_REFLECTION@ADJ_01"
-msgstr "Vingativo^a"
+msgstr "Vingativo^z"
 
 msgid "ITEM@INFUSION@RETALIATION_REFLECTION@ADJ_02"
-msgstr "Retributivo^a"
+msgstr "Retributivo^z"
 
 msgid "ITEM@INFUSION@SIEGEUNIT@ADJ_01"
 msgstr "Do Vencedor^z"
 
 msgid "ITEM@INFUSION@SIEGEUNIT@ADJ_02"
-msgstr "Quebra-Muros^a"
+msgstr "Quebra-Muros^z"
 
 msgid "ITEM@INFUSION@SIEGEUNIT@NOUN_01"
 msgstr "Quebra-Muros^n"
@@ -103620,13 +103620,13 @@ msgid "ITEM@INFUSION@SIEGEUNIT@POST_01"
 msgstr "do Quebra-Muros^z"
 
 msgid "ITEM@INFUSION@SLAYER@ADJ_01"
-msgstr "Matança^a"
+msgstr "Matança^z"
 
 msgid "ITEM@INFUSION@SLAYER@ADJ_02"
-msgstr "Odioso^a"
+msgstr "Odioso^z"
 
 msgid "ITEM@INFUSION@SLAYER@ADJ_03"
-msgstr "Desprezado^a"
+msgstr "Desprezado^z"
 
 msgid "ITEM@INFUSION@SLAYER@NOUN_01"
 msgstr "Matador^n"
@@ -103644,7 +103644,7 @@ msgid "ITEM@INFUSION@SLAYER_ANIMAL@POST_02"
 msgstr "do Caçador^z"
 
 msgid "ITEM@INFUSION@SLAYER_CELESTIAL@ADJ_01"
-msgstr "Matança Celestial^a"
+msgstr "Matança Celestial^z"
 
 msgid "ITEM@INFUSION@SLAYER_CELESTIAL@NOUN_01"
 msgstr "Ruína do Arconte^n"
@@ -103656,7 +103656,7 @@ msgid "ITEM@INFUSION@SLAYER_CELESTIAL@POST_01"
 msgstr "da Matança Celestial^z"
 
 msgid "ITEM@INFUSION@SLAYER_CONSTRUCT@ADJ_01"
-msgstr "Matança de Constructos^a"
+msgstr "Matança de Constructos^z"
 
 msgid "ITEM@INFUSION@SLAYER_CONSTRUCT@NOUN_01"
 msgstr "Destruidor de Constructos^n"
@@ -103665,7 +103665,7 @@ msgid "ITEM@INFUSION@SLAYER_CONSTRUCT@POST_01"
 msgstr "da Matança de Constructos^z"
 
 msgid "ITEM@INFUSION@SLAYER_DRAGON@ADJ_01"
-msgstr "Matança de Dragões^a"
+msgstr "Matança de Dragões^z"
 
 msgid "ITEM@INFUSION@SLAYER_DRAGON@NOUN_01"
 msgstr "Ruína do Dragão^n"
@@ -103677,13 +103677,13 @@ msgid "ITEM@INFUSION@SLAYER_DRAGON@POST_01"
 msgstr "da Matança de Dragões^z"
 
 msgid "ITEM@INFUSION@SLAYER_ELEMENTAL@ADJ_01"
-msgstr "Matança Elemental^a"
+msgstr "Matança Elemental^z"
 
 msgid "ITEM@INFUSION@SLAYER_ELEMENTAL@POST_01"
 msgstr "da Matança Elemental^z"
 
 msgid "ITEM@INFUSION@SLAYER_FIEND@ADJ_01"
-msgstr "Matança de Demônios^a"
+msgstr "Matança de Demônios^z"
 
 msgid "ITEM@INFUSION@SLAYER_FIEND@NOUN_01"
 msgstr "Ruína do Demônio^n"
@@ -103692,7 +103692,7 @@ msgid "ITEM@INFUSION@SLAYER_FIEND@POST_01"
 msgstr "da Matança de Demônios^z"
 
 msgid "ITEM@INFUSION@SLAYER_GIANT@ADJ_01"
-msgstr "Matança de Gigantes^a"
+msgstr "Matança de Gigantes^z"
 
 msgid "ITEM@INFUSION@SLAYER_GIANT@NOUN_01"
 msgstr "Ruína do Gigante^n"
@@ -103701,7 +103701,7 @@ msgid "ITEM@INFUSION@SLAYER_GIANT@POST_01"
 msgstr "da Matança de Gigantes^z"
 
 msgid "ITEM@INFUSION@SLAYER_HERO@ADJ_01"
-msgstr "Matança de Heróis^a"
+msgstr "Matança de Heróis^z"
 
 msgid "ITEM@INFUSION@SLAYER_HERO@NOUN_01"
 msgstr "Ruína do Herói^n"
@@ -103713,7 +103713,7 @@ msgid "ITEM@INFUSION@SLAYER_HERO@POST_01"
 msgstr "da Lenda Final^z"
 
 msgid "ITEM@INFUSION@SLAYER_MAGICORIGIN@ADJ_01"
-msgstr "Matança de Invocações^a"
+msgstr "Matança de Invocações^z"
 
 msgid "ITEM@INFUSION@SLAYER_MAGICORIGIN@NOUN_01"
 msgstr "Matador de Invocações^n"
@@ -103725,10 +103725,10 @@ msgid "ITEM@INFUSION@SLAYER_MAGICORIGIN@POST_01"
 msgstr "da Matança de Invocações^z"
 
 msgid "ITEM@INFUSION@SLAYER_PLANT@ADJ_01"
-msgstr "Capina^a"
+msgstr "Capina^z"
 
 msgid "ITEM@INFUSION@SLAYER_PLANT@ADJ_02"
-msgstr "Matança de Plantas^a"
+msgstr "Matança de Plantas^z"
 
 msgid "ITEM@INFUSION@SLAYER_PLANT@NOUN_01"
 msgstr "Capinador^n"
@@ -103743,19 +103743,19 @@ msgid "ITEM@INFUSION@SLAYER_PLANT@POST_02"
 msgstr "de Extermínio de Plantas^z"
 
 msgid "ITEM@INFUSION@SLAYER_UNDEAD@ADJ_01"
-msgstr "Matança de Mortos-Vivos^a"
+msgstr "Matança de Mortos-Vivos^z"
 
 msgid "ITEM@INFUSION@SLAYER_UNDEAD@ADJ_02"
-msgstr "Purificador^a"
+msgstr "Purificador^z"
 
 msgid "ITEM@INFUSION@SLAYER_UNDEAD@POST_01"
 msgstr "de Matança de Mortos-Vivos^z"
 
 msgid "ITEM@INFUSION@SLIPAWAY@ADJ_01"
-msgstr "Evasivo^a"
+msgstr "Evasivo^z"
 
 msgid "ITEM@INFUSION@SLIPAWAY@ADJ_02"
-msgstr "Escorregadio^a"
+msgstr "Escorregadio^z"
 
 msgid "ITEM@INFUSION@SLIPAWAY@ADJ_03"
 msgstr "do Escapista^z"
@@ -103764,40 +103764,40 @@ msgid "ITEM@INFUSION@SLIPAWAY@POST_01"
 msgstr "de Fuga^z"
 
 msgid "ITEM@INFUSION@SLIPPERY@ADJ_01"
-msgstr "Escorregadio^a"
+msgstr "Escorregadio^z"
 
 msgid "ITEM@INFUSION@SLIPPERY@ADJ_02"
-msgstr "Elusivo^a"
+msgstr "Elusivo^z"
 
 msgid "ITEM@INFUSION@SLIPPERY@ADJ_03"
-msgstr "Encoberto^a"
+msgstr "Encoberto^z"
 
 msgid "ITEM@INFUSION@SLIPPERY@POST_01"
 msgstr "de Elusão^z"
 
 msgid "ITEM@INFUSION@STATUSEFFECTIMMUNITY@ADJ_01"
-msgstr "Firme^a"
+msgstr "Firme^z"
 
 msgid "ITEM@INFUSION@STATUSEFFECTIMMUNITY@POST_01"
 msgstr "do Guerreiro Firme^z"
 
 msgid "ITEM@INFUSION@STATUSRESISTANCE@ADJ_01"
-msgstr "Protetor^a"
+msgstr "Protetor^z"
 
 msgid "ITEM@INFUSION@STATUSRESISTANCE@ADJ_02"
-msgstr "Resiliente^a"
+msgstr "Resiliente^z"
 
 msgid "ITEM@INFUSION@STATUSRESISTANCE@ADJ_03"
-msgstr "Inabalável^a"
+msgstr "Inabalável^z"
 
 msgid "ITEM@INFUSION@STEALBOON@_ATTACKADJ_01"
 msgstr "Furtivo^a"
 
 msgid "ITEM@INFUSION@STEALBOON_ATTACK@ADJ_01"
-msgstr "Furtivo^a"
+msgstr "Furtivo^z"
 
 msgid "ITEM@INFUSION@STEALBOON_ATTACK@ADJ_02"
-msgstr "Ladrão^a"
+msgstr "Ladrão^z"
 
 msgid "ITEM@INFUSION@STEALBOON_ATTACK@NOUN_01"
 msgstr "Ladrão de Bênçãos^n"
@@ -103812,19 +103812,19 @@ msgid "ITEM@INFUSION@STEALBOON_ATTACK@POST_02"
 msgstr "de Bençãos^z"
 
 msgid "ITEM@INFUSION@SUPPORT@ADJ_01"
-msgstr "Solidário^a"
+msgstr "Solidário^z"
 
 msgid "ITEM@INFUSION@SUPPORT@ADJ_02"
-msgstr "Auxiliar^a"
+msgstr "Auxiliar^z"
 
 msgid "ITEM@INFUSION@SUPPORT@ADJ_03"
-msgstr "Cuidadoso^a"
+msgstr "Cuidadoso^z"
 
 msgid "ITEM@INFUSION@SUPPORT@ADJ_04"
-msgstr "Nutritivo^a"
+msgstr "Nutritivo^z"
 
 msgid "ITEM@INFUSION@SUPPORT@ADJ_05"
-msgstr "Sereno^a"
+msgstr "Sereno^z"
 
 msgid "ITEM@INFUSION@SUPPORT@POST_01"
 msgstr "de Apoio^z"
@@ -103836,25 +103836,25 @@ msgid "ITEM@INFUSION@SUPPORT@POST_03"
 msgstr "de Serenidade^z"
 
 msgid "ITEM@INFUSION@SUPPORTDEFENSE@ADJ_01"
-msgstr "Reforço^a"
+msgstr "Reforço^z"
 
 msgid "ITEM@INFUSION@SUPPORTRESISTANCE@ADJ_01"
-msgstr "Reforço^a"
+msgstr "Reforço^z"
 
 msgid "ITEM@INFUSION@SUPPORTSTRENGTHENED@ADJ_01"
-msgstr "Fortalecedor^a"
+msgstr "Fortalecedor^z"
 
 msgid "ITEM@INFUSION@SWIFT@ADJ_01"
-msgstr "Ágil^a"
+msgstr "Ágil^z"
 
 msgid "ITEM@INFUSION@SWIFT@POST_01"
 msgstr "de Agilidade^z"
 
 msgid "ITEM@INFUSION@TERRIFYING@ADJ_01"
-msgstr "Aterrorizante^a"
+msgstr "Aterrorizante^z"
 
 msgid "ITEM@INFUSION@TERRIFYING@ADJ_02"
-msgstr "Assustador^a"
+msgstr "Assustador^z"
 
 msgid "ITEM@INFUSION@TERRIFYING@POST_01"
 msgstr "do Medo^z"
@@ -103863,19 +103863,19 @@ msgid "ITEM@INFUSION@TERRIFYING@POST_02"
 msgstr "do Terror^z"
 
 msgid "ITEM@INFUSION@TRUEDAMAGE_ATACK@ADJ_01"
-msgstr "Perfurante^a"
+msgstr "Perfurante^z"
 
 msgid "ITEM@INFUSION@TRUEDAMAGE_ATACK@ADJ_02"
-msgstr "Dilacerante^a"
+msgstr "Dilacerante^z"
 
 msgid "ITEM@INFUSION@TRUEDAMAGE_ATACK@ADJ_03"
-msgstr "Rasgante^a"
+msgstr "Rasgante^z"
 
 msgid "ITEM@INFUSION@TRUEDAMAGE_ATACK@POST_01"
 msgstr "de Dano Verdadeiro^z"
 
 msgid "ITEM@INFUSION@TRUESIGHT@ADJ_01"
-msgstr "Visão Verdadeira^a"
+msgstr "Visão Verdadeira^z"
 
 msgid "ITEM@INFUSION@TRUESIGHT@NOUN_01"
 msgstr "Vidente^n"
@@ -103899,7 +103899,7 @@ msgid "ITEM@INFUSION@UMBRALMALADY_IMMUNITY@POST_03"
 msgstr "da Proteção Umbral^z"
 
 msgid "ITEM@INFUSION@UNDYING@ADJ_01"
-msgstr "Imortal^a"
+msgstr "Imortal^z"
 
 msgid "ITEM@INFUSION@UNDYING@NOUN_01"
 msgstr "Linha de Vida^n"
@@ -103914,7 +103914,7 @@ msgid "ITEM@INFUSION@UNDYING@POST_03"
 msgstr "dos Imortais^z"
 
 msgid "ITEM@INFUSION@UNIVERSALCAMOUFLAGE@ADJ_01"
-msgstr "Camuflado^a"
+msgstr "Camuflado^z"
 
 msgid "ITEM@INFUSION@UNIVERSALCAMOUFLAGE@POST_01"
 msgstr "da Camuflagem^z"
@@ -103929,40 +103929,40 @@ msgid "ITEM@INFUSION@UNLEASH_THE_HOUNDS@POST_02"
 msgstr "do Mestre dos Cães^z"
 
 msgid "ITEM@INFUSION@UNYIELDING@ADJ_01"
-msgstr "Inflexível^a"
+msgstr "Inflexível^z"
 
 msgid "ITEM@INFUSION@UNYIELDING@ADJ_02"
-msgstr "Adamantino^a"
+msgstr "Adamantino^z"
 
 msgid "ITEM@INFUSION@UNYIELDING@POST_01"
 msgstr "da Perseverança^z"
 
 msgid "ITEM@INFUSION@VICIOUSKILLER@ADJ_01"
-msgstr "Impiedoso^a"
+msgstr "Impiedoso^z"
 
 msgid "ITEM@INFUSION@VICIOUSKILLER@ADJ_02"
-msgstr "Cruel^a"
+msgstr "Cruel^z"
 
 msgid "ITEM@INFUSION@WATCHFUL@ADJ_01"
-msgstr "Vigilante^a"
+msgstr "Vigilante^z"
 
 msgid "ITEM@INFUSION@WATCHFUL@POST_01"
 msgstr "da Vigilância^z"
 
 msgid "ITEM@INFUSION@WEAKENING@ADJ_01"
-msgstr "Enfraquecedor^a"
+msgstr "Enfraquecedor^z"
 
 msgid "ITEM@INFUSION@WEAKENING@ADJ_02"
-msgstr "Debilitante^a"
+msgstr "Debilitante^z"
 
 msgid "ITEM@INFUSION@WEAKENING@POST_01"
 msgstr "do Enfraquecimento^z"
 
 msgid "ITEM@INFUSION@WORLDMAPHEAL@ADJ_01"
-msgstr "Relaxante^a"
+msgstr "Relaxante^z"
 
 msgid "ITEM@INFUSION@WORLDMAPHEAL@ADJ_02"
-msgstr "Rejuvenescedor^a"
+msgstr "Rejuvenescedor^z"
 
 msgid "ITEM@INFUSION@WORLDMAPHEAL@POST_01"
 msgstr "da Canção Relaxante^z"
@@ -103971,7 +103971,7 @@ msgid "ITEM@INFUSION@WORLDMAPHEAL@POST_02"
 msgstr "do Conforto^z"
 
 msgid "ITEM@INFUSION@ZEAL@ADJ_01"
-msgstr "Zeloso^a"
+msgstr "Zeloso^z"
 
 msgid "ITEM@INFUSION@ZEAL@POST_01"
 msgstr "do Zelote^z"
