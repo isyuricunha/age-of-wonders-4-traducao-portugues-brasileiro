@@ -16947,7 +16947,7 @@ msgid "DIPLOMACY_MODIFIERS@ALIGNMENT@DECLAREWAR_MAJORCB"
 msgstr "Declarou guerra com grande {GLOBAL.WarJustificationConcept.Hyperlink}"
 
 msgid "DIPLOMACY_MODIFIERS@ALIGNMENT@DECLAREWAR_MINORCB"
-msgstr "Declarou guerra com menor {GLOBAL.WarJustificationConcept.Hyperlink}"
+msgstr "Declarou guerra com {GLOBAL.WarJustificationConcept.Hyperlink} Menor"
 
 msgid "DIPLOMACY_MODIFIERS@ALIGNMENT@DECLAREWAR_NOCB"
 msgstr "Declarou uma guerra injustificada"
@@ -17937,10 +17937,10 @@ msgid "DIPLOMATICSTATES_DEFINITIONS@OPTION_WAR_MINOR_CB@AI_DESC"
 msgstr "Você me ofendeu muitas vezes. Você é o próximo da minha lista!"
 
 msgid "DIPLOMATICSTATES_DEFINITIONS@OPTION_WAR_MINOR_CB@DESCRIPTION"
-msgstr "Declarar guerra ao outro Governante com menor {GLOBAL.WarJustificationConcept.Hyperlink}."
+msgstr "Declarar guerra ao outro Governante com {GLOBAL.WarJustificationConcept.Hyperlink} Menor."
 
 msgid "DIPLOMATICSTATES_DEFINITIONS@OPTION_WAR_MINOR_CB@NAME"
-msgstr "Declarar guerra com menor {GLOBAL.WarJustificationConcept.Hyperlink} (1-25[CasusBelli/])"
+msgstr "Declarar guerra com {GLOBAL.WarJustificationConcept.Hyperlink} Menor (1-25[CasusBelli/])"
 
 msgid "DIPLOMATICSTATES_DEFINITIONS@OPTION_WAR_NORMAL_CB@AI_DESC"
 msgstr "Você não achou que eu simplesmente esqueceria, não é?"
