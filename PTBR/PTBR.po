@@ -69,7 +69,7 @@ msgid "ABILITYREQ@NOREFRESH@NAME"
 msgstr "Não pode ser recarregado"
 
 msgid "ABILITYREQ@RANGED@NAME"
-msgstr "Míssil"
+msgstr "Ataque à Distância"
 
 msgid "ABILITYREQ@SINGLE_SHOT@HYPERLINK"
 msgstr "[hyperlink,GLOBAL.EnchantingNonRepeatingConcept]Disparo Único[/hyperlink]"
@@ -8250,13 +8250,13 @@ msgid "CONCEPT@RANGE@NAME"
 msgstr "[range/]Alcance"
 
 msgid "CONCEPT@RANGED_ABILITY@DESCRIPTION"
-msgstr "Ataques de Míssil são ataques de alcance médio a longo realizados com armas como arcos ou facas arremessáveis.[br/][br/]Eles infligem principalmente {GLOBAL.PhysicalDamageConcept.Hyperlink} e são resistidos por {GLOBAL.DefenseConcept.Hyperlink}."
+msgstr "Ataques à Distância são ataques de alcance médio a longo, realizados com armas como arcos ou facas arremessáveis.[br/][br/]Eles infligem principalmente {GLOBAL.PhysicalDamageConcept.Hyperlink} e são resistidos por {GLOBAL.DefenseConcept.Hyperlink}."
 
 msgid "CONCEPT@RANGED_ABILITY@HYPERLINK"
-msgstr "[hyperlink,GLOBAL.RangedConcept]Míssil[/hyperlink]"
+msgstr "[hyperlink,GLOBAL.RangedConcept]Ataque à Distância[/hyperlink]"
 
 msgid "CONCEPT@RANGED_ABILITY@NAME"
-msgstr "Míssil"
+msgstr "Ataque à Distância"
 
 msgid "CONCEPT@RESISTANCE@DESCRIPTION"
 msgstr "Resistência reduz o dano causado por ataques {GLOBAL.MagicConcept.Hyperlink} e <<m:{GLOBAL.CombatSpellConcept.Hyperlink}>>."
