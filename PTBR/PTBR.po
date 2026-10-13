@@ -99642,7 +99642,7 @@ msgid "INTERFACE@TEXT@MILITARYAID_REINFORCE_GUARD_NAME"
 msgstr "Proteger {Name}"
 
 msgid "INTERFACE@TEXT@MILITARYAID_REINFORCE_GUARD_TOOLTIP"
-msgstr "[tooltipHeader]Proteger {House.Name}[/tooltipHeader][br/]Custos: {CostString}, {Duration}[br/][br/]Presenteie o exército selecionado a {House.Name}. O exército surgirá como defensores estáticos em {House.Name} após {Duration}."
+msgstr "[tooltipHeader]Proteger {House.Name}[/tooltipHeader][br/]Custos: {CostString}, {Duration}[br/][br/]Presenteie {House.Name} com o exército selecionado. O exército surgirá como defensores estáticos em {House.Name} após {Duration}."
 
 msgid "INTERFACE@TEXT@MILITARYAID_REINFORCE_JOINMISSION"
 msgstr "Participar da próxima missão do Vassalo [minorcity/]"
@@ -99657,7 +99657,7 @@ msgid "INTERFACE@TEXT@MILITARYAID_REINFORCE_JOINMISSION_STATUS"
 msgstr "Participando da próxima missão"
 
 msgid "INTERFACE@TEXT@MILITARYAID_REINFORCE_JOINMISSION_TOOLTIP"
-msgstr "[tooltipHeader]Participar da próxima missão de {House.Name}[/tooltipHeader][br/]Custos: {CostString}[br/][br/]Presenteie o exército selecionado a {House.Name}. As unidades surgirão quando {House.Name} enviar seu próximo exército para atacar /defend e serão adicionadas ao exército para ajudar na missão."
+msgstr "[tooltipHeader]Participar da próxima missão de {House.Name}[/tooltipHeader][br/]Custos: {CostString}[br/][br/]Presenteie {House.Name} com o exército selecionado. As unidades surgirão quando {House.Name} enviar seu próximo exército para atacar /defend e serão adicionadas ao exército para ajudar na missão."
 
 msgid "INTERFACE@TEXT@MILITARYAID_REINFORCE_NAME"
 msgstr "Reforçar {Name}"
@@ -99669,10 +99669,10 @@ msgid "INTERFACE@TEXT@MILITARYAID_REINFORCE_PATROL_NAME"
 msgstr "Patrulhar {Name}"
 
 msgid "INTERFACE@TEXT@MILITARYAID_REINFORCE_PATROL_TOOLTIP"
-msgstr "[tooltipHeader]Patrulhar o Domínio de {House.Name}[/tooltipHeader][br/]Custos: {CostString}, {Duration}[br/][br/]Presenteie o exército selecionado a {House.Name}. O exército surgirá em {House.Name} após {Duration} e patrulhará seu domínio."
+msgstr "[tooltipHeader]Patrulhar o Domínio de {House.Name}[/tooltipHeader][br/]Custos: {CostString}, {Duration}[br/][br/]Presenteie {House.Name} com o exército selecionado. O exército surgirá em {House.Name} após {Duration} e patrulhará seu domínio."
 
 msgid "INTERFACE@TEXT@MILITARYAID_REINFORCE_TOOLTIP"
-msgstr "[tooltipHeader]Reforçar Vassalo[/tooltipHeader][br/]Custos: {CostString}, {Duration}[br/][br/]Presenteie o exército selecionado a um dos seus vassalos. O exército surgirá como defensores na capital do vassalo após {Duration}."
+msgstr "[tooltipHeader]Reforçar Vassalo[/tooltipHeader][br/]Custos: {CostString}, {Duration}[br/][br/]Presenteie um dos seus vassalos com o exército selecionado. O exército surgirá como defensores na capital do vassalo após {Duration}."
 
 msgid "INTERFACE@TEXT@MILITARYAID_WAIT"
 msgstr "Suas cidades leais ainda estão reunindo um novo elenco de unidades."
