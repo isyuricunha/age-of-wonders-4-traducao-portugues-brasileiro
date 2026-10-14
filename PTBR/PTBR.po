@@ -29352,7 +29352,7 @@ msgid "DLC@ELDRITCHREALMS@COSMIC_HAPPENING@UNIT_CHANGE_02@PROPERTY_01@MODIFIER"
 msgstr "+{SIGN_OF_THE_CLEFT_SHIELD_DAMAGE_MULTIPLIER>ResolvedMultiplier}% de dano."
 
 msgid "DLC@ELDRITCHREALMS@COSMIC_HAPPENING@UNIT_CHANGE_03@PROPERTY_01@DESCRIPTION"
-msgstr "Unidade tem:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink} em combate.[bullet/]ataques de {GLOBAL.MagicConcept.Hyperlink} e {GLOBAL.RangedConcept.Hyperlink} contra esta unidade têm -{SIGN_OF_THE_VANGUARD_ACCURACY_TARGET>ResolvedAccuracyModifier}% {GLOBAL.AccuracyConcept.Hyperlink}.[bullet/]{GLOBAL.MeleeConcept.Hyperlink} ataques causam -{SIGN_OF_THE_VANGUARD_DAMAGE_MULTIPLIER>ResolvedMultiplier}% de dano.[/bulletlist]"
+msgstr "Unidade tem:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink} em combate.[bullet/]Ataques de {GLOBAL.MagicConcept.Hyperlink} e {GLOBAL.RangedConcept.Hyperlink} contra esta unidade têm -{SIGN_OF_THE_VANGUARD_ACCURACY_TARGET>ResolvedAccuracyModifier}% {GLOBAL.AccuracyConcept.Hyperlink}.[bullet/]{GLOBAL.MeleeConcept.Hyperlink} ataques causam -{SIGN_OF_THE_VANGUARD_DAMAGE_MULTIPLIER>ResolvedMultiplier}% de dano.[/bulletlist]"
 
 msgid "DLC@ELDRITCHREALMS@COSMIC_HAPPENING@UNIT_CHANGE_03@PROPERTY_01@MODIFIER"
 msgstr "-{SIGN_OF_THE_VANGUARD_DAMAGE_MULTIPLIER>ResolvedMultiplier}% de dano"
@@ -29577,7 +29577,7 @@ msgid "DLC@ELDRITCHREALMS@CRISIS@1167_525@SUB_HEADER"
 msgstr "[hyperlink,GLOBAL.PROPERTIES.COLOSSUS_MOON_UNIT_AUTO_SPELL]Tempestades de Trovão [/hyperlink] estão ativas em combate. Regiões ao redor do mundo se transformam em pântanos."
 
 msgid "DLC@ELDRITCHREALMS@CRISIS@1190_1834@DESCRIPTION"
-msgstr "<<m:{GLOBAL.PROPERTIES.SHOCK_UNIT.Hyperlink}>> tem:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink} em combate.[bullet/]ataques de {GLOBAL.MagicConcept.Hyperlink} e {GLOBAL.RangedConcept.Hyperlink} contra esta unidade têm -{amount1}% {GLOBAL.AccuracyConcept.Hyperlink}.[bullet/]{GLOBAL.MeleeConcept.Hyperlink} ataques causam -{amount2}% de dano.[/bulletlist]"
+msgstr "<<m:{GLOBAL.PROPERTIES.SHOCK_UNIT.Hyperlink}>> tem:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink} em combate.[bullet/]Ataques de {GLOBAL.MagicConcept.Hyperlink} e {GLOBAL.RangedConcept.Hyperlink} contra esta unidade têm -{amount1}% {GLOBAL.AccuracyConcept.Hyperlink}.[bullet/]{GLOBAL.MeleeConcept.Hyperlink} ataques causam -{amount2}% de dano.[/bulletlist]"
 
 msgid "DLC@ELDRITCHREALMS@CRISIS@1190_1834@NAME"
 msgstr "Sinal da Vanguarda"
