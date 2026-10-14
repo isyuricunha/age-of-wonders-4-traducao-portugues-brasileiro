@@ -65,6 +65,13 @@ concept is "Ataque à Distância" (matching "Unidade à Distância",
   "Gigante Anjo Caído"): the panel glues the property chip to the unit
   name. If the composite reads badly, consider renaming the UNIT (e.g.
   "Anjo Caído dos Gigantes") rather than the property.
+- **Lone single-letter words in notification logs**: the reborn log
+  "Governante {Side} retornou a {City}" rendered WITHOUT the "a"
+  (verified against the built .MO, which contains it). Event dialogs
+  render lone "a" fine, so the log pipeline drops it. City gender also
+  varies, so a/ao is not choosable anyway. Use neutral phrasing:
+  "reapareceu em {City}". Watch for other log strings with lone "a"/"o"
+  before a token.
 - **"ataques + concept" compositions**: concepts whose NAME contains
   the word attack (Ataque à Distância, Ataque de Retaliação, Ataque de
   Oportunidade) cannot follow "ataques" ("ataques Ataque à Distância"
