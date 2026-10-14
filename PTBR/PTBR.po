@@ -7806,7 +7806,7 @@ msgid "CONCEPT@ETHEREAL_IMMUNITY"
 msgstr "[bulletlist][bullet/]{GLOBAL.PROPERTIES.BLEEDING.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.DISEASED.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.IMMOBILIZED.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.POISONED.Hyperlink}[/bulletlist]"
 
 msgid "CONCEPT@EVASION@DESCRIPTION"
-msgstr "Aumenta a chance de ataques {GLOBAL.RangedConcept.Hyperlink} e {GLOBAL.MagicConcept.Hyperlink} à distância errarem."
+msgstr "Aumenta a chance de ataques de {GLOBAL.MagicConcept.Hyperlink} e {GLOBAL.RangedConcept.Hyperlink} à distância errarem."
 
 msgid "CONCEPT@EVASION@HYPERLINK"
 msgstr "[hyperlink,GLOBAL.EvasionConcept]Evasão[/hyperlink]"
@@ -29352,7 +29352,7 @@ msgid "DLC@ELDRITCHREALMS@COSMIC_HAPPENING@UNIT_CHANGE_02@PROPERTY_01@MODIFIER"
 msgstr "+{SIGN_OF_THE_CLEFT_SHIELD_DAMAGE_MULTIPLIER>ResolvedMultiplier}% de dano."
 
 msgid "DLC@ELDRITCHREALMS@COSMIC_HAPPENING@UNIT_CHANGE_03@PROPERTY_01@DESCRIPTION"
-msgstr "Unidade tem:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink} em combate.[bullet/]{GLOBAL.MagicConcept.Hyperlink} e ataques {GLOBAL.RangedConcept.Hyperlink} contra esta unidade têm -{SIGN_OF_THE_VANGUARD_ACCURACY_TARGET>ResolvedAccuracyModifier}% {GLOBAL.AccuracyConcept.Hyperlink}.[bullet/]{GLOBAL.MeleeConcept.Hyperlink} ataques causam -{SIGN_OF_THE_VANGUARD_DAMAGE_MULTIPLIER>ResolvedMultiplier}% de dano.[/bulletlist]"
+msgstr "Unidade tem:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink} em combate.[bullet/]ataques de {GLOBAL.MagicConcept.Hyperlink} e {GLOBAL.RangedConcept.Hyperlink} contra esta unidade têm -{SIGN_OF_THE_VANGUARD_ACCURACY_TARGET>ResolvedAccuracyModifier}% {GLOBAL.AccuracyConcept.Hyperlink}.[bullet/]{GLOBAL.MeleeConcept.Hyperlink} ataques causam -{SIGN_OF_THE_VANGUARD_DAMAGE_MULTIPLIER>ResolvedMultiplier}% de dano.[/bulletlist]"
 
 msgid "DLC@ELDRITCHREALMS@COSMIC_HAPPENING@UNIT_CHANGE_03@PROPERTY_01@MODIFIER"
 msgstr "-{SIGN_OF_THE_VANGUARD_DAMAGE_MULTIPLIER>ResolvedMultiplier}% de dano"
@@ -29577,7 +29577,7 @@ msgid "DLC@ELDRITCHREALMS@CRISIS@1167_525@SUB_HEADER"
 msgstr "[hyperlink,GLOBAL.PROPERTIES.COLOSSUS_MOON_UNIT_AUTO_SPELL]Tempestades de Trovão [/hyperlink] estão ativas em combate. Regiões ao redor do mundo se transformam em pântanos."
 
 msgid "DLC@ELDRITCHREALMS@CRISIS@1190_1834@DESCRIPTION"
-msgstr "<<m:{GLOBAL.PROPERTIES.SHOCK_UNIT.Hyperlink}>> tem:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink} em combate.[bullet/]{GLOBAL.MagicConcept.Hyperlink} e ataques {GLOBAL.RangedConcept.Hyperlink} contra esta unidade têm -{amount1}% {GLOBAL.AccuracyConcept.Hyperlink}.[bullet/]{GLOBAL.MeleeConcept.Hyperlink} ataques causam -{amount2}% de dano.[/bulletlist]"
+msgstr "<<m:{GLOBAL.PROPERTIES.SHOCK_UNIT.Hyperlink}>> tem:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink} em combate.[bullet/]ataques de {GLOBAL.MagicConcept.Hyperlink} e {GLOBAL.RangedConcept.Hyperlink} contra esta unidade têm -{amount1}% {GLOBAL.AccuracyConcept.Hyperlink}.[bullet/]{GLOBAL.MeleeConcept.Hyperlink} ataques causam -{amount2}% de dano.[/bulletlist]"
 
 msgid "DLC@ELDRITCHREALMS@CRISIS@1190_1834@NAME"
 msgstr "Sinal da Vanguarda"
@@ -31422,7 +31422,7 @@ msgid "DLC@ELDRITCHREALMS@HERO_SKILL@SKILL13@SPELL_DESCRIPTION"
 msgstr "Unidades no exército aliado alvo causam +{damage}% de dano até o fim do próximo combate."
 
 msgid "DLC@ELDRITCHREALMS@HERO_SKILL@SKILL14@DESCRIPTION"
-msgstr "[bulletlist][bullet/]Ganha {amountEvasion}% de evasão contra ataques {GLOBAL.RangedConcept.Hyperlink} e {GLOBAL.MagicConcept.Hyperlink}.[/bulletlist]"
+msgstr "[bulletlist][bullet/]Ganha {amountEvasion}% de evasão contra ataques de {GLOBAL.MagicConcept.Hyperlink} e {GLOBAL.RangedConcept.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@ELDRITCHREALMS@HERO_SKILL@SKILL14@NAME"
 msgstr "Ritual de Aceleração"
@@ -36282,7 +36282,7 @@ msgid "DLC@ELDRITCHREALMS@UPGRADES_TEST_UNITPROPERTIES@WEAPON@UMBRAL_JUGGERNAUT_
 msgstr "Unidade ganha:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.CAVALRY_GROUP.Hyperlink} tipo de unidade.[bullet/]Imunidade a {GLOBAL.PROPERTIES.SHADOW_SICKNESS.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@ELDRITCHREALMS@VISITSITES_STRATEGIC@EYESTALKROOTS@DESCRIPTION"
-msgstr "Todas as <<m:{GLOBAL.UnitConcept.Hyperlink}>> em um {GLOBAL.ArmyConcept.Hyperlink} que visitar este local ganharão o seguinte por {turns}<<m:{GLOBAL.TurnConcept.Hyperlink}>>:[br/]{GLOBAL.PROPERTIES.FARSIGHT_PROPERTY.Hyperlink} e {rangebonus}[range/] em ataques {GLOBAL.RangedConcept.Hyperlink} e {GLOBAL.MagicConcept.Hyperlink} no {GLOBAL.CombatConcept.Hyperlink}. [br/][br/]Ao ser visitado, o local não pode ser visitado novamente por {turns} <<m:{GLOBAL.TurnConcept.Hyperlink}>>."
+msgstr "Todas as <<m:{GLOBAL.UnitConcept.Hyperlink}>> em um {GLOBAL.ArmyConcept.Hyperlink} que visitar este local ganharão o seguinte por {turns}<<m:{GLOBAL.TurnConcept.Hyperlink}>>:[br/]{GLOBAL.PROPERTIES.FARSIGHT_PROPERTY.Hyperlink} e {rangebonus}[range/] em ataques de {GLOBAL.MagicConcept.Hyperlink} e {GLOBAL.RangedConcept.Hyperlink} no {GLOBAL.CombatConcept.Hyperlink}. [br/][br/]Ao ser visitado, o local não pode ser visitado novamente por {turns} <<m:{GLOBAL.TurnConcept.Hyperlink}>>."
 
 msgid "DLC@ELDRITCHREALMS@VISITSITES_STRATEGIC@EYESTALKROOTS@NAME"
 msgstr "Santuário da Adivinhação"
@@ -36582,7 +36582,7 @@ msgid "DLC@EMPIRESANDASHES@COMBATPROPERTIES_TACTICAL@MARKED_FOR_EVOLUTION@NAME"
 msgstr "Marcado para Evolução"
 
 msgid "DLC@EMPIRESANDASHES@COMBATPROPERTIES_TACTICAL@PREDICTABLE@DESCRIPTION"
-msgstr "Unidades defensoras sempre atacam as unidades inimigas mais próximas e sofrem {accuracy} {GLOBAL.AccuracyConcept.Hyperlink} em seus ataques {GLOBAL.RangedConcept.Hyperlink}."
+msgstr "Unidades defensoras sempre atacam as unidades inimigas mais próximas e sofrem {accuracy} {GLOBAL.AccuracyConcept.Hyperlink} em seu {GLOBAL.RangedConcept.Hyperlink}."
 
 msgid "DLC@EMPIRESANDASHES@COMBATPROPERTIES_TACTICAL@PREDICTABLE@NAME"
 msgstr "Mira Mal Calculada"
@@ -59118,13 +59118,13 @@ msgid "DLC@SECRETSOFTHEARCHMAGES@SECRET_SPELLS@05@NAME"
 msgstr "Revelação de Frikka"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@SECRET_SPELLS@06@DESCRIPTION"
-msgstr "Infunda a raça-alvo com essência felina, ganhando:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink}[bullet/]+{YAKA'S_FELINE_INFUSION_EVASION>ResolvedAccuracyModifier}% {GLOBAL.EvasionConcept.Hyperlink} contra ataques {GLOBAL.RangedConcept.Hyperlink} e {GLOBAL.MagicConcept.Hyperlink}.[/bulletlist]"
+msgstr "Infunda a raça-alvo com essência felina, ganhando:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink}[bullet/]+{YAKA'S_FELINE_INFUSION_EVASION>ResolvedAccuracyModifier}% {GLOBAL.EvasionConcept.Hyperlink} contra ataques de {GLOBAL.MagicConcept.Hyperlink} e {GLOBAL.RangedConcept.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@SECRET_SPELLS@06@NAME"
 msgstr "Infusão Felina de Yaka"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@SECRET_SPELLS@06@PROP_DESCRIPTION"
-msgstr "A unidade tem:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink}[bullet/]+{YAKA'S_FELINE_INFUSION_EVASION>ResolvedAccuracyModifier}% {GLOBAL.EvasionConcept.Hyperlink} contra ataques {GLOBAL.RangedConcept.Hyperlink} e {GLOBAL.MagicConcept.Hyperlink}.[/bulletlist]"
+msgstr "A unidade tem:[bulletlist][bullet/]{GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink}[bullet/]+{YAKA'S_FELINE_INFUSION_EVASION>ResolvedAccuracyModifier}% {GLOBAL.EvasionConcept.Hyperlink} contra ataques de {GLOBAL.MagicConcept.Hyperlink} e {GLOBAL.RangedConcept.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@SECRETSOFTHEARCHMAGES@SECRET_SPELLS@07@DESCRIPTION"
 msgstr "A cidade amiga alvo é destruída. Então, para cada população da cidade destruída:[bulletlist][bullet/]Ganhe +{amount} {GLOBAL.KnowledgeConcept.Hyperlink}.[bullet/]Ganhe +{amount2} {GLOBAL.SoulConcept.Hyperlink}.[bullet/]Ganhe uma unidade Esqueleto aleatória.[bulletlist][bullet/]Cada esqueleto ganho tem uma pequena chance de ser um {GLOBAL.UNITS.CORRUPT_SOUL.Hyperlink} em vez disso.[/bulletlist]"
@@ -66558,13 +66558,13 @@ msgid "DLC@THRONESOFBLOOD@HERO_SKILL@VAMPIRE@SKILL13@NAME"
 msgstr "Névoa Distante"
 
 msgid "DLC@THRONESOFBLOOD@HERO_SKILL@VAMPIRE@SKILL14@DESCRIPTION"
-msgstr "Quando não está montada, esta unidade ganha:[bulletlist][bullet/]{GLOBAL.PROPERTIES.FLYING_MOVEMENT.Hyperlink} de movimento.[bullet/]{GLOBAL.PROPERTIES.FAST_MOVEMENT.Hyperlink}[bullet/]{VAMPIRIC_FLIGHT_ACCURACY>ResolvedAccuracyModifier}% de evasão contra ataques {GLOBAL.RangedConcept.Hyperlink} e {GLOBAL.MagicConcept.Hyperlink}.[/bulletlist]"
+msgstr "Quando não está montada, esta unidade ganha:[bulletlist][bullet/]{GLOBAL.PROPERTIES.FLYING_MOVEMENT.Hyperlink} de movimento.[bullet/]{GLOBAL.PROPERTIES.FAST_MOVEMENT.Hyperlink}[bullet/]{VAMPIRIC_FLIGHT_ACCURACY>ResolvedAccuracyModifier}% de evasão contra ataques de {GLOBAL.MagicConcept.Hyperlink} e {GLOBAL.RangedConcept.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@THRONESOFBLOOD@HERO_SKILL@VAMPIRE@SKILL14@NAME"
 msgstr "Voo Vampírico"
 
 msgid "DLC@THRONESOFBLOOD@HERO_SKILL@VAMPIRE@SKILL14@PROP_DESCRIPTION"
-msgstr "A unidade tem:[bulletlist][bullet/]{GLOBAL.PROPERTIES.FLYING_MOVEMENT.Hyperlink}.[bullet/]{VAMPIRIC_FLIGHT_ACCURACY>ResolvedAccuracyModifier}% de evasão contra ataques {GLOBAL.RangedConcept.Hyperlink} e {GLOBAL.MagicConcept.Hyperlink}.[/bulletlist]"
+msgstr "A unidade tem:[bulletlist][bullet/]{GLOBAL.PROPERTIES.FLYING_MOVEMENT.Hyperlink}.[bullet/]{VAMPIRIC_FLIGHT_ACCURACY>ResolvedAccuracyModifier}% de evasão contra ataques de {GLOBAL.MagicConcept.Hyperlink} e {GLOBAL.RangedConcept.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@THRONESOFBLOOD@HERO_TRAIT@GOVERNANCE@VAMPIRE_GOVERNOR@LVL0"
 msgstr "Cada {GLOBAL.PopulationConcept.Hyperlink} concede +{FoodBonusIncome}{GLOBAL.FoodConcept.Hyperlink}, +{DraftBonusIncome}{GLOBAL.UnitProductionConcept.Hyperlink} e +{KnowledgeBonusIncome}{GLOBAL.KnowledgeConcept}."
@@ -82320,7 +82320,7 @@ msgid "FORM_TRAITS@ANCIENT_WARRIORS@BIO"
 msgstr "Sua visão aguçada permite grandes feitos de arco e flecha."
 
 msgid "FORM_TRAITS@ANCIENT_WARRIORS@DESCRIPTION"
-msgstr "+{amount}% de {GLOBAL.AccuracyConcept.Hyperlink} em ataques {GLOBAL.RangedConcept.Hyperlink} e {GLOBAL.MagicConcept.Hyperlink}."
+msgstr "+{amount}% de {GLOBAL.AccuracyConcept.Hyperlink} em ataques de {GLOBAL.MagicConcept.Hyperlink} e {GLOBAL.RangedConcept.Hyperlink}."
 
 msgid "FORM_TRAITS@ANCIENT_WARRIORS@LORE"
 msgstr "[helpcolor]Tiros à Distância acertam com mais frequência.[/helpcolor]"
@@ -84096,7 +84096,7 @@ msgid "HERO_ITME@RING12@NAME"
 msgstr "Anel de Barreira de Vento^n"
 
 msgid "HERO_ITME@RING13@DESCRIPTION"
-msgstr "Concede +{RING_OF_DEFLECTION_DEFENSE>DEF_MOD>Armor} {GLOBAL.DefenseConcept.Hyperlink} e +{RING_OF_DEFLECTION_DEFENSE>DEF_MOD>Resistance} {GLOBAL.ResistanceConcept.Hyperlink} contra ataques {GLOBAL.RangedConcept.Hyperlink} e {GLOBAL.MagicConcept.Hyperlink}."
+msgstr "Concede +{RING_OF_DEFLECTION_DEFENSE>DEF_MOD>Armor} {GLOBAL.DefenseConcept.Hyperlink} e +{RING_OF_DEFLECTION_DEFENSE>DEF_MOD>Resistance} {GLOBAL.ResistanceConcept.Hyperlink} contra ataques de {GLOBAL.MagicConcept.Hyperlink} e {GLOBAL.RangedConcept.Hyperlink}."
 
 msgid "HERO_ITME@RING13@NAME"
 msgstr "Anel de Deflexão^n"
@@ -84204,7 +84204,7 @@ msgid "HERO_SKILLS@AGGRESSIVE_PUSH@NAME"
 msgstr "Empurrão Agressivo"
 
 msgid "HERO_SKILLS@ARCHERY@DESCRIPTION"
-msgstr "Ataques {GLOBAL.RangedConcept.Hyperlink} ganham:[bulletlist][bullet/]+{HS_ARCHERY_DMG>ResolvedMultiplier}% de dano.[bullet/]+{HS_ARCHERY_ACC>ResolvedAccuracyModifier}% {GLOBAL.AccuracyConcept.Hyperlink}.[/bulletlist]"
+msgstr "{GLOBAL.RangedConcept.Hyperlink} ganha:[bulletlist][bullet/]+{HS_ARCHERY_DMG>ResolvedMultiplier}% de dano.[bullet/]+{HS_ARCHERY_ACC>ResolvedAccuracyModifier}% {GLOBAL.AccuracyConcept.Hyperlink}.[/bulletlist]"
 
 msgid "HERO_SKILLS@ARCHERY_1@NAME"
 msgstr "Arquearia I"
@@ -84420,7 +84420,7 @@ msgid "HERO_SKILLS@DEFENDER@INVIGORATING_RETALIATION@DESCRIPTION"
 msgstr "Ao fazer um ataque {GLOBAL.RetaliationConcept.Hyperlink}, esta unidade ganha {GLOBAL.PROPERTIES.REGENERATION.Hyperlink}."
 
 msgid "HERO_SKILLS@DEFENDER@INVIGORATING_RETALIATION@MODIFIER_DESCRIPTION"
-msgstr "Ganha {GLOBAL.PROPERTIES.REGENERATION.Hyperlink} em ataques {GLOBAL.RetaliationConcept.Hyperlink}."
+msgstr "Ganha {GLOBAL.PROPERTIES.REGENERATION.Hyperlink} em um {GLOBAL.RetaliationConcept.Hyperlink}."
 
 msgid "HERO_SKILLS@DEFENDER@INVIGORATING_RETALIATION@NAME"
 msgstr "Retaliações Revigorantes"
@@ -84513,7 +84513,7 @@ msgid "HERO_SKILLS@DRILL_SERGEANT@NAME"
 msgstr "Líder Experiente"
 
 msgid "HERO_SKILLS@EAGLE_EYE@DESCRIPTION"
-msgstr "Concede ataques {GLOBAL.RangedConcept.Hyperlink}:[bulletlist][bullet/]+{HS_EAGLE_EYE_RANGE>ADD>MaxRange}{GLOBAL.RangeConcept.Hyperlink}.[bullet/]+{HS_EAGLE_EYE_ACCURACY>ResolvedAccuracyModifier}% {GLOBAL.AccuracyConcept.Hyperlink}.[/bulletlist]"
+msgstr "Concede ao {GLOBAL.RangedConcept.Hyperlink}:[bulletlist][bullet/]+{HS_EAGLE_EYE_RANGE>ADD>MaxRange}{GLOBAL.RangeConcept.Hyperlink}.[bullet/]+{HS_EAGLE_EYE_ACCURACY>ResolvedAccuracyModifier}% {GLOBAL.AccuracyConcept.Hyperlink}.[/bulletlist]"
 
 msgid "HERO_SKILLS@EAGLE_EYE@NAME"
 msgstr "Olho de Águia"
@@ -85164,7 +85164,7 @@ msgid "HERO_SKILLS@RANGER@BARRAGE_ATTACKS@NAME"
 msgstr "Ataques de Barragem"
 
 msgid "HERO_SKILLS@RANGER@BIG_GAME_HUNTER@DESCRIPTION"
-msgstr "Ataques {GLOBAL.RangedConcept.Hyperlink} agora causam +{HS_BIG_GAME_HUNTER_EXTRA_DAMAGE_REPEATING>DAMAGE>Physical}{GLOBAL.PhysicalDamageConcept.Hyperlink} para cada {GLOBAL.UnitTierConcept.Hyperlink} do alvo.[br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+msgstr "{GLOBAL.RangedConcept.Hyperlink} agora causa +{HS_BIG_GAME_HUNTER_EXTRA_DAMAGE_REPEATING>DAMAGE>Physical}{GLOBAL.PhysicalDamageConcept.Hyperlink} para cada {GLOBAL.UnitTierConcept.Hyperlink} do alvo.[br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
 
 msgid "HERO_SKILLS@RANGER@BIG_GAME_HUNTER@MODIFIER_DESCRIPTION"
 msgstr "+{HS_BIG_GAME_HUNTER_EXTRA_DAMAGE>DAMAGE>Physical}{GLOBAL.PhysicalDamageConcept.Hyperlink} para cada {GLOBAL.UnitTierConcept.Hyperlink} do alvo."
@@ -85203,7 +85203,7 @@ msgid "HERO_SKILLS@RANGER@CRITICAL_SKIRMISHER@NAME"
 msgstr "Escaramuçador Crítico"
 
 msgid "HERO_SKILLS@RANGER@CULLING_HUNTER@DESCRIPTION"
-msgstr "Ataques {GLOBAL.RangedConcept.Hyperlink} agora causam +{HS_CULLING_HUNTER_EXTRA_DAMAGE_REPEATING>DAMAGE>Physical}{GLOBAL.PhysicalDamageConcept.Hyperlink} por {GLOBAL.NegativeStatusEffectConcept.Hyperlink} no alvo (máximo de +{HS_CULLING_HUNTER_EXTRA_DAMAGE_REPEATING>MaxCount}).[br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+msgstr "{GLOBAL.RangedConcept.Hyperlink} agora causa +{HS_CULLING_HUNTER_EXTRA_DAMAGE_REPEATING>DAMAGE>Physical}{GLOBAL.PhysicalDamageConcept.Hyperlink} por {GLOBAL.NegativeStatusEffectConcept.Hyperlink} no alvo (máximo de +{HS_CULLING_HUNTER_EXTRA_DAMAGE_REPEATING>MaxCount}).[br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
 
 msgid "HERO_SKILLS@RANGER@CULLING_HUNTER@MODIFIER_DESCRIPTION"
 msgstr "+{HS_CULLING_HUNTER_EXTRA_DAMAGE>DAMAGE>Physical}{GLOBAL.PhysicalDamageConcept.Hyperlink} por {GLOBAL.NegativeStatusEffectConcept.Hyperlink} no alvo."
@@ -85278,7 +85278,7 @@ msgid "HERO_SKILLS@RANGER@FLANKING_SKIRMISHER@NAME"
 msgstr "Escaramuçador de Flanco"
 
 msgid "HERO_SKILLS@RANGER@FOCUSED_AIM@DESCRIPTION"
-msgstr "Se este herói não estiver {GLOBAL.EngagedInMeleeConcept.Hyperlink} ao iniciar seu turno, ganha +{HS_FOCUSED_AIM_ACCURACY>ResolvedAccuracyModifier}% {GLOBAL.AccuracyConcept.Hyperlink} em seus ataques {GLOBAL.RangedConcept.Hyperlink} até se mover."
+msgstr "Se este herói não estiver {GLOBAL.EngagedInMeleeConcept.Hyperlink} ao iniciar seu turno, ganha +{HS_FOCUSED_AIM_ACCURACY>ResolvedAccuracyModifier}% {GLOBAL.AccuracyConcept.Hyperlink} em seu {GLOBAL.RangedConcept.Hyperlink} até se mover."
 
 msgid "HERO_SKILLS@RANGER@FOCUSED_AIM@MODIFIER_DESCRIPTION"
 msgstr "+{HS_FOCUSED_AIM_ACCURACY>ResolvedAccuracyModifier}% {GLOBAL.AccuracyConcept.Hyperlink} até a unidade se mover."
@@ -85287,7 +85287,7 @@ msgid "HERO_SKILLS@RANGER@FOCUSED_AIM@NAME"
 msgstr "Mira Focada"
 
 msgid "HERO_SKILLS@RANGER@FOCUSED_HUNT@DESCRIPTION"
-msgstr "Se este herói não estiver {GLOBAL.EngagedInMeleeConcept.Hyperlink} ao iniciar seu turno, ganha +{HS_FOCUSED_HUNT_ACCURACY>ResolvedCritChanceBonus}% {GLOBAL.CriticalHitChanceConcept.Hyperlink} em seus ataques {GLOBAL.RangedConcept.Hyperlink} até se mover."
+msgstr "Se este herói não estiver {GLOBAL.EngagedInMeleeConcept.Hyperlink} ao iniciar seu turno, ganha +{HS_FOCUSED_HUNT_ACCURACY>ResolvedCritChanceBonus}% {GLOBAL.CriticalHitChanceConcept.Hyperlink} em seu {GLOBAL.RangedConcept.Hyperlink} até se mover."
 
 msgid "HERO_SKILLS@RANGER@FOCUSED_HUNT@MODIFIER_DESCRIPTION"
 msgstr "+{HS_FOCUSED_HUNT_ACCURACY>ResolvedCritChanceBonus}% {GLOBAL.CriticalHitChanceConcept.Hyperlink} até a unidade se mover."
@@ -85347,7 +85347,7 @@ msgid "HERO_SKILLS@RANGER@MARTIAL_EXPERTISE@NAME"
 msgstr "Especialização Marcial"
 
 msgid "HERO_SKILLS@RANGER@MASTERED_FOCUS@DESCRIPTION"
-msgstr "Se este herói não estiver {GLOBAL.EngagedInMeleeConcept.Hyperlink} ao iniciar seu turno, ganha +{HS_MASTERED_FOCUS_DAMAGE_MULTIPLIER>ResolvedMultiplier}% de dano em seus ataques {GLOBAL.RangedConcept.Hyperlink} até se mover."
+msgstr "Se este herói não estiver {GLOBAL.EngagedInMeleeConcept.Hyperlink} ao iniciar seu turno, ganha +{HS_MASTERED_FOCUS_DAMAGE_MULTIPLIER>ResolvedMultiplier}% de dano em seu {GLOBAL.RangedConcept.Hyperlink} até se mover."
 
 msgid "HERO_SKILLS@RANGER@MASTERED_FOCUS@MODIFIER_DESCRIPTION"
 msgstr "+{HS_MASTERED_FOCUS_DAMAGE_MULTIPLIER>ResolvedMultiplier}% de dano até a unidade se mover."
@@ -85419,7 +85419,7 @@ msgid "HERO_SKILLS@RANGER@SNAPSHOT@NAME"
 msgstr "Instantâneo"
 
 msgid "HERO_SKILLS@RANGER@SNIPERS_FOCUS@DESCRIPTION"
-msgstr "Se este herói não estiver {GLOBAL.EngagedInMeleeConcept.Hyperlink} ao iniciar seu turno, ganha +{HS_SNIPERS_FOCUS_RANGE_BOOST>ADD>MaxRange}{GLOBAL.RangeConcept.Hyperlink} em seus ataques {GLOBAL.RangedConcept.Hyperlink} até se mover."
+msgstr "Se este herói não estiver {GLOBAL.EngagedInMeleeConcept.Hyperlink} ao iniciar seu turno, ganha +{HS_SNIPERS_FOCUS_RANGE_BOOST>ADD>MaxRange}{GLOBAL.RangeConcept.Hyperlink} em seu {GLOBAL.RangedConcept.Hyperlink} até se mover."
 
 msgid "HERO_SKILLS@RANGER@SNIPERS_FOCUS@MODIFIER_DESCRIPTION"
 msgstr "+{HS_SNIPERS_FOCUS_RANGE_BOOST>ADD>MaxRange}{GLOBAL.RangeConcept.Hyperlink} até que a unidade se mova."
@@ -85428,7 +85428,7 @@ msgid "HERO_SKILLS@RANGER@SNIPERS_FOCUS@NAME"
 msgstr "Foco do Atirador"
 
 msgid "HERO_SKILLS@RANGER@SWARM_HUNTER@DESCRIPTION"
-msgstr "Ataques {GLOBAL.RangedConcept.Hyperlink} agora causam +{HS_SWARM_HUNTER_EXTRA_DAMAGE_REPEATING>DAMAGE>Physical}{GLOBAL.PhysicalDamageConcept.Hyperlink} para cada unidade adjacente ao alvo.[br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+msgstr "{GLOBAL.RangedConcept.Hyperlink} agora causa +{HS_SWARM_HUNTER_EXTRA_DAMAGE_REPEATING>DAMAGE>Physical}{GLOBAL.PhysicalDamageConcept.Hyperlink} para cada unidade adjacente ao alvo.[br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
 
 msgid "HERO_SKILLS@RANGER@SWARM_HUNTER@MODIFIER_DESCRIPTION"
 msgstr "+{HS_SWARM_HUNTER_EXTRA_DAMAGE>DAMAGE>Physical}{GLOBAL.PhysicalDamageConcept.Hyperlink} para cada unidade adjacente ao alvo."
@@ -86739,7 +86739,7 @@ msgid "HERO_TRAIT@COMBAT_20@PROP_DESCRIPTION"
 msgstr "A unidade tem:[bulletlist][bullet/]+{COMBAT_TRAIT_20_DEFENSE_PROP>DEF_MOD>Armor} {GLOBAL.DefenseConcept.Hyperlink}[bullet/]+{COMBAT_TRAIT_20_DEFENSE_PROP>DEF_MOD>Resistance} {GLOBAL.ResistanceConcept.Hyperlink}[/bulletlist]"
 
 msgid "HERO_TRAIT@COMBAT_21@DESCRIPTION"
-msgstr "Ataques {GLOBAL.RangedConcept.Hyperlink} têm:[bulletlist][bullet/]+{COMBAT_TRAIT_21_RANGE>ADD>MaxRange} {GLOBAL.RangeConcept.Hyperlink}[bullet/]+{COMBAT_TRAIT_21_ACC>ResolvedAccuracyModifier}% {GLOBAL.AccuracyConcept.Hyperlink}[/bulletlist]"
+msgstr "{GLOBAL.RangedConcept.Hyperlink} tem:[bulletlist][bullet/]+{COMBAT_TRAIT_21_RANGE>ADD>MaxRange} {GLOBAL.RangeConcept.Hyperlink}[bullet/]+{COMBAT_TRAIT_21_ACC>ResolvedAccuracyModifier}% {GLOBAL.AccuracyConcept.Hyperlink}[/bulletlist]"
 
 msgid "HERO_TRAIT@COMBAT_21@NAME"
 msgstr "Atirador"
@@ -110973,10 +110973,10 @@ msgid "PROPERTY@UNIT_ABILITY_MODIFIER@HEADER_MELEE_AND_RANGED"
 msgstr "Ataques de {GLOBAL.MeleeConcept.Hyperlink} e {GLOBAL.RangedConcept.Hyperlink} infligem:"
 
 msgid "PROPERTY@UNIT_ABILITY_MODIFIER@HEADER_RANGED"
-msgstr "Ataques {GLOBAL.RangedConcept.Hyperlink} infligem:"
+msgstr "{GLOBAL.RangedConcept.Hyperlink} inflige:"
 
 msgid "PROPERTY@UNIT_ABILITY_MODIFIER@HEADER_SENTINEL"
-msgstr "Ataques {GLOBAL.RetaliationConcept.Hyperlink} e {GLOBAL.OpportunityAttackConcept.Hyperlink} infligem:"
+msgstr "{GLOBAL.RetaliationConcept.Hyperlink} e {GLOBAL.OpportunityAttackConcept.Hyperlink} infligem:"
 
 msgid "PROPERTY@UNIT_ABILITY_MODIFIER@HEADER_SUPPORT"
 msgstr "Habilidades {GLOBAL.SupportConcept.Hyperlink} infligem:"
@@ -113208,7 +113208,7 @@ msgid "SECTORDEFINITIONS_STRATEGIC@UNINHABITABLE_MOUNTAIN@NAME"
 msgstr "Montanha"
 
 msgid "SHAREDMODIFIERS_UNITPROPERTIES@BLIND@DESCRIPTION"
-msgstr "[bulletlist][bullet/]-{BLINDED_ACCURACY>ResolvedAccuracyModifier}% {GLOBAL.AccuracyConcept.Hyperlink} em ataques {GLOBAL.RangedConcept.Hyperlink} e {GLOBAL.MagicConcept.Hyperlink}.[bullet/]Não pode realizar ataques {GLOBAL.RetaliationConcept.Hyperlink}.[/bulletlist][br/][br/]Cegado {GLOBAL.OpposingStatusEffectsConcept.Hyperlink} {GLOBAL.PROPERTIES.TRUE_STRIKE.Hyperlink}."
+msgstr "[bulletlist][bullet/]-{BLINDED_ACCURACY>ResolvedAccuracyModifier}% {GLOBAL.AccuracyConcept.Hyperlink} em ataques de {GLOBAL.MagicConcept.Hyperlink} e {GLOBAL.RangedConcept.Hyperlink}.[bullet/]Não pode realizar um {GLOBAL.RetaliationConcept.Hyperlink}.[/bulletlist][br/][br/]Cegado {GLOBAL.OpposingStatusEffectsConcept.Hyperlink} {GLOBAL.PROPERTIES.TRUE_STRIKE.Hyperlink}."
 
 msgid "SHAREDMODIFIERS_UNITPROPERTIES@BLIND@EFFECT_DESCRIPTION"
 msgstr "A unidade tem -{BLINDED_ACCURACY>ResolvedAccuracyModifier}% {GLOBAL.AccuracyConcept.Hyperlink}."
@@ -113430,7 +113430,7 @@ msgid "SHAREDMODIFIERS_UNITPROPERTIES@FRENZIED_RETALIATION@DESCRIPTION"
 msgstr "Ao fazer um ataque {GLOBAL.RetaliationConcept.Hyperlink}, esta unidade ganha {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink}."
 
 msgid "SHAREDMODIFIERS_UNITPROPERTIES@FRENZIED_RETALIATION@MODIFIER_DESCRIPTION"
-msgstr "Ganha {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink} em ataques {GLOBAL.RetaliationConcept.Hyperlink}."
+msgstr "Ganha {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink} em um {GLOBAL.RetaliationConcept.Hyperlink}."
 
 msgid "SHAREDMODIFIERS_UNITPROPERTIES@FRENZIED_RETALIATION@NAME"
 msgstr "Retaliação Frenética"
@@ -115704,7 +115704,7 @@ msgid "STATUSEFFECTS_UNITPROPERTIES@GENERAL_JUGGERNAUGHT@PROPERTY_DESCRIPTION"
 msgstr "Esta unidade pode esmagar obstáculos que não sejam {GLOBAL.FortifiedConcept.Hyperlink}."
 
 msgid "STATUSEFFECTS_UNITPROPERTIES@GENERAL_OBSCURED@DESCRIPTION"
-msgstr "Esta unidade é {OBSCURED>ResolvedAccuracyModifier}% mais difícil de acertar com ataques {GLOBAL.RangedConcept.Hyperlink} e {GLOBAL.MagicConcept.Hyperlink} à distância."
+msgstr "Esta unidade é {OBSCURED>ResolvedAccuracyModifier}% mais difícil de acertar com ataques de {GLOBAL.MagicConcept.Hyperlink} e {GLOBAL.RangedConcept.Hyperlink}."
 
 msgid "STATUSEFFECTS_UNITPROPERTIES@GENERAL_OBSCURED@NAME"
 msgstr "Obscurecido"
@@ -134403,7 +134403,7 @@ msgid "TOME_CREATOR@UNIT2@NAME"
 msgstr "Máquina de Fragmentação da Terra^n"
 
 msgid "TOME_CRICIBLE@SKILL2@DEFENSE_DESCRIPTION"
-msgstr "Adiciona obstáculos de Baluartes do Crisol em {GLOBAL.CombatConcept.Hyperlink} durante um {GLOBAL.SiegeConcept.Hyperlink}.[br/][br/]Obstáculos de Baluartes do Crisol concedem ataques {GLOBAL.RangedConcept.Hyperlink} e {GLOBAL.MagicConcept.Hyperlink}:[bulletlist][bullet/]Causa {damage} {GLOBAL.FireDamageConcept.Hyperlink}.[bullet/]Define os hexágonos afetados {GLOBAL.OnFireConcept.Hyperlink}.[/bulletlist]"
+msgstr "Adiciona obstáculos de Baluartes do Crisol em {GLOBAL.CombatConcept.Hyperlink} durante um {GLOBAL.SiegeConcept.Hyperlink}.[br/][br/]Obstáculos de Baluartes do Crisol concedem ataques de {GLOBAL.MagicConcept.Hyperlink} e {GLOBAL.RangedConcept.Hyperlink}:[bulletlist][bullet/]Causa {damage} {GLOBAL.FireDamageConcept.Hyperlink}.[bullet/]Define os hexágonos afetados {GLOBAL.OnFireConcept.Hyperlink}.[/bulletlist]"
 
 msgid "TOME_CRUCIBLE@HERO_SKILL@DESCRIPTION"
 msgstr "[bulletlist][bullet/]Ataques base causam {METEOR_ARROWS_UNIT_DAMAGE>DAMAGE>Fire} {GLOBAL.FireDamageConcept.Hyperlink} ao alvo e inimigos adjacentes.[bullet/]Todos os ataques ganham {GLOBAL.PROPERTIES.DEMOLISHER.Hyperlink}.[br/][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}[/bulletlist]"
@@ -134427,10 +134427,10 @@ msgid "TOME_CRUCIBLE@SKILL1@NAME"
 msgstr "Erupção Piroclástica"
 
 msgid "TOME_CRUCIBLE@SKILL2@DEFENSE_DESCRIPTION"
-msgstr "Adiciona obstáculos de Baluartes do Crisol em {GLOBAL.CombatConcept.Hyperlink} durante um {GLOBAL.SiegeConcept.Hyperlink}.[br/][br/]Obstáculos de Baluarte do Crisol concedem ataques {GLOBAL.RangedConcept.Hyperlink} e {GLOBAL.MagicConcept.Hyperlink}:[bulletlist][bullet/]Causa {damage} {GLOBAL.FireDamageConcept.Hyperlink}.[bullet/]Define os hexágonos afetados como {GLOBAL.OnFireConcept.Hyperlink}.[bullet/]Ignora {GLOBAL.ObscuredConcept.Hyperlink} nos alvos.[bullet/]{rangebonus} {GLOBAL.RangeConcept.Hyperlink}.[/bulletlist]"
+msgstr "Adiciona obstáculos de Baluartes do Crisol em {GLOBAL.CombatConcept.Hyperlink} durante um {GLOBAL.SiegeConcept.Hyperlink}.[br/][br/]Obstáculos de Baluarte do Crisol concedem ataques de {GLOBAL.MagicConcept.Hyperlink} e {GLOBAL.RangedConcept.Hyperlink}:[bulletlist][bullet/]Causa {damage} {GLOBAL.FireDamageConcept.Hyperlink}.[bullet/]Define os hexágonos afetados como {GLOBAL.OnFireConcept.Hyperlink}.[bullet/]Ignora {GLOBAL.ObscuredConcept.Hyperlink} nos alvos.[bullet/]{rangebonus} {GLOBAL.RangeConcept.Hyperlink}.[/bulletlist]"
 
 msgid "TOME_CRUCIBLE@SKILL2@DESCRIPTION"
-msgstr "{GLOBAL.CityBattlementStructureConcept.Hyperlink}[br/][bulletlist][bullet/]Baluartes concedem ataques {GLOBAL.RangedConcept.Hyperlink} e {GLOBAL.MagicConcept.Hyperlink}:[bulletlist][bullet/]Causa {damage}.[bullet/]Define os hexágonos afetados {GLOBAL.OnFireConcept.Hyperlink}.[bullet/]Ignora {GLOBAL.ObscuredConcept.Hyperlink} nos alvos.[bullet/]{rangebonus} {GLOBAL.RangeConcept.Hyperlink}[/bulletlist][bullet/]A Cidade ignora penalidades negativas de {GLOBAL.CityStabilityConcept.Hyperlink} ao anexar províncias com {GLOBAL.ChasmConcept.Hyperlink} ou {GLOBAL.LavaConcept.Hyperlink}.[/bulletlist]"
+msgstr "{GLOBAL.CityBattlementStructureConcept.Hyperlink}[br/][bulletlist][bullet/]Baluartes concedem ataques de {GLOBAL.MagicConcept.Hyperlink} e {GLOBAL.RangedConcept.Hyperlink}:[bulletlist][bullet/]Causa {damage}.[bullet/]Define os hexágonos afetados {GLOBAL.OnFireConcept.Hyperlink}.[bullet/]Ignora {GLOBAL.ObscuredConcept.Hyperlink} nos alvos.[bullet/]{rangebonus} {GLOBAL.RangeConcept.Hyperlink}[/bulletlist][bullet/]A Cidade ignora penalidades negativas de {GLOBAL.CityStabilityConcept.Hyperlink} ao anexar províncias com {GLOBAL.ChasmConcept.Hyperlink} ou {GLOBAL.LavaConcept.Hyperlink}.[/bulletlist]"
 
 msgid "TOME_CRUCIBLE@SKILL2@MARKER@DESCRIPTION"
 msgstr "Ataques base {GLOBAL.RangedConcept.Hyperlink} e {GLOBAL.MagicConcept.Hyperlink}:[bulletlist][bullet/]Causa {damage} {GLOBAL.FireDamageConcept.Hyperlink}.[bullet/]Incendeia o solo {GLOBAL.OnFireConcept.Hyperlink}.[/bulletlist]"
@@ -134853,7 +134853,7 @@ msgid "TOME_ENCHANTMENT@SKILL2@NAME"
 msgstr "Invocar Golem de Cobre"
 
 msgid "TOME_ENCHANTMENT@SKILL3@DESCRIPTION"
-msgstr "Concede aos ataques {GLOBAL.RangedConcept.Hyperlink} das unidades encantadas:[bulletlist][bullet/]+{SEEKER_ARROWS_RANGE_BOOST>ADD>MaxRange}{GLOBAL.RangeConcept.Hyperlink}.[/bulletlist]"
+msgstr "Concede ao {GLOBAL.RangedConcept.Hyperlink} das unidades encantadas:[bulletlist][bullet/]+{SEEKER_ARROWS_RANGE_BOOST>ADD>MaxRange}{GLOBAL.RangeConcept.Hyperlink}.[/bulletlist]"
 
 msgid "TOME_ENCHANTMENT@SKILL3@NAME"
 msgstr "Setas de Busca"
@@ -138072,7 +138072,7 @@ msgid "TOME_WINDS@UNIT1@ABILITY1@NAME"
 msgstr "Redemoinho"
 
 msgid "TOME_WINDS@UNIT1@ABILITY2@DESCRIPTION"
-msgstr "Unidades amigas adjacentes são {WIND_BARRIER>ResolvedAccuracyModifier}% mais difíceis de serem atingidas por ataques {GLOBAL.RangedConcept.Hyperlink} e {GLOBAL.MagicConcept.Hyperlink} à distância."
+msgstr "Unidades amigas adjacentes são {WIND_BARRIER>ResolvedAccuracyModifier}% mais difíceis de serem atingidas por ataques de {GLOBAL.MagicConcept.Hyperlink} e {GLOBAL.RangedConcept.Hyperlink}."
 
 msgid "TOME_WINDS@UNIT1@ABILITY2@NAME"
 msgstr "Aura da Barreira de Vento"
@@ -142383,7 +142383,7 @@ msgid "UNITPROPERTIES@REFLECTION_SPIRIT@NAME"
 msgstr "Escudo de Espírito Menor"
 
 msgid "UNITPROPERTIES@REINFORCEDL@DESCRIPTION"
-msgstr "Unidade tem +{REINFORCED_DEFENSE>DEF_MOD>Armor} {GLOBAL.DefenseConcept.Hyperlink} contra ataques {GLOBAL.RangedConcept.Hyperlink}."
+msgstr "Unidade tem +{REINFORCED_DEFENSE>DEF_MOD>Armor} {GLOBAL.DefenseConcept.Hyperlink} contra o {GLOBAL.RangedConcept.Hyperlink}."
 
 msgid "UNITPROPERTIES@REINFORCEDL@NAME"
 msgstr "Reforçado"
@@ -142647,7 +142647,7 @@ msgid "UNITPROPERTIES@UNIQUE_EVENT_FORESTWARDEN@PROPERTY@NAME"
 msgstr "Guardião da Floresta"
 
 msgid "UNITPROPERTIES@UNIQUE_EVENT_FORMIDABLEHUNTER@PROPERTY@DESCRIPTION"
-msgstr "Esta unidade possui:[bulletlist][bullet/]Ataques {GLOBAL.RangedConcept.Hyperlink} causam +{PHYSICAL_DAMAGE_MODIFIER>DAMAGE>Physical} {GLOBAL.PhysicalDamageConcept}.[bullet/]Ataques de {GLOBAL.MeleeConcept.Hyperlink} causam +{PHYSICAL_DAMAGE_MODIFIER>DAMAGE>Physical} {GLOBAL.PhysicalDamageConcept}.[/bulletlist]"
+msgstr "Esta unidade possui:[bulletlist][bullet/]{GLOBAL.RangedConcept.Hyperlink} causa +{PHYSICAL_DAMAGE_MODIFIER>DAMAGE>Physical} {GLOBAL.PhysicalDamageConcept}.[bullet/]Ataques de {GLOBAL.MeleeConcept.Hyperlink} causam +{PHYSICAL_DAMAGE_MODIFIER>DAMAGE>Physical} {GLOBAL.PhysicalDamageConcept}.[/bulletlist]"
 
 msgid "UNITPROPERTIES@UNIQUE_EVENT_FORMIDABLEHUNTER@PROPERTY@NAME"
 msgstr "Caçador Formidável"
@@ -143385,7 +143385,7 @@ msgid "UNIT_TYPES_MEDAL@GOLD_MAGE@NAME"
 msgstr "Medalha de Campeão: Evocador"
 
 msgid "UNIT_TYPES_MEDAL@GOLD_RANGE@DESCRIPTION"
-msgstr "+{PRIME_MEDAL_RANGE_BOOST>ADD>MaxRange}{GLOBAL.RangeConcept.Hyperlink} nos ataques {GLOBAL.RangedConcept.Hyperlink}."
+msgstr "+{PRIME_MEDAL_RANGE_BOOST>ADD>MaxRange}{GLOBAL.RangeConcept.Hyperlink} no {GLOBAL.RangedConcept.Hyperlink}."
 
 msgid "UNIT_TYPES_MEDAL@GOLD_RANGE@NAME"
 msgstr "Medalha de Campeão: Olho de Águia"
@@ -143622,7 +143622,7 @@ msgid "UNIT_UPGRADES_CORE@LAND_MOVEMENT@NAME"
 msgstr "Movimento Terrestre"
 
 msgid "UNIT_UPGRADES_CORE@LARGE_TARGET@DESCRIPTION"
-msgstr "Uma unidade grande que:[bulletlist][bullet/]É {LARGE_TARGET_ACURACY>ResolvedAccuracyModifier}% mais fácil de ser atingida por ataques {GLOBAL.RangedConcept.Hyperlink} e {GLOBAL.MagicConcept.Hyperlink}.[bullet/]É imune à maioria dos efeitos de deslocamento.[bullet/]Possui {GLOBAL.PROPERTIES.DEMOLISHER.Hyperlink}.[/bulletlist]"
+msgstr "Uma unidade grande que:[bulletlist][bullet/]É {LARGE_TARGET_ACURACY>ResolvedAccuracyModifier}% mais fácil de ser atingida por ataques de {GLOBAL.MagicConcept.Hyperlink} e {GLOBAL.RangedConcept.Hyperlink}.[bullet/]É imune à maioria dos efeitos de deslocamento.[bullet/]Possui {GLOBAL.PROPERTIES.DEMOLISHER.Hyperlink}.[/bulletlist]"
 
 msgid "UNIT_UPGRADES_CORE@LARGE_TARGET@NAME"
 msgstr "Alvo Grande"
@@ -144066,7 +144066,7 @@ msgid "UPGRADES_CORE_UNITPROPERTIES@DUELIST_UNIT@NAME"
 msgstr "Unidade Duelista"
 
 msgid "UPGRADES_CORE_UNITPROPERTIES@DUELIST_UNIT@PROP_DESCRIPTION"
-msgstr "Excelente em evadir ataques {GLOBAL.RangedConcept.Hyperlink} e {GLOBAL.MagicConcept.Hyperlink}. Uma unidade Duelista tem:[bulletlist][bullet/]+{DUELIST_EVASION>ResolvedAccuracyModifier}% {GLOBAL.EvasionConcept.Hyperlink}[bullet/]{GLOBAL.DEFENSES.DEFENSE_MODE_DEFLECT.Hyperlink}[/bulletlist]"
+msgstr "Excelente em evadir ataques de {GLOBAL.MagicConcept.Hyperlink} e {GLOBAL.RangedConcept.Hyperlink}. Uma unidade Duelista tem:[bulletlist][bullet/]+{DUELIST_EVASION>ResolvedAccuracyModifier}% {GLOBAL.EvasionConcept.Hyperlink}[bullet/]{GLOBAL.DEFENSES.DEFENSE_MODE_DEFLECT.Hyperlink}[/bulletlist]"
 
 msgid "UPGRADES_CORE_UNITPROPERTIES@DUELIST_UNIT_WITH_ICON@NAME"
 msgstr "[unitDuelist/] Unidade Duelista"
@@ -144489,7 +144489,7 @@ msgid "UPGRADES_TEST_UNITPROPERTIES@KNIGHTS_CHALLENGE@NAME"
 msgstr "Desafio do Cavaleiro"
 
 msgid "UPGRADES_TEST_UNITPROPERTIES@LONGBOW_RANGE@DESCRIPTION"
-msgstr "Ataques {GLOBAL.RangedConcept.Hyperlink} base recebem +{EXTRAS_RANGE_RANGE_BOOST>ADD>MaxRange}{GLOBAL.RangeConcept.Hyperlink}."
+msgstr "{GLOBAL.RangedConcept.Hyperlink} base recebe +{EXTRAS_RANGE_RANGE_BOOST>ADD>MaxRange}{GLOBAL.RangeConcept.Hyperlink}."
 
 msgid "UPGRADES_TEST_UNITPROPERTIES@LONGBOW_RANGE@NAME"
 msgstr "Arco Longo"
@@ -145893,7 +145893,7 @@ msgid "WILDLIFE_UNITPROPERTIES@TIDAL_WAVE@NAME"
 msgstr "Onda de Maré"
 
 msgid "WILDLIFE_UNITPROPERTIES@TINY@DESCRIPTION"
-msgstr "A unidade é muito pequena, tornando-a {TINY>ResolvedAccuracyModifier}% mais difícil de ser atingida por ataques {GLOBAL.RangedConcept.Hyperlink} e {GLOBAL.MagicConcept.Hyperlink} à distância."
+msgstr "A unidade é muito pequena, tornando-a {TINY>ResolvedAccuracyModifier}% mais difícil de ser atingida por ataques de {GLOBAL.MagicConcept.Hyperlink} e {GLOBAL.RangedConcept.Hyperlink}."
 
 msgid "WILDLIFE_UNITPROPERTIES@TINY@NAME"
 msgstr "Minúsculo"
@@ -145974,7 +145974,7 @@ msgid "WILDLIFE_UNITPROPERTIES@WILDHUNT_PRESENCE_04@PROP_DESCRIPTION"
 msgstr "Unidades do proprietário deste efeito recebem:[bulletlist][bullet/]{GLOBAL.PROPERTIES.MORALE_DRAIN.Hyperlink}[bullet/]+{amount}% de dano ao atacar unidades com {GLOBAL.UnitMoraleConcept.Hyperlink} 'Baixa' ou inferior.[/bulletlist]"
 
 msgid "WILDLIFE_UNITPROPERTIES@WIND_BARRIER@DESCRIPTION"
-msgstr "Esta unidade é {WIND_BARRIER>ResolvedAccuracyModifier}% mais difícil de ser atingida por ataques {GLOBAL.RangedConcept.Hyperlink} e {GLOBAL.MagicConcept.Hyperlink} à distância."
+msgstr "Esta unidade é {WIND_BARRIER>ResolvedAccuracyModifier}% mais difícil de ser atingida por ataques de {GLOBAL.MagicConcept.Hyperlink} e {GLOBAL.RangedConcept.Hyperlink}."
 
 msgid "WILDLIFE_UNITPROPERTIES@WIND_BARRIER@NAME"
 msgstr "Barreira de Vento"
