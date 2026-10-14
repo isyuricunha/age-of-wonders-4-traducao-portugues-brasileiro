@@ -65,6 +65,15 @@ concept is "Ataque à Distância" (matching "Unidade à Distância",
   "Gigante Anjo Caído"): the panel glues the property chip to the unit
   name. If the composite reads badly, consider renaming the UNIT (e.g.
   "Anjo Caído dos Gigantes") rather than the property.
+- **"ataques + concept" compositions**: concepts whose NAME contains
+  the word attack (Ataque à Distância, Ataque de Retaliação, Ataque de
+  Oportunidade) cannot follow "ataques" ("ataques Ataque à Distância"
+  is broken and "de" makes it worse). Rewrite: single-concept strings
+  drop the redundant word and use a singular verb ("Ataque à Distância
+  causa..."); paired strings put Magic/Melee first ("ataques de Magia
+  e Ataque à Distância"). Applied to all 41 such strings (2026-10-14).
+  Noun concepts (Magia, Corpo a Corpo, Flanco, Carga) take "de"
+  instead ("ataques de Magia").
 
 ## 4. Gender-neutral phrasing for composed events
 
