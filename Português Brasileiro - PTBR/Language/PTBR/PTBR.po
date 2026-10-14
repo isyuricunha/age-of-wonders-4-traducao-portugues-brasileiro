@@ -91962,10 +91962,10 @@ msgid "INTERFACE@LEADER_DEAD_EVENT_OTHER@NOTIFY_LOG@SETTING"
 msgstr "[white]Nome de outro Governante[/white] é forçado ao Vazio"
 
 msgid "INTERFACE@LEADER_REBORN_EVENT@NOTIFY_LOG_CITY"
-msgstr "{Side} retornou a {City}"
+msgstr "{Side} reapareceu em {City}"
 
 msgid "INTERFACE@LEADER_REBORN_EVENT@NOTIFY_LOG_CITY@SETTING"
-msgstr "[white]Seu Nome de Governante[/white] retornou à [white]Nome da Cidade[/white]"
+msgstr "[white]Seu Nome de Governante[/white] reapareceu em [white]Nome da Cidade[/white]"
 
 msgid "INTERFACE@LEGAL@EULA"
 msgstr "Contrato de Licença de Usuário Final"
@@ -94821,10 +94821,10 @@ msgid "INTERFACE@OTHER_LEADER_DEAD_EVENT@NOTIFY_LOG"
 msgstr "Governante {Side} retirou‑se para o Vazio Astral"
 
 msgid "INTERFACE@OTHER_LEADER_REBORN_EVENT@NOTIFY_LOG_CITY"
-msgstr "Governante {Side} retornou a {City}"
+msgstr "Governante {Side} reapareceu em {City}"
 
 msgid "INTERFACE@OTHER_LEADER_REBORN_EVENT@NOTIFY_LOG_CITY@SETTING"
-msgstr "[white]Seu Nome de Governante[/white] retornou a [white]Nome da Cidade[/white]"
+msgstr "[white]Seu Nome de Governante[/white] reapareceu em [white]Nome da Cidade[/white]"
 
 msgid "INTERFACE@OUTPOST@NO_SPACE"
 msgstr "Todas as colônias em capacidade total"
