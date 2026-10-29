@@ -1,182 +1,186 @@
-# Guia Completo para Tradução de Age of Wonders 4
+<div align="center">
 
-## Introdução
+<img src="Portugu%C3%AAs%20Brasileiro%20-%20PTBR/thumbnail.png" alt="Vai Brasil!" width="220"/>
 
-**Participe da comunidade no Discord:** <https://discord.gg/uFEwSMwUYb>
+# Age of Wonders 4
 
-**Baixe a tradução no Nexus Mods:** <https://www.nexusmods.com/ageofwonders4/mods/124>
+### 🇧🇷 Tradução em Português Brasileiro
 
-**Versão completa no GitHub:** <https://github.com/isyuricunha/age-of-wonders-4-traducao-portugues-brasileiro>
+**O jogo completo em português: mais de 48 mil strings traduzidas,
+incluindo as DLCs mais recentes.**
 
-Tradução do jogo Age of Wonders 4 para Português Brasileiro.
+[![Versão](https://img.shields.io/github/v/release/isyuricunha/age-of-wonders-4-traducao-portugues-brasileiro?style=for-the-badge&label=vers%C3%A3o&color=6f42c1)](https://github.com/isyuricunha/age-of-wonders-4-traducao-portugues-brasileiro/releases/latest)
+[![Tradução](https://img.shields.io/badge/tradu%C3%A7%C3%A3o-100%25%20completa-2ea44f?style=for-the-badge)](#-sobre-o-projeto)
+[![Strings](https://img.shields.io/badge/strings-48.000%2B-0969da?style=for-the-badge)](#-sobre-o-projeto)
+[![Licença](https://img.shields.io/github/license/isyuricunha/age-of-wonders-4-traducao-portugues-brasileiro?style=for-the-badge&label=licen%C3%A7a&color=f9c513)](LICENSE)
+[![Plataformas](https://img.shields.io/badge/Steam%20%C2%B7%20GOG%20%C2%B7%20Epic%20%C2%B7%20Paradox-1b1f24?style=for-the-badge)](#-onde-encontrar-a-tradu%C3%A7%C3%A3o)
 
--> Ative o MOD no Launcher da Paradox; No jogo, mude o idioma para Português Brasileiro.
--> Atualizado para DLC do Deserto.
+[⬇️ Baixar](#-instalação) · [🌐 Nexus Mods](https://www.nexusmods.com/ageofwonders4/mods/124) · [🎮 Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3657814946) · [💬 Discord](https://discord.gg/uFEwSMwUYb) · [▶️ Série no YouTube](https://www.youtube.com/watch?v=JFH4A1-OK1c)
 
-Links:
-Nexus Mods: https://www.nexusmods.com/ageofwonders4/mods/124
+</div>
 
-GitHub: https://github.com/isyuricunha/age-of-wonders-4-traducao-portugues-brasileiro
+---
 
-Paradox: https://mods.paradoxplaza.com/mods/133369/Any/?version=
+## 📖 Sobre o projeto
 
-Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3657814946
+Esta é uma tradução completa do Age of Wonders 4 para Português Brasileiro,
+mantida pela comunidade [Vai Brasil](https://discord.gg/uFEwSMwUYb). Todo o
+texto do jogo está traduzido: interface, missões, tomos de magia, unidades,
+itens e descrições.
 
-Comunidade do Discord: https://discord.com/invite/aYbWBr4
+- ✅ **Jogo base e DLCs recentes**, incluindo Rise from Ruin (a DLC do deserto), Secrets of the Archmages, Thrones of Blood e Singer of Storms
+- 📚 **48.000+ strings traduzidas**, com revisão de terminologia, gênero e concordância
+- 🔧 **Ferramentas próprias** para converter, verificar e atualizar os arquivos de idioma
+- 🔄 **Atualizada junto com o jogo**, a cada patch e DLC nova
+- 🆓 **Gratuita e de código aberto**, sob licença AGPL-3.0
 
+## 📦 Instalação
 
-Se você gostou desta tradução e quer apoiar o trabalho, considere fazer uma doação via PIX para: pix@yuricunha.com
+> [!TIP]
+> Resumo rápido: baixe a release, extraia, copie a pasta `PTBR` para dentro
+> da pasta `Language` do jogo e selecione o idioma no jogo. Os passos
+> detalhados estão logo abaixo.
 
-Este repositório contém uma tradução completa para português brasileiro do jogo Age of Wonders 4. Se você quer apenas instalar e jogar com a tradução pronta, siga as instruções abaixo. Se você é do tipo que gosta de fuçar e quer traduzir por conta própria, há uma seção separada no final explicando como usar o script `mo_convert.py` para facilitar o processo.
+### Passo 1: Baixar os arquivos
 
-Este guia é feito para novatos em computadores, então vamos passo a passo, devagar e explicando tudo direitinho.
+1. Acesse a [página de releases](https://github.com/isyuricunha/age-of-wonders-4-traducao-portugues-brasileiro/releases/latest).
+2. Baixe o `PTBR.zip` (ou o `PTBR.7z`, são o mesmo conteúdo em formatos diferentes).
+3. Salve em uma pasta fácil de encontrar, como "Downloads".
 
-## Requisitos do Sistema
+Você também pode baixar pelo [Nexus Mods](https://www.nexusmods.com/ageofwonders4/mods/124),
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3657814946)
+ou [Paradox Mods](https://mods.paradoxplaza.com/mods/133369/Any).
 
-Para instalar a tradução, você só precisa ter o jogo Age of Wonders 4 instalado no seu computador. Nada mais é necessário!
+### Passo 2: Extrair os arquivos
 
-## Como Instalar a Tradução Pronta
+1. Clique com o botão direito no arquivo baixado.
+2. Selecione "Extrair Tudo..." (ZIP) ou use o 7-Zip (arquivo .7z).
+3. Ao final, você terá uma pasta chamada `PTBR`.
 
-### Passo 1: Baixar os Arquivos
+### Passo 3: Copiar para a pasta do jogo
 
-1. Abra seu navegador web (como Chrome, Firefox ou Edge).
-2. Vá para a página de releases do repositório: <https://github.com/isyuricunha/age-of-wonders-4-traducao-portugues-brasileiro/releases/latest>
-3. Procure pelos arquivos de download. Você verá opções como `PTBR.zip` ou `PTBR.7z`.
-4. Clique no arquivo que preferir (ambos contêm a mesma coisa, apenas formatos diferentes de compactação).
-5. O download começará automaticamente. Salve o arquivo em uma pasta fácil de encontrar, como "Downloads" ou "Desktop".
+Copie a pasta `PTBR` para dentro da pasta `Language` do jogo. O caminho
+depende de onde você comprou:
 
-### Passo 2: Extrair os Arquivos
+| Loja | Caminho da pasta `Language` |
+|---|---|
+| **Steam** | `C:\Program Files (x86)\Steam\steamapps\common\Age of Wonders 4\Language` |
+| **GOG Galaxy** | `C:\Program Files (x86)\GOG Galaxy\Games\Age of Wonders 4\Language` |
+| **Epic Games** | `C:\Program Files\Epic Games\AgeOfWonders4\Language` |
+| **Outras instalações** | Procure a pasta do jogo e, dentro dela, a pasta `Language`. Se não encontrar, procure por arquivos `.mo` no diretório do jogo. |
 
-1. Localize o arquivo baixado (PTBR.zip ou PTBR.7z) na pasta onde você salvou.
-2. Clique com o botão direito do mouse no arquivo.
-3. Selecione "Extrair Tudo..." (para ZIP) ou use um programa como 7-Zip para extrair o 7z.
-4. Escolha uma pasta de destino. Recomendo criar uma nova pasta chamada "Age of Wonders Tradução" na sua área de trabalho para manter tudo organizado.
-5. Após extrair, você verá uma pasta chamada "PTBR" com vários arquivos dentro.
+### Passo 4: Ativar a tradução
 
-### Passo 3: Instalar no Jogo
+1. Ative o mod no launcher da Paradox.
+2. Abra o jogo e vá em **Options > Language**.
+3. Selecione **Portuguese (Brazil)**.
+4. Se o idioma não aplicar de imediato, reinicie o jogo.
 
-Agora você precisa colocar a pasta "PTBR" na pasta de idiomas do jogo. A localização varia dependendo de onde você comprou o jogo:
+Pronto, bom jogo! ⚔️
 
-#### Para Jogos da Steam
+## 🌐 Onde encontrar a tradução
 
-- Caminho padrão: `C:\Program Files (x86)\Steam\steamapps\common\Age of Wonders 4\Language`
-- Como chegar lá:
-  1. Abra o Explorador de Arquivos (clique na pasta amarela na barra de tarefas).
-  2. Vá para "Este PC" > "Disco Local (C:)" > "Program Files (x86)" > "Steam" > "steamapps" > "common" > "Age of Wonders 4" > "Language".
-  3. Cole a pasta "PTBR" dentro da pasta "Language".
+| Canal | Link |
+|---|---|
+| 📦 GitHub Releases | [isyuricunha/age-of-wonders-4-traducao-portugues-brasileiro](https://github.com/isyuricunha/age-of-wonders-4-traducao-portugues-brasileiro/releases/latest) |
+| 🌐 Nexus Mods | [ageofwonders4/mods/124](https://www.nexusmods.com/ageofwonders4/mods/124) |
+| 🎮 Steam Workshop | [Workshop item 3657814946](https://steamcommunity.com/sharedfiles/filedetails/?id=3657814946) |
+| 🛠️ Paradox Mods | [mods/133369](https://mods.paradoxplaza.com/mods/133369/Any) |
+| 💬 Discord (comunidade) | [discord.gg/uFEwSMwUYb](https://discord.gg/uFEwSMwUYb) |
+| ▶️ Série no YouTube | [Vídeo de apresentação](https://www.youtube.com/watch?v=JFH4A1-OK1c) |
 
-#### Para Jogos da GOG Galaxy
+## 🛠️ Para tradutores e curiosos
 
-- Caminho padrão: `C:\Program Files (x86)\GOG Galaxy\Games\Age of Wonders 4\Language`
-- Como chegar lá:
-  1. Abra o Explorador de Arquivos.
-  2. Vá para "Este PC" > "Disco Local (C:)" > "Program Files (x86)" > "GOG Galaxy" > "Games" > "Age of Wonders 4" > "Language".
-  3. Cole a pasta "PTBR" dentro da pasta "Language".
+Se você quer fuçar na tradução, ajustar termos ou criar a sua própria
+versão, o repositório traz tudo o que é necessário.
 
-#### Para Jogos da Epic Games
+### Ferramentas
 
-- Caminho padrão: `C:\Program Files\Epic Games\AgeOfWonders4\Language`
-- Como chegar lá:
-  1. Abra o Explorador de Arquivos.
-  2. Vá para "Este PC" > "Disco Local (C:)" > "Program Files" > "Epic Games" > "AgeOfWonders4" > "Language".
-  3. Cole a pasta "PTBR" dentro da pasta "Language".
+| Script | O que faz |
+|---|---|
+| `mo_convert.py` | Converte entre MO (binário usado pelo jogo) e PO (texto editável) com os comandos `to-po` e `to-mo` |
+| `update_ptbr.py` | Copia para o `PTBR.po` as strings que existem no `EN.po` e ainda faltam na tradução |
+| `missing_translations.py` | Compara EN e PTBR e lista as entradas idênticas ao inglês (possivelmente sem tradução) |
+| `scripts/check_translations.py` | Verifica capitalização, contrações de preposição e presença de tokens obrigatórios |
+| `translation_batch.py` | Ferramentas em lote usadas na revisão da tradução |
 
-#### Para Versões Piratas ou Outras Instalações
+A pasta [`docs/`](docs/) guarda o glossário de termos padronizados
+([GLOSSARY.md](docs/GLOSSARY.md)), as regras de composição de texto do jogo
+([NOTES.md](docs/NOTES.md)) e a documentação do fluxo de trabalho
+([PIPELINE.md](docs/PIPELINE.md)).
 
-- Se você instalou o jogo em outro lugar, procure pela pasta do jogo e dentro dela uma pasta chamada "Language" ou "Lang".
-- Exemplos comuns:
-  - `D:\Games\Age of Wonders 4\Language`
-  - `C:\Games\Age of Wonders 4\Language`
-- Se não encontrar, procure por arquivos com extensão ".mo" no diretório do jogo.
+### Organização do repositório
 
-### Passo 4: Ativar a Tradução no Jogo
+```text
+.
+├── PTBR/                        # arquivos de idioma da tradução (PTBR.po, PTBR.MO)
+├── EN/                          # arquivos de referência em inglês
+├── Português Brasileiro - PTBR/ # pacote no formato do Paradox Mods
+├── Steam-Paradox/               # pacote para o Steam Workshop
+├── scripts/                     # scripts de verificação
+├── docs/                        # glossário, notas de tradução e pipeline
+├── mo_convert.py                # conversor MO <-> PO
+├── update_ptbr.py               # sincroniza strings novas do EN para o PTBR
+└── translation_batch.py         # ferramentas em lote
+```
 
-1. Abra o jogo Age of Wonders 4.
-2. Vá para as configurações de idioma (geralmente em Options > Language).
-3. Selecione "Portuguese (Brazil)" ou "PTBR" na lista de idiomas disponíveis.
-4. Reinicie o jogo se necessário.
-
-Pronto! Agora você pode jogar em português brasileiro.
-
-## Para Quem Quer Traduzir por Conta Própria
-
-Se você não quer usar a tradução pronta e prefere criar a sua própria, ou modificar a existente, o script `mo_convert.py` vai te ajudar. Ele converte arquivos de tradução entre os formatos MO (binário, usado pelo jogo) e PO (texto editável), facilitando o trabalho.
-
-### Requisitos Adicionais
-
-Para usar o script, você precisa do Python instalado:
-
-1. **Python**: Baixe a versão mais recente do site oficial: <https://www.python.org/downloads/>. Durante a instalação, marque a opção "Add Python to PATH" (Adicionar Python ao PATH) para que funcione no terminal.
-
-### Como Usar o Script mo_convert.py
+<details>
+<summary><b>Guia passo a passo do <code>mo_convert.py</code> (para iniciantes)</b></summary>
 
 #### Preparação
 
-1. Baixe ou copie o arquivo `mo_convert.py` para uma pasta no seu computador (por exemplo, junto com os arquivos de tradução).
-2. Abra o Prompt de Comando ou PowerShell:
-   - Pressione Windows + R, digite "cmd" e pressione Enter.
-   - Ou procure por "Prompt de Comando" no menu Iniciar.
+1. Instale o [Python](https://www.python.org/downloads/). Durante a instalação, marque a opção **"Add Python to PATH"**.
+2. Copie o `mo_convert.py` para uma pasta do seu computador, de preferência junto com os arquivos de tradução.
+3. Abra o Prompt de Comando (tecla **Windows + R**, digite `cmd` e pressione Enter) e navegue até a pasta:
 
-3. Navegue até a pasta onde está o script:
-   - Digite `cd` seguido do caminho da pasta, por exemplo: `cd C:\Users\SeuNome\Desktop\Age of Wonders Tradução`
-   - Pressione Enter.
-
-#### Convertendo MO para PO (para Editar)
-
-Se você quer editar uma tradução existente:
-
-1. No Prompt de Comando, digite o comando:
-
-   ```bash
-   python mo_convert.py to-po arquivo_original.mo arquivo_editavel.po
+   ```
+   cd C:\Users\SeuNome\Desktop\Age of Wonders Tradução
    ```
 
-   - Substitua `arquivo_original.mo` pelo nome do arquivo MO que você quer converter.
-   - Substitua `arquivo_editavel.po` pelo nome que você quer dar ao arquivo PO de saída.
+#### Editar uma tradução existente
 
-2. Pressione Enter. O script criará um arquivo PO que você pode abrir em qualquer editor de texto (como Bloco de Notas, Notepad++, ou VS Code).
+1. Converta o arquivo do jogo (MO) para texto editável (PO):
 
-3. Edite o arquivo PO:
-   - Abra o arquivo .po em um editor de texto.
-   - Procure pelas linhas que começam com `msgstr ""`.
-   - Entre as aspas, escreva a tradução em português.
-   - Salve o arquivo.
-
-#### Convertendo PO para MO (para Usar no Jogo)
-
-Depois de editar o PO:
-
-1. No Prompt de Comando, digite o comando:
-
-   ```bash
-   python mo_convert.py to-mo arquivo_editavel.po arquivo_final.mo
+   ```
+   python mo_convert.py to-po PTBR.MO minha_traducao.po
    ```
 
-   - Substitua `arquivo_editavel.po` pelo nome do seu arquivo PO editado.
-   - Substitua `arquivo_final.mo` pelo nome que você quer dar ao arquivo MO final.
+2. Abra o arquivo `.po` em um editor de texto (Bloco de Notas, Notepad++ ou VS Code).
+   Cada bloco tem um `msgid` (o texto original em inglês) e um `msgstr` (a
+   tradução). Escreva a sua tradução entre as aspas do `msgstr` e salve.
 
-2. Pressione Enter. O arquivo MO será criado e pode ser usado no jogo.
+3. Converta de volta para o formato do jogo:
 
-3. Copie o arquivo MO para a pasta apropriada no jogo (dentro da pasta PTBR que você instalou).
+   ```
+   python mo_convert.py to-mo minha_traducao.po PTBR.MO
+   ```
 
-#### Exemplo Prático
+4. Copie o `PTBR.MO` de volta para a pasta `Language\PTBR` do jogo.
 
-Vamos supor que você quer traduzir o arquivo "PTBR.mo":
+#### Dicas
 
-1. Converta para PO: `python mo_convert.py to-po PTBR.mo minha_traducao.po`
-2. Edite "minha_traducao.po" no Bloco de Notas.
-3. Converta de volta: `python mo_convert.py to-mo minha_traducao.po PTBR.mo`
-4. Substitua o arquivo original no jogo.
-
-### Dicas para Tradução
-
-- Sempre teste suas mudanças no jogo para ver se funcionam.
+- Teste as mudanças no jogo depois de cada conversão.
 - Faça backups frequentes dos seus arquivos.
-- Se encontrar erros no script, verifique se o Python está instalado corretamente e se os caminhos dos arquivos estão certos.
-- Os arquivos PO têm uma estrutura específica: msgid é o texto original, msgstr é a tradução.
+- Se o script reclamar, confira se o Python está no PATH e se os caminhos dos arquivos estão corretos.
 
-## Suporte e Doações
+</details>
 
-Se você gostou desta tradução e quer apoiar o trabalho, considere fazer uma doação via PIX para: <pix@yuricunha.com>
+## 💛 Apoie o projeto
 
-Para dúvidas ou problemas, verifique se seguiu todos os passos corretamente. Lembre-se: tradução de jogos é um processo que requer paciência e testes constantes.
+Se a tradução foi útil pra você, considere apoiar o trabalho com uma doação
+via PIX: **pix@yuricunha.com**
+
+<div align="center">
+
+<img src="https://i.imgur.com/jx1MAIO.png" alt="QR Code PIX" width="200"/>
+
+</div>
+
+É uma ótima forma de mostrar que você quer que o projeto continue sendo
+atualizado enquanto o jogo receber novidades. 🍻
+
+## 📄 Licença
+
+Este projeto está sob a licença [AGPL-3.0](LICENSE). Age of Wonders 4 é um
+jogo da Triumph Studios, publicado pela Paradox Interactive. Este é um
+projeto de fãs, sem vínculo oficial com os estúdios.
