@@ -8,7 +8,9 @@ autorizada pelo mantenedor no registro de consentimento da migração.
 
 `output/` conserva os arquivos e pacotes anteriores, sem recompor ou traduzir seu
 conteúdo. `Steam-Paradox/` e `Português Brasileiro - PTBR/` conservam os pacotes,
-miniaturas, ACP e identidade Workshop 3657814946/Paradox 133369. A nova automação
+miniaturas, ACP e identidade Workshop 3657814946/Paradox 133369. O pacote ativo
+`Português Brasileiro - PTBR/` foi restaurado na raiz para atualização do mod;
+essas cópias em legacy continuam como referência histórica. A nova automação
 não publica nem modifica esses canais. Não são variantes independentes.
 
 `docs/`, `batches/history/` e os scripts documentam escolhas e validações anteriores.

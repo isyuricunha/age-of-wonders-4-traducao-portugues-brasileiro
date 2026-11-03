@@ -494,6 +494,12 @@ class Toolkit:
                 raise ValueError(f'BUILD_REFUSED: {len(result["errors"])} validation errors; run check')
             manifest, batches, by_id = self.read()
             expected = dict(self.observed)
+            mod_root = 'Português Brasileiro - PTBR/'
+            for name in ('PTBR.acp', 'thumbnail.png'):
+                metadata = mod_root + name
+                if not self.path(metadata).is_file():
+                    raise ValueError(f'MOD_METADATA_MISSING: restore {metadata}; publication identity must be preserved')
+                expected[metadata] = digest(self.path(metadata).read_bytes())
             resources, catalog = self.source()
             expected.update({'EN/' + p: digest(data) for p, data in resources.items()})
             by_row = {r['row']: r for r in by_id.values()}
@@ -512,6 +518,7 @@ class Toolkit:
                        'filled': result['filled'], 'passthrough': result['passthrough'], 'pending': 0,
                        'native_pairs': len(pairs), 'runtime_test': 'not performed', 'source_build': manifest['provenance']}
             changes = {'PTBR/' + p: v for p, v in output.items()}
+            changes.update({mod_root + p: v for p, v in output.items()})
             # Only output files owned by the prior receipt may be removed automatically.
             actual = {p.relative_to(self.path('PTBR')).as_posix() for p in self.path('PTBR').rglob('*') if p.is_file()}
             if actual - set(output):

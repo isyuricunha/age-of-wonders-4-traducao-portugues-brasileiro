@@ -65,8 +65,19 @@ conteúdo é copiado à raiz da instalação. PO, ZIP, documentação e licença
 toolkit não entram na árvore instalável. Créditos originais são preservados em
 EN; fontes TTF, texturas e executáveis do jogo não são redistribuídos.
 
-Os pacotes históricos Steam/Paradox e suas identidades são preservados como
-referência de publicação. A migração não envia nada a essas plataformas.
+A pasta da raiz `Português Brasileiro - PTBR/` é o pacote de publicação do mod,
+usado no Package Manager. Preserve `PTBR.acp` e `thumbnail.png`: o ACP mantém
+a identidade já utilizada na publicação. A cópia foi conferida byte a byte com
+a pasta de mods do Paradox fornecida pelo mantenedor.
+
+Cada `build` completo atualiza automaticamente `Language/PTBR/` desse pacote
+junto com `PTBR/Language/PTBR/`, na mesma transação, preservando o ACP e a
+miniatura. Se esses metadados estiverem ausentes, o build é recusado para evitar
+perder a identidade de publicação. Esse pacote fica fora do ZIP e dos assets
+do Actions/Release. Os IDs de referência são Paradox 133369
+e Steam 3657814946. A publicação é feita pelo responsável no fluxo habitual;
+a toolkit não altera a pasta externa de mods nem envia nada às plataformas.
+Os pacotes anteriores também permanecem em `legacy/` para recuperação.
 
 ## Comandos
 
@@ -99,10 +110,9 @@ python3 -B translation-work/toolkit.py rollback
 de trabalho anterior somente na inicialização. Ambos recusam sobrescrever um
 manifesto existente. Não os execute para atualizar o jogo.
 
-Os pontos de entrada antigos encaminham status/sync/validação/build à CLI nova;
-o merge posicional foi aposentado. O conversor independente foi preservado para
-exportações fora das árvores gerenciadas e recusa escrever EN, PTBR ou lotes,
-para não contornar os gates de origem e de build completo.
+A entrada da toolkit é `translation-work/toolkit.py`. Os atalhos da raiz foram
+removidos; os scripts anteriores permanecem como referência histórica em
+`legacy/scripts/` e no Git. Não use o fluxo antigo de merge/build.
 
 ### Atualizar a origem
 

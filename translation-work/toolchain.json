@@ -10,10 +10,10 @@
     "translation-work/release.py": "fe365479cb2458e3d756b597b04bab3223f9e3cf10f331779bf46abc3ac04e8a",
     "translation-work/storage.py": "9f381d740e6a4f118dd2264090048e776cf15e114d596a9464570bfd8f56f966",
     "translation-work/syntax.py": "ff812f2c2149036d226de5aeb43ee6c06c98a52e14181009cb5ecc803a42cb14",
-    "translation-work/toolkit.py": "20c60b0e238d86df1e415a2d646a114348d2342d3e055774b6b5393734a7d214"
+    "translation-work/toolkit.py": "ab311f909609602ddd94a7f446fd5fc101c033751b0bfce6a96f09c678da6b0a"
   },
   "format": "Age of Wonders 4 gettext MO revision 0, UTF-8",
   "normalization": "Git text LF; EN/native resources remain binary-exact",
-  "reason": "Scoped whitespace lint exception for byte-preserved original EN and historical archive copies only. Real Git-index checks proved all runtime and native digests before the exception; developer-owned source checks remain enabled. No native bytes or binary integrity checks changed.",
+  "reason": "Build synchronizes repository mod language files atomically with PTBR output, preserving publication ACP and thumbnail; release assets remain unchanged.",
   "schema": 1
 }

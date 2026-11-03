@@ -3,7 +3,6 @@ import copy
 import json
 from pathlib import Path
 import re
-import shutil
 import subprocess
 import sys
 import tempfile
@@ -87,25 +86,6 @@ class PortabilityTests(unittest.TestCase):
 
 
 class PublicDocsTests(unittest.TestCase):
-    def test_compat_converter_cannot_write_managed_trees(self):
-        with tempfile.TemporaryDirectory() as tmp:
-            root = Path(tmp)
-            archive = root / 'translation-work/legacy/scripts'
-            archive.mkdir(parents=True)
-            shutil.copyfile(ROOT / 'mo_convert.py', root / 'mo_convert.py')
-            shutil.copyfile(ROOT / 'translation-work/legacy/scripts/mo_convert.py', archive / 'mo_convert.py')
-            source = root / 'input.po'
-            source.write_text('msgid "key"\nmsgstr "value"\n', encoding='utf-8')
-            for relative in ('EN/EN.MO', 'PTBR/PTBR.MO', 'translation-work/translations/partial.MO'):
-                target = root / relative
-                target.parent.mkdir(parents=True, exist_ok=True)
-                for mode in ('to-mo', 'to-po'):
-                    for separator in ([], ['--']):
-                        result = subprocess.run([sys.executable, '-B', str(root / 'mo_convert.py'), mode, *separator, str(source), str(target)], capture_output=True)
-                        self.assertNotEqual(result.returncode, 0)
-                        self.assertIn(b'Managed resources are protected', result.stderr)
-                        self.assertFalse(target.exists())
-
     def test_full_authentic_license_scope_and_consent(self):
         license_text = (ROOT / 'LICENSE').read_text(encoding='utf-8')
         self.assertTrue(license_text.startswith('Attribution-NonCommercial-ShareAlike 4.0 International'))

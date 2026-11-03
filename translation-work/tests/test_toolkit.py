@@ -28,6 +28,10 @@ def fixture(root, count=4):
     path.write_bytes(native.encode(pairs))
     (path.parent / 'Name.txt').write_bytes(b'English')
     (path.parent / 'Credits.txt').write_bytes(b'Original credits\r\n')
+    mod = root / 'Português Brasileiro - PTBR'
+    mod.mkdir()
+    (mod / 'PTBR.acp').write_bytes(b'fixture publication identity')
+    (mod / 'thumbnail.png').write_bytes(b'fixture thumbnail')
     return pairs
 
 
@@ -175,6 +179,29 @@ class ToolkitTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, 'OUTPUT_INVENTORY'):
             self.tool.package(self.root / 'refused.zip')
         self.assertFalse((self.root / 'refused.zip').exists())
+
+    def test_build_updates_mod_languages_and_preserves_identity(self):
+        fill(self.tool)
+        self.tool.build()
+        mod = self.root / 'Português Brasileiro - PTBR'
+        metadata = {name: (mod / name).read_bytes() for name in ('PTBR.acp', 'thumbnail.png')}
+        manifest, _, rows = self.tool.read()
+        row = next(r for r in rows.values() if r['EN'] == 'Realm {name}')
+        self.tool.apply({'source_generation': manifest['catalog_sha256'],
+                         'updates': [{'id': row['id'], 'PTBR': 'Reino {name}'}]}, replace=True)
+        old = (mod / 'Language/PTBR/PTBR.MO').read_bytes()
+        self.tool.build()
+        self.assertNotEqual(old, (mod / 'Language/PTBR/PTBR.MO').read_bytes())
+        for name in ('PTBR.MO', 'Name.txt'):
+            self.assertEqual((mod / 'Language/PTBR' / name).read_bytes(),
+                             (self.root / 'PTBR/Language/PTBR' / name).read_bytes())
+        for name, data in metadata.items():
+            self.assertEqual((mod / name).read_bytes(), data)
+        (mod / 'PTBR.acp').unlink()
+        with self.assertRaisesRegex(ValueError, 'MOD_METADATA_MISSING'):
+            self.tool.build()
+        self.assertEqual((mod / 'Language/PTBR/PTBR.MO').read_bytes(),
+                         (self.root / 'PTBR/Language/PTBR/PTBR.MO').read_bytes())
 
     def test_forged_complete_flag_and_stale_workspace(self):
         fill(self.tool)

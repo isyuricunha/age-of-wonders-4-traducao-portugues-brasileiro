@@ -10,7 +10,7 @@ real de Release nem execução no servidor ARM64.
 | Origem e formato reais | MO UTF-8 revisão 0, Steam AppID 1669000/build 26274772; `docs/formato-localizacao.md`, manifesto e comparação dos recursos com a instalação. |
 | Identidade e duplicatas | Chave nativa e ocorrência para chaves ofuscadas; testes de reconstrução conservam todos os pares. Duplicatas visíveis ambíguas são recusadas. |
 | JSONL e progresso | 52.275 registros em 105 lotes; 52.243 PT-BR importados e 32 pass-throughs ofuscados. Campos de origem imutáveis e manifesto com índice/hashes por lote. |
-| Aplicação parcial segura | `apply` valida geração/IDs/estrutura e escreve somente lotes alterados. Repetição idempotente, sobrescrita explícita e caminhos gerenciados protegidos nos pontos antigos. |
+| Aplicação parcial segura | `apply` valida geração/IDs/estrutura e escreve somente lotes alterados. Repetição idempotente, sobrescrita explícita e entrada única pela CLI em translation-work/. |
 | Atualizações incrementais | `sync` e `update-sources` compartilham plano/transação; autodetecção Steam delimitada, `--game-root`, `--source-root`, `--source-file` e dry-run. Recursos ausentes/novos desconhecidos falham antes da importação. |
 | Diferenças e histórico | Textos/IDs/lotes anteriores e novos, remoções versionadas, fonte anterior nos registros e relatórios com geração e sinalização de obsolescência. |
 | Contexto e gênero | Briefing pesquisado e referências biográficas por hash; papel de falante/destinatário/referente separado. Fixtures sem coluna de gênero cobrem falante feminina, referente masculino, nomes desconhecidos e jogador dinâmico. Mudanças nas evidências invalidam dependências. |

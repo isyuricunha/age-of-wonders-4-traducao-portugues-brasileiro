@@ -115,8 +115,8 @@
       "Language/EN/EN.MO": "7bf44bd5c1a3f6502451320d2a0a180c6f52ef9dfc4ced6bee93a910583381d2",
       "Language/EN/Name.txt": "ba118bf7fc9c1aedc1edb28a0aa86e0b43b681f222af6616e13c43be87815b06"
     },
-    "translation-work/runtime-support.json": "47c7aa063b7ccaca975b30258a68570c8770f395280b1d0c35c846385ea87ed3",
-    "translation-work/toolchain.json": "e36b7041366caed806339be3df84773f5c1f1e120af905bc21e711cdf5ad64f0"
+    "translation-work/runtime-support.json": "daa7df94e99602cd7779dffd37080f643bd88734f9f2cd7a184d9822ade74888",
+    "translation-work/toolchain.json": "8d744a2a043a1149fed0b159c58d67f02017ac1875fa64f13e49c2fb306a8d7f"
   },
   "native_pairs": 52276,
   "output": {

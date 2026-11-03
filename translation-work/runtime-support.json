@@ -4,7 +4,7 @@
   "python_minimum": "3.10",
   "schema": 1,
   "target": "Ubuntu Server 24.04 LTS ARM64/aarch64",
-  "toolchain_sha256": "e36b7041366caed806339be3df84773f5c1f1e120af905bc21e711cdf5ad64f0",
+  "toolchain_sha256": "8d744a2a043a1149fed0b159c58d67f02017ac1875fa64f13e49c2fb306a8d7f",
   "ubuntu_arm64_execution": "unverified; pending translator doctor after clone/pull",
   "vendor_dependencies": [],
   "windows_execution": "verified by local tests; see reports/verification.json"
