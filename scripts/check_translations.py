@@ -130,8 +130,20 @@ def main():
         PRO = re.compile(r"<<\s*(?:C?[oPpr]|C?g|in)\s*:", re.I)
         PRO_ARG = re.compile(r"<<\s*(?:C?[oPpr]|C?g|in)\s*:([A-Za-z0-9_.{}]+)>>", re.I)
         pro_args = {a.strip("{}") for a in PRO_ARG.findall(en)}
-        want_c = Counter(t for t in tb.tokens(en) if not PRO.match(t))
-        got_c = Counter(t for t in tb.tokens(pt) if not PRO.match(t))
+        # A possessive G/ge construct may be rewritten as "word de {entity}".
+        # Preserve its referenced entity and any variable in the display word.
+        for body in re.findall(r"<<[Cc]?[Gg]e?:([^<>]*)>>", en):
+            if "," in body:
+                word, argument = body.rsplit(",", 1)
+                pro_args.add(argument.strip("{}"))
+                pro_args.update(re.findall(r"\{([^{}]*)\}", word))
+        # These grammatical alternations contain English verbs/pronouns, not
+        # gendered names. Their natural PT rewrite has no alternation to retain.
+        grammatical = r"<<[A-Za-z]+\{(?:bows/curtsies|he's/she's)\}>>"
+        normalized_en = re.sub(grammatical, "", en)
+        normalized_pt = re.sub(grammatical, "", pt)
+        want_c = Counter(t for t in tb.tokens(normalized_en) if not PRO.match(t))
+        got_c = Counter(t for t in tb.tokens(normalized_pt) if not PRO.match(t))
         problems = []
         for t, c in (want_c - got_c).items():
             problems.append(f"missing={t}x{c}")

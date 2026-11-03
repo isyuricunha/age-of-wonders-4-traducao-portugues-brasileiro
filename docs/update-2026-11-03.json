@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-03",
+  "pending_processed": 3103,
+  "batch_sizes": [
+    250,
+    250,
+    250,
+    250,
+    250,
+    250,
+    250,
+    250,
+    250,
+    250,
+    250,
+    250,
+    103
+  ],
+  "pending_remaining": 0,
+  "unique_keys": 52260,
+  "localized_changed_texts": 2542,
+  "kept_names_tokens_source_markers": 561,
+  "preserved_existing_translations": true,
+  "validator_errors": 0,
+  "en_source_capitalization_warnings": 804,
+  "raw_token_mismatches_existing": 1952,
+  "raw_token_mismatches_reviewed_new": 212,
+  "gnu_gettext_verified": true,
+  "mo_roundtrip_verified": true,
+  "zip_contents_verified": true,
+  "sevenzip_contents_verified": true,
+  "mod_copies_identical": true,
+  "runtime_tested": false,
+  "sha256": {
+    "EN\\EN.MO": "7bf44bd5c1a3f6502451320d2a0a180c6f52ef9dfc4ced6bee93a910583381d2",
+    "EN\\EN.po": "582db8c5e81164f7414727f0eb29af8a5ad203d2b4af06337d063dca217f8f4c",
+    "PTBR\\PTBR.po": "0c9e8ae9f96366e4031582ac56d58127b342e4ea5ffd081d988bc7570701fae4",
+    "PTBR\\PTBR.MO": "f450ba9753d2d40fb1adb3e3b497718315303970398728736096a3ef47dc036a",
+    "PTBR.zip": "fe40f0a601a9e78893827b9ede8f18dc7b3cf5b30d674fec91b81b9a6abd5dca",
+    "PTBR.7z": "6877b4b8c1e7f15dd24aaa47698ba738995f1129b90cc60213c8c4c4cb04cb17"
+  }
+}

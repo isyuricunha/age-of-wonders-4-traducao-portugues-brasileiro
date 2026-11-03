@@ -155,3 +155,28 @@ Mire Crocodile spirit lore names (Primal Fury), translated 2026-10: Deep-Maw =
 Goela Profunda, High-Squall = Alto Bramido, Loom-Frost = Geada Gigante,
 Fell-Fang = Presa Mortal, Under-Atter = Peçonha do Subsolo. Serpent = Espiral de
 Terra and Wolf = Mae do Juramento were already translated.
+
+## The Silver Seas (atualização de 2026-11-03)
+
+- The Silver Seas = Os Mares de Prata; Silver Seas = Mares de Prata.
+- Mercantile = Mercantil; Barony = Baronia; Cartel = Cartel.
+- Free Captain = Capitão Livre; Free Captains = Capitães Livres.
+- Pirate Raid = Incursão Pirata; Avaricious/Bloodthirsty/Heroic = Avarento/Sanguinário/Heroico.
+- Salt/Gold/Blood/Life Bond = Vínculo de Sal/Ouro/Sangue/Vida.
+- Leverage = Alavancagem, seguindo o termo já usado nos eventos existentes.
+- Bounty (estado de combate) = Recompensa; Bounty Hunter = Caçador de Recompensas. O Contrato diplomático existente pertence a outro conceito.
+- Hoarfrost Manta = Arraia da Geada; Ancient Hoarfrost Manta = Arraia da Geada Ancestral.
+- Hoarfrost Doomray = Arraia da Perdição Gélida; Doomray = Arraia da Perdição.
+- Seamare = Cavalo-Marinho; Sharkkin = Tubarídeos; Aqualon = Aqualon.
+- Runecrab = Caranguejo Rúnico; Lightning/Storm Rune Crab = Caranguejo Rúnico Relampejante/da Tempestade.
+- Accursed Lamenter = Lamentadora Amaldiçoada; Accursed Wisp = Fogo-Fátuo Amaldiçoado.
+- Ghostfire = Fogo Fantasma; Ember Dust = Poeira de Brasa; Damned = Condenado.
+- Dirge = Elegia; Requiem = Réquiem; Rime Healing = Cura de Geada.
+- Pearltide = Maré Perolada; Pearltide Dome = Cúpula da Maré Perolada.
+- Pale Tidebloom = Flor da Maré Pálida; Tempestuous Vortex = Vórtice Tempestuoso.
+- Spawning Shoal = Banco de Desova; Paragon of the Seas = Expoente dos Mares.
+- Nevermoor = Nevermoor (nome do navio); Haunted Armada = Armada Assombrada.
+- Gravegold Island = Ilha do Ouro Sepulcral; Cursed Gold = Ouro Amaldiçoado.
+- Billowborne = Nascidos das Ondas; Children of the Waves = Filhos das Ondas.
+- Nomes próprios neerlandeses são preservados; títulos, epítetos descritivos e nomes transparentes em inglês são traduzidos.
+- As alternâncias de gênero em nomes e parentesco mantêm o identificador do personagem e traduzem as duas opções. Alternâncias puramente gramaticais (`bows/curtsies`, `he's/she's`) podem ser reescritas como uma única expressão natural, preservando a referência ao personagem na frase.
