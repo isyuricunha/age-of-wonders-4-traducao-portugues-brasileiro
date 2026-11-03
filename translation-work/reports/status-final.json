@@ -1,0 +1,25 @@
+{
+  "records": 52275,
+  "batches": 105,
+  "filled": 52243,
+  "pending": 0,
+  "passthrough": 32,
+  "source_generation": "e99d37f9174d7dde588c0453d345ecb55d0e6459769b63f063e508ff9fe74fa4",
+  "storage": {
+    "transactions": 10,
+    "protected": 0,
+    "bytes": 71883574,
+    "limit_count": 10,
+    "limit_bytes": 536870912,
+    "reclaimable": 0
+  },
+  "output_stale": false,
+  "next": null,
+  "last_sync": {
+    "counts": {
+      "unchanged": 52275
+    },
+    "generation": "e99d37f9174d7dde588c0453d345ecb55d0e6459769b63f063e508ff9fe74fa4",
+    "stale": false
+  }
+}

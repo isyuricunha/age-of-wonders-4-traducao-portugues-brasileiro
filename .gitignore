@@ -5,3 +5,10 @@ __pycache__/
 translation-work.json
 /batches/*.json
 messages.mo
+
+# Canonical translation-work/translations and durable entry history ARE versioned.
+translation-work/.state/
+translation-work/reports/check-*.json
+translation-work/legacy/EN/
+translation-work/tests/.tmp/
+translation-work/reports/*.log

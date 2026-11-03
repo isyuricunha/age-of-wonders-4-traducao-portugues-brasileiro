@@ -1,0 +1,31 @@
+name: Verified PT-BR Release
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'PTBR/**'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: ptbr-release
+  cancel-in-progress: false
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7.0.1
+        with:
+          fetch-depth: 0
+          fetch-tags: true
+      - uses: actions/setup-python@v7.1.0
+        with:
+          python-version: '3.12'
+      - name: Fast completed-build gate (no native rebuild)
+        run: python -B translation-work/toolkit.py verify-output
+      - name: Package exact verified native files
+        run: python -B translation-work/toolkit.py package --output "$RUNNER_TEMP/PTBR.zip"
+      - name: Publish or resume the versioned Release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python -B translation-work/release.py --publish --archive "$RUNNER_TEMP/PTBR.zip"

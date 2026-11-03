@@ -1,0 +1,52 @@
+{
+  "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_1179@BODY_LORE": {
+    "EN_sha256": "067edf7121c2591e9e1e2f02ea2c72d567817fae6081400b5538f6c1f2a15c4a",
+    "PTBR_sha256": "c6da845f91c25511260f55c061b4a1524609f529b338913d9f687ebeaca2b2e8",
+    "diagnostics": [
+      "extra {Karissa.Title} x1"
+    ],
+    "evidence": "translation-work/legacy/docs/NOTES.md sections 1 and 4; translation-work/legacy/scripts/check_translations.py legacy construct-rewrite policy; translation-work/legacy/docs/update-2026-11-03.md",
+    "reason": "Repeats source-present {Karissa.Title} in place of second possessive <<o:Karissa>>; same referenced entity.",
+    "scope": "exact existing EN/PTBR pair only; any edit must pass strict validation or explicit technical policy review"
+  },
+  "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_793@BODY_LORE": {
+    "EN_sha256": "17821b610066ef33d78a98226dfefb5670e15faa1b99132b09ea21543b7d3f88",
+    "PTBR_sha256": "f1129e9de056eb07ebb89b6f30f8eea886e661c5a0dfaf72a0279f860e2fe698",
+    "diagnostics": [
+      "extra {Ysariel.FirstName} x1"
+    ],
+    "evidence": "translation-work/legacy/docs/NOTES.md sections 1 and 4; translation-work/legacy/scripts/check_translations.py legacy construct-rewrite policy; translation-work/legacy/docs/update-2026-11-03.md",
+    "reason": "Repeats source-present {Ysariel.FirstName} in place of object pronoun <<P:Ysariel>>; same referenced entity.",
+    "scope": "exact existing EN/PTBR pair only; any edit must pass strict validation or explicit technical policy review"
+  },
+  "DLC@SECRETSOFTHEARCHMAGES@STORY_EVENT@1229_813@BODY_LORE@ORDER_BOUND": {
+    "EN_sha256": "7e509047300d6eca6d6d7c171466c79ed8e081b93a34ec88b61430c2a0034d88",
+    "PTBR_sha256": "248e3807339f6b95fc91fd8c93e6587d4bcc4407dfe64f01a6d79cfde187048f",
+    "diagnostics": [
+      "extra {Ysariel.FirstName} x1"
+    ],
+    "evidence": "translation-work/legacy/docs/NOTES.md sections 1 and 4; translation-work/legacy/scripts/check_translations.py legacy construct-rewrite policy; translation-work/legacy/docs/update-2026-11-03.md",
+    "reason": "Repeats source-present {Ysariel.FirstName} for malformed original <<p::Ysariel>>; preserves existing documented wording.",
+    "scope": "exact existing EN/PTBR pair only; any edit must pass strict validation or explicit technical policy review"
+  },
+  "DLC@THRONESOFBLOOD@STORY_EVENT@1224_623@BODY_LORE": {
+    "EN_sha256": "4e01fae55fd81e20fd1a99e60772f20457293f1500fa935aea85d31dc23081fb",
+    "PTBR_sha256": "9447669728863a808a2ecde05f6548feca4516fad51f4285222a86d3e7f00429",
+    "diagnostics": [
+      "extra {EventPlayerType} x1"
+    ],
+    "evidence": "translation-work/legacy/docs/NOTES.md sections 1 and 4; translation-work/legacy/scripts/check_translations.py legacy construct-rewrite policy; translation-work/legacy/docs/update-2026-11-03.md",
+    "reason": "Legacy repetition of source-present {EventPlayerType} while rewriting <<o:LeaderType>>. Retained solely as existing reviewed-policy compatibility; this does not establish a general LeaderType/EventPlayerType alias.",
+    "scope": "exact existing EN/PTBR pair only; any edit must pass strict validation or explicit technical policy review"
+  },
+  "DLC@THRONESOFBLOOD@STORY_EVENT@1229_277@BODY_LORE": {
+    "EN_sha256": "97e168890f9c9553ccbe2be4bdbce68b10d994ca4dad035029432cf8b2cbb5b0",
+    "PTBR_sha256": "1b645c85557e3afbcc43d5f681f488cfffb67ed13c7ca8562a63ab01690fd10d",
+    "diagnostics": [
+      "extra {Emperor.Title} x1"
+    ],
+    "evidence": "translation-work/legacy/docs/NOTES.md sections 1 and 4; translation-work/legacy/scripts/check_translations.py legacy construct-rewrite policy; translation-work/legacy/docs/update-2026-11-03.md",
+    "reason": "Promotes <<o:Emperor>> to {Emperor.Title}; existing project policy on possessive rewrites and entity display properties.",
+    "scope": "exact existing EN/PTBR pair only; any edit must pass strict validation or explicit technical policy review"
+  }
+}

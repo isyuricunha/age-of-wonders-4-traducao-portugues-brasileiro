@@ -1,0 +1,37 @@
+{
+  "characters": [
+    {
+      "EN_sha256": "de009d15da3e219ff4be6308bf77fc5f5a55960e4d6bcd27550745a907853219",
+      "aliases": [
+        "Sundren"
+      ],
+      "biography_key": "CAMPAIGN@LORDS@RACE_SUNDREN@BIO",
+      "evidence": "Explicit daughter/she or he in original English biography; described person only. See docs/briefing-do-jogo.md.",
+      "gender": "female",
+      "id": "Sundren"
+    },
+    {
+      "EN_sha256": "f3816c30af3c23e666bed25af1764954fa33d9d5cae8d3154796113ab52c5e95",
+      "aliases": [
+        "Yaka"
+      ],
+      "biography_key": "CAMPAIGN@LORDS@RACE_YAKA@BIO",
+      "evidence": "Explicit daughter/she or he in original English biography; described person only. See docs/briefing-do-jogo.md.",
+      "gender": "male",
+      "id": "Yaka"
+    },
+    {
+      "EN_sha256": "e4cdba433d8fe4a17e2f0f37d6dd175f2896e67348fbd9e3916e169c07679786",
+      "aliases": [
+        "Julia"
+      ],
+      "biography_key": "DLC@ARCHONPROPHECY@LORDS@RACE_JULIA@BIO",
+      "evidence": "Explicit daughter/she or he in original English biography; described person only. See docs/briefing-do-jogo.md.",
+      "gender": "female",
+      "id": "Julia"
+    }
+  ],
+  "limitation": "No verified dialogue speaker bindings in supplied game catalog. Identifier matches remain clues, never proof of speaker/addressee/referent identity.",
+  "schema": 1,
+  "source_file": "Language/EN/EN.MO"
+}

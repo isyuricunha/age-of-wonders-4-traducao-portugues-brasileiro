@@ -1,0 +1,34 @@
+{
+  "game_root": "G:\\SteamLibrary\\steamapps\\common\\Age of Wonders 4",
+  "previous_generation": "e99d37f9174d7dde588c0453d345ecb55d0e6459769b63f063e508ff9fe74fa4",
+  "generation": "e99d37f9174d7dde588c0453d345ecb55d0e6459769b63f063e508ff9fe74fa4",
+  "source_resources": [
+    {
+      "path": "Language/EN/EN.MO",
+      "previous_sha256": "7bf44bd5c1a3f6502451320d2a0a180c6f52ef9dfc4ced6bee93a910583381d2",
+      "sha256": "7bf44bd5c1a3f6502451320d2a0a180c6f52ef9dfc4ced6bee93a910583381d2"
+    },
+    {
+      "path": "Language/EN/Name.txt",
+      "previous_sha256": "ba118bf7fc9c1aedc1edb28a0aa86e0b43b681f222af6616e13c43be87815b06",
+      "sha256": "ba118bf7fc9c1aedc1edb28a0aa86e0b43b681f222af6616e13c43be87815b06"
+    },
+    {
+      "path": "Language/EN/Credits.txt",
+      "previous_sha256": "94bac6bc388eee8380baa8c5d64e9565b6b979e8745906e7c0275e09d690b511",
+      "sha256": "ca600be7d950d82d5e9799d187b1f14ab363710b32c910f2ce668701029fd806"
+    }
+  ],
+  "counts": {
+    "unchanged": 52275
+  },
+  "entries": [],
+  "pending_existing": 0,
+  "pending": 0,
+  "preserved_translations": 52243,
+  "affected_batches": [],
+  "valid": true,
+  "next": "Review changed/new entries and source history; build only when complete.",
+  "changed": true,
+  "dry_run": true
+}

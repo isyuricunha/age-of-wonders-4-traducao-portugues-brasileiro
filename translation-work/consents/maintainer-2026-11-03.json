@@ -1,0 +1,9 @@
+{
+  "maintainer": "Yuri Cunha (isyuricunha)",
+  "date": "2026-11-03",
+  "scope": "Existing Age of Wonders 4 original PT-BR translation and original documentation at migration from commit 4a05e68, plus local translation-work.json SHA-256 recorded in reports/migration.json. Excludes third-party original game material and future volunteer submissions.",
+  "affirmative_statement": "Confirmo que detenho os direitos necessários: manter AGPL no código e relicenciar a tradução/documentação para CC BY-NC-SA.",
+  "evidence": "Explicit maintainer reply in migration request; requested standing permission adapted from maintainer-supplied Soulash 2 document.",
+  "code_license": "AGPL-3.0",
+  "translation_documentation_license": "CC-BY-NC-SA-4.0"
+}

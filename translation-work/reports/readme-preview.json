@@ -1,0 +1,17 @@
+{
+  "renderer": "GitHub Markdown API (gfm); local preview wrapper only",
+  "date": "2026-11-03",
+  "source": "README.md",
+  "desktop": "visually checked; official Steam banner and three badges in one row",
+  "mobile": {
+    "viewport_width": 390,
+    "viewport_height": 844,
+    "document_width": 375,
+    "broken_images": [],
+    "result": "banner scales; badges wrap; no document horizontal overflow"
+  },
+  "heading_order": "one H1; H2 sections; H3 only under H2",
+  "publication": "local preview only; no commit, push or live Release",
+  "preview": "translation-work/reports/readme-preview.html",
+  "source_sha256": "8f4df7214ccd42b3f9d984e1632f087f65e37e27c2b4f767c659c9c797fd6ddc"
+}

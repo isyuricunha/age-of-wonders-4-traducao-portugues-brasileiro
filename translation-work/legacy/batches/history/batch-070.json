@@ -1,0 +1,22 @@
+{
+ "ITEM@INFUSION@SLAYER@NOUN_01": "Matador^n",
+ "ITEM@INFUSION@SLAYER_CELESTIAL@NOUN_01": "Ruína do Arconte^n",
+ "ITEM@INFUSION@SLAYER_MAGICORIGIN@ADJ_01": "Matança de Invocações^a",
+ "ITEM@INFUSION@SLAYER_MAGICORIGIN@NOUN_01": "Matador de Invocações^n",
+ "ITEM@INFUSION@SLAYER_MAGICORIGIN@POST_01": "da Matança de Invocações^z",
+ "ITEM@INFUSION@SLAYER_UNDEAD@ADJ_01": "Matança de Mortos-Vivos^a",
+ "ITEM@INFUSION@SLAYER_UNDEAD@POST_01": "de Matança de Mortos-Vivos^z",
+ "ITEM@INFUSION@SLIPAWAY@ADJ_03": "do Escapista^a",
+ "ITEM@INFUSION@STEALBOON_ATTACK@NOUN_01": "Ladrão de Bênçãos^n",
+ "ITEM@INFUSION@STEALBOON_ATTACK@POST_01": "do Ladrão de Bênçãos^z",
+ "ITEM@TYPE@BLOWPIPE@NOUN_05": "Zarabatana^n",
+ "ITEM@TYPE@CESTUS@NOUN_01": "Cestus^n",
+ "ITEM@TYPE@GENERAL_JEWELRY@NOUN_01": "Joias^p",
+ "ITEM@TYPE@GREATSWORD@NOUN_01": "Montante^n",
+ "ITEM@TYPE@HEAVY_MORNINGSTAR@NOUN_01": "Mangual^n",
+ "ITEM@TYPE@JAVELIN@NOUN_01": "Azagaia^n",
+ "ITEM@TYPE@MAGELOCK@NOUN_01": "Magelock^n",
+ "ITEM_FORGE@INFUSION@SPLITTERLING_INFECTION@NAME": "Infecção de Divisor",
+ "ITEM_FORGE@SILVERTONGUE_FRUIT@DESCRIPTION": "{LOC.ITEM_FORGE@MAGIC_MATERIAL@PREFIX}[bulletlist][bullet/]Dano de Praga[bullet/]Proteção contra Praga[bullet/]Manipular Inimigos[/bulletlist]",
+ "ITEM_FORGE@TYPE@TWO_HANDED@NAME": "De Duas Mãos"
+}

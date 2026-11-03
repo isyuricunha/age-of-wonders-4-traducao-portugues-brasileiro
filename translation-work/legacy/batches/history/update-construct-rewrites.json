@@ -1,0 +1,2184 @@
+{
+ "DLC@SILVERSEAS@PIRATE_DWELLING@DEMONIC_CAPTAIN@CUSTOM_PREDICTION@GIVE_CONTRACT": {
+  "removed": [
+   "<<o:EventHouseLord>>",
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "07087cc4a7d09a559c0106988a39bce27a247f57a1b64c518789db2fa3d8027d",
+  "pt_sha256": "2b958d7540f94e58077841d2d428e3677c76c8ea89ef418ed60d0db2ff4a64b0"
+ },
+ "DLC@SILVERSEAS@PIRATE_DWELLING@EVENT_TOOLTIP@FIRST_MEET_INFO_BACK_OUT": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "f934def4dbf3d0a1fa5e048756ea1c9e58947b2777befebdc63c5fdc2ac42312",
+  "pt_sha256": "a5f1b406c857c8c9daa50424a65e39975ab7afe50fdff1f22f708ea64759992e"
+ },
+ "DLC@SILVERSEAS@PIRATE_DWELLING@INTERFACE@FACTION_RAID@PATRON_DISCOVERED_NOTE@PATRON@DESCRIPTION": {
+  "removed": [
+   "<<P:{TARGET_PLAYER}>>"
+  ],
+  "added": [
+   "{TARGET_PLAYER}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "ee8ad08d18115f7bf0955e8805cb738669b850b1aa8e779893f7a7dceda66a98",
+  "pt_sha256": "56cc1f43d6f7e2fea26daff39f9def417a2870e768efbfcf928960db1f1d37c5"
+ },
+ "DLC@SILVERSEAS@PIRATE_DWELLING@INTERFACE@FACTION_RAID@PATRON_DISCOVERED_NOTE@TARGET@DESCRIPTION": {
+  "removed": [
+   "<<P:{PATRON_PLAYER}>>"
+  ],
+  "added": [
+   "{PATRON_PLAYER}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "98662ffc874529707dea11f10276939a5a53ad60a6d44e1f6c06015cafe219a1",
+  "pt_sha256": "f029b48da95fc5bc8c246c8eaf0738203f8ec852bb523f6243d338b53a9aa3c5"
+ },
+ "DLC@SILVERSEAS@PIRATE_DWELLING@NOTIFICATION@QUEST_REMINDER@DESCRIPTION": {
+  "removed": [
+   "<<P:{CAPTAIN_VAR}>>"
+  ],
+  "added": [
+   "{CAPTAIN_VAR}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "ed13150d8d098d11cee4a9e187e0d71960dcb74b3f8d98fd8b58ef97332e2b7a",
+  "pt_sha256": "91159fe0d155575d5c5edbfb8efffedac61fb3d0de1d33fe273da02c3aa58cbe"
+ },
+ "DLC@SILVERSEAS@PIRATE_DWELLING@QUEST_MENU@BLOODTHIRSTY_OPTION@STRENGTH_CHECK@HEADER": {
+  "removed": [
+   "<<G:{EventHouseLord.FirstName}>>"
+  ],
+  "added": [
+   "{EventHouseLord.FirstName}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "983165adb821b5eef81907bccda7d2fa64be73aac27fe5cc1b631a146703d552",
+  "pt_sha256": "9e9708794627c19355a91c38cb7a7b2927fe5a20d106d8fb0afddf5fd0de2fc3"
+ },
+ "DLC@SILVERSEAS@PIRATE_DWELLING@TRIGGER@TOOLTIP@PIRATE_CREW_LOSE_REQUISITE": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "525c1c4a93b1dfef98304396a0e44ce9a91dedc204ccfc8131aa68d0f2f188bd",
+  "pt_sha256": "66aafeb088c6dc2a9130ac8cbf036d165d6e505e7bccd00021058ca00b2aaf45"
+ },
+ "DLC@SILVERSEAS@PIRATE_DWELLING_QUEST@ADVENTURER_CRAB_QUEST@AFFINITY_CHOICE_ORDER@FAILURE": {
+  "removed": [
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "6f35b25d160ac5eddeffe38b9ea89f809a594f0ae59401d3f7f79b7d51cdd75b",
+  "pt_sha256": "932342e165356d6cdbf60f9651bf327017d30e985fcd0d698d3eb88564d5d50b"
+ },
+ "DLC@SILVERSEAS@PIRATE_DWELLING_QUEST@ADVENTURER_CRAB_QUEST@AFFINITY_CHOICE_ORDER@HEADER": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "4341583af7937c8a780bcc7b6d85d9fb2fb4ba38e847fa5d9bae782cc6543e1c",
+  "pt_sha256": "0a4d802bd65dc87cc202848b45984416a92e9b071166f464ce50d1da37eb73a9"
+ },
+ "DLC@SILVERSEAS@PIRATE_DWELLING_QUEST@DEMAND_EVENT_MANA@AFFINITY_CHOICE_ASTRAL@FAILURE": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "d253a55faa589b9fc027f75290784711159c0c688997fce4c88423dec5afc934",
+  "pt_sha256": "b192d4ee99063b8cf5b70c4b63a43e59f0ad26b79b2aa3d64086f3d4f06b599d"
+ },
+ "DLC@SILVERSEAS@PIRATE_DWELLING_QUEST@DEMAND_EVENT_PRODUCTION@AFFINITY_CHOICE_CHAOS@HEADER": {
+  "removed": [
+   "<<G:Captain>>"
+  ],
+  "added": [
+   "{Captain}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "39aa004fd70cd21e2abdd64c3f1c221824654d63b33081d2c2e2bf4208e29157",
+  "pt_sha256": "eb9d85f4e0a7cac63795d9bf2e396186c07096f1499963026eb2e444a93bd0c1"
+ },
+ "DLC@SILVERSEAS@PIRATE_DWELLING_QUEST@DEMAND_EVENT_PRODUCTION@AFFINITY_CHOICE_CHAOS@SUCCESS": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "099c4fb7628d83a1f0f705d79763a8f0f5f0afb67660eea80a301de92c1e36ff",
+  "pt_sha256": "852b761c61ffb1c9ac1c50082c100f46b48265f807c92c354573e8c83fb2cc6a"
+ },
+ "DLC@SILVERSEAS@PIRATE_DWELLING_QUEST@DEMAND_EVENT_PRODUCTION@AFFINITY_CHOICE_MATERIUM@HEADER": {
+  "removed": [
+   "<<G:Captain>>"
+  ],
+  "added": [
+   "{Captain}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "24506c89a54853bb8f7fc49dc3703f34428ff9823e360af93430b067ac43046c",
+  "pt_sha256": "25dfe15ab07a6eb1aefa016670fbe6fd8ddabd31183ded37bf1acbc4a9a01095"
+ },
+ "DLC@SILVERSEAS@PIRATE_DWELLING_QUEST@DEMAND_EVENT_PRODUCTION@AFFINITY_CHOICE_MATERIUM@SUCCESS": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "b00dfa556545b0602f8b8bcae3be7c8c4f3aa1bfe6ddf66685cf16254ecbc89f",
+  "pt_sha256": "1a82491af9a2c9ae4a3ab65ab0841290f7497927eebb16b8f67350a98ddb2efe"
+ },
+ "DLC@SILVERSEAS@PIRATE_DWELLING_QUEST@DEMONIC_CONTRACT_QUEST@CUSTOM_PREDICTION_01@DAZZLE_OF_GREED": {
+  "removed": [
+   "<<o:EventUnit>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "fff7def25fdf1eee0069ada2e61bf45ca438f8e9f631ca0d028c7086d0909dfa",
+  "pt_sha256": "22781e8b408a81a2aec2b032ef93e43413f183b96e2c8aa1d720b0433283921b"
+ },
+ "DLC@SILVERSEAS@PIRATE_DWELLING_QUEST@DEMONIC_CONTRACT_QUEST@CUSTOM_PREDICTION_02@WHISPERS_OF_DECEPTION": {
+  "removed": [
+   "<<o:EventUnit>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "69ba00f4257f312e77d47adafc9e7e0af6d4cc85c696994629cd43b533f362a2",
+  "pt_sha256": "c2185c0341dcb5f89df2e2ef17506e03ecff8ed44badad6bb4c68899b53e3458"
+ },
+ "DLC@SILVERSEAS@PIRATE_DWELLING_QUEST@DEMONIC_CONTRACT_QUEST@CUSTOM_PREDICTION_03@FIRES_OF_HATRED": {
+  "removed": [
+   "<<o:EventUnit>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "6d2ae5d945f2476a37f7c795a1b148338d5eb72f6771a3378c1688fca63f0449",
+  "pt_sha256": "f54bf62ad62f76098c968dded79495267a2157aba22ecb0bcc3e0a4ed50b91ca"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1596@BODY_HEADER": {
+  "removed": [
+   "<<p:EventHero>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "d3b42bf98f4923f934ef15e8fb077aa71de04253d1e94ff77c16113a6d76a8da",
+  "pt_sha256": "eda7fd499e2e9bf70f2372b7460209fc6e2f1f4d7d421489fa3e08b95ab6618e"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1596@BODY_LORE": {
+  "removed": [
+   "<<Cp:EventHero>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "b10b1e9c3b4e57f29eb77a231463d02cbd8e358527ffeff07a82f1cbbdd9ce2a",
+  "pt_sha256": "7e124e101ebf47960c0fd0204b5424f68e00ab68f83a4288dfe3d28a0ff8b1ea"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1597@BODY_HEADER": {
+  "removed": [
+   "<<o:EventHero>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "2659ed2e5a8a516d2e964c2f1bd98732e538fadd9b991227a52d0e33924297d1",
+  "pt_sha256": "5fbf0ab9d504a21affc22be3b958b184b62661e01cc1a9917269698d2f63f74b"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1598@BODY_HEADER": {
+  "removed": [
+   "<<o:EventHero>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "2659ed2e5a8a516d2e964c2f1bd98732e538fadd9b991227a52d0e33924297d1",
+  "pt_sha256": "5fbf0ab9d504a21affc22be3b958b184b62661e01cc1a9917269698d2f63f74b"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1600@BODY_FOOTER": {
+  "removed": [
+   "<<G:{EventHero.FirstName}>>"
+  ],
+  "added": [
+   "{EventHero.FirstName}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "402b7e121ab60b631dc4e5200d2daf195ec4f17f3d1d1bd27d2efdb941eb69c3",
+  "pt_sha256": "24d102ce33b6cd5292286460d94174ddb3fdebd27197260fbadd08a767271d8f"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1600@BODY_HEADER": {
+  "removed": [
+   "<<o:EventHero>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "e37f0e3e547e7041f6218a4b6f6999dee393a3e23db5eaaecff5dbcc754d8592",
+  "pt_sha256": "6a9ba5dce66661ba099434e8ecaead34cb21f595b56558549e517df2f293978e"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1601@BODY_LORE": {
+  "removed": [
+   "<<Cp:EventHero>>",
+   "<<p:EventHero>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "733c1b85ea0b3e790521962fcb81c6ce68a7d24130bed2aa37d2a9fcc90dbaf6",
+  "pt_sha256": "7f1d209553e97b0f404fe05fc639b34867f4130f6647bc76db616213b4e034db"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1602@BODY_FOOTER": {
+  "removed": [
+   "<<G:{EventHero.FirstName}>>",
+   "<<P:EventHero>>"
+  ],
+  "added": [
+   "{EventHero.FirstName}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "fc13e4d9ff2df845e25c39d7dfc76be3ef5ed17bb5986394abf0fef0d142b8e8",
+  "pt_sha256": "3716e12c14cedb6a23d35d7a38f65e73f3ff09e169fa5498e847e37e1e6eb58c"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1602@BODY_HEADER": {
+  "removed": [
+   "<<p:EventHero>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "39efc90ebbb813b1db4e837b6ac2c95644d921d16bc5d36a710d122df1587c83",
+  "pt_sha256": "5ff88b242532a664d92e915b68321a9404e11d6c003e403c51301b25502f4697"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1602@BODY_LORE": {
+  "removed": [
+   "<<Co:EventHero>>",
+   "<<Cp:EventHero>>",
+   "<<Cp:EventHero>>",
+   "<<P:EventHero>>",
+   "<<o:EventHero>>",
+   "<<o:EventHero>>",
+   "<<o:EventHero>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "6ad3c285e5e83302b6c2ca6b2b0e3229ef1bf0d0917c932080baa7c5394a0778",
+  "pt_sha256": "a023b436b155d2436e4f5d0c70d0a32cad22b9f9e415eb8f64326c7d122decd6"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1614@BODY_LORE": {
+  "removed": [
+   "<<Cp:EventHouseLord>>",
+   "<<Cp:EventHouseLord>>",
+   "<<o:EventHouseLord>>",
+   "<<o:PlayerLeader>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "9e7d95448430c7843e7ffcde4b1e968578e0c6227dc9766d0d9909b726e24247",
+  "pt_sha256": "bb0b72a82c6ba5a4efe4d539cdb429418a518ea316e03275d4a3ec31ebae1178"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1615@BODY_LORE": {
+  "removed": [
+   "<<o:EventHouseLord>>",
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "b7e67d1a9352850d51144f4aec346c63d09591fbd3e95216c73effa7a6b1ec1c",
+  "pt_sha256": "8e78572741101524542726f46090ea41b0d58573bf4cd2fc0c6d11cbd59be6a1"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1616@BODY_HEADER": {
+  "removed": [
+   "<<Hero>>",
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "e15b76f2c8ef4e699c88a03fc34760b23e3b6fc1989bf7d37cf3effe8c1e1ca8",
+  "pt_sha256": "76c43ed1766283e5a2c886a032f72f91d6ee758e5fd78bb14267a98b2df1b0ac"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1616@BODY_LORE": {
+  "removed": [
+   "<<o:EventHouseLeader>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "cb3d2686fece0ea89b703142992912b4d5123051d13471a141efd097adb95d9c",
+  "pt_sha256": "b6b352adc09448fc3fd522db00372dc55729a8a640b536f1f41d3390db99b55e"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1617@BODY_LORE": {
+  "removed": [
+   "<<Cp:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "07835808b65b441b7396934ac7066ffa254e0607353fcdd143e3f342860ff553",
+  "pt_sha256": "fa45447171b8d6b0ae0bf1c3d553af6f143f594d31f47196edffbe6f17806cfb"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1618@BODY_HEADER": {
+  "removed": [
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "017deda0e199f738ee8845ff722778fd223922afe2799ddf9cf7c459018e25db",
+  "pt_sha256": "9ba6d0c242728e1089d37e339e10cf01bb84c39e230dc478b79532e82bb4f850"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1618@BODY_LORE": {
+  "removed": [
+   "<<Cp:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "ae06695b651e69c7d184234df17fbcb3c93ee7715ef19d3e641f0ebb7246e311",
+  "pt_sha256": "cd8f0d6b48324784026c7ff39823a93b6c5545ef0fa27a4df5d85f737d3f6e2c"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1619@BODY_HEADER": {
+  "removed": [
+   "<<Cp:EventUnit>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "5fd22cdea715180e894700256ed845c3f086b3deaabc0272622ea8289da1b34a",
+  "pt_sha256": "21303ce5b5e8c21f70b4585dde70f600bc73973fe8e586057e6d37324db76779"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1619@BODY_LORE": {
+  "removed": [
+   "<<Cp:EventUnit>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "1a060da8b76ebbf9fafb56c8f80615b9612ecb43cca5b4a97bb5ea99271a51d8",
+  "pt_sha256": "34371df460b4c4db0979f6560324f348050ed811bed89c449629b64af38b723b"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1621@BODY_HEADER": {
+  "removed": [
+   "<<G:EventHero>>"
+  ],
+  "added": [
+   "{EventHero}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "04a4db0a6ca98ef2cade6d64e899be0f801958d156e7296fb8cd3d34d16ad0aa",
+  "pt_sha256": "3bcf6f34c816f868d695e3c2f845b879db84d91ac004f82af57e65f24b71ee05"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1622@BODY_HEADER": {
+  "removed": [
+   "<<Cp:EventStackLeader>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "3102d7a5c5c8a758e8b3171f791c79577f5918eabf0e1366329a1c435343a4ad",
+  "pt_sha256": "c05784c399e7a574b1e98017520b0be5d8b49682d302f0518e56f5cf784c8175"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1622@BODY_HEADER@HERO_IS_PLAYERLE": {
+  "removed": [
+   "<<Cp:EventStackLeader>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "5accfb1fc8d3caf0a2fb38c85293b5adcccee09061688b4472a3be0951d363ec",
+  "pt_sha256": "4ec8991d1e4578bc3a35fde363b099639f3c99314f0433a3a66854fb55d0e210"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1622@BODY_LORE": {
+  "removed": [
+   "<<Cp:EventStackLeader>>",
+   "<<G:EventStackLeader>>",
+   "<<o:EventStackLeader>>",
+   "<<o:EventStackLeader>>",
+   "<<o:EventStackLeader>>"
+  ],
+  "added": [
+   "{EventStackLeader}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "931deb6d46ed074f441070dc719bbfd41bd4d9f9e7f08cfed22c665e74e742da",
+  "pt_sha256": "6dcb5cf6749e6caed54656cb3a237befd2696b07e105b1b7c5a5211730c846a7"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1622@BODY_LORE@HERO_IS_PLAYERLE": {
+  "removed": [
+   "<<Cp:EventStackLeader>>",
+   "<<G:EventStackLeader>>",
+   "<<o:EventStackLeader>>",
+   "<<o:EventStackLeader>>",
+   "<<o:EventStackLeader>>"
+  ],
+  "added": [
+   "{EventStackLeader}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "51d6cedf74c16e9360cde3f85c86c440dd1f1389d153ad6a285aa077c2614984",
+  "pt_sha256": "bc504ca00cc99f0394e528140b6d6d46f278a3855638132ef29c76ec2ce99493"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1622@BUTTON_4": {
+  "removed": [
+   "<<G:EventStackLeader>>"
+  ],
+  "added": [
+   "{EventStackLeader}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "6f426349368499ad7e93a8a507204d169f129e3823effcb829b98488cf87aa32",
+  "pt_sha256": "8b8435a8704d4ec86482f4e5bd51de935fab2441787c4d7039fdf5ac2a7d9f07"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1623@BODY_FOOTER": {
+  "removed": [
+   "<<o:EventHero>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "1c3899895794ddfc409131c31b8039b79bdcca669a1c37f304ec3fec20c6449d",
+  "pt_sha256": "b9f5eb488e1ace134a01a7566260076af863bcb4a9994bbcbf79b23fd61ad0df"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1623@BODY_HEADER": {
+  "removed": [
+   "<<o:EventHero>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "0f0abdc35de860dc2fe4b715763470ca9c322db22ac34614bdd315f1013ac924",
+  "pt_sha256": "080093a0e55345750bc540b2a4564d0022ee0a46d49ee4b3794a4c4bd6f48d7a"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1623@BODY_LORE": {
+  "removed": [
+   "<<Cp:EnemyUnit>>",
+   "<<G:{EventHero.FirstName}>>",
+   "<<o:EnemyUnit>>"
+  ],
+  "added": [
+   "{EventHero.FirstName}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "2a93ed2a5a8e769b9bf8ad23c887d43fa7396319e7f710951a9df63c08ed99c8",
+  "pt_sha256": "96ae9b9e94d4187a5aee1a7511de149d410ad8c9530164846b8d24492116cc10"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1625@BODY_LORE@HERO_IS_PLAYELEA": {
+  "removed": [
+   "<<Cp:EnemyUnit>>",
+   "<<o:EnemyUnit>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "f664dba7e131098dcb3d43104ee99d639d33fd2b5a4fa1074aa5427d52bcfc07",
+  "pt_sha256": "b2c11735ad06da958ff93a27bfcdf920d2169426430e477cabe3317a1a8debda"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1626@BODY_HEADER": {
+  "removed": [
+   "<<G:EventHero>>"
+  ],
+  "added": [
+   "{EventHero}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "7cf99540dd9d5fb16c9ef15eab6a4489d977933c31a477968786862010860781",
+  "pt_sha256": "e0a733ef89bd4a13482f854ab14cb80d9661106211796b96846561b7b4966675"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1627@BODY_FOOTER": {
+  "removed": [
+   "<<G:EnemyUnit>>",
+   "<<P:EventHero>>",
+   "<<o:EnemyUnit>>",
+   "<<o:EventHero>>"
+  ],
+  "added": [
+   "{EnemyUnit}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "2960a20d875cee5be8d4e3fd6685178be10fb2b1e2af88ddf5c01abf4cb0aa20",
+  "pt_sha256": "d74102072e8297890c502e6fe1ffd82989738c6711e35c6a00abaa401884a854"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1627@BODY_FOOTER@HERO_IS_PLAYELEA": {
+  "removed": [
+   "<<G:EnemyUnit>>",
+   "<<o:EnemyUnit>>"
+  ],
+  "added": [
+   "{EnemyUnit}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "f406dc8c843385cf05e6df29a8c3afb0bfa47071cafc1190236a1035bd5bbfab",
+  "pt_sha256": "996fdb7407ce65df5a8ab121f77ca360b7b30322a7e68a5a2025e3d0fdf0ae52"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1627@BODY_LORE": {
+  "removed": [
+   "<<Cp:EnemyUnit>>",
+   "<<Cp:EnemyUnit>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "3e57d7b904fd95f60e1265122f429935795bd8f87cd4f0e484db06c6284b585b",
+  "pt_sha256": "f80253e60a40d2efeeac7d06b8b7ded75b0949f52da5ebc4c0355e3ac8d9ce10"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1627@BODY_LORE@HERO_IS_PLAYELEA": {
+  "removed": [
+   "<<Cp:EnemyUnit>>",
+   "<<Cp:EnemyUnit>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "9f489876744517c7196fc95c71d0c866e1b6a362e131d0c5f8c11420cdaf96da",
+  "pt_sha256": "8d95bca5d0f298267c08647b9ec75b3670dc3c31547671cd677fb5a42a1ff2ae"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1627@BUTTON_4": {
+  "removed": [
+   "<<o:EnemyUnit>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "311901e44b3bafe3bceaf6ead5ea40c25115bb1b65ff07c1765cd4f51cbda175",
+  "pt_sha256": "eb9dd80444f8c330986f5e939ce3b33bc5da05df0d42b1dc400301d94751bcb0"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1628@BODY_FOOTER": {
+  "removed": [
+   "<<o:EnemyUnit>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "578af4b79847a4aecf4c1196847cde821cf78ad6a88fe7e1cb36a5f660a2e176",
+  "pt_sha256": "757d15a1d4513edd1993652d64eb062e7f8a809e1c2100684e5d1f59c7be9bad"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1628@BODY_FOOTER@HERO_IS_PLAYELEA": {
+  "removed": [
+   "<<o:EnemyUnit>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "24a89d6adf1ec8906f7819423c8e88cb4fb70efe68ea37150b6d4a17adebcea7",
+  "pt_sha256": "9e04bd5731e12268bf9da4c03c5b39c9fa655dff0304535b8885ad1df4d6f6e2"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1628@BODY_LORE": {
+  "removed": [
+   "<<r:EnemyUnit>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "e29b051fd191d245c6f9f2a4ce91dab70825b10b26c6a44364ed69b2224d0326",
+  "pt_sha256": "d47204ecd84310a133f29745080e033008a81fc83eec032166b443a1ab15c2c3"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1628@BODY_LORE@HERO_IS_PLAYELEA": {
+  "removed": [
+   "<<r:EnemyUnit>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "fbbfd5a49e12bf2f248af78e96f426f4106a70e6fe75c904d748780c7b51ae8d",
+  "pt_sha256": "d09ac4e7e30ed159278871dc38014cb6cd8aeb53d23db4abb185a3fc21306607"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1628@BUTTON_5": {
+  "removed": [
+   "<<G:{EventHero.FirstName}>>"
+  ],
+  "added": [
+   "{EventHero.FirstName}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "7c25c7c2c8735a7343cce592d545b0bd2be3f6c13a91ca4251bbaa4b7fcc8242",
+  "pt_sha256": "1e0c126e8e5ad0d4ce7a7ea9f2349d66aab963b1de80274839871eb066bc676e"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1631@BODY_FOOTER": {
+  "removed": [
+   "<<o:EventHero>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "296c2b05d33c1458f1c2db1bcdfb4ce7711200c13181e167f84f6a944a129efa",
+  "pt_sha256": "cffa125fd78ba6d5276a61862caf35b9e49d59cdf42eebc711ccd85c1c910d8a"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1631@BODY_LORE": {
+  "removed": [
+   "<<o:EnemyUnit>>",
+   "<<o:EventHero>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "d31afbfb87349b5dad47c172b17b8296b3393c3a754050f8d5a91984bae8222f",
+  "pt_sha256": "981db397cdcda1dbcb3e0e36b489e18f768dc8e8adb85e69438aecb647298c56"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1631@BODY_LORE@HERO_IS_PLAYERLE": {
+  "removed": [
+   "<<o:EnemyUnit>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "b47f8c85fc3b361acfbb874521b9ca10531455ae30d0b9b8de84184eb4e22639",
+  "pt_sha256": "dbf669eee300be7958e7bb6439667d05da977b3a244d7e7b8b642f0b1879e85a"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1632@BODY_FOOTER": {
+  "removed": [
+   "<<Cp:EventHero>>",
+   "<<o:EventHero>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "4b0752d48634d2c6fd5ec5d4dc3ed86341b1fc69085da6f8b81472eb649e2637",
+  "pt_sha256": "26231aa9f4e51a130e321555cd00d2e516acb5499b223a4fffed9695fb30b27d"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1167_1632@BUTTON_3": {
+  "removed": [
+   "<<G:EventCity>>"
+  ],
+  "added": [
+   "{EventCity}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "c18c4168cf41a50171650e056243579ccdde0e37f9d9ea3f9f7c7e91057de69e",
+  "pt_sha256": "b13f44360369de10bedbc4c0c01cb2f038282a7f8bdab22666eb7a7e6160aba6"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1224_2067@BODY_LORE": {
+  "removed": [
+   "<<P:EventHero>>"
+  ],
+  "added": [
+   "{EventHero}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "8f312c82a4f99b1fb74929c5a5d154745b95bb6ad3c7f257c3a4f6aee0e3487f",
+  "pt_sha256": "ebfd2c3965914cc6132067f35dd3e8ced60b795498dc7c67a38829cdc311c40c"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1224_2362@BODY_FOOTER": {
+  "removed": [
+   "<<o:MaerName>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "0a59da7fd57bc050a4d863c2abec9868496d19f3abadfddb40abec0e4a510801",
+  "pt_sha256": "b75c89f6d6bbb584bde396d83927414b748fe5679f0a3ba0cd13ba762305cbba"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1224_2394@BODY_FOOTER": {
+  "removed": [
+   "<<p:{VeraBlackheart}>>"
+  ],
+  "added": [
+   "{VeraBlackheart}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "7d7986a90ab3328a88a5a9b930401fc1a986a1ddd0c3f2d477f1e5f023295c41",
+  "pt_sha256": "fb1d00710d4ff5cbfc901b0d5b5131d02455374c710a904b57a9e4ca8e76cb2e"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1224_2434@BODY_FOOTER": {
+  "removed": [
+   "<<p:EventHero>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "3f50147584da3c32d68abcdf85631a361479bc00b27f677db0ef435656d6425f",
+  "pt_sha256": "a76b256403d1861d961b6d405d1c4d98d3427759ce0916cd67165f1087ee622a"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1518@BODY_FOOTER": {
+  "removed": [
+   "<<G:{EventHero.FirstName}>>"
+  ],
+  "added": [
+   "{EventHero.FirstName}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "e25c24bed2defbceb0ac7c4469019b1430acd7408c32cabce8993b8f03f0cf9e",
+  "pt_sha256": "8b3c30696d66d867e45c8084843aa8131cba20117d6a0eae33e6e7f03b987623"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1518@BODY_HEADER": {
+  "removed": [
+   "<<G:{EventHero.FirstName}>>"
+  ],
+  "added": [
+   "{EventHero.FirstName}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "19212cd2dab7710a4ac371eedf57ea5325ae5a6b25e56e56d3118f51e4a3e29e",
+  "pt_sha256": "2694fdd54271f2975499cd3160cbd129824701770536ffdfefd4d5487f4f98de"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1518@BODY_LORE": {
+  "removed": [
+   "<<o:EventHero>>",
+   "<<o:EventHero>>",
+   "<<o:EventHero>>",
+   "<<p:EventHero>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "390f4faddcf6496e387a02ca8ba5848ecf9986b2f7d9f509195408ac04b74781",
+  "pt_sha256": "731a2b3bbf44c19a6f56b067e79f7c663ccb2002d259769694cb9396f630ccd1"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1519@BODY_FOOTER": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "0c30b9dc89d1dae90af4c9592386787ea23872627c035dbe2169806129a7232b",
+  "pt_sha256": "b4f62b9a383afad1361f37623fd3759be93928303c1822a06cbfa20d4f5e7839"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1519@BODY_HEADER": {
+  "removed": [
+   "<<G:{EventHero.FirstName}>>"
+  ],
+  "added": [
+   "{EventHero.FirstName}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "7d59bb4b879b4aae5581a660cab00d3e099b77bed05f2f2237563b651cb38715",
+  "pt_sha256": "c7ed68563e64593f9b3238dcdc748ae85284412d869176efac8a05c1ad660474"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1519@BODY_LORE": {
+  "removed": [
+   "<<o:EventHouseLord>>",
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "ab014f83a5f8cc397b9e68231e73eeea85b7b2da4133a519dfc77cd8acbe4b52",
+  "pt_sha256": "ed4e4adf34a37e16ab63ae78228359e14b0b80e95842a8e167fe433d2dd792d0"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1536@BUTTON_12": {
+  "removed": [
+   "<<G:{EventHero.FirstName}>>"
+  ],
+  "added": [
+   "{EventHero.FirstName}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "29ad39e7fbcac3112d27175683d715f35280f2eb526941bd20f064a2f2863c80",
+  "pt_sha256": "f8b0e4809a5c2e5468bbb437c54dffc8787e821c8a5310bb7d0954e96dcf7621"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1557@BODY_FOOTER": {
+  "removed": [
+   "<<o:NemesisName>>"
+  ],
+  "added": [
+   "{NemesisName}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "58b70227e2ef6d0a1c4ee79517e017ffba2daa528cde02fb052f42cf4a54485f",
+  "pt_sha256": "339ce4a3b5869ccf62ecc5170929ebb98966e4d2addb6a58a26ae2499b8b777d"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1557@BODY_HEADER": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "f67f91e845e0f99faa20a8f4ccf39931a8cbf375f8ca55b1f8537ea4f4bd5467",
+  "pt_sha256": "b2e9e6623ae64c5e1a9aa282f575d0e88ee3d51581cdef7a572392813e82e29e"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1557@BODY_LORE": {
+  "removed": [
+   "<<p:NemesisName>>"
+  ],
+  "added": [
+   "{NemesisName}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "78570aea7cbb8ed29af6c92574e64bbeec0e262af7a0da7130fd9ab339881449",
+  "pt_sha256": "45dc30653d3542c0dfce0a6641d855c1243c7192fdc976db8304ff3938bcd816"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1558@BODY_FOOTER": {
+  "removed": [
+   "<<o:EnemyUnit>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "86bb0183a2ed6e9b493e4ad03b32e613fac94fad6bf323eabeaa509728a515a5",
+  "pt_sha256": "27fea22ded1b77d52538fa4c902efa6ac49ecb5f900cb618b873b1150c46874e"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1558@BODY_LORE": {
+  "removed": [
+   "<<P:EnemyUnit>>",
+   "<<o:EnemyUnit>>",
+   "<<o:NemesisName>>",
+   "<<o:NemesisName>>"
+  ],
+  "added": [
+   "{EnemyUnit}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "10fccf7cfa8864e6a272d9d35af69335242b8d28eaa58facf71cd2050c2dda0f",
+  "pt_sha256": "da240669f4bd1c54c8f2a895b80339d955d759282c724dee302682f072447031"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1558@TITLE": {
+  "removed": [
+   "<<G:{NemesisName}>>"
+  ],
+  "added": [
+   "{NemesisName}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "1abcd3469d8f4c5ac7ce85d691d5d2aa15bac2e66993ee0229117e9ad34e5d61",
+  "pt_sha256": "bf310f92bcbe4fa79f56adba35e42071581f08801d95f238555eb5249a5e5ce6"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1559@BODY_FOOTER": {
+  "removed": [
+   "<<P:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "cf0ae62647a848da10100a6c631ebe00a2f3086e8cd614d6b6538e68b160ba95",
+  "pt_sha256": "fded475c98390344c2f378a24af612a5284046c7ef2eaf50118b46ea969800e2"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1559@BODY_LORE": {
+  "removed": [
+   "<<o:EnemyUnit>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "25e7928701efd038460918c0e0510950c1e371a5df082faaa102e3a14b065144",
+  "pt_sha256": "3d71bd51c646de3a14ec566fdb0707fd9bbbdb1f1b1f7776b9a1166701e67e25"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1559@BUTTON_0": {
+  "removed": [
+   "<<P:EnemyUnit>>"
+  ],
+  "added": [
+   "{EnemyUnit}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "a8c72ec8109df10b1ec3e3db83c4168c2571b8c86d5ae960a6147491ae0540e8",
+  "pt_sha256": "aa2e7c6138cbdda72314e39e54d547b198bd2776aa581b9bb1adc690349316ce"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1559@BUTTON_1": {
+  "removed": [
+   "<<P:EnemyUnit>>",
+   "<<p:EnemyUnit>>"
+  ],
+  "added": [
+   "{EnemyUnit}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "1ce7209e3475d6768738720b74ec4de59080a9c453dbf80cdfacd08e5b2f1a84",
+  "pt_sha256": "61e7fb45b02ff2ca70f4271e62712fd64f1689e92cddbef975ad2b94b523a6ef"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1559@BUTTON_2": {
+  "removed": [
+   "<<P:EnemyUnit>>"
+  ],
+  "added": [
+   "{EnemyUnit}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "55b2e27d55d0027297a32a29b05c59ec3ca5be71c91f55b99c21794126f905bb",
+  "pt_sha256": "c00b71f7656f0cef5753fffa144a67fac6512372470aa145c8147588465fd242"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1559@TITLE": {
+  "removed": [
+   "<<G:Nemesis>>"
+  ],
+  "added": [
+   "{Nemesis}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "add7d3c537db88669f64d98483054881036c90d486e1c19ff398cefbf52303aa",
+  "pt_sha256": "ce0c40435635fbab68617eea193d09505663421a7e65337eed5b091a86f942ad"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1560@BODY_HEADER": {
+  "removed": [
+   "<<P:EventHouseLord>>",
+   "<<P:EventHouseLord>>",
+   "<<P:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "8793e2fa97bfd38648b0ff423b277143195cde2abbb939f5035821e2a9908bfa",
+  "pt_sha256": "7ebad50b73776347fe5f36be49f8279a46970c64b7e13746857908e8be6fe9a4"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1560@BODY_LORE": {
+  "removed": [
+   "<<P:EventHouseLord>>",
+   "<<o:EventHouseLord>>",
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "6775e1b58bf2f1409a532d81b194049e4b93293648c9ca84984ca85b00b8dad8",
+  "pt_sha256": "ad6191d2408a75f95bf145feaf850acf3b6fb57f701bff427a6c84d185449db6"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1560@BODY_LORE@NEMISIS_KILLED": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "9cea694586e0fcfe3a6016fd38b11945184d7404cc75a41fa2214f2fe0977753",
+  "pt_sha256": "d6f7f8657b35d8ed6e7d0085d2d5036f3592dd2c0b9b66f113ab8be836c6a38d"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1561@BODY_HEADER": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "81db3be6daf8ba791513068871a1e2bc6d192046230ed44ee01abd4c04ba2ed6",
+  "pt_sha256": "f3c371cd02d2894841ba0529b68485c102ad87908f67310fbac5594b5c3232fb"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1561@BUTTON_0": {
+  "removed": [
+   "<<G:EventHouseLord>>"
+  ],
+  "added": [
+   "{EventHouseLord}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "29eb0ad0ffffa1a0a0a480927bd02a0fa03e09cb2ee601d8e02782e67fc8efb1",
+  "pt_sha256": "1160ce8dce469412e7cc5c5bd870dcaec545f8e5d158f536af4316d4adddc5b2"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1561@BUTTON_1": {
+  "removed": [
+   "<<P:EventHouseLord>>"
+  ],
+  "added": [
+   "{EventHouseLord}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "47e74aa5c5e3dfa7bd793cc2b10b5746737f0a98d4f34023e24710b04e55c949",
+  "pt_sha256": "a35939008fdf2efe7c034773e0ebce903ef07cec7d8dc81397829019b2fd6487"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1563@BODY_HEADER": {
+  "removed": [
+   "<<P:EventHouseLord>>",
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "7320d3f117dd94db542d85fb25ab2436582b9225f0496bc9297719efb2e98eb5",
+  "pt_sha256": "d02d71650c609e13dd517acf8fb510fa9c7fbd226a4740790cc2c66b43ef57ef"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1563@BODY_LORE": {
+  "removed": [
+   "<<G:{NemesisName}>>",
+   "<<p:EventHouseLord>>",
+   "<<r:EventHouseLord>>"
+  ],
+  "added": [
+   "{EventHouseLord}",
+   "{NemesisName}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "03fed94fb2a138af3649394a64501619480d0867a9756f19460b510078e6c06d",
+  "pt_sha256": "17091c6c4a61313023272c98aba15e2471e8724347e3d7d4ce9dea858021c061"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1563@BUTTON_2": {
+  "removed": [
+   "<<P:EventHouseLord>>"
+  ],
+  "added": [
+   "{EventHouseLord}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "69a3e7ef40cf4db772ffe628ad084e6bab7b9e744d8bd16719ec8fdf6b3cc76b",
+  "pt_sha256": "00f70adbae6339c55d4bad4f6ca0c75131559911a0a972b868badfe64dff1fff"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1577@BODY_HEADER": {
+  "removed": [
+   "<<o:EventCaptain>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "3866fd93dab2b712ed7f851203661e01492512d8c515137ac90ab10e01504341",
+  "pt_sha256": "26ff8d62333df7f4f628a468dbf351cd6f36806a88354e80aa96babe21104521"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1578@BODY_LORE": {
+  "removed": [
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "b8e2f9aebf65bbb5ad72f5c9d4a2601f33fce5c192cfb8a1482260d6baad1b98",
+  "pt_sha256": "f15eb00226282c7775da374e0a3e65d354025470e65c6761d68180255639f4b0"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1578@BODY_LORE@BLOODTHIRSTY": {
+  "removed": [
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "20bdde6929ad7cb755beabdbeb8bc38b23dafcf56d03adc8742752943f197fcb",
+  "pt_sha256": "a732d9b05fb06b2c3f428cac559e5cfc7a09d7ee8ae849b58bed66ef32762e42"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1613@BODY_LORE": {
+  "removed": [
+   "<<G:OverlordName>>",
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [
+   "{OverlordName}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "86ab6dea4471d3a7f69e5a920f3b9aab3ed469afd006e03a99d1cdab633c9b1e",
+  "pt_sha256": "58710ced6f29372f1fedbe666b5ffd614f62f1db1f58fe5999b62ef01d9f2e0c"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1613@BUTTON_1": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "12400a9993ff3b3dac60b7a3777f32d7b26415642b1a9a40d4113506739b920e",
+  "pt_sha256": "fff9808125ae1cd116dd3575abaaeb5acbea7eff01c7e9b1d29136a95e63b82b"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1613@BUTTON_2": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "26e2c6586383ebe9c4a3bc7a41ea04572eccd5a2e7bdf9c18c26df1ec8d707b5",
+  "pt_sha256": "ab4c982601721d6389ed89f04b728b76bedf29747141b5269e8da35058944a9e"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1613@TITLE": {
+  "removed": [
+   "<<Co:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "77e1eefbac403634d6f8b9ca8a718a664bdc81ec9945ff7b0d884ec0599b452d",
+  "pt_sha256": "10025ecb74b36a13b29e52ac565562be55aeedfb33358cd33625eafff63fe864"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1614@BODY_HEADER": {
+  "removed": [
+   "<<P:EventHouseLord>>",
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "77c0d8bca300ce033ec0713d857473565d2c9df0a2d5e1cb399ceb6fe462c41d",
+  "pt_sha256": "259a8a097f3c64ba94401982c753f8ddf9f4de45099923a383401ae869542e7d"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1614@BUTTON_3": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "5a8d0cf1733184fed0a321f0be56fe56b12851d72723bd283262606b8a35585e",
+  "pt_sha256": "c32bd4ef50fe2b8eea00339a90dfb5e621d35c074a1740b59ad48041300b391a"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1637@BODY_HEADER": {
+  "removed": [
+   "<<P:EventHouseLord>>"
+  ],
+  "added": [
+   "{EventHouseLord}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "c0efd0753849e06244d4f1e9441d615008985a2567da28f58ac786bdab6221ed",
+  "pt_sha256": "9b37b540d9443bc46473d699dc229937edf90d8520e32fc2762df46c2383fb4f"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1637@BODY_LORE": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "c0a76ec3de61a438459bd6b1b92845a194f2a09b0283db6bbd8173f2a5149b08",
+  "pt_sha256": "4a8b5e144d00009291c9d06f6d26d72eb755f2ea4c364dd4f19a9aaae4987d5a"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1639@BODY_FOOTER@GIVE_CONTRACT": {
+  "removed": [
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [
+   "{EventHouseLord}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "b9ad06393fa3b6704b82339a5e7c01132bfb14d06518b09d4ebdfb7b5c8ef33b",
+  "pt_sha256": "d7465c4e06d9f3e0cb72c368d22d3c06cd76cab1079bdb6f78392a0d16dcd370"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1639@BODY_HEADER@GIVE_CONTRACT": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "842821d795b5ba013b14f874c0415d595a5f79e5c9816911d25f07df2c1b223f",
+  "pt_sha256": "38c2acc1b3d33577084509d23208ddd2588e0e709a90a6471b0af820b74c2d54"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1639@BODY_LORE@GIVE_CONTRACT": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "9a97968986cc0860526ee921866ef0f0bd1486e4990fedc5c1a6f193c4b4e9e8",
+  "pt_sha256": "be34f5e6149453a9cef9dff4ac31e3e81d1062b72cb231ee8ac45657804f80ce"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1654@BODY_HEADER": {
+  "removed": [
+   "<<r:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "655d50584412ffa0e3f29f7f5998a31c261900233e9bd6acefec53164c706d10",
+  "pt_sha256": "29a2c5f7f6065548b21bbf8134d034762b004f4a5ce0dc764aeb1c21d21ff3e5"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1654@BUTTON_0": {
+  "removed": [
+   "<<G:Captain>>"
+  ],
+  "added": [
+   "{Captain}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "5a84a7f9f6a7be2621f331c14cd2b6151b396ee84e4d9cc13850c51c2e62ddb2",
+  "pt_sha256": "cf81bffda9aefd5497c60fe9ef372f4f65c65a2fa582db6aec67e61df412296d"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1662@BODY_HEADER": {
+  "removed": [
+   "<<G:{EventHouseLord}>>"
+  ],
+  "added": [
+   "{EventHouseLord}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "3a3f1c94d779d34d1228137fb00a4009cb8989f1a98ca4ea136e2acd4c39095e",
+  "pt_sha256": "da63ff6672f332f667300775ebd3cfaa3da572f73aa793dec583037a2fd42b5e"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1677@BODY_LORE": {
+  "removed": [
+   "<<P:EventHouseLord>>",
+   "<<o:EventHouseLord>>",
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "597d11f06d789077b1c8b062b0f37aba6ed3b67651624079dcface073587aa28",
+  "pt_sha256": "eef8e35dcc0f89d4687877f7f890a66855cf97478e57229e252cecae3943f2b5"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1681@BODY_HEADER": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "c69819e45c5e0ace41485fffb752257f6b8ddb9e94c529a8fc75ba7ed3324e7a",
+  "pt_sha256": "bcff67aac50cecb39ec55e93b25c8cb3e4f190e3de6c5783f37117051e8aceb9"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1688@BODY_LORE": {
+  "removed": [
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "19101be2723381f6e9e1016b7df2560f14ac8122a1a15bcd8561182b39494fee",
+  "pt_sha256": "da03c90e2779ed6e9f9818ce9f3a512f01c2a052b65ce7721b9e3803e54c99c1"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1693@BODY_FOOTER": {
+  "removed": [
+   "<<G:OverLordName>>"
+  ],
+  "added": [
+   "{OverLordName}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "157f53c2a0c69783afc2ecf2d98dcd67354f6064d71f50e1cc2544a0d5cdd33c",
+  "pt_sha256": "0b5913554c2657ce67a1f2dcab5664e290d7e952d14ce02035017389014ef9b8"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1694@BODY_HEADER": {
+  "removed": [
+   "<<o:EventStackLeader>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "e64b88e6bbac4a3e5016b3a123e85beb8d919bfccf4373414841fbaee5c33f54",
+  "pt_sha256": "e406559b2060e186c608bc131434f2ab735ef6caaa0b0ad88e2bfa319872ce27"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1694@BODY_LORE": {
+  "removed": [
+   "<<o:EventStackLeader>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "28d0040e2435b6c3e540b725699e4ce1e3af5fe159b802911971e4b81bc84d73",
+  "pt_sha256": "488925209af1617b3f4577f6bcf0fb0c825a79d4a19906dddb3d9ffd089445a2"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1697@BODY_LORE": {
+  "removed": [
+   "<<p:EventStackLeader>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "261d56c74615171d113d3f9dbfdef4cf3e1c57832962b84d0b426e6f9913c5a9",
+  "pt_sha256": "c619f14f06eba093586d81ccdf9a5a8bf403367c5aa8fc1188260013c811d27b"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1707@BODY_HEADER": {
+  "removed": [
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "a633d4d13a9e3c3539e29d78ed12faccd903db95e6559b4da4f1090826c325f8",
+  "pt_sha256": "9710e6178021f5a3d052f3b5abba40e196b04849ace326c77ccd2fe47d962861"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1708@BODY_FOOTER": {
+  "removed": [
+   "<<o:EventHouseLord>>",
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "b149ef354a028d9e6f2146859c5e2a96d9d4714f5549fb2163a1ef731d167004",
+  "pt_sha256": "2fb3742c05bb9192760fdd1cc36bc75ea9a8e5215e68f5ef815e0681ca94ede4"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1708@BODY_HEADER": {
+  "removed": [
+   "<<r:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "cbd0e0fff81de1636990fb3e2210ee876128d862197b25ab5d22dbb47238a11b",
+  "pt_sha256": "21db200dbb7a2371cc8c05a7e9832f61817d0f363b57346f748c30538b78b896"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1708@BODY_LORE": {
+  "removed": [
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "8a4411903fa08e261a5ffa61886ded08239bb2aa771a40ceb922d7d5552cc488",
+  "pt_sha256": "a507f32e603b5e6065ea97449beabb858cc6401ee764dfed97c0e2a83a170614"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1777@BODY_HEADER": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "dd4fd5f2b8c26cc8864e122ac20b0d69ce476959a5338dea0c7a6151b84ec021",
+  "pt_sha256": "ce2b3b9c3d6047ded929216db2789aeffe105e27e4722b470c26fe6b8e55a26d"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1777@BODY_LORE": {
+  "removed": [
+   "<<Cp:TargetHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "c30f970d523b6d4e0fce9c0e1554541f7b3b9812dc6a1622a34ed71edce58e6c",
+  "pt_sha256": "81e4d861fa045b9b4f1b8b1476a89c10968beb667982ce3620cb1f1732545ed6"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1778@BODY_FOOTER": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "6fee8646d67124c6726a896a492983d33546b1bbddc12b88cfb2337bf543d515",
+  "pt_sha256": "f29bb843bc27c05c10804ae252e788b0917f958d7d8f2be9401fb236e02dc15f"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_1814@BODY_FOOTER": {
+  "removed": [
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "15e90ca4a3530a972f494e1a4946f5b17d0fa8c962d0f4993356eae505a1c5be",
+  "pt_sha256": "879bd2d029df045d7ad9df07a4acd48a50c7e577b96e2af80efa0273d3dbd68d"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2227@BODY_LORE": {
+  "removed": [
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "a7a4aff2f19bbf74cce9c5c59049c0c40d0fcc42294ec6dffeb56141377a565d",
+  "pt_sha256": "09f5958b3e93c77e96c975369310aab6a02f688cab7ac60bad14102e660dcbd7"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2227@BUTTON_2": {
+  "removed": [
+   "<<P:EventHouseLord>>"
+  ],
+  "added": [
+   "{EventHouseLord}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "77b99ea9d00a0adb50a2ea833c088540237240ebe14fae0afaee491b0c7498dd",
+  "pt_sha256": "eeea957c3a6a917f78c44092bfd0ebfd3b78335bc16bddd1a65e66949507be7f"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2228@BODY_HEADER": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "df89cea08157b62604bceeb5b9c0d5e7b7bb3189a4b2a349785060ff83c1a7e6",
+  "pt_sha256": "6de67c75cb208b0c4f4551f044486e35d461790ca9e2ed33c0dc9710b2675d94"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2228@BODY_LORE": {
+  "removed": [
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "b09d5b2a9e333f7cd108f7f76b8f8c32194fda11a4b787d4251c698a54afa705",
+  "pt_sha256": "5ea50784f10e07fb2688d29cd9ccd0d1f5fc0a3d256807670cf3ce355d5f48da"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2228@BUTTON_1": {
+  "removed": [
+   "<<P:EventHouseLord>>"
+  ],
+  "added": [
+   "{EventHouseLord}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "cb747e7828ec1eb9bfe9a86099e09d32d85a054f895982d2b8c274fccb6169e4",
+  "pt_sha256": "aaa010a6c1471d3d7d1ede68f1bc64f191527b0e6bd57bd74430613a34f143be"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2229@BODY_FOOTER": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "4d9724b7d88dfcac14804ec7ad833d2ecfc0b137d2d361dcefb7a1e48b6df209",
+  "pt_sha256": "f07440ebc407bf7c5f90d113821f194551e39b3ce515a7abae27ecdce4ea58cb"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2229@BUTTON_2": {
+  "removed": [
+   "<<G:{EventHouseLord.FirstName}>>"
+  ],
+  "added": [
+   "{EventHouseLord.FirstName}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "5ce0ce9cca60045f50bff1c6d8818fb46ea510d9fc1738d418429583ffb8682d",
+  "pt_sha256": "7b17ff22ae6713cbbefce76afc7971a517747772bb3120b1c85b0e0ac5bcf318"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2230@BUTTON_3": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "1ad9a0c5f7b069e316bc63050e39c4da6b9872011f0f9c17a2737fe445104a5f",
+  "pt_sha256": "d4839102e7f174ab0585017341a31fd01d918e83b729c90f21f38867c4e91192"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2232@BODY_FOOTER": {
+  "removed": [
+   "<<P:EventHero>>"
+  ],
+  "added": [
+   "{EventHero}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "a1643536faa02f62f8150be9535fe84dea9fdac2efde49a2bbde06da1859bb4b",
+  "pt_sha256": "8eaa252a4a4a12ca8dc8323907ce67bacbb15ee32f69bf1c21d3dae468bcf2ef"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2232@BODY_HEADER": {
+  "removed": [
+   "<<p:EventHousLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "057bb1058a70cd09c547bca8d4b3022da2dc67af62c4edeb2019913b1390c13f",
+  "pt_sha256": "5d32dbf50288395abcfb345888f7c6969668e885d2db29d6cf04c4fc960286b0"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2232@BUTTON_0": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "9573688af6a6985d95e3c16af25aefe94d1ea5f3f5190577bbbf7e71bdfc428b",
+  "pt_sha256": "e74f4df4b67bcbb9eb23629a769b9e76ed235151fecb98757763ddd5ca942429"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2232@BUTTON_1": {
+  "removed": [
+   "<<P:EventHouseLord>>"
+  ],
+  "added": [
+   "{EventHouseLord}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "572bc11399b7652ab475b6211f7e6a3490e082a4e98c6e1c91f434db78db26f1",
+  "pt_sha256": "39906d7f6ae432fad16dd5ea7e8f76c779d03ddeec259d1ac2cda634e12f2d86"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2234@BODY_FOOTER": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "8e1e690e8d4eb82f0e00da09d4a2d55b952cbfab0d013c98ab9f35c991fac656",
+  "pt_sha256": "0c4a832b07c6f1c59a79960a6159efa3b1bed64278cb7014683ad5dab7b981d2"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2234@BODY_LORE": {
+  "removed": [
+   "<<o:EventHouseLord>>",
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [
+   "{EventHouseLord}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "50d9e6a13b5c898302c5ffcc2835edcc9ddbd9e5a138b31abe08a4a33937b42f",
+  "pt_sha256": "10be486e32670cb974340f8fd37da0ba8b9b09048a75db5fb3088cdfed071331"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2235@BODY_FOOTER": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "94ef96f68dc6471fd43f413dba9d60dd55142eef01f1f1078748c76dc6bf9c18",
+  "pt_sha256": "dd5b19859643353a690c8a30905ee7033d47b1d41628afc0686e8da15ae7ff8b"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2235@BODY_LORE": {
+  "removed": [
+   "<<o:EventStackLeader>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "cb0e9947e1ce7fee1336e08373b566b9bf7c356cab069bb61daabd267164df56",
+  "pt_sha256": "fee668e9bbef5b2e150e437a9a9c5185dea84e90ac757a2482e37cdcf0027da8"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2235@BUTTON_3": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "8a574588cec758323535d5267c58862f41f1e812de25afb3b87c35b513b721ae",
+  "pt_sha256": "eefa0198b6fbfc90027a213fde80a03922e88ac09555dcc9b71707327dd9489f"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2237@BODY_HEADER": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "f30340ac850b86eeed916aaceabe627c1024f22700d31e28da099b77c206477d",
+  "pt_sha256": "528b804820a0945e84f36b77df298f41ba2db0e90ff324472a8509662bba3b9e"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2239@BODY_FOOTER": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "8bb83ea652c742c1232f08a4585856bed9cbbc2da42ac286c2ef01b618f13732",
+  "pt_sha256": "8113e22dfd6abe56fc1d3d4bebec9e4b62a333c287f51fa9b65e93343e9c86bb"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2239@BODY_HEADER": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "cb2937a847c44de4467cddd198994177b96f60380b631b165efce374d0e4b9c4",
+  "pt_sha256": "796641474c868af1b44012627dfe93839d64c570f3086e6715c359d944ab6c1e"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2239@BODY_LORE": {
+  "removed": [
+   "<<o:EventHouseLord>>",
+   "<<o:EventUnit>>",
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "72878ced436c340b35c5fe21254e840c1e98a17de99b52691edf286c6ce9d078",
+  "pt_sha256": "8cc2d59278ce5e04b6687fa343967278c6628322dab81f399d02fee6a5d8b39d"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2240@BODY_HEADER": {
+  "removed": [
+   "<<o:EventHouseLord>>",
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "f8c597bd2ec2b9d957f9a7fa181ad8031a9b1fb518a06cfdd78402d265094ae0",
+  "pt_sha256": "afcd716f01569015123f3eee4bd6ec9c545aad91398af3fba86cf2eea1cb44e5"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2240@BODY_LORE": {
+  "removed": [
+   "<<o:eventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "8a99ed0bfb62c3fd95b70c755efde12cf83c4f292d95344dce7ff196fae4ba9d",
+  "pt_sha256": "91d29b0a14c816591bed61ed389c2625b27c1d9b7698a7695af31786103d4751"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2281@BODY_FOOTER": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "d76a57ce1fc53b94b8998558211e463bff16e81f0260b571414f0b4dd9e2d2ad",
+  "pt_sha256": "80a2a4809dc192c7f4bb6c7f407d1591f3315f436e46251b1508dfcfd806038a"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2281@BODY_LORE": {
+  "removed": [
+   "<<o:OverlordName>>",
+   "<<p:EventHouseLord>>",
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [
+   "{EventHouseLord}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "2a3a285cc6b9d05c888eadd75656660cdcd96d060da343e902b4de66a600b2de",
+  "pt_sha256": "f2ad564935da06e4d83f8f132805df9f748fd5631e9c6f1acc59fe753e2088da"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2282@BODY_HEADER": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "fac150f8d2061fb3fea27c83cf042ac263845eea99150a31b7a3206ad0a8dffc",
+  "pt_sha256": "21480c99ff729547acbd92f7900a786ea3ba1b02f1f86b6b2d644a1602e75f92"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2282@BODY_LORE": {
+  "removed": [
+   "<<G:OverlordName>>",
+   "<<r:EventHouseLord>>"
+  ],
+  "added": [
+   "{EventHouseLord}",
+   "{OverlordName}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "f42337681d46e3b8f95a33cd23b02f1c5afd1541fb54c1f4a73bbf4c0f904a53",
+  "pt_sha256": "fe724aaa574e6a8a56e58cc78eb161c9ef87f9d665aec7b25c07fe4fb5d2315e"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2282@BUTTON_1": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "1797629b6e9232cccc351eca49b74e5b7eeb6c4df451ab06660dd2ae7a755868",
+  "pt_sha256": "f572a55a2037e3cd41f952c2cb037874d3c8d88ad18c3477dc972af5c4346311"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2301@BODY_LORE": {
+  "removed": [
+   "<<r:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "bd81974532823d4c7baeaaabd66beb758947d6272ccc7de67f85757b82e55fd7",
+  "pt_sha256": "cdcb8621d16e13e2982df6a9607bf02a124544e9cfb9f706292a91b9d830d5c7"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1229_2301@BUTTON_1": {
+  "removed": [
+   "<<G:{EventStackLeader}>>"
+  ],
+  "added": [
+   "{EventStackLeader}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "e078a041b3be9b9c6c4853df8d54d70bfa114ca3e18e737b6810446cb330b416",
+  "pt_sha256": "efc500666d73ddbf79d16c5dfda576a63e1a57ae71468a26a8e69f89ccec2126"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1408@BODY_FOOTER": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "40e3618d6e746d9eee138cfe2e69f1fe48270bbcaf65c3bd85fc225123c44249",
+  "pt_sha256": "a8033b7aa9e43c84d777c20049f26662ee8f6e4bbb59984944ed5a9a0b2799bd"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1408@BODY_LORE": {
+  "removed": [
+   "<<o:EventHouseLord>>",
+   "<<o:EventHouseLord>>",
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [
+   "{EventHouseLord}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "d65cc33d51f6012817a7fc9c9ef6b294fc6e33ced5d4f2a589e39d2997bad327",
+  "pt_sha256": "815f9bced8edde05fed4b799a3692845b62013c46dca282326c986f1f262be21"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1408@BUTTON_2": {
+  "removed": [
+   "<<G:{EventHouseLord.FirstName}>>"
+  ],
+  "added": [
+   "{EventHouseLord.FirstName}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "f320da6f1ef80023e348916095aaa098fb3218bf4821e3f6dd09da728776058e",
+  "pt_sha256": "87a8f831aa9f4c3185e987e85c8f4e914b39962d7c89d369c22d25d4a4c91d18"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1448@BODY_LORE": {
+  "removed": [
+   "<<Hero>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "763ff95edf94ff7305adcc74a28320c821837cfa774593b19d740fb7d260d814",
+  "pt_sha256": "fd35712be91c6f3d0ff120a8c290e5090cd5044afe1900c91da8cddc260f3d65"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1448@BODY_LORE@BLOODTHIRSTY": {
+  "removed": [
+   "<<Hero>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "2a63aeae1740e0fcbce5da9f341bee64136f864f2969518349ebac7f3e5907a3",
+  "pt_sha256": "8d3c466c1bc98524690965e882f5aec3bbec03121a5e4b889e028ec3d8e275e6"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1448@BODY_LORE@HEROIC": {
+  "removed": [
+   "<<Hero>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "eef25443dff6282923563dc11e2f7683e81d1d79e59484652bd389b56fed3d69",
+  "pt_sha256": "fdae056609a1dadab7fdc3ed41ffc1cec15ce620b0c0b641c09a0d2e250c3e36"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1484@BODY_HEADER": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "dc828660fc672b92837ca948b86f923dc2113c3eee9b63850ad15a5ea5db3361",
+  "pt_sha256": "d59237bb40859f5f5d92f7f401b04636568be2e64929f1152502c2193e4f627a"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1484@BODY_LORE": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "59761d6afd50d8f7b9fdf2263bde64b19c5c8e901fa54aa23657e834ee86e22a",
+  "pt_sha256": "b2066dc681843d888696253c367a9c4461a9149e658f755a6f65b12e7afd7e8e"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1484@TITLE": {
+  "removed": [
+   "<<G:SeaMonsterName>>"
+  ],
+  "added": [
+   "{SeaMonsterName}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "a83015bb4d34cd3342101cd0b9be382ce9b4aedec04293730e9015b6d5e5115f",
+  "pt_sha256": "f6217f50065a86ec5db096b9e4116f853343107e459c47762cf2a2ed53d60dc9"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1485@BODY_LORE": {
+  "removed": [
+   "<<o:EventHouseLord>>",
+   "<<o:EventHouseLord>>",
+   "<<p:EventHouseLord>>",
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [
+   "{EventHouseLord}",
+   "{EventHouseLord}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "89096f6829d8c75b463cb3da6619bea6c8373a7a96664867ccf13958aa0f86aa",
+  "pt_sha256": "405750be1ce4acf77f72e4e7a30c608b77a8cc120a5e2cbe609cf92d06ae3182"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1485@TITLE": {
+  "removed": [
+   "<<G:SeaMonsterName>>"
+  ],
+  "added": [
+   "{SeaMonsterName}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "eaa806300a55a4a695c25907f8aeaa24f18c6e72e0661c417357767bfe46a667",
+  "pt_sha256": "bf70e3068cea2b72c1c1300f3e7addfbc30688e31a7de77f7c00ad8ef024b950"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1568@BODY_FOOTER@HEROIC": {
+  "removed": [
+   "<<P:EventHero>>"
+  ],
+  "added": [
+   "{EventHero}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "e4799d0b8a8892e01a6d5f9c6a308d68bd685483ba9e73ecaf114959cbe6e828",
+  "pt_sha256": "e9e0540379ae0dd5178e6ab7df61d4025edb72002b477a77cf7936e979396ef2"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1568@BODY_LORE@BLOODTHIRSTY": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "1c2d490451e8fa35d9aa49e915bd8fdaa62e5a8f137142cecc0fa1d351e020ea",
+  "pt_sha256": "73a0a047f292eb0f5a3919fdcc08948595c9599e80317c9ed9c4467cffec75b2"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1568@BODY_LORE@HEROIC": {
+  "removed": [
+   "<<P:EventHero>>",
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "e0434b8c0c01dbb1285eb99c36073f4859bd6355f343cacc4010c3f26f353731",
+  "pt_sha256": "99f1e777b2b53212991d82b008386985fdc575327462da8deeba9a7e14ebbd5d"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1568@TITLE@BLOODTHIRSTY": {
+  "removed": [
+   "<<G:SeaMonsterName>>"
+  ],
+  "added": [
+   "{SeaMonsterName}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "8c287dbb4021cad8cb5ea4ea0435ca4b88cfc51dd0a53216186a338c4a86b7ce",
+  "pt_sha256": "9b703c6e0b076b683c1d982d5834be5d7140191628528d6c86da0a1dbba8e5b4"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1568@TITLE@HEROIC": {
+  "removed": [
+   "<<G:SeaMonsterName>>"
+  ],
+  "added": [
+   "{SeaMonsterName}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "e82c653a831e3eb2f46114dd67789746311315d15fe77ad8bff41632b7adf6c7",
+  "pt_sha256": "ba61769b4fe3e6eb5b844ee1980be99bd13e1a07d4fef0315602adacfff9f2ab"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1569@BODY_LORE@BLOODTHIRSTY": {
+  "removed": [
+   "<<o:EventHouseLord>>",
+   "<<p:EventHouseLord>>",
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [
+   "{EventHouseLord}",
+   "{EventHouseLord}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "4952b7a152b4f98a436138c17ac43a907a99e16cec0cb1fe76d7f470f7d86899",
+  "pt_sha256": "bf72e6a85aa9afd393ce246be53764eef35bcbbf8380347e8f2a009e9253417b"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1569@BODY_LORE@HEROIC": {
+  "removed": [
+   "<<o:EventHouseLord>>",
+   "<<o:EventHouseLord>>",
+   "<<p:EventHouseLord>>",
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [
+   "{EventHouseLord}",
+   "{EventHouseLord}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "ebf722c2517548db7fa8e6396f80b0ffd7e56525e5502cb6604464fafb6984ae",
+  "pt_sha256": "37b076f2a87264619d3d8af44c94683f1bf4307640a21b702c709fde985012e5"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1569@BUTTON_11": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "cacb8b38eab3010f86b2c37d6f91bca9673034be83a0def7807708036f22f055",
+  "pt_sha256": "3a75da51e33eea02096ce112822d22fb521d820365097db738e56c20c109c95e"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1569@TITLE@BLOODTHIRSTY": {
+  "removed": [
+   "<<G:SeaMonsterName>>"
+  ],
+  "added": [
+   "{SeaMonsterName}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "5e817e2763ca8de16cb7e8cd9ca2b7d41f9cbf14649f6be4a2fb51cc6548e7b9",
+  "pt_sha256": "931d15d9cc2251faa80794979b09fefe8f713bff774c340c3e043b28f95b790b"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1569@TITLE@HEROIC": {
+  "removed": [
+   "<<G:SeaMonsterName>>"
+  ],
+  "added": [
+   "{SeaMonsterName}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "042f495f5adb7347c5e3d8b054a05c70d230ab3f299def3e9e0675d64fe35b0a",
+  "pt_sha256": "6298c7421e7fb073bdf4630e7877e2a5b8179063b8d168bc0d16cea30b583156"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1603@BODY_HEADER": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "abd00c686e4af26902c5aa88bf5184a22d7a874874079fbc788ec5fd2dba7d8a",
+  "pt_sha256": "9edcd4ef6da99abae3739fcf8b7d275cb58015f4c7359cf4d38b69698995e305"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1603@BODY_LORE": {
+  "removed": [
+   "<<Cp:EventHouseLord>>",
+   "<<o:EventHouseLord>>",
+   "<<o:EventHouseLord>>",
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [
+   "{EventHouseLord}",
+   "{EventHouseLord}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "4567dfc5d1ad1d7086a00b24e477673a5efa30d269725ec49284414b75b6b567",
+  "pt_sha256": "e5619eec7a6391a65d05a27bc03299bf657fcc65f5746fe81a4b94a379a6702a"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1666@BODY_FOOTER": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "fc7273e7aff251eb7153f89dca17d4c25da5fcbefc5ba66ee603a03c6c65cf3d",
+  "pt_sha256": "9d22ae826122b37be5a981d457b1bbabcccb9be23d57bbbd829f9e1a72a02798"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1666@BODY_HEADER": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "dc99158e41b80f92e223047bc14ebabc3b7073cd99d8d10a227b8c63dc4cfc14",
+  "pt_sha256": "62a7aa3cb96e3410ae71d0554f8ac92c8a8452a1230bde5aa4f3ab62d7897bcc"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1666@BODY_LORE": {
+  "removed": [
+   "<<o:EventHouseLord>>",
+   "<<o:EventHouseLord>>",
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [
+   "{EventHouseLord}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "ca262e9459ea22b8b356c32a0471bb88fe4046f2b591a25d01c70d331dd7a89f",
+  "pt_sha256": "814bf6b1675fb1509242cac0785a0854377f4658e5a190924af8eb8290e74e05"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1667@BODY_LORE": {
+  "removed": [
+   "<<Cp:EventHouseLord>>",
+   "<<o:EventHouseLord>>",
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [
+   "{EventHouseLord}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "a6e987a76829ba8892ee19a296a6e0ca1be83063496f1b6b9d6b36c273e61712",
+  "pt_sha256": "9ffd10a0b25816f951869b57760108b0834823ec9ad4dc09a90c73e9d64f71ff"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1668@BODY_HEADER": {
+  "removed": [
+   "<<o:EventUnit>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "85d07ee791d350160064cc4b6299fea02cfe122b592e2f7ebf0df65760fdd082",
+  "pt_sha256": "7bd75134b0004752e693753a514f96fdf6506b472bcacaca122c7563cbc6d48e"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1668@BODY_LORE": {
+  "removed": [
+   "<<o:EventUnit>>",
+   "<<p:EventHouseLord>>",
+   "<<p:EventUnit>>"
+  ],
+  "added": [
+   "{EventHouseLord}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "29c94a8d5b4f1d86cce51192d803e6c8859eca9a0c0a42183624d46bd81b91e3",
+  "pt_sha256": "d4c4951473f4b229e932b2ab338f31427199b3527e33d829f879f7e7253a6cdd"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1669@BODY_HEADER": {
+  "removed": [
+   "<<o:EventHouseLord>>",
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "fdd8bdc804ff506a0c193f3bc97c3d78d281c34271a13f2bbc1f91e3ba48c0ea",
+  "pt_sha256": "4b0b879853faf483416ee54bae127c8d635c974c0ed322e345bdc7e083b5076c"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1669@BODY_LORE": {
+  "removed": [
+   "<<o:EventHouseLord>>",
+   "<<o:EventHouseLord>>",
+   "<<o:EventHouseLord>>",
+   "<<o:EventHouseLord>>",
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [
+   "{EventHouseLord}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "b62bf122ccdc42966abff839c15c7456531574e7184f3ded30db1e265ea7bb74",
+  "pt_sha256": "d6ddda152ec59f5d846cf193e70ca3b3a31cd620eee2e4297d78c6f6cfdff020"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_1669@BUTTON_9": {
+  "removed": [
+   "<<G:EventHouseLord.FirstName>>"
+  ],
+  "added": [
+   "{EventHouseLord.FirstName}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "cebf0ffa6a0d7544973ae40c89ee86a6e9ed27780a09f78d9476df9a6655b290",
+  "pt_sha256": "dae95f1eaf7392b7be7ed152afebc2346240e95b03315d4e7a66f75b8fb0b26a"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_2007@BODY_LORE": {
+  "removed": [
+   "<<o:EventHouseLord>>",
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "cbb5b1bd52ab215bd14ab1e068aedbc94d8aa42a5b67aeca9254dd3ece9716a8",
+  "pt_sha256": "367b2208640f7794e59ea4bd41518f8136740e797d83659180d222a5dbb5440d"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_2008@BODY_LORE": {
+  "removed": [
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "0f1133d7f9d905b38f6cb0d299646e3dc849beffa12a199696d66b22dea20f0c",
+  "pt_sha256": "95897e07ad8f2bd7783665dcb8d38b952073bbbc4580ece20b1d4963b2057d3f"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_2023@BODY_LORE": {
+  "removed": [
+   "<<o:EventHouseLord>>",
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [
+   "{EventHouseLord}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "2670c602d19e60330dee2a10ff58afd87a6214c04c9944e48a45817942c9697d",
+  "pt_sha256": "b5e9a7cc2bd57ebdc9d4c30d2460d7b011d78c5a4d9fce2aa7a586e9ca274ce3"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_2024@BODY_LORE": {
+  "removed": [
+   "<<p:EventHouseLord>>",
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [
+   "{EventHouseLord}",
+   "{EventHouseLord}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "cba0168631b55861200096f6202e4a9c6b6ea1f5f608385d9aeb8bf960a93c31",
+  "pt_sha256": "c5e7a3ac2ba3a0994bed649fd5b4cc1bed79286c161c0c86ee63b7799b4964e6"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_2060@BODY_HEADER": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "b45e17311456cc14e77694fa20f63efc94d3cc2a11b77cacec9bfdc7638b62cf",
+  "pt_sha256": "781d5f95dff270801487c60d4106087c8439677386ce3263904af53b3184e929"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_2060@BODY_LORE": {
+  "removed": [
+   "<<o:EventHouseLord>>",
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [
+   "{EventHouseLord}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "6677ada53e481aecb557ee122d28f00dfbfe1bbcd54d24a254e3f5ae5968435f",
+  "pt_sha256": "ecfb6c0c498125b9c932b0e120a44a260945be8fc93bfecc372384bf98008947"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_2061@BODY_LORE": {
+  "removed": [
+   "<<P:EventHero>>",
+   "<<o:EventHero>>",
+   "<<o:EventHero>>",
+   "<<p:EventHero>>"
+  ],
+  "added": [
+   "{EventHero}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "980b3ea8d1d647ca31fe20410b3d8a926e094f7ffba5406bc536f37a70ce090f",
+  "pt_sha256": "aa24bfcb4d32d3deaaa8a2ea4352330029f02dd400af2666ae88e1e769a43d11"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_2061@BUTTON_1": {
+  "removed": [
+   "<<G:EventHero.FirstName>>"
+  ],
+  "added": [
+   "{EventHero.FirstName}",
+   "{EventItem}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "4c30aaf9522ecd4efc7b9b568549e6742e8d51d7d92c195e3c629edb8ccd00cc",
+  "pt_sha256": "647157b68ecc0355852620f01b7bf8772354f77997f64051d4e3db137f1d4089"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_2097@BODY_LORE": {
+  "removed": [
+   "<<o:LoreCaptain>>",
+   "<<o:LoreCaptain>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "27ef3eff6397f6e7e04a8e4cbe245c7be371a07dbdc2f60d07fed3898933ae27",
+  "pt_sha256": "27b621709a63a56619501c651a69f4ae8947db5b8a3e840543bfe6aee24285a8"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_2098@BODY_LORE": {
+  "removed": [
+   "<<p:EventHouseLord>>",
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "2015cf998d803bfa61996a2fe426b821926017449315d89d9f1ad2f3c8924734",
+  "pt_sha256": "d0609b4c612b6682867e23d92217f9b9befc05b3000dda791aef04cecef3eda3"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_2114@BODY_HEADER": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "a64b9c02a7f9cf3b20ef600b12311ec40aca27edf91269669a9d4e68db7e8a16",
+  "pt_sha256": "90ff07430be2b904e82ad4e6974d54ef733c88ad9a0a0e15924028201f91bcb7"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_2114@BODY_LORE": {
+  "removed": [
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [
+   "{EventHouseLord}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "480449b72c3e92ee7877b1eb7b93ba0681703866757377d596ea70e293d87af6",
+  "pt_sha256": "a58a3d5dbdbdebbb0263181ea192fc9a17ceca0084495eb53db722500aef6ebf"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_2115@BODY_FOOTER": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "861ae0d346a6d658b7e87cb151407e44ba0954d67c31d686520929af6769079d",
+  "pt_sha256": "ed7c9d9d392f4a029838bb5aa5d4914299677002ba419de6f20ebe336e8f8235"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_2115@BODY_LORE": {
+  "removed": [
+   "<<o:EventHouseLord>>",
+   "<<o:EventHouseLord>>",
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [
+   "{EventHouseLord}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "fd3d59e501ed1ed3eba1a96db7b19fdfdc4f0b83f35a454e98b969e527f5603a",
+  "pt_sha256": "2790f73cd9d24b2803aac7909a7f42212ab5dcdff5b91990f567977db7f18272"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_2130@BODY_FOOTER": {
+  "removed": [
+   "<<o:EventHouseLord>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "35d355b91fbc666c3202dcd83764bec519b3cdefee80a481d2ecc131091f500d",
+  "pt_sha256": "4b4d96fb0abbd01809d57a392eb96cf59bbd259d5ad2439767296db623e3f1c2"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_2206@BODY_FOOTER": {
+  "removed": [
+   "<<P:EventHero>>"
+  ],
+  "added": [
+   "{EventHero}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "21aba75b82c55c5d2040e9fc330ca0e3f8fdf703acc710dc0bd50fc2169b753c",
+  "pt_sha256": "2180ef47a67804beea7d3ec9fe94d0effc35b124e30864ed2aa0a293c11cfcf9"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_2206@BODY_LORE": {
+  "removed": [
+   "<<Cp:EventHero>>",
+   "<<o:EventHero>>",
+   "<<o:EventHouseLord>>",
+   "<<p:EventHouseLord>>"
+  ],
+  "added": [
+   "{EventHero}",
+   "{EventHouseLord}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "0f4289bc022ff0b80875664cd20ab9d7af4a496e211136b48bcee48c4da35bd0",
+  "pt_sha256": "7c0211eb85be2d5a240fc9ebd234b7c0863c9e5135c2004e63ac40b30351a2b4"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_2207@BODY_FOOTER": {
+  "removed": [
+   "<<o:EventHero>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "d8ca0d0461796d5faaa5f5313b8c2ee3626af0948f39cd5f20d8bbd0bccea68a",
+  "pt_sha256": "aa1983516772519ed2b5d9fdba0a801eb31b2671eca4b8260637075f29e9b51a"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_2207@BODY_HEADER": {
+  "removed": [
+   "<<o:EventHero>>",
+   "<<o:EventHero>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "bccf4b5749c1857627c732cf79b36aa9b057b1a6bc7cb8ed422f9d6ce090d80e",
+  "pt_sha256": "ef7bf3ee442fe5f5dcb9b41ed43767ab82466baf7fc94aecc699c0bdec11b4e1"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_2207@BODY_LORE": {
+  "removed": [
+   "<<Cp:EventHouseLord>>",
+   "<<P:EventHouseLord>>",
+   "<<o:EventHero>>",
+   "<<o:EventUnit>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "67f172abde5029abcb7e3fdf3d5ec89da537eb723b5b50fda4ba1db2931bb7ce",
+  "pt_sha256": "efb219d5da07e4776c7c1257eb863b9a4fc0c4f70ac48c51a95e93e68ba7c627"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_2207@BUTTON_1": {
+  "removed": [
+   "<<o:EventHero>>"
+  ],
+  "added": [
+   "{EventHero}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "72e7757ad800b629856f90059b8603972930f8637c5eb60258b62598b1425b37",
+  "pt_sha256": "2900aec2174ff7b89b8d54ffd43e9b2b9987f656739c4db8e5d4f526a779158a"
+ },
+ "DLC@SILVERSEAS@STORY_EVENT@1252_2207@BUTTON_11": {
+  "removed": [
+   "<<G:{EventHero.FirstName}>>"
+  ],
+  "added": [
+   "{EventHero.FirstName}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "22564f93915c3252bdbc648a04cdbc52f013f568b2e42c65c211a16d6c8ae3e5",
+  "pt_sha256": "0f8f3193fe09cd17a102a6c2816bf72238ada46f5879db0f562ac5e5a5134ea3"
+ },
+ "DLC@SILVERSEAS@TRIGGER@TOOLTIP@DEALING_WITH_DEVILS@AFFINITY_CHECK_MATERIUM@FAILURE": {
+  "removed": [
+   "<<o:EventStackLeader>>"
+  ],
+  "added": [],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "b8ff571cbc5f5b9fc341c5de037b2279b0fc65c1f470ef3cb386b7429347601b",
+  "pt_sha256": "48a89a6b3492f474ef1234e7a25845d001697e8ee7ce4339dcf802d9ab874cde"
+ },
+ "DLC@SILVERSEAS@TRIGGER@TOOLTIP@PEARLTIDE_DOME_03@AFFINITY_CHOICE_ORDER@HEADER": {
+  "removed": [
+   "<<G:EventStructure>>"
+  ],
+  "added": [
+   "{EventStructure}"
+  ],
+  "reason": "Reescrita de constructs conforme docs/NOTES.md, com referencias preservadas e sem palavras internas em ingles.",
+  "en_sha256": "a1f50d9535a4febc6f1fe34b0ccebe6851e97cbbcf9404e17fa3ccb102b2ee95",
+  "pt_sha256": "3beeb5301c4fc37ce27edf22849887b06df0905417748ef61075ad369bfc664c"
+ }
+}

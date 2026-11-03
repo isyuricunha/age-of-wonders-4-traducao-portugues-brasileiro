@@ -1,0 +1,796 @@
+- TRIUMPH STUDIOS -
+ 
+ 
+STUDIO MANAGER
+GAME DIRECTOR (UP TO SEASON 1)
+Lennart Sas
+
+GAME DIRECTOR (FROM SEASON 2 ONWARDS)
+Tom Bird
+ 
+TECHNICAL DIRECTOR
+Arno van Wingerden
+
+ART DIRECTOR
+Richard Burgess
+
+LEAD PRODUCER
+Djurre van Dijk
+
+PRODUCERS
+Frederick Milders
+Davey Grotendorst
+
+OPERATIONS MANAGER
+Ronald van Dijk
+
+MUSIC
+Michiel van den Bos
+
+LEAD DESIGN
+Tom Bird
+
+DESIGN
+Luis Ferreira
+Thomas Schuiten
+Bas Staffhorst
+Sam Minh Ly
+Danika Arents
+Glenn Smits
+
+NARRATIVE DESIGN AND WRITING
+Jakob Matthes
+Michelle Kusters
+Pablo Mata Gámez
+Rudolf JB Buirma
+
+TECHNICAL AND SOUND DESIGN
+Arnout Sas
+
+TECH PROGRAMMING
+Michel Paulissen
+Rick van Miltenburg
+Daniël Konings
+Lascha Lagidse
+
+GAMEPLAY PROGRAMMING
+Thom de Moor
+Ajay Ramautar
+Jamie Visser
+Simon van Vueren
+Lucas van Marrewijk
+Rick Pijpers
+Amzy Zarcu
+Vladimir Chavdarov
+
+DEVOPS
+Gilmer van der Hak
+
+UX DESIGN
+Nick Windig
+
+UI DEVELOPMENT
+Joren Bolhuis
+
+CONCEPT & 2D ART
+Oliver Titley
+Mariëtte Jacobs
+Elle R’hur
+Alex Out
+Bennet von Wedel
+ 
+3D ART LEAD
+Robin de Jong
+
+PRINCIPAL 3D ART
+Allert van der Leij
+ 
+3D ART
+Sara Obert
+Geertje Eeftink
+Stefan Volkering
+Corné Willemsen
+Baiba Gedrovica 
+Mugur Colin
+Lara D'Adda
+Tom van der Veeken
+Isa Weijers
+Emil Voychev
+
+ANIMATION
+Michiel Wouters
+Alīna Stašāne
+
+VFX
+Tristan Theunynck
+Anastasiya Fedaseyeva
+
+INTERNAL QUALITY ASSURANCE
+Jordi Engel
+Sishi Hu
+Erick Divin
+
+TRIUMPH INTERNS (2019-2026)
+
+PROGRAMMING INTERNS
+Jesse Roffel, Niels Strijker, Niels van Steeg, Robbe Bryssinck,
+Thijs Bouwhuis, Wouter Servaes, Georgi Filipov, Jan-Mathijs Caris,
+Usama Evers, Tom Stevens, Daphné-Marie Huyghe, Martijn Vahl,
+Frank van Summeren, Nicolò Conte, Niels Bernaerdt, Lucas Kinoo,
+Alexandros Kougentakos, Jan Lupčík 
+
+DESIGN INTERNS
+David Wolinsky, Luca Costanzo, Filip Nejedlý, Wim Wenskus,
+Jakub Petr, Stez Neofytidis 
+
+3D ART INTERNS
+Filip Leurs, Daniil Shashenkov, Jaydo de Ruijter
+
+ANIMATION INTERNS
+Ciska Overkamp, René Meegdes, Anastasiya Pusiankova 
+
+VFX INTERNS
+Ayrthon van de Klippe, Tim Joosten, Julia Knobbout, Robbert Mouthaan
+
+QUALITY ASSURANCE INTERNS
+Leon Aso, Paul Stichert, Sonia Cailean
+
+ADDITIONAL NARRATIVE DESIGN AND WRITING
+Gerben Grave, Al Stellakis, Raymond Bingham, Emily Grace Buck
+
+
+ADDITIONAL 2D ART
+Anna Windseth
+
+THE AUDIO GUYS
+Dan Gardner
+
+PDX AUDIO
+
+HEAD OF AUDIO
+Samet Atasoy, Franco Freda
+
+AUDIO PRODUCER
+Samet Atasoy
+
+LEAD SOUND DESIGNER
+Tobey Evans
+
+SOUND DESIGNERS
+Anthony Breslin, David Schlein-Andersen
+
+ADDITIONAL SOUND DESIGN
+Andrew J. Ryan, Robert Wozniak, Leon Lopez Moral
+
+VOICE ARTISTS
+Cassie Layton (as Elya)
+
+LOGO AND FONT DESIGN
+Martin Schmetzer
+
+PRODUCTION BABIES
+Amy Burgess, Mia Burgess
+Frida Matthes, Konrad Matthes
+
+TRIUMPH PETS
+Biscuit, Brom, Ellie, Meelo, Mr Darcy,
+Toby, Yorath, Gio, Ra-Cat, Moshpit,
+Luna, Solas, Torvik, Fritz,
+Maki, Mazzel, Saartje, Loekie,
+Lex, Link, Mango, Flynn, 
+Mochi, Lucy
+
+
+- PARADOX INTERACTIVE AGE OF WONDERS 4 TEAM -
+
+BUSINESS OWNER
+Fredrik Selldén, Marine Mazel
+
+BUSINESS ASSOCIATE
+Etienne Amarilla
+
+SENIOR EXECUTIVE PRODUCER 
+Marco Behrmann
+
+PRODUCERS
+Anna Zielinska, Angelica Uhlán
+
+PRODUCT MARKETING MANAGER
+Alexandra Sukhova, Marine Mazel, Malin Castegren, Harri Saari
+
+MARKETING CREATIVE PRODUCTION
+Yali Murillo, Axel Ullberger, Adam Skarin,
+John Ahlbäck, Sebastian Weidenheim Linden
+
+RELEASE MANAGER
+Robyn Svanström, Jake Donbavand
+
+COMMUNITY PROGRAM SPECIALIST
+Joanna Benjaminsson
+
+COMMUNITY AMBASSADOR
+Apostolos Kyrloglou, Irena Kee, Kristofer Gustafsson
+
+PARTNER ACCOUNT MANAGERS
+Jackson Downing, Alexander McColligan, Sofia Stenson, Leon Loughran,
+Albert Banda, Daniel Sinanovic Hjelmtorp
+
+PARTNER MARKETING MANAGER
+Kimberly Trapnell
+  
+PUBLIC RELATIONS
+
+PARADOX INTERACTIVE
+Jesse Henning
+
+TRIPLEPOINT PUBLIC RELATIONS
+Blane Humphries, Brad de Ramón
+
+JOHNNY ATOM PRODUCTIONS
+Simon Callaghan
+
+GAERTNER PR
+Dirk Gärtner, Katja Berdeinis van Berlekom, Softclub
+
+INFLUENCER RELATIONS
+Jonathan Whitley, Dennis Johnni
+
+PAID MEDIA STRATEGISTS
+Henrik Bonnichsen, Camilla Wemmenlöv, Anton Rask, Sofia Lundstedt Radetzki
+Linn Yngvesson
+
+MARKETING AUTOMATION SPECIALIST
+Annie Alström
+
+PDX WEB
+Jonas Stenqvist, Josef Widoff
+
+USER RESEARCHER
+Victor Nihlwing, Anna Ström, Cherno Jallow,
+Joshua Marchand, Jeanin Day
+
+SOCIAL VIDEO PRODUCTION
+Alexander Eliasson, Victoria Säwström, Marcus Paulsson
+
+CREATIVE PRODUCTION MANAGER
+Felicia Holmgren Fondelius
+
+SPEED5
+Cissi Ramsby, Anders Carlsson
+
+MARKETING GROWTH MANAGER
+June Low
+
+
+- Paradox Interactive -
+
+
+MANAGEMENT 
+ 
+CHIEF EXECUTIVE OFFICER
+Fredrik Wester
+
+DEPUTY CEO / CHIEF OF STAFF / CHIEF OPERATIONS OFFICER
+Mattias Lilja
+
+CHIEF FINANCE OFFICER
+Alexander Bricca
+
+CHIEF BUSINESS OFFICER
+Mattias Rengstedt, Johan Bolin
+
+CHIEF CREATIVE OFFICER
+Henrik Fåhraeus
+
+CHIEF STUDIO OFFICER
+Noelia Almanza Ahari
+
+EVP OF CULTURE AND BRAND
+Paula Thelin
+
+EXECUTIVE ASSISTANT
+Stina Parmenvik 
+
+PUBLISHING
+
+Manager of Product Launch
+Nicole Savage
+
+RELEASE MANAGERS
+Robyn Svanström, Jake Donbavand, Louise Mutel, Ida Ankarstrand
+Ana Pinton
+
+COMPLIANCE DESIGNER
+Lars Minkkinen
+
+RELEASE COORDINATOR
+Rebecca Gelson
+
+GAME PLATFORM SPECIALIST
+David Karlsson Lille
+
+MANAGER OF PUBLISHING PRODUCTION
+Jonathan Cole
+
+LOCALIZATION PRODUCERS
+Nick Citkoŭ, Marcus Westerlund
+
+GAMETECH LAB TECHNICIAN
+Ivan Fomenko
+
+GAMETECH LAB SPECIALIST
+Marcus Brobert
+
+QA MANAGER FOR PUBLISHING
+Khalid Gisberts
+
+PUBLISHING TECH LEAD
+Roman Fadeev
+
+VP OF BUSINESS - GSG
+Fabricio Santos
+
+HEAD OF BUSINESS - MANAGEMENT
+Fredrik Selldén
+
+BUSINESS OWNER
+Jakob Jorstedt, Luca Kling, Pieter Waterreus, Joakim Holfve
+
+BUSINESS ASSOCIATE
+Etienne Amarilla
+
+PRODUCT MARKETING MANAGEMENT
+Alan Mahmodian, Alexandra Sukhova, Camilla Wemmenlöv, Davide Ghelli
+Francesca Passoni, Hanna Holmgren, Maciej Kozlowski, Tess Van Loo
+
+HEAD OF MARKETING
+Stefan Wallin
+
+HEAD OF MARKETING CREATIVE
+Adam Skarin
+
+MARKETING CREATIVE
+Alexander Eliasson, Benjamin Kajfasz, Felicia Holmgren Fondelius, Felix Hindemo
+Jennie Nyström, Johan Adegran, John Ahlbäck, Marcus Paulsson
+Marianna Bukowski, Max Collin, Niklas Johansson, Oskar Petrén
+Rachel Oratis, Simon Zickbauer, Victoria Säwström, Yali Murillo
+
+PAID MEDIA
+Linn Yngvesson, Anton Rask, Henrik Bonnichsen, Sofia Lundstedt Radetzki
+
+MARKET RESEARCH
+Filip Stenback Seligman
+
+MARKET GROWTH
+June Low
+
+INFLUENCER RELATIONS
+Dennis Johnni, Jonathan Whitley
+
+SOCIAL MEDIA SPECIALISTS
+Preethi Doddy
+
+CRM
+Annie Alström, Karola Kiessling, Christopher Borén
+
+HEAD OF WEB SERVICES
+Jonas Stenqvist
+
+WEB SERVICES
+David Zardini, Dimo Fedortchenko, João Duduch, Josef Widoff
+Oleg Böttiger, Sofia Svensson
+
+ONLINE SERVICES PRODUCT MANAGEMENT
+Mikael Palmér, Anders Törlind, Stephen Rigg, Anton Pethrus
+
+CUSTOMER SUPPORT
+Christian Arvidsson
+
+PUBLIC RELATIONS
+Jesse Henning, Troy Goodfellow, Mauritz Carlström
+
+COMMUNITY PROGRAMS
+Madeleine Jonsson, Erik Jakobsson, Michaela Aicardi
+
+CORPORATE COMMUNICATIONS
+Marcus Hallberg
+
+MANAGER OF PARTNER RELATIONS
+Jackson Downing  
+
+PARTNER ACCOUNT MANAGER
+Alexander Mellström, Sofia Stenson, Leon Loughran
+
+PARTNER MARKETING MANAGER
+Kimberly Trapnell
+
+MANAGER OF COMMERCIAL & BI
+Peter Skog
+
+COMMERCIAL MANAGERS
+Johan Rosenqvist, Simon Rizell
+
+BI SPECIALISTS
+Max Tillas, Per Fagerström
+
+LICENSING MANAGER
+Melissa Skogman
+
+MERCHANDISE MANAGER
+Veronica Gunlycke
+
+CENTRAL TECH & SERVICES
+
+CENTRAL TECH & SERVICES DIRECTOR
+Leif Dellmar
+
+CLAUSEWITZ ENGINE PROGRAMMER MANAGER
+Mario Lasan
+
+CLAUSEWITZ ENGINE TECH LEAD
+Rickard Lagerbäck, Davey van den Berg, Victor Wåhlström
+
+CLAUSEWITZ ENGINE ENGINEER
+Andrey Martynyuk, Elliot Kim, Flovin Michaelsen, Hadi Brais
+Jonathan Rawet, Priyanka Balasaheb Gunjal, Kajsa Olenäs, Marcus Beausang
+Marcus Holmberg, Nikita Bart, Roman Baev, Sean Wenström
+Siarhei Harelyshau, Trevin Sorenson
+
+PLATFORM SERVICES MANAGER
+David Drake
+
+BUILD & TEST AUTOMATION ENGINEER
+Per Hasselström, Albin Wallin, Alexander Fast, Henrik Lindgren
+Tadgh Wagstaff, Vjola Velikaj, Yaroslav Hetman
+
+INFRASTRUCTURE & AUTOMATION ENGINEER
+Philip Adams, Rohit Thomas, Javier Jarpa, Layla Manley
+
+ONLINE SERVICES MANAGER
+Maria Jakobsson
+
+ONLINE SERVICES TECH LEAD
+Aleš Bolka, Daniel Karlsson, Etki Gür, Mikolaj Trzeciecki
+
+
+ONLINE SERVICES ENGINEER
+Alex Örnberg, Alexander Altanis, Jad Hajjar, Maximillian Fischhaber
+Mikael Berg, Shubhangi Pardeshi, William Goh, Zachary Eriksson
+
+TECHNICAL WRITER
+Johanna Vaher
+
+HEAD OF DATA & ANALYTICS
+Serge de Gosson de Varennes
+
+DATA ENGINEER
+Gabriel Grünberg, Pablo Nahuel Pelli, Vlad Caciula
+
+DATA SCIENTIST
+Fatemeh Seifan, Jenny Wade, Stephen White, Berkan Yapici
+Claudio Rosa
+   
+HEAD OF RESEARCH 
+Stefan Eld
+
+USER RESEARCHERS
+Laurent Cala, Yi Chen, Cherno Jallow, Hanna Löhman
+Samantha Kadour, Agata Macuba, Margot Thétiot, Jenny Wickman
+
+USER RESEARCH COORDINATOR
+Anna Ström
+
+PARADOX AUDIO
+
+HEAD OF AUDIO
+Franco Freda
+
+AUDIO PRODUCER
+Samet Atasoy
+
+AUDIO DIRECTORS
+Ernesto Lopez, Mattias Wennlund
+
+MUSIC BUSINESS DIRECTOR
+Tobias Gustavsson
+
+SOUND DESIGNERS
+Andrew J. Ryan, Robert Wozniak, Tobey Evans, Leon Lopez Moral
+
+IT 
+
+HEAD OF IT
+Mathias Frostewärn
+
+IT SYSTEMS ENGINEER
+David Östlund, Marcus Bose Holmqvist
+
+IT APPLICATION MANAGER
+Sarah Lager
+
+IT SUPPORT TEAM LEAD
+Richard Lindkvist
+
+IT SUPPORT TECHNICIAN
+Jesse Kopparvall, Neyla Garcia, Philip Wessman, Tomasz Ender
+
+CULTURE & BRAND
+
+EVENTS 
+Umy Yuen Yi Ng, Isabella Weski
+
+CENTRAL COMMUNICATIONS
+Elia Martinez, Maylis Perez
+
+STOCKHOLM OFFICE TEAM
+Rebecka Rönnbäck, Oscar Funegård Viberg, Renata Majka, Lotta Gumeliusson
+
+FINANCE & LEGAL
+
+FINANCE
+Gabriel Andersson, Fredrik Sederholm, Sofia Mårtensson, Alexia Moss
+Tobias Nordlöf, Emil Pettersson
+
+BUSINESS CONTROL
+Mattias Matti, Henrik Friis-Liby
+
+LEGAL
+Fredrik Eklund, Emma Jarl, Kim Nordmark
+
+HUMAN RESOURCES
+
+HR BUSINESS PARTNERS
+aroline Lagerqvist-Merzan, Ulrika Strandmark, Fredrik Ullberg, Elin Trosgård
+
+HR COORDINATOR
+Natasha Garkusha Sesay
+
+THIRD PARTY DEVELOPMENT
+
+HEAD OF PARADOX ARC
+Farida Gazizova
+
+HEAD OF THIRD PARTY PRODUCTION
+Nils Löf
+
+BUSINESS DEVELOPERS 
+Denis Ilecic
+
+GAME SCOUT
+Mehmet Oskay
+
+EXECUTIVE PRODUCERS
+Rostyslav Kaminskyi, Sebastian Schlyter, Zsolt Sütő, Kim Danell, Batuhan Ertas
+
+COMMUNITY SPECIALIST 
+Krzysztof Biernat
+
+WHITE WOLF
+
+EXECUTIVE VICE PRESIDENT
+Marco Behrmann
+
+CREATIVE DIRECTOR
+Jess Lanzillo
+
+HEAD OF BUSINESS & GROWTH
+Viktor Bovallius
+
+HEAD OF CREATIVE MANAGEMENT & IP ALIGNMENT
+Karim Muammar
+
+DIRECTOR OF LICENSING
+Nikola Filipov
+
+BRAND MARKETING MANAGER
+Jason Carl
+
+BRAND ART DIRECTOR
+Tomas Arfert
+
+CREATIVE PRODUCER
+Martyna Zych
+
+BRAND COMMUNITY DEVELOPER
+Debbie Lane
+
+
+- BLACKLIST CREATIVE -
+
+
+Mathias Upton-Hansen, Liam Bunston, George Coley, Jacob Field
+
+
+- SIDE UK VOICE AND SOUND PRODUCTION -
+
+
+CASTING DIRECTOR
+Martin Vaughan
+
+CASTING TEAM
+Jessica Cameron CSA
+
+PRODUCTION MANAGERS
+Rosie Ebsworth, Grace Hopkins
+
+SENIOR AUDIO ENGINEERS
+Fred Proud, Rob Kirby
+
+AUDIO ENGINEERS
+Jack Kirby, Adriaan Kasteleijn, Melodie Showell, Harry O’Neill
+
+HEAD OF POST PRODUCTION
+Gabriella Scanio
+
+POST PRODUCTION COORDINATORS
+Mariachiara Bartalini, Tom Burkitt, Daniel Lee Yong Jie
+
+POST PRODUCTION MANAGERS
+Alexys Noramirah Mohd Nasir, Caanan Nathaniel
+
+AUDIO EDITORS
+Harry Watchman, Vyvyan Napoletani, Sam Halsey, Olivia Sia Ya Xuan
+
+POST PRODUCTION ASSISTANT
+Wilfred Ho Wei Hun
+
+HEAD OF PRODUCTION
+Ramsey Ibrahim
+
+PRODUCTION DIRECTOR
+Chris Donnelly
+
+CREATIVE DIRECTOR
+Sini Downing
+
+CLIENT PARTNERSHIPS MANAGER
+Mark Landers
+
+STRATEGIC PARTNERSHIP MANAGER
+Jared Swift
+	
+	
+- GREENLINK/RINKU QA -
+
+
+CEO
+Costin Mihai
+ 
+MANAGING DIRECTOR
+Florin Cristea
+ 
+QA STUDIO MANAGER
+Andrei Moroiu
+ 
+QA PROJECT MANAGER
+Andrei Iscu
+
+SENIOR QA TEAM LEAD
+Cristian Hoai Nam Si
+
+QA TESTERS
+Adrian-Gabriel Postelnicu, Alexandru Ciocan, Alexandru Decu, Alexandru Robert Marcu
+Alexandru Niculae, Ali Rafiei, Antonio Grosu, Dan Ionescu, 
+Eugen Cristea, George Daniel Serban, Giulia Veres, Marian Samoila,
+Petru-Bogdan Secaci, Robert Adrian Baluta, Roxana Denisa Mirzac, Sebastian Gavrila
+Tudor Andrei Neferu
+
+
+- KEYWORDS STUDIOS ITALY -
+
+
+PRODUCER
+Francesco Sansone, Michael Denkers
+
+PROJECT MANAGERS
+Sara Fantasticini, Katerina Pauliuc, Leonardo Marcato
+Angela Juan Ruiz, Marta Nieto Flores, Flavia Guadagnino
+Zunaid Mohammad, Rupa Kushwaha, Belén Heras Albares
+Sergi Escrivà Morant, Micaela Burlet Boloque, Andrea Marrella
+
+ENGLISH PROOFREADER
+David Levinson
+
+GERMAN LOCALIZATION TEAM
+Robin Drefs, Falk Critelli, Lisa Neumayr, Jennifer Guinot
+Erik Eisenhauer, Florian Stieber, Florian Schmidt, Markus Peters
+	
+FRENCH LOCALIZATION TEAM	
+Thomas André, Loic Caudron, Sophie Foliguet, Robin Laurent
+
+SPANISH LOCALIZATION TEAM
+Alba Valle García, Daniel Díez Salas, Cristina Bracho Carrillo
+María José Vecino Puerto, Ana Pérez Manglano, María Garrido de Vega
+	
+JAPANESE LOCALIZATION TEAM
+Haruna Yokoyama, Hiroki Kojima, Haruka Kubo, Tatsuya Kawada
+Megumi Yoshioka
+	
+RUSSIAN LOCALIZATION TEAM
+Mike Kolbasnikov, Dimitry Donskoy, Nikolay Kondratenko, Anastasiya Vasilyeva
+Alyona Makievskaya, Marina Malyuk, Evgeniy Mikhaylov, Mikhail Shvyriaev
+Dmitry Peregudov
+		
+POLISH LOCALIZATION TEAM	
+Inga Ziembińska, Agata Dabrowska, Tomek Kaliszewski, 
+Karolina Todorska, Asia Mleczak, Magdalena Wilk, Piotr Wilk
+	
+KOREAN LOCALIZATION TEAM	
+Harriet Kim, Thomas Oh, Derek Kim, Don Kim, Jae Hun Lee
+Nahyun Kim, Jason Lee, Tim ji
+
+SIMPLIFIED MANDARIN CHINESE LOCALIZATION TEAM	
+Zm Weng, Duo Song, Aki QI
+
+	
+- KEYWORDS STUDIOS KATOWICE -
+	
+	
+LQA MANAGER
+Michal Dyrda
+
+PROJECT MANAGER
+Raphaël Meyer, Joanna Legięć
+
+TEST LEAD
+Nicola Pawlak, Benjamin Chevrier, Bartosz Dworak, Dawid Stala
+
+TESTERS (FRENCH)
+Maxime Rodde, Arnaud Talmant, Martin Jouan, Marc Thepaut
+Francis Amyon, Alisée Iva
+	
+TESTERS (GERMAN)
+Kristyna Stankova, Elisa Castro Cano, Dawid Fulczyk, Klaudia Korfanty
+Dawid Szyja, Nick Stiefeling
+
+TESTERS (SPANISH)
+Helena Bailach Adsuara, Nicolas Racines, Said Espiñeira García
+José Antonio Morales Moreno, Juan Diego Cuesta Asencio
+	
+TESTERS (KOREAN)
+Suin Jang, Giulia Grasso, Seungwan Yoo, Rebeka Jeon, Aneta Mrożek
+
+TESTERS (RUSSIAN)
+Karol Konopacki, Vanessa Yugay, Ilya Hatsuk, Nadiia Sapiha
+Jakub Musialik, Iryna Trachuk, Artem Kovtoniuk
+
+TESTERS (JAPANESE)
+Alicja Pezowicz, Michał Głowa, Katarzyna Walter, Monika Mich
+Szymon Stelmach, Weronika Hain
+
+TESTERS (SIMPLIFIED CHINESE)
+Wenzhong Zhang, Trista Murat, Xudong An, Karolina Wiecha
+
+TESTERS (POLISH)
+Bartosz Dworak, Mateusz Wypych, Kinga Obuchowska
+Weronika Nalbach, Dawid Wygrabek, Patryk Ogrodnik
+	
+
+- OTHER LICENSES -
+
+
+Age of Wonders 4 uses the Lingoona® Grammar Engine
+
+This software contains source code provided by NVIDIA
+Corporation.
+
+
+- HIGH COUNCIL -
+
+
+Spencer "Fenraellis" Pinegar, Draxynnic, Jean-Luc Picard, Ferrin,
+Christian Faber, Jonas Klevas, Fluksen, Elder Fogcrow,
+Sinsling, Juzza, HousePet, Kryo De Crystal,
+NINJEW, Bobbie James (Wolfie), SultanSnorro, Christer "LionSaurus" Gjerseth,
+MrNo, Joyce Plokker, D Bickhart, The Speaker,
+Bloody Battle Brain, Kamil 'Frostburn', Dr_K, Garresh,
+Leon Feargus Kerkhoff, Nikita Zverev, Kaur "Quark", orangelex44,
+Piotr "Badok" Urlik, Arjan van Daalen, Hiliadan, Kyle Bennett,
+Arkosaurus, Moonshine, Maxime Boutserin, The Internet Janitor,
+Alp Turan (Akashar), Mars Magna Kyrus, Mark Goodenough, Ben Zerbe
+Zombie_113, Lord Vectra, OxayotlTheGreat, Anatolii "ukiyo" Kandyba,
+Roman Bondarchuk - Spirit Alpha, Hannes Kotthoff, Johan Hemberg, Butanikku
+Matthew Hagerty, Goulgou, Nikolay Persianov a.ka. Kastore (ex-HotA Crew), Fluffy
+
+A special awesome thanks goes out to our community. Thank you for your patience, support, 
+feedback and the encouragement to help us keep doing what we do! 

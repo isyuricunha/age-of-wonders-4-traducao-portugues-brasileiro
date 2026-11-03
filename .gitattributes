@@ -1,2 +1,22 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Developer-owned text has identical Git bytes on Windows and Linux.
+* text=auto eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.jsonl text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+/LICENSE text eol=lf whitespace=-blank-at-eof
+# Native resources and archival source exports retain their exact bytes.
+/EN/** -text -whitespace
+/PTBR/** -text
+/Steam-Paradox/** -text
+"/Português Brasileiro - PTBR/**" -text
+/translation-work/legacy/** -text -whitespace
+*.MO -text
+*.mo -text
+*.po -text
+*.acp -text
+*.png -text
+*.zip -text
+*.7z -text

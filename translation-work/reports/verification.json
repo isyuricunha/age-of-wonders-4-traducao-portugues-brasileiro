@@ -1,0 +1,84 @@
+{
+  "batches": 105,
+  "committed": false,
+  "date": "2026-11-03",
+  "filled_imported": 52243,
+  "format": "gettext MO revision 0, UTF-8",
+  "full_suite": {
+    "command": "python -B -m unittest discover -s translation-work/tests -v",
+    "passed": true,
+    "seconds": 286.55,
+    "tests": 39
+  },
+  "game": "Age of Wonders 4",
+  "game_runtime": "not performed",
+  "git_head_unchanged": "4a05e680f7f737ec5717fe42fcfaaf432320e5f5",
+  "git_index": {
+    "native_git_hashes_valid": true,
+    "original_whitespace_preserved": "EN and legacy have scoped lint exceptions; native byte hashes remain exact",
+    "real_index_unchanged": true,
+    "runtime_git_hashes_valid": true,
+    "temporary_index": true,
+    "whitespace_exit_code": 0
+  },
+  "github": "offline HTTP client publication tests passed; actual repository and legacy v1.0.40 history inspected read-only; new workflow not run live",
+  "legacy_visible_translations_exactly_preserved": 52243,
+  "live_ubuntu_arm64": "not performed; pending translator doctor after clone/pull",
+  "native_output_verified": {
+    "generation": "bd243eda83f7bdaa5eadfedf98cfab15e478a780365c22fb52d0928257da5d16",
+    "output": {
+      "Language/PTBR/Name.txt": "a15e81f80534f86be18996c02b8700ea60ee34d8fff126f953c9038d8f641f8f",
+      "Language/PTBR/PTBR.MO": "1491699a2c011e32a0d53c52c87f616ba1eb090e3ec0a2d91c256b9fd26d1840"
+    },
+    "records": 52275,
+    "valid": true
+  },
+  "package": {
+    "archive": "F:\\Users\\ysi\\Documents\\Git\\age-of-wonders-4-traducao-portugues-brasileiro\\PTBR.zip",
+    "members": [
+      "Language/PTBR/Name.txt",
+      "Language/PTBR/PTBR.MO"
+    ],
+    "sha256": "8df480c5b9eafe16a8c44a134162e30c47d1eab815ec7eb61030b5878d48cace"
+  },
+  "passthrough": 32,
+  "pending": 0,
+  "published": false,
+  "pushed": false,
+  "records": 52275,
+  "source_files_equal_to_installed": {
+    "Language/EN/Credits.txt": true,
+    "Language/EN/EN.MO": true,
+    "Language/EN/Name.txt": true
+  },
+  "steam_build": "26274772",
+  "storage": {
+    "bytes": 71883574,
+    "limit_bytes": 536870912,
+    "limit_count": 10,
+    "protected": 0,
+    "reclaimable": 0,
+    "transactions": 10
+  },
+  "stress": {
+    "batches": 102,
+    "elapsed_seconds": 260.139,
+    "event": "storage_stress",
+    "records": 50502,
+    "retained_bytes": 4699200,
+    "retained_snapshots": 10,
+    "updates": 500
+  },
+  "windows_doctor": {
+    "dependencies": "Python standard library only; no Mono, DLL, .NET or downloaded helper",
+    "fixture_roundtrip": "passed",
+    "machine": "AMD64",
+    "python": "3.14.8",
+    "read_only": true,
+    "source_noop": "byte-identical",
+    "system": "Windows",
+    "target": "Ubuntu Server 24.04 LTS ARM64/aarch64",
+    "target_execution": "not verified; local developer preflight only",
+    "valid": true
+  }
+}

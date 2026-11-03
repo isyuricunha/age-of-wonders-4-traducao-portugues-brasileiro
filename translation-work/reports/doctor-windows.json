@@ -1,0 +1,12 @@
+{
+  "valid": true,
+  "system": "Windows",
+  "machine": "AMD64",
+  "python": "3.14.8",
+  "read_only": true,
+  "dependencies": "Python standard library only; no Mono, DLL, .NET or downloaded helper",
+  "fixture_roundtrip": "passed",
+  "source_noop": "byte-identical",
+  "target": "Ubuntu Server 24.04 LTS ARM64/aarch64",
+  "target_execution": "not verified; local developer preflight only"
+}

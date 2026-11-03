@@ -1,0 +1,19 @@
+{
+  "files": {
+    ".gitattributes": "4237dbde127838bf74eeed537adf6169472dda2ec80f63dca2a705018a477001",
+    "translation-work/consent_check.py": "105613d9acc501cf4ff3c296687a8eac9c008459c71f8d2601da8fd0af17fadb",
+    "translation-work/context-reference.json": "488cb2626b53e079a111e4f9d31dcfba71fdc5ea3e2f520c237d86348bf1ba05",
+    "translation-work/context.py": "7cf317393866c86821f8b9f4ae51b7dc34ce5ab8b2148c6524f69aef9c855e83",
+    "translation-work/doctor.py": "8325e6334672359b9982010e5e4692a3ac6a8ece132f5a6793c2aa7137f0cbc4",
+    "translation-work/legacy-rewrite-policy.json": "da159b8fe3061ed4742f93996987ad37408195342ed3eba32a11f3b65f990278",
+    "translation-work/native.py": "f925e439a3fffe45121d077100c4798d912ac5295aac74e62c7b733b33911584",
+    "translation-work/release.py": "fe365479cb2458e3d756b597b04bab3223f9e3cf10f331779bf46abc3ac04e8a",
+    "translation-work/storage.py": "9f381d740e6a4f118dd2264090048e776cf15e114d596a9464570bfd8f56f966",
+    "translation-work/syntax.py": "ff812f2c2149036d226de5aeb43ee6c06c98a52e14181009cb5ecc803a42cb14",
+    "translation-work/toolkit.py": "20c60b0e238d86df1e415a2d646a114348d2342d3e055774b6b5393734a7d214"
+  },
+  "format": "Age of Wonders 4 gettext MO revision 0, UTF-8",
+  "normalization": "Git text LF; EN/native resources remain binary-exact",
+  "reason": "Scoped whitespace lint exception for byte-preserved original EN and historical archive copies only. Real Git-index checks proved all runtime and native digests before the exception; developer-owned source checks remain enabled. No native bytes or binary integrity checks changed.",
+  "schema": 1
+}

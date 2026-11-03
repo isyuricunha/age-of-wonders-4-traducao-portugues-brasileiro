@@ -1,0 +1,9 @@
+{
+  "valid": true,
+  "records": 52275,
+  "output": {
+    "Language/PTBR/Name.txt": "a15e81f80534f86be18996c02b8700ea60ee34d8fff126f953c9038d8f641f8f",
+    "Language/PTBR/PTBR.MO": "1491699a2c011e32a0d53c52c87f616ba1eb090e3ec0a2d91c256b9fd26d1840"
+  },
+  "generation": "bd243eda83f7bdaa5eadfedf98cfab15e478a780365c22fb52d0928257da5d16"
+}
